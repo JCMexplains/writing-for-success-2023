@@ -1365,7 +1365,7 @@ For any college writing, use these strategies:
 Here is an overview of the rest of the book:
 
 **Chapter 2** through **Chapter 7** will ground you in writing basics: 
-the grammar paragraph-writing skills you will need to produce
+the grammar and paragraph-writing skills you will need to produce
 strong college writing. 
 - **Chapter 2** reviews the parts of speech and the parts of a sentence. 
 - **Chapter 3** explains how to use punctuation correctly. 
