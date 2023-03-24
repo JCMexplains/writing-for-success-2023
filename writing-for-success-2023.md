@@ -9057,8 +9057,7 @@ article. Are you fairly confident that you know what the rest of the
 article is about? If so, you have likely read the topic sentence. 
 
 An
-effective topic sentence combines a main idea with the writer's personal
-attitude or opinion. It serves to orient the reader and provides an
+effective topic sentence combines a main idea with the writer's opinion. It serves to orient the reader and provides an
 indication of what will follow in the rest of the paragraph. Read the
 following example.
 
