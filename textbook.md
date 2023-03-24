@@ -130,7 +130,7 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
 #### Specific Changes
 - Chapter 1: 
     - Removed discussion of learning styles as recent research is skeptical about them. For example, see "Learning Styles: Concepts and Evidence" at https://doi.org/10.1111/j.1539-6053.2009.01038.x
-	- Added discussion of LMS-provided reminder apps to tips on making a personal schedule of schoolwork
+	- Added discussion of LMS-provided reminder apps
 - Chapter 5: Updated discussion of the definition of a noun to explain 
 that linguists prefer syntactic definitions to semantic definitions 
 - Chapter 11: Added discussion of citation managers such as Zotero
