@@ -1138,6 +1138,7 @@ set period of time---is one prewriting technique you might try in that
 situation.
 
 > ~"I should complete a formal, numbered outline for every writing assignment."~
+
 For some assignments, such as lengthy research
 papers, proceeding without a formal outline can be very difficult.
 However, for other assignments, a structured set of notes or a detailed
@@ -1243,7 +1244,7 @@ kind of short-term goals a student might set. Crystal wanted to do well
 in her Foundations of Education course, and she realized that she could
 control how she handled her weekly writing assignments. At 20 percent of
 her course grade, she reasoned, those assignments might mean the
-difference between a C and a B or between a B and an A.
+difference between a B and an A.
 
 By planning carefully and following through on her daily and weekly
 goals, Crystal was able to fulfill one of her goals for the semester.
@@ -1267,7 +1268,7 @@ help you meet those goals.
 
 #### Exercise 1
 
-In this exercise, make connections between short- and long-term goals.
+In this exercise, you will connect a long-term goal to some short-term goals.
 
 1. For this step, identify one long-term goal you would like to have
 achieved by the time you complete your degree. For instance, you
@@ -1333,9 +1334,8 @@ counseling for free or for a low fee. Use these services if you need
 help coping with a difficult personal situation or managing depression,
 anxiety, or other problems.
 
-Students sometimes neglect to use available resources due to limited
-time, unwillingness to admit there is a problem, or embarrassment about
-needing to ask for help. Unfortunately, ignoring a problem usually makes
+Students sometimes don't use their resources because they are too busy 
+or are embarassed about needing. But this usually makes
 it harder to cope with later on. Waiting until the end of the semester
 may also mean fewer resources are available, since many other students
 are also seeking last-minute help.
@@ -1349,12 +1349,12 @@ throughout the semester.
 
 ### Overview: College Writing Skills
 
-You now have a solid foundation of skills and strategies you can use to
-succeed in college. The remainder of this book will provide you with
-guidance on specific aspects of writing, ranging from grammar and style
-conventions to how to write a research paper.
+You now have some strategies to
+succeed in college. The rest of this book will guide you on writing, 
+ranging from grammar to style
+to writing a research paper.
 
-For any college writing assignment, use these strategies:
+For any college writing, use these strategies:
 
 - Plan ahead. Divide the work into smaller, manageable tasks, and set aside time to accomplish each task in turn.
 - Make sure you understand the assignment requirements, and if necessary, clarify them with your instructor. 
@@ -1362,22 +1362,14 @@ For any college writing assignment, use these strategies:
 - Complete each step of the writing process. With practice, using this process will come automatically to you.
 - Use the resources available to you. Remember that most colleges have specific services to help students with their writing.
 
-For help with specific writing assignments and guidance on different
-aspects of writing, you may refer to the other chapters in this book.
-The table of contents lists topics in detail. As a general overview, the
-following paragraphs discuss what you will learn in the upcoming
-chapters.
+Here is an overview of the rest of the book:
 
 **Chapter 2** through **Chapter 7** will ground you in writing basics: 
-the "nuts and bolts" of grammar, sentence
-structure, and paragraph development that you need to master to produce
-competent college writing. 
-- **Chapter 2** reviews the parts
-of speech and the components of a sentence. 
-- **Chapter 3** explains how to
-use punctuation correctly. 
-- **Chapter 4** reviews concepts
-that will help you use words correctly, including everything from
+the grammar paragraph-writing skills you will need to produce
+strong college writing. 
+- **Chapter 2** reviews the parts of speech and the parts of a sentence. 
+- **Chapter 3** explains how to use punctuation correctly. 
+- **Chapter 4** will help you use words correctly. It explains everything from
 commonly confused words to using context clues.
 - **Chapter 5** provides
 guidance for students who have learned English as a second language.
