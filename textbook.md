@@ -59,7 +59,7 @@ Original author removed in 2015 by the University of Minnesota at the request of
     1. Sentence Variety
     2. Coordination and Subordination
     3. Parallelism
-    4 Refining Your Writing: End-of-Chapter Exercises
+    4. Refining Your Writing: End-of-Chapter Exercises
 8. [The Writing Process: How Do I Begin?](#chapter-8)
     1. Apply Prewriting Models
     2. Outlining
