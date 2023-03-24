@@ -1,3 +1,3 @@
 # writing-for-success-2023
 
-more info to come
+This is a textbook for developmental writing.
