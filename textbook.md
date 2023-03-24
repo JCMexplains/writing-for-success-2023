@@ -3916,11 +3916,11 @@ Writers actually disagree about the final comma in a series like this.
 
 The final comma is known as the "serial comma" or the "Oxford comma."
 Most authorities, including Bryan Garner in his 
-**Garner's Modern American Usage** as well as
-**The Chicago Manual of Style**, say that you should include it.
+*Garner's Modern American Usage* as well as
+*The Chicago Manual of Style*, say that you should include it.
 
 It is mostly newspapers that used to argue against it, through the
-**Associated Press Stylebook**. In physical newspapers, every character
+*Associated Press Stylebook*. In physical newspapers, every character
 mattered, so it was a good idea to leave out the final comma if
 the meaning was clear without it.
 
@@ -17785,18 +17785,15 @@ efficiently and effectively.
 
 #### Key Takeaways
 
-An effective research paper focuses on presenting the writer's ideas
+- An effective research paper focuses on presenting the writer's ideas
 using information from research as support.
-
-Effective writers spend time reviewing, synthesizing, and organizing
+- Effective writers spend time reviewing, synthesizing, and organizing
 their research notes before they begin drafting a research paper.
-
-It is important for writers to revisit their research questions and
+- It is important for writers to revisit their research questions and
 working thesis as they transition from the research phase to the writing
 phrase of a project. Usually, the working thesis will need at least
 minor adjustments.
-
-To organize a research paper, writers choose a structure that is
+- To organize a research paper, writers choose a structure that is
 appropriate for the topic and purpose. Longer papers may make use of
 more than one structure.
 
