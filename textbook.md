@@ -7,6 +7,7 @@ licensed under a
 Original author removed in 2015 by the University of Minnesota at the request of original publisher.
 
 # Contents
+
 [Publisher Information](#publisher-information)
 
 1. [Introduction to Writing](#chapter-1)
@@ -116,6 +117,8 @@ Original author removed in 2015 by the University of Minnesota at the request of
     8. Compare-and-Contrast Essay
     9. Cause-and-Effect Essay
     10. Persuasive Essay
+
+Works Cited(#works-cited)
 
 # Publisher Information
 
@@ -23326,3 +23329,23 @@ https://people.brandeis.edu/~teuber/torture.html
 
 Alisa Solomon argues \"The Case against Torture\":
 https://www.villagevoice.com/2001-11-27/news/the-case-against-torture/1
+
+# Works Cited
+
+[Table of Contents](#contents)
+
+Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford UP, 2014.
+
+Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
+
+Brown, Peter C., et al. *Make It Stick: The Science of Successful Learning*. Belknap P of Harvard UP, 2014.
+
+Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don’t Let Anyone Tell You It’s Wrong.” The Washington Post, 21 Oct. 2021, https://www.washingtonpost.com/opinions/2021/10/21/they-has-been-singular-pronoun-forever-dont-let-anyone-tell-you-its-wrong/.
+
+Garner, Bryan A. *Garner’s Modern English Usage*. 5th ed., Oxford UP, 2022.
+
+*MLA Handbook*. 9th ed., The Modern Language Association of America, 2021.
+
+*Publication Manual of the American Psychological Association*. 7th ed., American Psychological Association, 2020.
+
+Swan, Michael, and Bernard Smith, editors. *Learner English: A Teacher’s Guide to Interference and Other Problems*. 2nd ed., Cambridge UP, 2001.
