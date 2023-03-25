@@ -23340,7 +23340,7 @@ Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
 
 Brown, Peter C., et al. *Make It Stick: The Science of Successful Learning*. Belknap P of Harvard UP, 2014.
 
-Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don’t Let Anyone Tell You It’s Wrong.” The Washington Post, 21 Oct. 2021, https://www.washingtonpost.com/opinions/2021/10/21/they-has-been-singular-pronoun-forever-dont-let-anyone-tell-you-its-wrong/.
+Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don’t Let Anyone Tell You It’s Wrong.” *The Washington Post*, 21 Oct. 2021, https://www.washingtonpost.com/opinions/2021/10/21/they-has-been-singular-pronoun-forever-dont-let-anyone-tell-you-its-wrong/.
 
 Garner, Bryan A. *Garner’s Modern English Usage*. 5th ed., Oxford UP, 2022.
 
