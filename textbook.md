@@ -19183,31 +19183,24 @@ document if you choose. Include the following:
 
 #### Headings
 
-APA style uses section headings to organize information, making it easy
-for the reader to follow the writer's train of thought and to know
-immediately what major topics are covered. Depending on the length and
-complexity of the paper, its major sections may also be divided into
-subsections, sub-subsections, and so on. These smaller sections, in
-turn, use different heading styles to indicate different levels of
-information. In essence, you are using headings to create a hierarchy of
-information.
+The APA believes strongly in the importance of headings. The headings make sure that your ideas appear in layers,
+just as we discussed in **Chapter 1** when we talked about taking notes in layers and outlining your papers
+in layers. MLA style is very different: an English paper in MLA format is likely to have no headings at all.
+This represents a significant difference in culture between the disciplines.
 
-The heading styles used in APA formatting are listed from most to least important:
+APA style uses **five** levels of headings. You usually won't need all five
+levels in a paper.
 
-1. Section headings use centered, boldface type. Headings use title
-case, with important words in the heading capitalized.
-2. Subsection headings use left-aligned, boldface type. Headings use
-title case.
-3. The third level uses left-aligned, indented, boldface type.
-Headings use a capital letter only for the first word, and they end
-in a period.
-4. The fourth level follows the same style used for the previous
-level, but the headings are boldfaced and italicized.
-5. The fifth level follows the same style used for the previous level,
-but the headings are italicized and **not** boldfaced.
+These heading formats are current as of the 7th edition of the *Publication
+Manual of the American Psychological Association*, published in 2020.
 
-A college research paper may not use all the heading levels, 
-but you are likely to encounter them in journal articles.
+|Level|Format of heading|Format of text following the heading|
+|---|---|---|
+|1|**Centered, Bold, Title Case Heading**|Text begins as a new paragraph.|
+|2|**Flush Left, Bold, Title Case HEading**|Text begins as a new paragraph.|
+|3|***Flush Left, Bold Italic, Title Case Heading***|Text begins as a new paragraph.|
+|4|**Indented, Bold, Title Case Heading, Ending With a Period.|Text begins on the same line and continues as a regular paragraph.|
+|5|***Indented, Bold Italic, Title Case HEading, Ending With a Period.***|Text begins on the same line and continues as a regular paragraph.|
 
 ### Citation Guidelines
 
