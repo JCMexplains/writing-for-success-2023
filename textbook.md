@@ -19199,8 +19199,8 @@ Manual of the American Psychological Association*, published in 2020.
 |1|**Centered, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |2|**Flush Left, Bold, Title Case HEading**|Text begins as a new paragraph.|
 |3|***Flush Left, Bold Italic, Title Case Heading***|Text begins as a new paragraph.|
-|4|**Indented, Bold, Title Case Heading, Ending With a Period.|Text begins on the same line and continues as a regular paragraph.|
-|5|***Indented, Bold Italic, Title Case HEading, Ending With a Period.***|Text begins on the same line and continues as a regular paragraph.|
+|4|**Indented, Bold, Title Case Heading, Ending With a Period.**|Text begins on the same line and continues as a regular paragraph.|
+|5|***Indented, Bold Italic, Title Case Heading, Ending With a Period.***|Text begins on the same line and continues as a regular paragraph.|
 
 ### Citation Guidelines
 
