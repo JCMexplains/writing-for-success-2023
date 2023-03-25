@@ -118,7 +118,7 @@ Original author removed in 2015 by the University of Minnesota at the request of
     9. Cause-and-Effect Essay
     10. Persuasive Essay
 
-Works Cited(#works-cited)
+[Works Cited](#works-cited)
 
 # Publisher Information
 
