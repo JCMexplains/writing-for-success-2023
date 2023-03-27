@@ -19112,12 +19112,15 @@ All these components must be saved as one document, not separately.
 
 #### Title Page
 
-The title page of your paper should include:
+The title page of a student APA paper should include (*Publication Manual* p. 30):
 
 - Title of the paper
 - Author's name
-- Institutional affiliation (name of the school you work or study at)
-- Header at the top of the page with the paper title
+- Affiliation (name of the school you study at)
+- Course number and name
+- Instructor name
+- Assignment due date
+- page number (also included on all pages)
 
 Your title page should look like the following example.
 
