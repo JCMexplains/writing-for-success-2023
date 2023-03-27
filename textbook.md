@@ -19138,10 +19138,7 @@ size (10- to 12-point).
 page and the references section. Page numbers appear flush right
 within your header.
 5. Section headings in your text use different formatting depending on the level of
-information you are presenting. Additional details from Jorge's
-paper are provided.
-
-![](image59.jpeg "Cover Page")
+information you are presenting.
 
 
 #### Exercise 1
@@ -19192,17 +19189,14 @@ This information may be included within the sentence or in a
 parenthetical reference at the end of the sentence, as in these
 examples.
 
-> Epstein (2010) points out that "junk food cannot be considered addictive
-> in the same way that we think of psychoactive drugs as addictive" (p. 137).
+> Epstein (2010) points out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).
 
 Here, the writer names the source author when introducing the quote and
 provides the publication date in parentheses after the author's name.
 The page number appears in parentheses **after** the closing quotation
 marks and **before** the period that ends the sentence.
 
-Addiction researchers caution that "junk food cannot be considered
-addictive in the same way that we think of psychoactive drugs as
-addictive" (Epstein, 2010, p. 137).
+> Addiction researchers caution that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (Epstein, 2010, p. 137).
 
 Here, the writer provides a parenthetical citation at the end of the
 sentence that includes the author's name, the year of publication, and
@@ -19210,18 +19204,14 @@ the page number separated by commas. Again, the parenthetical citation
 is placed **after** the closing quotation marks and **before** the
 period at the end of the sentence.
 
-As noted in the book *Junk Food, Junk Science* (Epstein, 2010, p. 137),
-"junk food cannot be considered addictive in the same way that we think
-of psychoactive drugs as addictive."
+> As noted in the book *Junk Food, Junk Science* (Epstein, 2010, p. 137), "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive."
 
 Here, the writer chose to mention the source title in the sentence (an
 optional piece of information to include) and followed the title with a
 parenthetical citation. Note that the parenthetical citation is placed
 **before** the comma that signals the end of the introductory phrase.
 
-David Epstein's book *Junk Food, Junk Science* (2010) pointed out that
-"junk food cannot be considered addictive in the same way that we think
-of psychoactive drugs as addictive" (p. 137).
+> David Epstein's book *Junk Food, Junk Science* (2010) pointed out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).
 
 Another variation is to introduce the author and the source title in
 your sentence and include the publication date and page number in
@@ -19238,20 +19228,24 @@ websites and personal interviews. **Section 13.2**
 and
 **Section 13.3** provide guidelines for citing a variety of sources.
 
-### References List
+### References
 
-The brief citations included in the body of your paper correspond to the
-more detailed citations provided at the end of the paper in the
-references section. In-text citations provide basic information---the
-author's name, the publication date, and the page number if
-necessary---while the references section provides more extensive
-bibliographical information. Again, this information allows your reader
-to follow up on the sources you cited and do additional reading about
-the topic if desired.
+The short in-text citations in your text connect to the
+longer citations at the end of the paper in the
+references section. 
 
-The specific format of entries in the list of references varies slightly
-for different source types, but the entries generally include the
-following information:
+In-text citations contain only these elements:
+
+- the author's name(s)
+- the year of publication 
+- the page number if you are giving a direct quote
+
+The references section provides much more information: enough for your
+reader to find the source and read more of it.
+
+Different sources get different information in a references entry, but they
+nearly all include the following:
+
 - The name(s) of the author(s) or institution that wrote the source
 - The year of publication and, where applicable, the exact date of
 publication
