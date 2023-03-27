@@ -19134,31 +19134,19 @@ Use these general guidelines to format the paper:
 2. Double-space all the text.
 3. Use a standard font, such as Times New Roman or Arial, in a legible
 size (10- to 12-point).
-
 4. Use continuous page numbering throughout the paper, including the title
 page and the references section. Page numbers appear flush right
 within your header.
-
-5. Section headings and subsection headings within the body of your
-paper use different types of formatting depending on the level of
+5. Section headings in your text use different formatting depending on the level of
 information you are presenting. Additional details from Jorge's
 paper are provided.
 
 ![](image59.jpeg "Cover Page")
 
 
-![](image60.jpeg "Abstract")
+#### Exercise 1
 
-
-#### Exercise 2
-
-Begin formatting the final draft of your paper according to APA
-guidelines. You may work with an existing document or set up a new
-document if you choose. Include the following:
-
-- Your title page
-- The abstract you created in **Exercise 1**
-- Correct headers and page numbers for your title page and abstract
+Set up an APA-style title page. Include page numbers.
 
 #### Headings
 
