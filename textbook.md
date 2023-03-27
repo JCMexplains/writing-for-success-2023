@@ -23333,7 +23333,7 @@ https://www.villagevoice.com/2001-11-27/news/the-case-against-torture/1
 
 Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford UP, 2014.
 
-Abrams, M. H., and Geoffrey Galt Harpham. “Literature.” *A Glossary of Literary Terms*, 10th ed., Wadsworth, Cengage Learning, 2011, pp. 152-3.
+Abrams, M. H., and Geoffrey Galt Harpham. “Literature.” *A Glossary of Literary Terms*, 8th ed., Wadsworth, Cengage Learning, 2005, pp. 152-3.
 
 Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
 
