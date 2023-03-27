@@ -19096,21 +19096,23 @@ As of 2023, the latest version of APA style is version 7.
 It is officially documented in the *APA Publication Manual*,
 7th edition (October 2019).
 
-These are the major components of an APA-style paper:
+Starting with the 7th edition, the APA began to have different rules for professional papers and
+student papers. Some of the rules for professional papers seemed unnecessary for students.
+
+If you find references to older versions of APA style, they may look different from this. Features
+like the "abstract" and the "running header" are no longer required in student papers as of APA 7.
+
+These are the major components of an APA-style paper (*Publication Manual* p. 30):
 
 1. Title page
-2. Abstract
-3. Main body, which includes:
-     1. Headings and possibly subheadings
-     2. In-text citations of sources
-4. References page
+2. Text
+3. References
 
-All these components must be saved in one document, not as separate
-documents.
+All these components must be saved as one document, not separately.
 
 #### Title Page
 
-The title page of your paper includes the following information:
+The title page of your paper should include:
 
 - Title of the paper
 - Author's name
