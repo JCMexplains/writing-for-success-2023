@@ -20736,7 +20736,7 @@ https://www.writing.ku.edu/guides
 
 Exercises
 
-1\. In this chapter, you learned strategies for using APA and MLA style
+1. In this chapter, you learned strategies for using APA and MLA style
 documentation and formatting in a research paper. Locate a source that
 uses APA or MLA style, such as an article in a professional journal in
 the sciences or social sciences. Identify these key components of an APA
@@ -20747,14 +20747,14 @@ citations, and references list.
 citations. (You may wish to conduct this activity in two sessions---one
 to edit the body of the paper and one to edit the references section.)
 Check for the following:
-- All components of an APA or MLA paper are included.
-- The title page (or title block) and body of the paper are correctly
+    - All components of an APA or MLA paper are included.
+    - The title page (or title block) and body of the paper are correctly
 formatted.
-- In-text, or parenthetical, citations are complete and correctly
+    - In-text, or parenthetical, citations are complete and correctly
 formatted.
-- Sources cited within the paper match the sources listed in the
+    - Sources cited within the paper match the sources listed in the
 references or works cited section.
-- The references or works cited section uses correct formatting and lists
+    - The references or works cited section uses correct formatting and lists
 entries in alphabetical order.
 
 3. As electronic media continually change, guidelines for citing
@@ -20763,10 +20763,10 @@ emerging forms of electronic media not listed in this text---for
 instance, virtual communities, such as Second Life, or social networking
 sites, such as LinkedIn, Facebook, and MySpace. Answer the following
 questions:
-- Under what circumstances would this media be a useful source of
+    - Under what circumstances would this media be a useful source of
 information for a research paper? How might students use these sources
 to conduct research five or ten years from now?
-- What information would a student need to provide if citing this source?
+    - What information would a student need to provide if citing this source?
 Why?
 
 Develop brief guidelines for how to cite the emerging media source types
