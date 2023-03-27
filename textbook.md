@@ -667,6 +667,10 @@ instructors.
 |Lab Report|Presents a lab experiment, including hypothesis, methods, results, and conclusions.|For a psychology course, a group presents an experiment that explored whether sleep deprivation damages memory in rats.|
 |Research Paper|Presents a thesis and supports it with original argument and cited research. |See Chapter 12.|
 
+As an English professor, I have seen many students unsure of what we mean by "literature," so let me explain that briefly. Literature "has been commonly used since the eighteenth century . . . to designate fictional and imaginative writings--poetry, prose fiction, and drama" (Abrams and Harpham 152). In other words, "literature" means made-up stories--stories that didn't really happen.
+
+One kind of literature is the "novel." A novel is a book-length work of prose fiction--usually 200 pages or longer, published as its own separate book. Elsewhere in this book, I explain how language is already changing. In South Florida where the 2023 revision of this book was written, more and more students use the word "novel" to mean any stand-alone book. But this is not what it currently means according to the dictionary.
+
 #### Writing at Work
 
 Part of managing your education is communicating well with others at
@@ -23328,6 +23332,8 @@ https://www.villagevoice.com/2001-11-27/news/the-case-against-torture/1
 [Table of Contents](#contents)
 
 Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford UP, 2014.
+
+Abrams, M. H., and Geoffrey Galt Harpham. “Literature.” *A Glossary of Literary Terms*, 10th ed., Wadsworth, Cengage Learning, 2011, pp. 152-3.
 
 Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
 
