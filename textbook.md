@@ -19126,36 +19126,6 @@ Your title page should look like the following example.
 
 ![](image57.jpeg "Beyond the Hype: Evaluating Low-Carb Diets cover page")
 
-#### Abstract
-
-The next page of your paper provides an abstract: a brief summary of
-your findings. A good abstract is about 150 to 250
-words long. When writing the abstract, take a just-the-facts approach. 
-Summarize your research question and your findings in a few sentences.
-
-In **Chapter 12**, you
-read a paper written by a student named Jorge, who researched the
-effectiveness of low-carbohydrate diets. Read Jorge's abstract. Note how
-it sums up the major ideas in his paper without going into excessive
-detail.
-
-![](image58.jpeg "Beyond the Hype: Abstract")
-
-#### Exercise 1
-
-Write an abstract summarizing your paper. Briefly introduce the topic,
-state your findings, and sum up what conclusions you can draw from your
-research. Use the word count feature of your word-processing program to
-make sure your abstract does not exceed one hundred fifty words.
-
-**Tip**
-
-Depending on your field of study, you may sometimes write research
-papers that present your own research, such as an
-experiment or survey. In your abstract, summarize your research question
-and your findings, and briefly indicate how your study relates to prior
-research in the field.
-
 #### Margins, Page numbering, and Headings
 
 Use these general guidelines to format the paper:
