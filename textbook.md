@@ -10600,7 +10600,7 @@ Now look at Joshua's revised essay and compare your answers. You will
 probably notice that there are many different ways to subordinate
 sentences.
 
-![](image23.jpeg "Joshua's revised essay")
+![](image23.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. Because the stems contain harsh-tasting tannins, they are removed. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added in order to prevent the liquid from becoming oxidized. Sulfur dioxide also destroys bacteria. Although some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes, many add a yeast that is cultivated in a laboratory.")
 
 #### Exercise 2
 
