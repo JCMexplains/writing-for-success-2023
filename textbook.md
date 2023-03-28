@@ -3000,7 +3000,7 @@ Languages like French and Spanish still have both, but in English we only have *
 The same is happening to *they*. It used to be an error to write "A student must study if they want a good grade."
 Instead, you had to write "A student must study if he or she wants a good grade."
 
-But according to many linguists, **singular they** is now part of Standard English.
+But according to many linguists, **singular they** is now part of Standard English. The American Psychological Association has endorsed singular they in the latest (2019) version of its *Publication Manual*. (See **Chapter 13** for more on the APA and its style rules.)
 
 > **Correct** (as of about ten years ago): If **a student** (sing.) wants to return a book to the 
 bookstore, **they** (both sing. and plur.) must have a receipt.
