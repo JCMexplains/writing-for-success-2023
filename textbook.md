@@ -10497,7 +10497,7 @@ examples of how they are used:
 Look at Joshua's essay on wine production and identify some areas
 where he might use coordination.
 
-![](image20.jpeg "Joshua's Essay")
+![](image19.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
 
 Now look at Joshua's revised essay. Did you coordinate the same
 sentences? You may find that your answers are different because there
@@ -10594,7 +10594,7 @@ are used:
 Look at the excerpt from Joshua's essay and identify some areas
 in which he might use subordination.
 
-![](image22.jpeg "Joshua's essay")
+![](image19.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
 
 Now look at Joshua's revised essay and compare your answers. You will
 probably notice that there are many different ways to subordinate
