@@ -1342,7 +1342,7 @@ help coping with a difficult personal situation or managing depression,
 anxiety, or other problems.
 
 Students sometimes don't use their resources because they are too busy 
-or are embarassed about needing. But this usually makes
+or are embarrassed about needing help. But this usually makes
 it harder to cope with later on. Waiting until the end of the semester
 may also mean fewer resources are available, since many other students
 are also seeking last-minute help.
@@ -16017,7 +16017,7 @@ You instructor may provide a list of
 suggested topics or ask that you develop a topic on your own. In either
 case, try to identify topics that genuinely interest you.
 
-After identifying potential topics, you will need tochoose 
+After identifying potential topics, you will need to choose 
 one topic to pursue. Will you be able to find enough
 information about the topic? Can you develop a paper about this topic
 that presents and supports your original ideas? Is the topic too broad
@@ -23296,12 +23296,12 @@ Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
 
 Brown, Peter C., et al. *Make It Stick: The Science of Successful Learning*. Belknap P of Harvard UP, 2014.
 
-Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don’t Let Anyone Tell You It’s Wrong.” *The Washington Post*, 21 Oct. 2021, https://www.washingtonpost.com/opinions/2021/10/21/they-has-been-singular-pronoun-forever-dont-let-anyone-tell-you-its-wrong/.
+Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don't Let Anyone Tell You It's Wrong.” *The Washington Post*, 21 Oct. 2021, https://www.washingtonpost.com/opinions/2021/10/21/they-has-been-singular-pronoun-forever-dont-let-anyone-tell-you-its-wrong/.
 
-Garner, Bryan A. *Garner’s Modern English Usage*. 5th ed., Oxford UP, 2022.
+Garner, Bryan A. *Garner's Modern English Usage*. 5th ed., Oxford UP, 2022.
 
 *MLA Handbook*. 9th ed., The Modern Language Association of America, 2021.
 
 *Publication Manual of the American Psychological Association*. 7th ed., American Psychological Association, 2020.
 
-Swan, Michael, and Bernard Smith, editors. *Learner English: A Teacher’s Guide to Interference and Other Problems*. 2nd ed., Cambridge UP, 2001.
+Swan, Michael, and Bernard Smith, editors. *Learner English: A Teacher's Guide to Interference and Other Problems*. 2nd ed., Cambridge UP, 2001.
