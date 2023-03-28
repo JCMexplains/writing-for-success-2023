@@ -1,4 +1,4 @@
-![Cover graphic reads \"Writing for Success 2023\"](image1.jpeg)
+![Cover graphic reads \"Writing for Success 2023\"](image01.jpeg)
 
 *Writing for Success 2023* (adapted in 2023 by Jamie Campbell Martin) is
 licensed under a 
@@ -972,7 +972,7 @@ supporting details are indented further.
 Crystal also used
 abbreviations for terms like *development* and *example*.
 
-![](image2.jpeg "Child Development-10th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
+![](image02.jpeg "Child Development-10th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
 
 #### Idea Mapping
 
@@ -981,7 +981,7 @@ The next example shows how Crystal's lecture notes
 could be set up as an "idea map," a more visual way to
 show the same information as the modified outline did.
 
-![](image3.jpeg "Child Development--20th Century Theorists")
+![](image03.jpeg "Child Development--20th Century Theorists")
 
 #### Charting
 
@@ -1027,7 +1027,7 @@ summarize** each page of notes in a few sentences.
 
 Using the Cornell system, Crystal's notes would look like the following:
 
-![](image4.jpeg "Using the Cornell system, Crystal's notes would look like the following:")
+![](image04.jpeg "Using the Cornell system, Crystal's notes would look like the following:")
 
 #### Writing at Work
 
@@ -1522,7 +1522,7 @@ clause is a group of words that may stand alone as a complete,
 grammatically correct thought. These sentences show independent
 clauses:
 
-![](image5.jpeg "Independent Clause: We went to the store, we bought the ingredients on our list, and then we went home")
+![](image05.jpeg "Independent Clause: We went to the store, we bought the ingredients on our list, and then we went home")
 
 We went to the store. We bought the ingredients on our list, and then we
 went home.
@@ -1610,7 +1610,7 @@ and modifies or describes a word. It cannot act as the subject of a
 sentence. The following circled phrases are examples of prepositional
 phrases.
 
-![](image6.jpeg "We went on a business trip. That restaurant with the famous pizza was on the way. We stopped for lunch.")
+![](image06.jpeg "We went on a business trip. That restaurant with the famous pizza was on the way. We stopped for lunch.")
 
 #### Exercise 1
 
@@ -7674,7 +7674,7 @@ Study the following basic formula for the past perfect tense:
 |---|---|---|
 |I|had|listened|
 
-![](image8.jpeg "The bus had left (past perfect tense). Theo arrived at the station (past tense).")
+![](image08.jpeg "The bus had left (past perfect tense). Theo arrived at the station (past tense).")
 
 > The bus **had left** by the time Theo **arrived** at the station.
 
@@ -7689,7 +7689,7 @@ Look at the following basic formula for the future perfect tense:
 |---|---|---|
 |I|will have|graduated|
 
-![](image9.jpeg "You move to London (future tense). You will have forgotten me (future perfect tense).")
+![](image09.jpeg "You move to London (future tense). You will have forgotten me (future perfect tense).")
 
 The future perfect tense describes an action from the past in the
 future, as if the past event has already occurred. Use the future
@@ -19086,11 +19086,11 @@ save time later on.
 2. Get it right the first time. Apply APA guidelines as you write, so
 you will not have much to correct later.
 3. Use the resources available to you. 
-    1. The APA's website is at https://www.apa.org
-    2. The MLA's website is at https://style.mla.org
+    1. The APA's style website is at https://apastyle.apa.org/
+    2. The MLA's style website is at https://style.mla.org
     3. The Purdue University OWL (Online Writing Lab) is a wonderful resource at https://owl.purdue.edu/index.html
 
-### General Formatting Guidelines
+### Paper Format
 
 As of 2023, the latest version of APA style is version 7.
 It is officially documented in the *APA Publication Manual*,
@@ -19120,7 +19120,7 @@ The title page of a student APA paper should include (*Publication Manual* p. 30
 - Course number and name
 - Instructor name
 - Assignment due date
-- page number (also included on all pages)
+- Page number (also included on all pages)
 
 Your title page should look like the following example.
 
