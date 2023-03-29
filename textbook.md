@@ -972,7 +972,7 @@ supporting details are indented further.
 Crystal also used
 abbreviations for terms like *development* and *example*.
 
-![](image02.jpeg "Child Development-10th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
+![](image02.jpeg "Child Development - 20th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
 
 #### Idea Mapping
 
@@ -981,7 +981,7 @@ The next example shows how Crystal's lecture notes
 could be set up as an "idea map," a more visual way to
 show the same information as the modified outline did.
 
-![](image03.jpeg "Child Development--20th Century Theorists")
+![](image03.jpeg "Child Development - 20th Century Theorists - idea map on Jean Piaget")
 
 #### Charting
 
@@ -1027,7 +1027,7 @@ summarize** each page of notes in a few sentences.
 
 Using the Cornell system, Crystal's notes would look like the following:
 
-![](image04.jpeg "Using the Cornell system, Crystal's notes would look like the following:")
+![](image04.jpeg "Cornell system version of Crystal's notes on Jean Piaget")
 
 #### Writing at Work
 
@@ -1523,9 +1523,6 @@ grammatically correct thought. These sentences show independent
 clauses:
 
 ![](image05.jpeg "Independent Clause: We went to the store, we bought the ingredients on our list, and then we went home")
-
-We went to the store. We bought the ingredients on our list, and then we
-went home.
 
 All complete sentences have at least one independent clause. You can
 identify an independent clause by reading it on its own and looking for
