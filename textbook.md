@@ -11127,7 +11127,7 @@ use experience and observations to come up with a topic related to your
 course studies. Then you could use freewriting to describe your topic in
 more detail and figure out what you have to say about it.
 
-![](image26.jpeg "A sample essay")
+![](image26.jpeg "Last semester my favorite class was about mass media. We got to study radio and television. People say we watch too much television, and even though I try not to, I end up watching a few reality shows just to relax. Everyone has to relax! It's too hard to relax when something like the news (my husband watches all the time) is on because it's too scary now. Too much bad news, not enough good news. News. Newspapers I don't read as much anymore. I can get the headlines on my homepage when I check my email. Email could be considered mass media too these days. I used to go to the video store a few times a week before I started school, but now the only way I know what movies are current is to listen for the Oscar nominations. We have cable but we can't afford the movie channels, so I sometimes look at older movies late at night. A few of them get played again and again until you're sick of them. My husband thinks I'm crazy, but sometimes there are old black-and-whites on from the 1930s and '40s. I could never live my life in black-and-white. I like the home decoration shows and love how people use color on their walls. Makes rooms look so bright. When we buy a home, if we ever can, I'll use lots of color. Some of those shows even show you how to do major renovations by yourself. Knock down walls and everything. Not for me - or my husband. I'm handier than he is. I wonder if they could make a reality show about us!")
 
 #### Exercise 1
 
@@ -11301,8 +11301,7 @@ center of a blank sheet of paper. Then write specific ideas around it
 and use lines or arrows to connect them together. Add and cluster as
 many ideas as you can think of.
 
-In addition to brainstorming, Mariah tried idea mapping. Review the
-following idea map that Mariah created:
+In addition to brainstorming, Mariah tried idea mapping.
 
 ### Searching the Internet
 
@@ -12054,7 +12053,7 @@ The following is Mariah's thesis
 Here are the notes that Mariah wrote to herself to characterize her
 purpose and audience.
 
-![](image31.jpeg "Mariah's notes to herself")
+![](image31.jpeg "Purpose: My purpose is to inform readers about the wide variety of consumer digital technology available in stores and to explain why the specifications for these products, expressed in numbers that average consumers don't understand, often cause bad or misinformed buying decisions. Audience: My audience is my instructor and members of this class. Most of them are not heavy into technology except for the usual laptops, cell phones, and MP3 players, which are not topics I'm writing about. I'll have to be as exact and precise as I can be when I explain possibly unfamiliar product specifications. At the same time, they're more with it electronically than my grandparents' VCR-flummoxed generation, so I won't have to explain ever last detail.")
 
 Mariah chose to begin by writing a quick introduction based on her
 thesis She knew that she would want to improve her
@@ -12136,16 +12135,16 @@ III from her outline into a first draft of the second body paragraph. As
 you read, ask yourself how closely she stayed on purpose and how well
 she paid attention to the needs of her audience.
 
-![](image34.jpeg "Outline excerpt")
+![](image34.jpeg "Outline excerpt for Roman numeral III")
 
-![](image35.jpeg "Essay excerpt")
+![](image35.jpeg "Essay paragraph built from Roman numeral III")
 
 Mariah then began her third and final body paragraph using roman numeral
 IV from her outline.
 
-![](image36.jpeg "Outline excerpt")
+![](image36.jpeg "Outline excerpt for Roman numeral IV")
 
-![](image37.jpeg "Essay excerpt")
+![](image37.jpeg "Essay paragraph built from Roman numeral IV")
 
 #### Exercise 4
 
@@ -12177,7 +12176,7 @@ conclusion in **Chapter
 decided, as the final touch for her writing session, to add an engaging
 title.
 
-![](image38.jpeg "Thesis Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. Working Title: Digital Technology: The Newest and the Best at What Price?")
+![](image38.jpeg "Thesis statement: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. Working Title: Digital Technology: The Newest and the Best at What Price?")
 
 Writing Your Own First Draft
 
