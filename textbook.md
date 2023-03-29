@@ -18868,22 +18868,19 @@ citations and formatting. Read the final draft of his paper.
 
 #### Key Takeaways
 
-Organization in a research paper means that the argument proceeds
+- Organization in a research paper means that the argument proceeds
 logically from the introduction to the body to the conclusion. It flows
 logically from one point to the next. When revising a research paper,
 evaluate the organization of the paper as a whole and the organization
 of individual paragraphs.
-
-In a cohesive research paper, the elements of the paper work together
+- In a cohesive research paper, the elements of the paper work together
 smoothly and naturally. When revising a research paper, evaluate its
 cohesion. In particular, check that information from research is
 smoothly integrated with your ideas.
-
-An effective research paper uses a style and tone that are appropriately
+- An effective research paper uses a style and tone that are appropriately
 academic and serious. When revising a research paper, check that the
 style and tone are consistent throughout.
-
-Editing a research paper involves checking for errors in grammar,
+- Editing a research paper involves checking for errors in grammar,
 mechanics, punctuation, usage, spelling, citations, and formatting.
 
 ## 12.3 Writing a Research Paper: End-of-Chapter Exercises
