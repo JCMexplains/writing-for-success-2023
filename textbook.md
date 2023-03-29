@@ -1607,7 +1607,7 @@ and modifies or describes a word. It cannot act as the subject of a
 sentence. The following circled phrases are examples of prepositional
 phrases.
 
-![](image06.jpeg "We went on a business trip. That restaurant with the famous pizza was on the way. We stopped for lunch.")
+![](image06.jpeg "We went ON A BUSINESS TRIP. That restaurant WITH THE FAMOUS PIZZA was on the way. We stopped FOR LUNCH.")
 
 #### Exercise 1
 
@@ -7649,6 +7649,8 @@ Review the following basic formula for the present perfect tense:
 |---|---|---|
 |I|have|helped|
 
+![](image07.jpeg "The present perfect tense stands between the past and the present")
+
 The present perfect tense has a connection with the past and the
 present.
 
@@ -8567,13 +8569,15 @@ Even though it's shorter than the original writing,
 the summary should still have all the main points and evidence. 
 In other words, a summary paragraph should be short and clear.
 
-![](image12.jpeg "A mock paper with three paragraphs")
+Here is a sample three-paragraph report on alcohol and drug use among high school students:
+
+![](image12.jpeg "A sample three-paragraph report on alcohol and drug use among high school students")
 
 A summary of the report should present all the main points but in fewer words. 
 Here is a summary of the report
 above written by a student:
 
-![](image13.jpeg "The mock paper continued")
+![](image13.jpeg "A student's one-paragraph summary of the report")
 
 Notice how the summary retains the key points made by the writers of the
 original report but omits most of the numbers. Summaries should not include
@@ -8602,7 +8606,7 @@ the main points of the work.
 
 Look at a student's analysis of the journal report.
 
-![](image14.jpeg "Look at a student's analysis of the journal report")
+![](image14.jpeg "A student's one-paragraph analysis of the report")
 
 When you analyze something, like a report, you don't just repeat the same information that's already there. Instead, you look at how all the different points in the report fit together. By doing this, a student noticed that some points had statistics to back them up, but other points needed more information. Analyzing a document means looking carefully at each part and how they all fit together.
 
@@ -8612,10 +8616,9 @@ When you combine two or more things to make something new, that's called a **syn
 
 In school, when you write a synthesis, you take the main ideas from different pieces of writing and put them together to create a new idea that's not in any of the original writings. This is done in a synthesis paragraph.
 
-Look at a student's synthesis of several sources about underage
-drinking.
+Look at a student's synthesis of several sources about underage drinking.
 
-![](image15.jpeg "A student's synthesis of several sources about underage drinking")
+![](image15.jpeg "A student's three-paragraph synthesis of several sources about underage drinking")
 
 Notice how the synthesis paragraphs consider each source and use
 information from each to create a new thesis. A good synthesis does not
@@ -8626,9 +8629,11 @@ idea.
 
 An evaluation is when you decide if something is valuable or not. Evaluations can be influenced by opinions and what you already know. For example, a boss might evaluate an employee based on how well they meet the company's goals, but the boss's opinion of the employee also matters. Evaluations help figure out how good someone is at their job.
 
-In school, an evaluation is when you give your opinion about something you read or talked about. Your opinion is influenced by what you already know and what you think about the topic. You need to think carefully and use different skills to write an evaluation. Usually, you first summarize, then analyze, then combine everything together. Here is an example of a student's evaluation.
+In school, an evaluation is when you give your opinion about something you read or talked about. Your opinion is influenced by what you already know and what you think about the topic. You need to think carefully and use different skills to write an evaluation. Usually, you first summarize, then analyze, then combine everything together. 
 
-![](image16.jpeg "A student's evaluation paragraph")
+Here is the student's evaluation of their own three-paragraph synthesis from above.
+
+![](image16.jpeg "A student's one-paragraph evaluation of the three-paragraph synthesis above")
 
 Notice how the paragraph includes the student's personal judgment
 within the evaluation. Evaluating a document requires prior knowledge
