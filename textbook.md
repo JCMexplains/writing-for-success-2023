@@ -134,10 +134,12 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
 - Chapter 1: 
     - Removed discussion of learning styles as recent research is skeptical about them. For example, see "Learning Styles: Concepts and Evidence" at https://doi.org/10.1111/j.1539-6053.2009.01038.x
 	- Added discussion of LMS-provided reminder apps
-- Chapter 5: Updated discussion of the definition of a noun to explain 
-that linguists prefer syntactic definitions to semantic definitions 
+- Chapter 5: Updated discussion of the definition of a noun to explain that linguists prefer syntactic definitions to semantic definitions 
 - Chapter 11: Added discussion of citation managers such as Zotero
-- Chapter 13: Updated MLA coverage to MLA 9 from MLA 7
+- Chapter 13: 
+    - Updated APA coverage to APA 7. 
+    - Updated MLA coverage to MLA 9 from MLA 7. 
+    - Added MLA-formatted version of sample research paper for comparison to APA-formatted version
 - Chapter 15: Added my own sample persuasive essay on legalizing medical marijuana
 
 #### General Changes
