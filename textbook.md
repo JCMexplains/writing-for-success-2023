@@ -18848,23 +18848,23 @@ content and style of his paper. He also gave the paper a final review to
 check for overall correctness and, particularly, correct APA or MLA
 citations and formatting. Read the final draft of his paper.
 
-![](image48.jpeg "Evaluating low-carb diets page 1")
+![](image48.jpeg "Evaluating low-carb diets page 1 APA")
 
-![](image49.jpeg "Evaluating low-carb diets page 2")
+![](image49.jpeg "Evaluating low-carb diets page 2 APA")
 
-![](image50.jpeg "Evaluating low-carb diets page 3")
+![](image50.jpeg "Evaluating low-carb diets page 3 APA")
 
-![](image51.jpeg "Evaluating low-carb diets page 4")
+![](image51.jpeg "Evaluating low-carb diets page 4 APA")
 
-![](image52.jpeg "Evaluating low-carb diets page 5")
+![](image52.jpeg "Evaluating low-carb diets page 5 APA")
 
-![](image53.jpeg "Evaluating low-carb diets page 6")
+![](image53.jpeg "Evaluating low-carb diets page 6 APA")
 
-![](image54.jpeg "Evaluating low-carb diets page 7")
+![](image54.jpeg "Evaluating low-carb diets page 7 APA")
 
-![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1")
+![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
 
-![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2")
+![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
 #### Key Takeaways
 
@@ -19051,7 +19051,7 @@ The title page of a student APA paper should include (*Publication Manual* p. 30
 
 Your title page should look like the following example.
 
-![](image57.jpeg "Beyond the Hype: Evaluating Low-Carb Diets cover page")
+![](image48.jpeg "Evaluating low-carb diets page 1 APA")
 
 #### Margins, Page numbering, and Headings
 
@@ -19189,11 +19189,10 @@ order by the author's last name. If an entry continues for more than one
 line, the second line and each subsequent line are indented five spaces.
 Review the following example.
 
-![](image61.jpeg "References Section")
+![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
 
-![](image62.jpeg "References Section page 2")
+![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
-![](image63.jpeg "References Section page 3")
 
 **Tip**
 
