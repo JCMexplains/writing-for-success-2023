@@ -10289,7 +10289,7 @@ Relative clauses are a useful way of providing additional, nonessential
 information in a sentence. Look at how Naomi might include
 relative clauses into her essay.
 
-![](image17.jpeg "The subprime mortgage crisis, which had been steadily building throughout 2007 and 2008, left many financial institutions in jeopardy. Some economists, who favored the bailout, argued that the banks were too big to fail. Other economists, who opposed the bailout, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008 The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
+![](image17.jpeg "The subprime mortgage crisis, WHICH HAD BEEN STEADILY BUILDING THROUGHOUT 2007 AND 2008, left many financial institutions in jeopardy. Some economists, WHO FAVORED THE BAILOUT, argued that the banks were too big to fail. Other economists, WHO OPPOSED THE BAILOUT, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008 The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
 
 Notice how the underlined relative clauses can be removed from Naomi's
 essay without changing the meaning of the sentence.
@@ -10333,7 +10333,7 @@ Unlike relative clauses, appositives are always punctuated by a comma or
 a set of commas. Look at the way Naomi uses appositives to
 include additional facts in her essay.
 
-![](image18.jpeg "The subprime mortgage crisis, the biggest financial disaster since the 1929 Wall Street crash, left many financial institutions in jeopardy. Some economists argued that the banks were too big to fail. Other economists argued that an infusion of credit and debt would exacerbate the problem. The government, the institution that would decide the fate of the banks, finally opted to bail them out. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
+![](image18.jpeg "The subprime mortgage crisis, THE BIGGEST FINANCIAL DISASTER SINCE THE 1929 WALL STREET CRASH, left many financial institutions in jeopardy. Some economists argued that the banks were too big to fail. Other economists argued that an infusion of credit and debt would exacerbate the problem. The government, THE INSTITUTION THAT WOULD DECIDE THE FATE OF THE BANKS, finally opted to bail them out. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
 
 #### Exercise 4
 
@@ -10386,9 +10386,8 @@ create sentence variety and to add emphasis to important points in our
 writing. Next, we will examine two ways in which we can join sentences
 with related ideas:
 
-Coordination. Joining two related ideas of equal importance.
-
-Subordination. Joining two related ideas of unequal importance.
+- Coordination. Joining two related ideas of equal importance.
+- Subordination. Joining two related ideas of unequal importance.
 
 Connecting sentences with coordinate or subordinate clauses creates more
 coherent paragraphs, and in turn, produces more effective writing. In
@@ -10505,7 +10504,7 @@ Now look at Joshua's revised essay. Did you coordinate the same
 sentences? You may find that your answers are different because there
 are several ways to join two independent clauses.
 
-![](image21.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed, for they contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized and also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes; however, many add a yeast that is cultivated in a laboratory.")
+![](image21.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. THE STEMS ARE REMOVED, FOR THEY CONTAIN HARSH-TASTING TANNINS. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. IT PREVENTS THE LIQUID FROM BECOMING OXIDIZED AND ALSO DESTROYS BACTERIA. SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES; HOWEVER, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.")
 
 #### Exercise 1
 
@@ -10602,7 +10601,7 @@ Now look at Joshua's revised essay and compare your answers. You will
 probably notice that there are many different ways to subordinate
 sentences.
 
-![](image23.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. Because the stems contain harsh-tasting tannins, they are removed. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added in order to prevent the liquid from becoming oxidized. Sulfur dioxide also destroys bacteria. Although some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes, many add a yeast that is cultivated in a laboratory.")
+![](image23.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. BECAUSE THE STEMS CONTAIN HARSH-TASTING TANNINS, THEY ARE REMOVED. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. HERE, SULFUR DIOXIDE IS ADDED IN ORDER TO PREVENT THE LIQUID FROM BECOMING OXIDIZED. Sulfur dioxide also destroys bacteria. ALTHOUGH SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.")
 
 #### Exercise 2
 
@@ -10627,7 +10626,7 @@ Then edit using the techniques you have learned in this section. Join
 the underlined sentences using coordination or subordination. Check your
 revised sentences for punctuation.
 
-![](image24.jpeg "Check your revised sentences for punctuation")
+![](image24.jpeg "THE YEAST IS ADDED TO THE MUST. ALCOHOLIC FERMENTATION THEN BEGINS. Here, the red wind production process differs from the method used in white wine production. RED WINE IS FERMENTED FOR A SHORTER TIME. IT IS FERMENTED AT A HIGHER TEMPERATURE. Whereas white wines may ferment for over a month, red wines typically ferment for less than two weeks. DURING FERMENTATION, CONTACT BETWEEN THE SKINS AND THE JUICE RELEASES TANNINS AND FLAVOR COMPOUNDS INTO THE MUST. THIS PROCESS IS KNOWN AS MACERATION. Maceration may occur before, during, or after fermentation. THE FERMENTATION PROCESS IS COMPLETED. THE NEXT STAGE IS PRESSING. Many methods are used for pressing, the most common of which is basket pressing.")
 
 #### Key Takeaways
 
