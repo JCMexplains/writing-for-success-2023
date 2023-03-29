@@ -20559,9 +20559,9 @@ Your in-text citations should do the following:
 After the body of your paper comes the works cited page. 
 It features the sources used in your essay. 
 List the sources alphabetically by the author's
-last name. List them by title if the author is unknown. You will find links to examples of the
-works cited page in several of the sample MLA essays at the end of this
-section.
+last name. List them by title if the author is unknown. 
+
+Here is Jorge's same paper on low-carb diets reformatted in MLA style.
 
 ![](image86.jpeg "Evaluating low-carb diets page 1 MLA")
 
