@@ -12178,7 +12178,7 @@ title.
 
 ![](image38.jpeg "Thesis statement: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. Working Title: Digital Technology: The Newest and the Best at What Price?")
 
-Writing Your Own First Draft
+#### Writing Your Own First Draft
 
 Now you may begin your own first draft, if you have not already done so.
 Follow the suggestions and the guidelines presented in this section.
@@ -13095,25 +13095,23 @@ own thesis:
 A thesis is weak when it is simply a declaration of your subject or a
 description of what you will discuss in your essay.
 
-**Weak thesis** My paper will explain why imagination is more
+> **Weak thesis** My paper will explain why imagination is more
 important than knowledge.
 
 A thesis is weak when it makes an unreasonable or outrageous claim or
 insults the opposing side.
 
-**Weak thesis** Religious radicals across America are trying
-to legislate their Puritanical beliefs by banning required high school
-books.
+> **Weak thesis** Religious radicals across America are trying to legislate their Puritanical beliefs by banning required high school books.
 
 A thesis is weak when it contains an obvious fact or something that no
 one can disagree with or provides a dead end.
 
-**Weak thesis** Advertising companies use sex to sell their
+> **Weak thesis** Advertising companies use sex to sell their
 products.
 
 A thesis is weak when the statement is too broad.
 
-**Weak thesis** The life of Abraham Lincoln was long and
+> **Weak thesis** The life of Abraham Lincoln was long and
 challenging.
 
 #### Exercise 2
@@ -13181,9 +13179,9 @@ the following steps:
 *everything*, *society*, or *life*, with more precise words in order to
 reduce any vagueness.
 
-**Working thesis:** Young people have to work hard to succeed in life.
+> **Working thesis:** Young people have to work hard to succeed in life.
 
-**Revised thesis:** Recent college graduates must have discipline and
+> **Revised thesis:** Recent college graduates must have discipline and
 persistence in order to find and maintain a stable job in which they can
 use and be appreciated for their talents.
 
@@ -13196,9 +13194,9 @@ focus his or her research and gain more direction in his or her writing.
 2. Clarify ideas that need explanation by asking yourself questions
 that narrow your thesis.
 
-**Working thesis:** The welfare system is a joke.
+> **Working thesis:** The welfare system is a joke.
 
-**Revised thesis:** The welfare system keeps a socioeconomic class from
+> **Revised thesis:** The welfare system keeps a socioeconomic class from
 gaining employment by alluring members of that class with unearned
 income, instead of programs to improve their education and skill sets.
 
@@ -13217,9 +13215,9 @@ essay.
 3. Replace any linking verbs with action verbs. Linking verbs are forms
 of the verb *to be*, a verb that simply states that a situation exists.
 
-**Working thesis:** Kansas City schoolteachers are not paid enough.
+> **Working thesis:** Kansas City schoolteachers are not paid enough.
 
-**Revised thesis:** The Kansas City legislature cannot afford to pay its
+> **Revised thesis:** The Kansas City legislature cannot afford to pay its
 educators, resulting in job cuts and resignations in a district that
 sorely needs highly qualified and dedicated teachers.
 
@@ -13239,9 +13237,9 @@ thesis one that takes a more definitive stance on the issue:
 
 4. Omit any general claims that are hard to support.
 
-**Working thesis:** Today's teenage girls are too sexualized.
+> **Working thesis:** Today's teenage girls are too sexualized.
 
-**Revised thesis:** Teenage girls who are captivated by the sexual
+> **Revised thesis:** Teenage girls who are captivated by the sexual
 images on MTV are conditioned to believe that a woman's worth depends on
 her sensuality, a feeling that harms their self-esteem and behavior.
 
@@ -13275,14 +13273,7 @@ confident.
 
 #### Writing at Work
 
-In your career you may have to write a project proposal that focuses on
-a particular problem in your company, such as reinforcing the tardiness
-policy. The proposal would aim to fix the problem; using a thesis
-statement would clearly state the boundaries of the problem and tell the
-goals of the project. After writing the proposal, you may find that the
-thesis needs revision to reflect exactly what is expressed in the body.
-Using the techniques from this chapter would apply to revising that
-thesis.
+Sometimes in your job, you might need to write a plan to fix a problem in your company, like making sure people are not late. This plan is called a *proposal* and should have a clear statement that explains what the problem is and what you want to achieve--in other words, a thesis. After writing the proposal, you might need to change the statement to better match what you wrote in the plan. You can use the methods from this chapter to make those changes.
 
 #### Key Takeaways
 - Proper essays require a thesis to provide a specific focus and
@@ -13414,11 +13405,9 @@ view. However, some facts may still need explanation. For example,
 the sentence "The most populated state in the United States is
 California" is a pure fact, but it may require some explanation to
 make it relevant to your specific argument.
-
 2. **Judgments.** Judgments are conclusions drawn from the given
 facts. Judgments are more credible than opinions because they are
 founded upon careful reasoning and examination of a topic.
-
 3. **Testimony.** Testimony consists of direct quotations from either
 an eyewitness or an expert witness. An eyewitness is someone who
 has direct experience with a subject; he adds authenticity to an
@@ -13427,8 +13416,7 @@ extensive experience with a topic. This person studies the facts
 and provides commentary based on either facts or judgments, or
 both. An expert witness adds authority and credibility to an
 argument.
-
-**Personal observation.** Personal observation is like testimony, but
+4. **Personal observation.** Personal observation is like testimony, but
 personal observation consists of your testimony. It reflects what you
 know to be true because you have experiences and have formed either
 opinions or judgments about them. For instance, if you are one of five
@@ -13438,11 +13426,11 @@ experience to support your thesis.
 
 #### Writing at Work
 
-In any job where you devise a plan, you will need to support the steps
-that you lay out. This is an area in which you would include primary
-support into your writing. Choosing only the most specific and relevant
-information to expand upon the steps will ensure that your plan appears
-well-thought-out and precise.
+In any job where you make a plan, you will need to support the steps
+that you lay out. This is where primary support is important. 
+Choosing only the most specific and relevant
+information for support will ensure that your plan appears
+well thought-out.
 
 **Tip**
 
