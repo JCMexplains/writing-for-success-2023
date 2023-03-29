@@ -18821,24 +18821,15 @@ the Citations and Format Checklist to help you check citations and formatting.
 
 #### Citations and Format Checklist
 
-- Within the body of my paper, each fact or idea taken from a source is
-credited to the correct source.
-- Each in-text citation includes the source author's name (or, where
-applicable, the organization name or source title) and year of
-publication. I have used the correct format of in-text and parenthetical
-citations.
-- Each source cited in the body of my paper has a corresponding entry in
-the references section of my paper.
-- My references section includes a heading and double-spaced, alphabetized
-entries.
-- Each entry in my references section is indented on the second line and
-all subsequent lines.
-- Each entry in my references section includes all the necessary
-information for that source type, in the correct sequence and format.
+- Within the text of my paper, each fact or idea taken from a source is credited to the correct source.
+- Each in-text citation includes the author's name and year of publication.
+- Each source cited in my text has a matching entry in the references.
+- My references section includes a heading and double-spaced, alphabetized entries.
+- Each entry in my references section is indented on the second line and all subsequent lines.
+- Each entry in my references section includes all the necessary information for that source type, in the correct sequence and format.
 - My paper includes a title page.
-- My paper includes a running head.
-- The margins of my paper are set at one inch. Text is double spaced and
-set in a standard 12-point font.
+- The margins of my paper are set at one inch. 
+- Text is double-spaced and set in a standard font.
 
 For detailed guidelines on APA and MLA citation and formatting, see
 **Chapter 13**.
