@@ -20563,6 +20563,22 @@ last name. List them by title if the author is unknown. You will find links to e
 works cited page in several of the sample MLA essays at the end of this
 section.
 
+![](image86.jpeg "Evaluating low-carb diets page 1 MLA")
+
+![](image87.jpeg "Evaluating low-carb diets page 2 MLA")
+
+![](image88.jpeg "Evaluating low-carb diets page 3 MLA")
+
+![](image89.jpeg "Evaluating low-carb diets page 4 MLA")
+
+![](image90.jpeg "Evaluating low-carb diets page 5 MLA")
+
+![](image91.jpeg "Evaluating low-carb diets page 6 MLA")
+
+![](image92.jpeg "Evaluating low-carb diets page 7 - works cited page 1 MLA")
+
+![](image93.jpeg "Evaluating low-carb diets page 8 - works cited page 2 MLA")
+
 #### Exercise 1
 
 In **Chapter 13**, you created
