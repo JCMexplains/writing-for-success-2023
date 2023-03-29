@@ -13434,12 +13434,11 @@ well thought-out.
 
 **Tip**
 
-You can consult a vast pool of resources to gather support for your
-stance. Citing relevant information from reliable sources ensures that
-your reader will take you seriously and consider your assertions. Use
-any of the following sources for your essay: newspapers or news
-organization websites, magazines, encyclopedias, and scholarly journals,
-which are periodicals that address topics in a specialized field.
+You can consult many kinds of resources to support your
+stance. Citing relevant and reliable information ensures that
+your reader will take you seriously. Good sources may include newspapers, magazines, 
+encyclopedias, and scholarly journals.
+
 
 ### Choose Supporting Topic Sentences
 
@@ -17730,7 +17729,7 @@ more information about the structures used in writing, see **Chapter
 The purpose of Jorge's paper was primarily to persuade. With that in
 mind, he planned the following outline.
 
-![](image44.jpeg "An outline for Jorge's paper")
+![](image44.jpeg "A formal outline for Jorge's paper")
 
 #### Exercise 3
 
@@ -18022,7 +18021,7 @@ other diet plans.
 
 > Summary
 
-In three recent studies, researchers compared outcomes for obese
+> In three recent studies, researchers compared outcomes for obese
 subjects who followed either a low-carbohydrate diet, a low-fat diet, or
 a Mediterranean diet and found that subjects following a
 low-carbohydrate diet lost more weight in the same time (Howell, 2010).
@@ -18291,8 +18290,8 @@ primary source, but might also cite commentary from critics. A paper
 that presents an original experiment would include some discussion of
 similar prior research in the field.
 
-Jorge knew he did not have the time, resources, or experience needed to
-conduct original experimental research for his paper. Because he was
+Jorge knew he could not
+conduct an original experiment for his paper. Because he was
 relying on secondary sources to support his ideas, he made a point of
 citing sources that were not far removed from primary research.
 
@@ -18547,10 +18546,10 @@ revision, Jorge added a topic sentence that clearly connected the
 paragraph to the one that had preceded it. He also added transitions to
 improve the flow of ideas from sentence to sentence.
 
-Read the following paragraphs twice, the first time without Jorge's
+Read the following paragraph twice, the first time without Jorge's
 changes, and the second time with them.
 
-![](image45.jpeg "Jorge's paragraph")
+![](image45.jpeg "Jorge's first paragraph")
 
 #### Exercise 1
 
@@ -18626,7 +18625,7 @@ information needed to be integrated more carefully and decided to omit
 some details entirely. Read the following paragraph, first without
 Jorge's revisions and then with them.
 
-![](image46.jpeg "Another one of Jorge's draft")
+![](image46.jpeg "A body paragraph from Jorge's paper")
 
 Jorge decided that his comment about pizza and birthday cake came across
 as subjective and was not necessary to make his point, so he deleted it.
@@ -18688,32 +18687,12 @@ writer---the sentence structures you use and the word choices you make.
 Tone is the attitude toward your subject and audience that you convey
 through your word choice.
 
-Determining an Appropriate Style and Tone
+#### Determining an Appropriate Style and Tone
 
-Although accepted writing styles will vary within different disciplines,
-the underlying goal is the same---to come across to your readers as a
-knowledgeable, authoritative guide. Writing about research is like being
-a tour guide who walks readers through a topic. A stuffy, overly formal
-tour guide can make readers feel put off or intimidated. Too much
-informality or humor can make readers wonder whether the tour guide
-really knows what he or she is talking about. Extreme or emotionally
-charged language comes across as unbalanced.
-
-To help prevent being overly formal or informal, determine an
-appropriate style and tone at the beginning of the research process.
-Consider your topic and audience because these can help dictate style
-and tone. For example, a paper on new breakthroughs in cancer research
-should be more formal than a paper on ways to get a good night's sleep.
-
-A strong research paper comes across as straightforward, appropriately
-academic, and serious. It is generally best to avoid writing in the
-first person, as this can make your paper seem overly subjective and
-opinion based. Use Checklist 12.3 on style to review your paper for
-other issues that affect style and tone. You can check for consistency
-at the end of the writing process. Checking for consistency is discussed
-later in this section.
+When you write about research, you want to sound like you know what you're talking about. It's like being a tour guide and showing people around a topic. But you don't want to sound too fancy or too casual. You also don't want to use extreme or emotional language. To avoid these problems, think about your topic and your audience and choose a style and tone that fits. A paper on serious medical research should sound more formal than a paper on tips for sleeping better. It's also a good idea to avoid using "I" or talking about your personal opinions. Use the Style Checklist below to check your writing for other style issues, and make sure everything is consistent when you're done.
 
 #### Style Checklist
+
 - My paper avoids excessive wordiness.
 - My sentences are varied in length and structure.
 - I have avoided using first-person pronouns such as *I* and *we*.
@@ -18726,36 +18705,17 @@ indecisive nor too forceful.
 
 ### Word Choice
 
-Note that word choice is an especially important aspect of style. In
-addition to checking the points noted on Checklist 12.3, review your
-paper to make sure your language is precise, conveys no unintended
-connotations, and is free of biases. Here are some of the points to
-check for:
-- Vague or imprecise terms
+Word choice is an especially important aspect of style. 
+
+Here are some word choices to avoid:
+
+- Vague terms
 - Slang
-- Repetition of the same phrases ("Smith states. . ., Jones states. . .") to
-introduce quoted and paraphrased material (For a full list of strong
-verbs to use with in-text citations, see **Chapter 13**.)
-- Exclusive use of masculine pronouns or awkward use of *he* or *she*
-- Use of language with negative connotations, such as *haughty* or
-*ridiculous*
-- Use of outdated or offensive terms to refer to specific ethnic, racial,
-or religious groups
-
-**Tip**
-
-Using plural nouns and pronouns or recasting a sentence can help you
-keep your language gender neutral while avoiding awkwardness. Consider
-the following examples.
-
-**Gender-biased:** When a writer cites a source in the body of his
-paper, he must list it on his references page.
-
-**Awkward:** When a writer cites a source in the body of his or her
-paper, he or she must list it on his or her references page.
-
-**Improved:** Writers must list any sources cited in the body of a paper
-on the references page.
+- The same signal phrase used over and over ("Smith states. . .", "Jones states. . .")
+ (For a list of verbs to use with in-text citations, see **Chapter 13**.)
+- Only the pronoun *he* instead of *they* or *he or she*
+- Judgmentally negative language, such as *haughty* or *ridiculous*
+- Biased or offensive language for ethnic, racial, or religious groups
 
 ### Keeping Your Style Consistent
 
@@ -18766,34 +18726,27 @@ after you have completed the other revisions so that you are not
 distracted by any larger content issues. Revising strategies you can use
 include the following:
 
-**Read your paper aloud.** Sometimes your ears catch inconsistencies
+- **Read your paper aloud.** Sometimes your ears catch inconsistencies
 that your eyes miss.
-
-**Share your paper with another reader whom you trust to give you honest
+- **Share your paper with another reader whom you trust to give you honest
 feedback.** It is often difficult to evaluate one's own style
 objectively---especially in the final phase of a challenging writing
 project. Another reader may be more likely to notice instances of
 wordiness, confusing language, or other issues that affect style and
 tone.
-
-**Line-edit your paper slowly, sentence by sentence.** You may even wish
+- **Line-edit your paper slowly, sentence by sentence.** You may even wish
 to use a sheet of paper to cover everything on the page except the
 paragraph you are editing---that forces you to read slowly and
 carefully. Mark any areas where you notice problems in style or tone,
 and then take time to rework those sections.
 
-On reviewing his paper, Jorge found that he had generally used an
-appropriately academic style and tone. However, he noticed one glaring
-exception---his first paragraph. He realized there were places where his
-overly informal writing could come across as unserious or, worse,
-disparaging. Revising his word choice and omitting a humorous aside
-helped Jorge maintain a consistent tone. Read his revisions.
+Jorge looked over his paper and thought it sounded pretty academic, except for the first part. He saw that some of the words he used were too casual and might make people think he wasn't taking the topic seriously. He fixed this by changing some words and taking out a joke, so that his writing sounded the same all the way through. You can read his changes.
 
-![](image47.jpeg "Jorge's Introduction outline")
+![](image47.jpeg "Jorge's updated, more serious-sounding first paragraph")
 
 #### Exercise 3
 
-Using Checklist 12.3, line-edit your paper. You may use either of these
+Using the Style Checklist, line-edit your paper. You may use either of these
 techniques:
 
 1. Print out a hard copy of your paper, or work with your printout from
@@ -18811,7 +18764,7 @@ paper line by line as described in step 1. Highlight any areas
 where you notice problems in style or tone, and then take time to
 rework those sections.
 
-Please exchange papers with a classmate. On a separate piece of paper,
+Exchange papers with a classmate. On a separate piece of paper,
 note places where the essay does not seem to flow or you have questions
 about what was written. Return the essay and compare notes.
 
@@ -18839,12 +18792,11 @@ document. Be sure to check for any errors that may have come up
 frequently for you in the past. Use the checklist below to help you as you
 edit:
 
-#### Grammar, Mechanics, Punctuation, Usage, and Spelling Checklist
+#### Mechanics Checklist
 
-My paper is free of grammatical errors, such as errors in subject-verb
+- My paper is free of grammatical errors, such as errors in subject-verb
 agreement and sentence fragments. (For additional guidance on grammar,
 see **Chapter 2**
-
 - My paper is free of errors in punctuation and mechanics, such as
 misplaced commas or incorrectly formatted source titles. 
 - My paper is free of common usage errors, such as *alot* and *alright*.
@@ -18865,9 +18817,9 @@ student's contribution to the work developed by and for a larger
 academic community. Increasingly, American Psychological Association
 (APA) style guidelines are the standard for many academic fields. Modern
 Language Association (MLA) is also a standard style in many fields. Use
-Checklist 12.5 to help you check citations and formatting.
+the Citations and Format Checklist to help you check citations and formatting.
 
-#### Citations and Formatting Checklist
+#### Citations and Format Checklist
 
 - Within the body of my paper, each fact or idea taken from a source is
 credited to the correct source.
@@ -18905,24 +18857,23 @@ content and style of his paper. He also gave the paper a final review to
 check for overall correctness and, particularly, correct APA or MLA
 citations and formatting. Read the final draft of his paper.
 
-![](image48.jpeg "A Cover Page for the Paper: 
-Beyond the Hype: Evaluating Low-Carb Diets")
+![](image48.jpeg "Evaluating low-carb diets page 1")
 
-![](image49.jpeg "Page 2")
+![](image49.jpeg "Evaluating low-carb diets page 2")
 
-![](image50.jpeg "Page 3")
+![](image50.jpeg "Evaluating low-carb diets page 3")
 
-![](image51.jpeg "Page 4")
+![](image51.jpeg "Evaluating low-carb diets page 4")
 
-![](image52.jpeg "Page 5")
+![](image52.jpeg "Evaluating low-carb diets page 5")
 
-![](image53.jpeg "Page 6")
+![](image53.jpeg "Evaluating low-carb diets page 6")
 
-![](image54.jpeg "Page 7")
+![](image54.jpeg "Evaluating low-carb diets page 7")
 
-![](image55.jpeg "References Section")
+![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1")
 
-![](image56.jpeg "Page 11")
+![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2")
 
 #### Key Takeaways
 
