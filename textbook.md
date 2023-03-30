@@ -2815,31 +2815,31 @@ When we send messages quickly, like in text or email, we sometimes forget to use
 |Y|y|
 |Z|z|
 
+The terms "uppercase" and "lowercase" come from the history of printing: text used to be printed with small metal blocks for each letter, arranged into words and sentences. The capital letters were kept in the upper shelf of a type case and the small letters were kept in the lower shelf of the case.
+
+The history of letter cases in English is fascinating; you can read more here: https://en.wikipedia.org/wiki/Letter_case
+
 #### Capitalize the First Word of a Sentence
 
-**T**he museum has a new butterfly exhibit.
+> **T**he museum has a new butterfly exhibit.
 
-**C**ooking can be therapeutic.
+> **C**ooking can be therapeutic.
 
 #### Capitalize Proper Nouns
 
 Proper nouns---the names of specific people, places, objects, streets,
 buildings, events, or titles of individuals---are always capitalized.
 
-He grew up in **H**arlem, **N**ew **Y**ork.
+> He grew up in **H**arlem, **N**ew **Y**ork.
 
-**Tip**
+Common nouns---the names people, places, things, streets, buildings,
+events, or titles when they are being used *in general*--are not capitalized.
 
-Always capitalize nationalities, races, languages, and religions. For
-example: American, African American, Hispanic, Catholic, Protestant,
-Jewish, Muslim, Hindu, Buddhist, and so on.
+> He grew up in the largest city in his state.
 
-Do not capitalize people, places, things, streets, buildings,
-events, or titles when they are being use *in general*. See
-the chart for the difference between proper nouns and common
-nouns.
+Examples of common nouns and proper nouns:
 
-|Common Noun| Proper Noun|
+|Common noun (don't capitalize)| Proper noun (capitalize)|
 |:---|:---|
 |museum|The Art Institute of Chicago|
 |theater|Apollo Theater|
@@ -2850,6 +2850,12 @@ nouns.
 |college|Smith College|
 |war|the Spanish-American War|
 |historical event|The Renaissance|
+
+**Tip**
+
+Always capitalize nationalities, races, languages, and religions. For
+example: American, African American, Hispanic, Catholic, Protestant,
+Jewish, Muslim, Hindu, Buddhist, and so on.
 
 #### Exercise 1
 
