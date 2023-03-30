@@ -3794,30 +3794,18 @@ correctly.
     - The handsome vampire appeared out of nowhere and smiles at the smitten woman.
     - The batter swinged at the ball several times but never hit it.
 
-2. Choose the correct
-comparative or superlative adjective or adverb. 
+2. Choose the correct comparative or superlative adjective or adverb. Then copy the completed sentence onto your own sheet of paper.
 
-Then copy the
-completed sentence onto your own sheet of paper.
-
-- Denise has a (cheerful) \_\_\_\_\_\_\_\_ outlook on life than her
-husband.
-- I don't mean to brag, but I think I am the (good) \_\_\_\_\_\_ 
-cook in my family.
-- Lydia is the (thoughtful) \_\_\_\_\_\_ person I know.
-- Italy experienced the (bad) \_\_\_\_\_\_ heat wave in its
-history last year.
-- My teacher, Ms. Beckett, is the (strange) \_\_\_\_\_\_ person I
-know, and I like that.
-- Dorian's drawing skills are (good) \_\_\_\_\_\_\_\_ this semester
-than last.
-- My handwriting is the (sloppy) \_\_\_\_\_\_\_\_ of all my
-classmates.
-- Melvin's soccer team played (badly) \_\_\_\_\_\_\_\_ than it did
-last season.
-- Josie's pen writes (smooth) \_\_\_\_\_\_\_\_ than mine.
-- I felt (lucky) \_\_\_\_\_\_\_\_ than my sister because I got in to
-the college of my choice.
+    - Denise has a (cheerful) \_\_\_\_\_\_\_\_ outlook on life than her husband.
+    - I don't mean to brag, but I think I am the (good) \_\_\_\_\_\_  cook in my family.
+    - Lydia is the (thoughtful) \_\_\_\_\_\_ person I know.
+    - Italy experienced the (bad) \_\_\_\_\_\_ heat wave in its history last year.
+    - My teacher, Ms. Beckett, is the (strange) \_\_\_\_\_\_ person I know, and I like that.
+    - Dorian's drawing skills are (good) \_\_\_\_\_\_\_\_ this semester than last.
+    - My handwriting is the (sloppy) \_\_\_\_\_\_\_\_ of all my classmates.
+    - Melvin's soccer team played (badly) \_\_\_\_\_\_\_\_ than it did last season.
+    - Josie's pen writes (smooth) \_\_\_\_\_\_\_\_ than mine.
+    - I felt (lucky) \_\_\_\_\_\_\_\_ than my sister because I got in to the college of my choice.
 
 # Chapter 3
 
