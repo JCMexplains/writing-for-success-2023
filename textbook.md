@@ -18971,26 +18971,23 @@ American Psychological Association (APA) style.
 2. Begin applying APA style to a research paper.
 
 In this chapter, you will learn about the two most popular styles for
-research papers, APA style and MLA style.
+research papers: APA style and MLA style.
 
 In their excellent book *The Craft of Research* (3rd edition 2008),
 professors Wayne Booth, Gregory Colomb, and Joseph Williams explain 
-that there are many styles for academic writing, but they can be
+that styles for academic writing can be
 divided into two categories:
 - author-date styles
 - author-page styles
 
 *Author-date styles* ask you to cite research by the year it was published.
-They are common in fields where more recent information is usually better.
-*Author-page styles* ask you to cite research by the page it appears on.
-They are common in fields where examining an author's exact words is important.
-
-The most popular author-date style is APA style, named for the
+They are common in fields where more recent information is preferred. The most popular author-date style is APA style, named for the
 American Psychological Association, a group of psychologists. It will be the main focus
 of this chapter.
 
-The most popular author-page style is MLA style, named for the
-Modern Language Association, a group of literature professors.
+*Author-page styles* ask you to cite research by the page it appears on.
+They are common in fields where examining an author's exact words is important. The most popular author-page style is MLA style, named for the
+Modern Language Association, a group of literature professors. We will discuss it in the final section.
 
 Here are some other popular styles:
 
@@ -19219,7 +19216,7 @@ As noted in previous sections of this book, in-text citations usually
 provide the name of the author(s) and the year the source was published.
 For direct quotations, the page number must also be included. Use
 past-tense verbs when introducing a quote---"Smith found. . ." and not
-"Smith finds. . .."
+"Smith finds. . .".
 
 #### Formatting Brief Quotations
 
