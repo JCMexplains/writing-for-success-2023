@@ -17845,35 +17845,39 @@ and the bibliography.
 4. Use primary and secondary research to support ideas.
 5. Identify the purposes for which writers use each type of research.
 
-At last, you are ready to begin writing the rough draft of your research
-paper. Putting your thinking and research into words is exciting. It can
-also be challenging. In this section, you will learn strategies for
-handling the more challenging aspects of writing a research paper, such
-as integrating material from your sources, citing information correctly,
-and avoiding any misuse of your sources.
+Now you are ready to begin the rough draft of your research
+paper. Putting your work into words is exciting, but it can
+also be challenging. 
+
+In this section, you will learn to handle the challenges of a research paper, 
+especially integrating your sources, citing correctly,
+and avoiding misuse of sources.
 
 ### The Structure of a Research Paper
 
-Research papers generally follow the same basic structure: an
-introduction that presents the writer's thesis, a body section that
-develops the thesis with supporting points and evidence, and a
-conclusion that revisits the thesis and provides additional insights or
-suggestions for further research.
+Most research papers have a three-part structure: 
 
-Your writing voice will come across most strongly in your introduction
-and conclusion, as you work to attract your readers' interest and
-establish your thesis. These sections usually do not cite sources at
-length. They focus on the big picture, not specific details. In
-contrast, the body of your paper will cite sources extensively. As you
-present your ideas, you will support your points with details from your
-research.
+- an *introduction* that presents the thesis
+- a *body* that develops the thesis with supporting points and evidence  
+- a *conclusion* that revisits the thesis and gives more insight or suggests what to investigate next
+
+Your voice will come across most strongly in your introduction
+and conclusion, as you work to attract your readers' interest. 
+These sections usually do not cite sources at
+length. They focus on the big picture, not specific details. 
+
+In
+contrast, your body will cite sources a lot. Here is where you must support your 
+ideas with details from your research.
 
 ### Writing Your Introduction
 
-There are several approaches to writing an introduction, each of which
-fulfills the same goals. The introduction should get readers' attention,
-provide background information, and present the writer's thesis. Many
-writers like to begin with one of the following catchy openers:
+There many ways to write an introduction, but they all share the same goals: 
+The introduction should get readers' attention,
+give background, and present the writer's thesis. 
+
+Many writers like to begin with one of these openers:
+
 - A surprising fact
 - A thought-provoking question
 - An attention-getting quote
@@ -17883,7 +17887,7 @@ writers like to begin with one of the following catchy openers:
 The next few sentences place the opening in context by presenting
 background information. From there, the writer builds toward a thesis,
 which is traditionally placed at the end of the introduction. Think of
-your thesis as a signpost that lets readers know in what direction the
+your thesis as a signpost that lets readers know where the
 paper is headed.
 
 Jorge decided to begin his research paper by connecting his topic to
