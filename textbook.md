@@ -18965,11 +18965,10 @@ document's purpose? Why or why not? If it is not effective, explain why.
 
 **Learning Objectives**
 
-1. Identify the major components of a research paper written using
+1. Learn the major parts of a research paper written in
 American Psychological Association (APA) style.
 
-2. Apply general APA style and formatting conventions in a research
-paper.
+2. Begin applying APA style to a research paper.
 
 In this chapter, you will learn about the two most popular styles for
 research papers, APA style and MLA style.
