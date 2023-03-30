@@ -3591,7 +3591,7 @@ large*.
 
 Notice in the incorrect sentence it sounds as if her head was too large!
 Of course, the writer is referring to the helmet, not to the person's
-head. The corrected version of the sentence clarifies the writer's
+head. The corrected sentence clarifies the writer's
 meaning.
 
 Look at these two examples:
@@ -3615,8 +3615,8 @@ pains! What the writer means is that the patient has stomach pains.
 
 **Tip**
 
-Simple modifiers like *only*, *almost*, *just*, *nearly*, and *barely*
-often get used incorrectly because writers often stick them in the wrong
+Modifiers like *only*, *almost*, *just*, *nearly*, and *barely*
+often get used incorrectly because writers put them in the wrong
 place.
 
 **Confusing:** Tyler *almost* found fifty cents under the sofa cushions.
