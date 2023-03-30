@@ -19194,8 +19194,8 @@ helps a reader learn more.
 - Working ahead and recording citations early are good ways to
 save time when writing a research paper.
 - APA papers use headings to show layers of information.
-- APA in-text citations usually include the name(s) of the
-author(s) and the year of publication.
+- APA in-text citations usually the name(s) of the
+author(s), the year of publication, and sometimes the page number.
 - Every in-text citation connects to a reference entry, which
 gives information about the source.
 
