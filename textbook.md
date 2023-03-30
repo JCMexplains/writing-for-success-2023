@@ -19099,7 +19099,7 @@ Manual of the American Psychological Association*, published in 2020.
 |Level|Format of heading|Format of text following the heading|
 |---|---|---|
 |1|**Centered, Bold, Title Case Heading**|Text begins as a new paragraph.|
-|2|**Flush Left, Bold, Title Case HEading**|Text begins as a new paragraph.|
+|2|**Flush Left, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |3| ***Flush Left, Bold Italic, Title Case Heading*** |Text begins as a new paragraph.|
 |4|**Indented, Bold, Title Case Heading, Ending With a Period.** |Text begins on the same line and continues as a regular paragraph.|
 |5| ***Indented, Bold Italic, Title Case Heading, Ending With a Period.*** |Text begins on the same line and continues as a regular paragraph.|
@@ -19127,13 +19127,11 @@ This information may be included either within the sentence or at the end of the
 When the information appears in the sentence, APA calls it a *narrative citation.* When the
 info appears at the end of the sentence, APA calls it a *parenthetical citation*.
 
-
 #### The two kinds of in-text citation
 
-|Kind of in-text citation|Example|
-|:---|:---|
 |Narrative citation|Parenthetical citation|
-|Epstein (2010) points out that junk food is not addictive in the same way that psychoactive drugs are.|Addiction researchers caution that junk food is not addictive in the same way that psychoactive drugs are (Epstein, 2010).|
+|:---|:---|
+|Epstein (2010) points out that junk food is not addictive in the same way that drugs are.|Addiction researchers caution that junk food is not addictive in the same way that drugs are (Epstein, 2010).|
 
 In APA style, we often care about ideas of a source more than its exact words. The APA's *Publication Manual* says, "It is best to paraphrase sources . . . rather than directly quoting them because paraphrasing allows you to fit material to the context of your paper and writing style" (p. 270).
 MLA style takes the opposite view and prefers quotations for precision. 
@@ -19141,110 +19139,72 @@ MLA style takes the opposite view and prefers quotations for precision.
 However, even in APA style, you will 
 still sometimes use quotes from sources. When you do, you must include a page number.
 
+|Narrative citation with a quote|Parenthetical citation with a quote|
+|:---|:---|
+|Epstein (2010) points out that "we cannot call junk food addictive in the same way that psychoactive drugs are" (p. 137).|Addiction researchers caution that "we cannot call junk food addictive in the same way that psychoactive drugs are" (Epstein, 2010, p. 137).|
 
-
-Here, the writer names the source author when introducing the quote and
-provides the publication date in parentheses after the author's name.
-The page number appears in parentheses **after** the closing quotation
-marks and **before** the period that ends the sentence.
-
-
-Here, the writer provides a parenthetical citation at the end of the
-sentence that includes the author's name, the year of publication, and
-the page number separated by commas. Again, the parenthetical citation
-is placed **after** the closing quotation marks and **before** the
-period at the end of the sentence.
-
-> As noted in the book *Junk Food, Junk Science* (Epstein, 2010, p. 137), "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive."
-
-Here, the writer chose to mention the source title in the sentence (an
-optional piece of information to include) and followed the title with a
-parenthetical citation. Note that the parenthetical citation is placed
-**before** the comma that signals the end of the introductory phrase.
-
-> David Epstein's book *Junk Food, Junk Science* (2010) pointed out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).
-
-Another variation is to introduce the author and the source title in
-your sentence and include the publication date and page number in
-parentheses within the sentence or at the end of the sentence. As long
-as you have included the essential information, you can choose the
-option that works best for that particular sentence and source.
-
-Citing a book with a single author is usually straightforward. Of
-course, your research may require that you cite many other types of
-sources, such as books or articles with more than one author or sources
-with no individual author listed. You may also need to cite sources
-available in both print and online and nonprint sources, such as
-websites and personal interviews. **Section 13.2**
-and
-**Section 13.3** provide guidelines for citing a variety of sources.
+There are many ways to format in-text citations to make them work best with your sentence. For
+more details, see the *Publication Manual* or https://apastyle.apa.org/. 
 
 ### References
 
-The short in-text citations in your text connect to the
-longer citations at the end of the paper in the
-references section. 
+Your in-text citations connect to a special section at the end of your paper. 
 
-In-text citations contain only these elements:
+This special section is is what is known as a **bibliography**. It is a list of all the sources you used in your paper.
 
-- the author's name(s)
-- the year of publication 
-- the page number if you are giving a direct quote
+In APA style, the bibliography is called *References*. In MLA style, the
+bibliography is called *Works Cited*. 
 
-The references section provides much more information: enough for your
-reader to find the source and read more of it.
+A reference entry provides much more information than an in-text citation: enough for your
+reader to find the source and read it.
 
-Different sources get different information in a references entry, but they
-nearly all include the following:
+Reference entries include the following four elements:
 
-- The name(s) of the author(s) or institution that wrote the source
-- The year of publication and, where applicable, the exact date of
-publication
-- The full title of the source
-- For books, the city of publication
-- For articles or essays, the name of the periodical or book in which the
-article or essay appears
-- For magazine and journal articles, the volume number, issue number, and
-pages where the article appears
-- For sources on the web, the URL where the source is located
+- Author.
+- Date.
+- Title.
+- Source.
 
-The references page is double spaced and lists entries in alphabetical
-order by the author's last name. If an entry continues for more than one
-line, the second line and each subsequent line are indented five spaces.
-Review the following example.
+The details of what goes in each of the four parts depend on the kind of source; for example,
+dates in APA style often include only the year, but sometimes will be more specific.
+
+Entries should be in alphabetical order by author's last name. 
+
+Entries should have a **hanging indent**, which is the opposite of a typical indent:
+instead of the first line being pushed to the right by .5 inches, the first line
+should be pushed **left** by .5 inches.
+
+The reason for this is that it is much easier to find a source in a long list when
+the first lines stick out to the left. MLA also requires hanging indents.
+
+From long experience working with students, I can affirm that it is hard to create a hanging indent manually. Nearly every word processing program
+(a program like Microsoft Word or Google Docs) will be able to create hanging indents
+for you.
+
+Review the following example of a References section. Notice the hanging indents.
 
 ![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
 
 ![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
-
-**Tip**
-
-In APA style, book and article titles are formatted in sentence case,
-not title case. Sentence case means that only the first word is
-capitalized, along with any proper nouns.
-
 #### Key Takeaways
 
-- Following proper citation and formatting guidelines helps writers ensure
-that their work will be taken seriously, give proper credit to other
-authors for their work, and provide valuable information to readers.
-- Working ahead and taking care to cite sources correctly the first time
-are ways writers can save time during the editing stage of writing a
-research paper.
-- APA papers usually include an abstract that concisely summarizes the
-paper.
-- APA papers use a specific headings structure to provide a clear
-hierarchy of information.
-- In APA papers, in-text citations usually include the name(s) of the
+- Proper citation and formatting helps a writer ensure
+they are taken seriously, gives credit to others for their work, and
+helps a reader learn more.
+- Working ahead and recording citations early are good ways to
+save time when writing a research paper.
+- APA papers use headings to show layers of information.
+- APA in-text citations usually include the name(s) of the
 author(s) and the year of publication.
-- In-text citations correspond to entries in the references section, which
-provide detailed bibliographical information about a source.
+- Every in-text citation connects to a reference entry, which
+gives information about the source.
+
+## Section 13.2: Citing and Referencing Techniques
 
 **Learning Objective**
 
-1. Apply American Psychological Association (APA) style formatting
-guidelines for citations.
+1. Apply American Psychological Association (APA) style to citations.
 
 This section covers the details of in-text citations. You
 will learn how to format citations for different types of source
