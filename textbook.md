@@ -3820,13 +3820,12 @@ correctly.
 1. Identify the uses of commas.
 2. Correctly use commas in sentences.
 
-One of the punctuation clues to reading you may encounter is the comma:
+One of the most common punctuation marks is the comma:
 **,**
 
-The comma is a punctuation mark that indicates a pause in a sentence or
-a separation of things in a list. Commas can be used in various ways.
-Look at some of the following sentences to see how you might use a comma
-when writing a sentence.
+A comma a pause in a sentence or
+a separation between things in a list. Commas are used in many ways.
+Here are some ways you might use a comma when writing a sentence.
 
 **Introductory word:** Personally, I think the practice is helpful.
 
@@ -3894,7 +3893,7 @@ the last item.
 Writers actually disagree about the final comma in a series like this.
 
 The final comma is known as the "serial comma" or the "Oxford comma."
-Most authorities, including Bryan Garner in his 
+Most authorities, including Bryan A. Garner in his 
 *Garner's Modern American Usage* as well as
 *The Chicago Manual of Style*, say that you should include it.
 
@@ -3962,12 +3961,12 @@ for a restaurant.
 9. The weather was clear yesterday. We decided to go on a picnic.
 10. I have never dealt with this client before. I know Leonardo has
 worked with them. Let's ask Leonardo for his help.
+
 ### Commas before and after Interrupting Words
 
-In conversations, you might interrupt your train of thought by giving
-more details about what you are talking about. In a sentence, you might
-interrupt your train of thought with a word or phrase called
-interrupting words. Interrupting words can come at the beginning or
+In a conversation, you might interrupt yourself to give
+more details about something you just said. In a sentence, you might do
+the same with *interrupting words*. Interrupting words can come at the beginning or
 middle of a sentence. When the interrupting words appear at the
 beginning of the sentence, a comma appears after the word or phrase.
 
@@ -4692,12 +4691,12 @@ the entire word to the next line.
 
 Exercises
 
-1. Each sentence contains a punctuation error. On your own sheet of
-paper, correct each sentence by adding the correct punctuation. The
-headings will let you know which type of punctuation mistakes to
-look for. If the sentence does not need corrections, write *OK*.
+1. Most of the sentences below contain a punctuation error. On your own sheet of
+paper, correct the punctuation. If a sentence does not have a punctuation error, write *OK*.
 
-**Commas**
+The headings will let you know which error to look for in each sentence. 
+
+**Comma(s)**
 
 - The wedding will be July 13 2012.
 - The date by the way is the anniversary of the day that they met.
@@ -4707,14 +4706,14 @@ planning.
 - The bride is a baker so she will be making the wedding cake herself.
 - The photography the catering and the music will all be friends.
 
-**Semicolons**
+**Semicolon(s)**
 
 - Some people spend a lot of money hiring people for wedding services
 they are lucky to have such talented friends.
 - The flowers will be either roses, daisies, and snapdragons orchids,
 tulips, and irises or peonies and lilies.
 
-**Colons**
+**Colon(s)**
 
 - There will be three colors for the wedding: white, black, and gold.
 - They've finally narrowed down the dinner choices salmon, steak, and
@@ -4729,7 +4728,7 @@ Roman poet Ovid If you want to be loved, be lovable.
 - She told me to dress comfortably and wear shoes that do not sink
 into the ground.
 
-**Apostrophes**
+**Apostrophe(s)**
 
 - On the day of the wedding, were going to rent a limo.
 - My brothers wife will make the arrangements.
@@ -4741,12 +4740,12 @@ into the ground.
 and I've known her for fifteen years.
 - All the details were perfect in my opinion.
 
-**Dashes**
+**Dash(es)**
 
 - Everyone danced at the wedding except my mother.
 - It was to be expected she just had hip surgery.
 
-**Hyphens**
+**Hyphen(s)**
 
 - The groom danced with his new mother in law.
 - It was a spectacular, fun filled day for everyone.
