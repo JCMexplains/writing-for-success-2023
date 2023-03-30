@@ -2815,7 +2815,7 @@ When we send messages quickly, like in text or email, we sometimes forget to use
 |Y|y|
 |Z|z|
 
-The terms "uppercase" and "lowercase" come from the history of printing: text used to be printed with small metal blocks for each letter, arranged into words and sentences. The capital letters were kept in the upper shelf of a type case and the small letters were kept in the lower shelf of the case.
+The terms "uppercase" and "lowercase" come from the history of printing: text used to be printed with small metal letters arranged into words and sentences. The letters were kept in a special case; the capital letters were kept on the upper shelf (the "uppercase") and the small letters were kept on the lower shelf (the "lowercase").
 
 The history of letter cases in English is fascinating; you can read more here: https://en.wikipedia.org/wiki/Letter_case
 
@@ -2888,15 +2888,15 @@ Common noun: magazine
 
 #### Capitalize Days of the Week, Months of the Year, and Holidays
 
-On **W**ednesday, I will be traveling to Austin for a music festival.
+> On **W**ednesday, I will be traveling to Austin for a music festival.
 
-The **F**ourth of **J**uly is my favorite holiday.
+> The **F**ourth of **J**uly is my favorite holiday.
 
 #### Capitalize Titles
 
-**F***ences* by August Wilson is one of my favorite plays.
+> **F***ences* by August Wilson is one of my favorite plays.
 
-The **P**resident of the **U**nited **S**tates will be speaking at my college
+> The **P**resident of the **U**nited **S**tates will be speaking at my college
 
 #### Exercise 2
 
@@ -2943,8 +2943,8 @@ aspect of good writing.
 
 #### Writing Application
 
-Write a one-page biography. Make sure to identify people, places, and
-dates and capitalize correctly.
+Write a one-page biography. Include people, places, and
+dates and make sure to capitalize them correctly.
 
 ## 2.5 Pronouns
 
@@ -3171,17 +3171,18 @@ Just remember it is more polite to refer to yourself last.
 
 In conversation, people sometimes mix up subject and object
 pronouns. For instance, you might say, "Me and Donnie went to a movie
-last night." However, when you are writing or speaking at work or in any
-other formal situation, you need to remember the distinctions between
-subject and object pronouns and be able to correct yourself. These
-subtle grammar corrections will enhance your professional image and
-reputation.
+last night." However, when you are in a
+formal situation, you should remember the distinction between
+subject and object pronouns. Following the traditional rule
+will make you look polished and build your reputation.
 
 #### Exercise 3
 
-Revise these sentences in which the subject and object pronouns
-are used incorrectly. Copy the revised sentence onto your own sheet of
-paper. Write a **C** for each sentence that is correct.
+In some of these sentences, the subject and object pronouns
+are used incorrectly. 
+
+If there is a mistake, fix it and copy the new sentence onto your own sheet of
+paper. Write a **C** for each sentence that is already correct.
 
 1. Meera and me enjoy doing yoga together on Sundays.
 2. She and him have decided to sell their house.
@@ -3530,13 +3531,15 @@ types of books.
 
 #### Writing at Work
 
-The irregular words *good*, *well*, *bad*, and *badly* are often misused
-along with their comparative and superlative forms *better*, *best*,
-*worse*, and *worst*. You may not hear the difference between *worse*
-and *worst*, and therefore type it incorrectly. In a formal or
-business-like tone, use each of these words to write eight separate
-sentences. Assume these sentences will be seen and judged by your
-current or future employer.
+The irregular words *good*, *well*, *bad*, and *badly* are often misused. So
+are their comparative and superlative forms *better*, *best*,
+*worse*, and *worst*. 
+
+It is hard to hear the difference between *worse*
+and *worst*, so people sometimes mix them up. 
+
+In a formal tone, use each of these words to write eight separate
+sentences. Assume these sentences will be judged by an employer.
 
 #### Key Takeaways
 
@@ -3579,7 +3582,7 @@ errors can be easily overcome.
 
 A misplaced modifier is a modifier that is placed too far from the word
 or words it modifies. Misplaced modifiers make the sentence awkward and
-sometimes unintentionally humorous.
+sometimes funny.
 
 **Incorrect:** She wore a bicycle helmet on her head *that was too
 large*.
