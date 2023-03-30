@@ -3768,50 +3768,32 @@ correct any misplaced modifiers.
 
 ### Exercises
 
-On your own sheet of paper, identify each sentence as a fragment, a
-run-on, or correct (no error). Then rewrite the paragraph by correcting
-the sentence fragments and run-ons.
-
 1. Each sentence contains an error in subject-verb agreement,
-irregular verb form, or consistent verb tense. Identify the type of
-error. 
-
-Then, on your own sheet of paper, rewrite the sentence
+irregular verb form, or consistent verb tense. Identify the
+type of error. Then, on your own sheet of paper, rewrite the sentence
 correctly.
 
-- Maria and Ty meets me at the community center for cooking classes on
-Tuesdays.
-- John's ability to laugh at almost anything amaze me.
-- Samantha and I were walking near the lake when the large, colorful
-bird appears.
-- I builded my own telescope using materials I bought at the hardware
-store.
-- My mother freezed the remaining tomatoes from her garden so that she
-could use them during the winter.
-- Bernard asked the stranger sitting next to him for the time, and she
-says it was past midnight.
-- My mother and brother wears glasses, but my father and sister do
-not.
-- We held our noses as the skunk runs away.
-- Neither Soren nor Andrew are excited about the early morning swim
-meet.
-- My hands hurted at the thought of transcribing all those notes.
-- The police questioned the suspect for hours but she gives them no
-useful information.
-- Terry takes short weekend trips because her job as a therapist was
-very emotionally draining.
-- She criticize delicately, making sure not to hurt anyone's feelings.
-- Davis winded the old clock and set it atop his nightstand.
-- Cherie losed four poker hands in a row before realizing that she was
-playing against professionals.
-- Janis and Joan describes their trip to the Amazon in vivid detail.
-- You should decides for yourself whether or not to reduce the amount
-of processed foods in your diet.
-- The oil rig exploded and spills millions of gallons of oil into the
-ocean.
-- The handsome vampire appeared out of nowhere and smiles at the
-smitten woman.
-- The batter swinged at the ball several times but never hit it.
+    - Maria and Ty meets me at the community center for cooking classes on Tuesdays.
+    - John's ability to laugh at almost anything amaze me.
+    - Samantha and I were walking near the lake when the large, colorful bird appears.
+    - I builded my own telescope using materials I bought at the hardware store.
+    - My mother freezed the remaining tomatoes from her garden so that she could use them during the winter.
+    - Bernard asked the stranger sitting next to him for the time, and she says it was past midnight.
+    - My mother and brother wears glasses, but my father and sister do not.
+    - We held our noses as the skunk runs away.
+    - Neither Soren nor Andrew are excited about the early morning swim meet.
+    - My hands hurted at the thought of transcribing all those notes.
+    - The police questioned the suspect for hours but she gives them no useful information.
+    - Terry takes short weekend trips because her job as a therapist was very emotionally draining.
+    - She criticize delicately, making sure not to hurt anyone's feelings.
+    - Davis winded the old clock and set it atop his nightstand.
+    - Cherie losed four poker hands in a row before realizing that she was playing against professionals.
+    - Janis and Joan describes their trip to the Amazon in vivid detail.
+    - You should decides for yourself whether or not to reduce the amount of processed foods in your diet.
+    - The oil rig exploded and spills millions of gallons of oil into the ocean.
+    - The handsome vampire appeared out of nowhere and smiles at the smitten woman.
+    - The batter swinged at the ball several times but never hit it.
+
 2. Choose the correct
 comparative or superlative adjective or adverb. 
 
