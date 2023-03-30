@@ -19124,24 +19124,30 @@ a source, it is also required that you include the page number where the
 quote appears in your citation.
 
 This information may be included either within the sentence or at the end of the sentence.
+When the information appears in the sentence, APA calls it a *narrative citation.* When the
+info appears at the end of the sentence, APA calls it a *parenthetical citation*.
 
 
 #### The two kinds of in-text citation
 
-|Kind|Example|
+|Kind of in-text citation|Example|
 |:---|:---|
-|Narrative|Parenthetical|
-|Epstein (2010) points out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).|Addiction researchers caution that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (Epstein, 2010, p. 137).|
+|Narrative citation|Parenthetical citation|
+|Epstein (2010) points out that junk food is not addictive in the same way that psychoactive drugs are.|Addiction researchers caution that junk food is not addictive in the same way that psychoactive drugs are (Epstein, 2010).|
+
+In APA style, we often care about ideas of a source more than its exact words. The APA's *Publication Manual* says, "It is best to paraphrase sources . . . rather than directly quoting them because paraphrasing allows you to fit material to the context of your paper and writing style" (p. 270).
+MLA style takes the opposite view and prefers quotations for precision. 
+
+However, even in APA style, you will 
+still sometimes use quotes from sources. When you do, you must include a page number.
 
 
-> 
 
 Here, the writer names the source author when introducing the quote and
 provides the publication date in parentheses after the author's name.
 The page number appears in parentheses **after** the closing quotation
 marks and **before** the period that ends the sentence.
 
-> 
 
 Here, the writer provides a parenthetical citation at the end of the
 sentence that includes the author's name, the year of publication, and
@@ -19164,7 +19170,7 @@ parentheses within the sentence or at the end of the sentence. As long
 as you have included the essential information, you can choose the
 option that works best for that particular sentence and source.
 
-Citing a book with a single author is usually a straightforward task. Of
+Citing a book with a single author is usually straightforward. Of
 course, your research may require that you cite many other types of
 sources, such as books or articles with more than one author or sources
 with no individual author listed. You may also need to cite sources
