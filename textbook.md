@@ -141,10 +141,12 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
     - Updated MLA coverage to MLA 9 from MLA 7. 
     - Added MLA-formatted version of sample research paper for comparison to APA-formatted version
 - Chapter 15: Added my own sample persuasive essay on legalizing medical marijuana
+- Added Works Cited section
 
 #### General Changes
 - Simplified language for developmental readers
 - Updated broken links
+- Reformatted text in GitHub Flavored Markdown. See https://github.github.com/gfm/
 
 ### 2015 adaptation
 
