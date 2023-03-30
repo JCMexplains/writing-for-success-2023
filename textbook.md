@@ -17914,48 +17914,49 @@ sentences to background information to his thesis.
 
 #### Exercise 1
 
-Write the introductory paragraph of your research paper. Try using one
+Write the introduction of your research paper. Try using one
 of the techniques listed in this section to write an engaging
 introduction. Be sure to include background information about the topic
 that leads to your thesis.
 
 **Tip**
 
-Writers often work out of sequence when writing a research paper. If you
-find yourself struggling to write an engaging introduction, you may wish
-to write the body of your paper first. Writing the body sections first
-will help you clarify your main points. Writing the introduction should
-then be easier. You may have a better sense of how to introduce the
-paper after you have drafted some or all of the body.
+Many writers like to write the thesis and the body of their papers first,
+and only write the intro and conclusion later. Think about a tour guide: when
+a guide tells you what will be coming up, they need to already know the route ahead.
 
 ### Writing Your Conclusion
 
 In your introduction, you tell readers where they are headed. In your
-conclusion, you recap where they have been. For this reason, some
-writers prefer to write their conclusions soon after they have written
-their introduction. However, this method may not work for all writers.
-Other writers prefer to write their conclusion at the end of the paper,
-after writing the body paragraphs. No process is absolutely right or
-absolutely wrong; find the one that best suits you.
+conclusion, you tell them where they have been. 
 
-No matter when you compose the conclusion, it should sum up your main
-ideas and revisit your thesis. The conclusion should not simply echo the
-introduction or rely on bland summary statements, such as "In this
-paper, I have demonstrated that. . .." In fact, avoid repeating your
-thesis verbatim from the introduction. Restate it in different words
-that reflect the new perspective gained through your research. That
-helps keep your ideas fresh for your readers. An effective writer might
+For this reason, some
+writers prefer to write the conclusion and the introduction at the same time. 
+
+Others write straight through, from the start to the end.
+
+You will learn which process works best for you. There is no one right way:
+it is a personal preference.
+
+A conclusion should sum up your main
+ideas and revisit your thesis. The conclusion should not just say exactly
+what the introduction said: you need to add some further point or reflection.
+
+You should also avoid bland summary statements, such as "In this
+paper, I have demonstrated that. . .." 
+
+An effective writer might
 conclude a paper by asking a new question the research inspired,
 revisiting an anecdote presented earlier, or reminding readers of how
 the topic relates to their lives.
 
 #### Writing at Work
 
-If your job involves writing or reading scientific papers, it helps to
-understand how professional researchers use the structure described in
-this section. A scientific paper begins with an abstract that briefly
-summarizes the entire paper. The introduction explains the purpose of
-the research, briefly summarizes previous research, and presents the
+If you work in the sciences, you will find the papers you read have
+a very specific structure that scientists hold to. 
+
+In a scientific paper, the introduction explains the purpose of
+the research, summarizes previous research, and presents the
 researchers' hypothesis. The body provides details about the study, such
 as who participated in it, what the researchers measured, and what
 results they recorded. The conclusion presents the researchers'
@@ -17976,7 +17977,7 @@ around a picture. They define and limit your topic and place your
 research in context.
 
 In the body paragraphs of your paper, you will need to integrate ideas
-carefully at the paragraph level and at the sentence level. You will use
+carefully. You will use
 topic sentences in your paragraphs to make sure readers understand the
 significance of any facts, details, or quotations you cite. You will
 also include sentences that transition between ideas from your research,
@@ -18099,10 +18100,8 @@ paraphrasing.
 1. Choose an important idea or detail from your notes.
 2. Without looking at the original source, restate the idea in your
 own words.
-
 3. Check your paraphrase against the original text in the source. Make
 sure both your language and your sentence structure are original.
-
 4. Revise your paraphrase if necessary.
 
 ### Quoting Sources Directly
