@@ -8581,7 +8581,7 @@ A summary of the report should present all the main points but in fewer words.
 Here is a summary of the report
 above written by a student:
 
-![](image13.jpeg "A student's one-paragraph summary of the report")
+![](image13.jpeg "A student's two-paragraph summary of the report")
 
 Notice how the summary retains the key points made by the writers of the
 original report but omits most of the numbers. Summaries should not include
