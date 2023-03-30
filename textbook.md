@@ -11683,12 +11683,10 @@ is developing.
 
 **Tip**
 
-The information compiled under each roman numeral will become a
-paragraph in your final paper. In the previous example, the outline
-follows the standard five-paragraph essay arrangement, but longer essays
-will require more paragraphs and thus more roman numerals. If you think
-that a paragraph might become too long or stringy, add an additional
-paragraph to your outline, renumbering the main points appropriately.
+The information under each roman numeral will become a
+paragraph in your paper. The outline above is for
+a standard five-paragraph essay, but a longer essay
+will need more paragraphs and so the outline for it will need more roman numerals. 
 
 #### Writing at Work
 
