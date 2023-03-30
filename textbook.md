@@ -12050,14 +12050,16 @@ outline, with its thesis and topic sentences, and the notes
 you wrote earlier in this lesson on your purpose and audience. Reviewing
 these will put both you and Mariah in the proper mind-set to start.
 
-The following is Mariah's thesis
+The following is Mariah's thesis:
 
 ![](image30.jpeg "Everyone wants the newest and the best digital technology ,but the choices are many, and the specifications are often confusing")
 
 Here are the notes that Mariah wrote to herself to characterize her
 purpose and audience.
 
-![](image31.jpeg "Purpose: My purpose is to inform readers about the wide variety of consumer digital technology available in stores and to explain why the specifications for these products, expressed in numbers that average consumers don't understand, often cause bad or misinformed buying decisions. Audience: My audience is my instructor and members of this class. Most of them are not heavy into technology except for the usual laptops, cell phones, and MP3 players, which are not topics I'm writing about. I'll have to be as exact and precise as I can be when I explain possibly unfamiliar product specifications. At the same time, they're more with it electronically than my grandparents' VCR-flummoxed generation, so I won't have to explain ever last detail.")
+> **Purpose**: My purpose is to inform readers about the wide variety of consumer digital technology available in stores and to explain why the specifications for these products, expressed in numbers that average consumers don't understand, often cause bad or misinformed buying decisions. 
+> 
+> **Audience**: My audience is my instructor and members of this class. Most of them are not heavy into technology except for the usual laptops, cell phones, and MP3 players, which are not topics I'm writing about. I'll have to be as exact and precise as I can be when I explain possibly unfamiliar product specifications. At the same time, they're more with it electronically than my grandparents' VCR-flummoxed generation, so I won't have to explain ever last detail.")
 
 Mariah chose to begin by writing a quick introduction based on her
 thesis She knew that she would want to improve her
