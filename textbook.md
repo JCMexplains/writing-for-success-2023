@@ -18981,9 +18981,9 @@ divided into two categories:
 - author-date styles
 - author-page styles
 
-Author-date styles ask you to cite research by the year it was published.
+*Author-date styles* ask you to cite research by the year it was published.
 They are common in fields where more recent information is usually better.
-Author-page styles ask you to cite research by the page it appears on.
+*Author-page styles* ask you to cite research by the page it appears on.
 They are common in fields where examining an author's exact words is important.
 
 The most popular author-date style is APA style, named for the
@@ -18992,7 +18992,8 @@ of this chapter.
 
 The most popular author-page style is MLA style, named for the
 Modern Language Association, a group of literature professors.
-Here are a fuller list of styles:
+
+Here are some other popular styles:
 
 |Style| Fields that use it|
 |:---|:---|
@@ -19115,25 +19116,32 @@ Your in-text citations provide basic information about
 your source; each source you cite will have a longer entry in the
 references section that provides more detailed information.
 
-In-text citations must provide the name of the author or authors and the
-year the source was published. (When a given source does not list an
-individual author, you may provide the source title or the name of the
-organization that published the material instead.) When directly quoting
+In-text citations give the name(s) of the author(s) and the
+year the source was published. 
+
+When directly quoting
 a source, it is also required that you include the page number where the
 quote appears in your citation.
 
-This information may be included within the sentence or in a
-parenthetical reference at the end of the sentence, as in these
-examples.
+This information may be included either within the sentence or at the end of the sentence.
 
-> Epstein (2010) points out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).
+
+#### The two kinds of in-text citation
+
+|Kind|Example|
+|:---|:---|
+|Narrative|Parenthetical|
+|Epstein (2010) points out that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (p. 137).|Addiction researchers caution that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (Epstein, 2010, p. 137).|
+
+
+> 
 
 Here, the writer names the source author when introducing the quote and
 provides the publication date in parentheses after the author's name.
 The page number appears in parentheses **after** the closing quotation
 marks and **before** the period that ends the sentence.
 
-> Addiction researchers caution that "junk food cannot be considered addictive in the same way that we think of psychoactive drugs as addictive" (Epstein, 2010, p. 137).
+> 
 
 Here, the writer provides a parenthetical citation at the end of the
 sentence that includes the author's name, the year of publication, and
