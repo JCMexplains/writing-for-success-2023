@@ -18141,8 +18141,8 @@ original text. Omit or replace words only when absolutely necessary to
 shorten the text or to make it grammatically correct within your
 sentence.
 
-Remember to include correctly formatted citations that follow the
-assigned style guide.
+Remember to include citations that follow the style guide your class is using (usually
+APA style or MLA style).
 
 Jorge interviewed a dietician as part of his research, and he decided to
 quote her words in his paper. Read an excerpt from the interview and
@@ -18162,14 +18162,15 @@ Jorge's use of it, which follows.
 > \[low-carbohydrate diets\] are great, but for most, any sensible eating
 > and exercise plan would work just as well."
 
-Notice how Jorge smoothly integrated the quoted material by starting the
-sentence with an introductory phrase. His use of ellipses and brackets
+Notice how Jorge smoothly integrated the quote by starting with an introductory phrase. (The
+MLA calls this kind of introductory phrase a "signal phrase"; the APA does
+not appear to have a specific term for it.) His use of ellipses and brackets
 did not change the source's meaning.
 
 ### Documenting Source Material
 
-Throughout the writing process, be scrupulous about documenting
-information taken from sources. The purpose of doing so is twofold:
+Carefully document
+information taken from sources. There are two reasons for this:
 
 1. To give credit to other writers or researchers for their ideas
 2. To allow your reader to follow up and learn more about the topic if
@@ -18198,7 +18199,7 @@ in-text citations for other source types, see **Chapter 13**.
 
 ### Summary
 
-Leibowitz (2008) found that low-carbohydrate diets often helped subjects
+> Leibowitz (2008) found that low-carbohydrate diets often helped subjects
 with Type II diabetes maintain a healthy weight and control blood-sugar
 levels.
 
@@ -18207,7 +18208,7 @@ followed by the year of publication in parentheses.
 
 ### Summary
 
-Low-carbohydrate diets often help subjects with Type II diabetes
+> Low-carbohydrate diets often help subjects with Type II diabetes
 maintain a healthy weight and control blood-sugar levels (Leibowitz,
 2008).
 
@@ -18222,6 +18223,7 @@ references list at the end of your paper. While in-text citations
 provide the most basic information about the source, your references
 section will include additional publication details. In general, you
 will include the following information:
+
 - The author's last name followed by his or her first (and sometimes
 middle) initial
 - The year the source was published
@@ -18232,6 +18234,7 @@ the volume and issue number and the pages where the article appeared
 Additional information may be included for different types of sources,
 such as online sources. For a detailed guide to APA or MLA citations,
 see **Chapter 13**. 
+
 A sample reference list is provided with the final draft of Jorge's paper
 later in this chapter.
 
