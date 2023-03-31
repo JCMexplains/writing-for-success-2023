@@ -17286,8 +17286,8 @@ strategies will help you take notes efficiently.
 
 ### Use Headings to Organize Ideas
 
-Whether you use old-fashioned index cards or organize your notes using
-word-processing software, record just one major point from each source
+Whether you use index cards or a
+word-processor, record just one major point from each source
 at a time, and use a heading to summarize the information covered. Keep
 all your notes in one file, digital or otherwise. Doing so will help you
 identify connections among different pieces of information. It will also
