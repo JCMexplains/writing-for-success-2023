@@ -17230,8 +17230,8 @@ used sources. Use these details to develop a working
 bibliography---a preliminary list of sources that you will later use to
 develop the references section of your paper. 
 
-You may wish to record
-these details in the formatting system you will use for your completed paper, to
+It is a good idea to record
+these details in the same style you will use for your paper. This will
 save a step later on. 
 
 Your completed paper is most likely to be in either APA (American Psychological Association)
