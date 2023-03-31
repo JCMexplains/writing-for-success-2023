@@ -4326,8 +4326,8 @@ marks: **" "**
 Quotation marks always appear in pairs.
 
 The main use of quotation marks is to show that you are giving someone else's exact words.
-We also use them for formatting; we typically put the title of a stand-alone work like a book or a
-movie with italics. 
+We also use them for formatting; we typically put the title of a short, non-stand-alone 
+work like a poem, an article, or a single episode of a TV show in quotation marks. 
 
 ### Direct Quotations
 
