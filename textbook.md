@@ -145,6 +145,7 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
 
 #### General Changes
 - Simplified language for developmental readers
+- Made style updates to agree with APA 7: "internet" for "Internet", "email" for "e-mail", etc. (see the APA *Publication Manual* p. 162).
 - Updated broken links
 - Reformatted text in GitHub Flavored Markdown. See https://github.github.com/gfm/
 
@@ -428,7 +429,7 @@ use the same strategies as before. The beginning of a scholarly
 article usually tells you what the writer is trying to prove. 
 Headings and subheadings can show you how the writer supports their argument. 
 Also, academic articles often have a summary at the beginning, called an *abstract*. 
-Online databases provide summaries too.
+Databases provide summaries too.
 
 For more information about reading different types of texts, see
 **Chapter 12**.
@@ -4877,7 +4878,7 @@ strategies that will improve your writing.
 
 ### Commonly Confused Words
 
-Some words in English cause trouble because they sound or look the same as others words. 
+Some words in English cause trouble because they sound or look the same as other words. 
 These words are called
 commonly confused words. For example, read aloud the following sentences
 containing the commonly confused words *new* and *knew*:
@@ -5183,7 +5184,7 @@ words.
 1. **Use a dictionary.** Keep a dictionary at your desk while you
 write. Look up words when you are uncertain of their meanings or
 spellings. Many dictionaries are also available online, and the
-Internet's easy access will not slow you down. Check out your cell
+internet's easy access will not slow you down. Check out your cell
 phone or smartphone to see if a dictionary app is available.
 
 2. **Keep a list of words you confuse.** Be aware of the
@@ -9483,7 +9484,7 @@ To read more about sources and research, see **Chapter 11**.
 
 **Tip**
 
-When searching for information on the Internet, remember that some
+When searching for information on the internet, remember that some
 websites are more reliable than others. websites ending in **.gov** or **.edu**
 are generally reliable. 
 
@@ -11006,7 +11007,7 @@ expressed well and arranged in the proper order. This chapter will give
 you the chance to work on all these important aspects of writing.
 Although many more prewriting strategies exist, this chapter covers six:
 using experience and observations, freewriting, asking questions,
-brainstorming, mapping, and searching the Internet. Using the strategies
+brainstorming, mapping, and searching the internet. Using the strategies
 in this chapter can help you overcome the fear of the blank page and
 confidently begin the writing process.
 
@@ -11061,7 +11062,7 @@ writers discover what they have to say about their topic.
 
 Have you seen an attention-grabbing story on your local news channel?
 Many current issues appear on television, in magazines, and on the
-Internet. These can all provide inspiration for your writing.
+internet. These can all provide inspiration for your writing.
 
 ### Reading
 
@@ -11193,7 +11194,7 @@ for more detail, it is OK if you do not know all the answers. If you do
 not know an answer, use your own opinion to speculate, or guess. You may
 also use factual information from books or articles you previously read
 on your topic. Later in the chapter, you will read about additional ways
-(like searching the Internet) to answer your questions and explore your
+(like searching the internet) to answer your questions and explore your
 guesses.
 
 #### 5WH Questions
@@ -11236,7 +11237,7 @@ strategies can help her (and you) narrow the focus of the topic:
 
 - Brainstorming
 - Idea mapping
-- Searching the Internet
+- Searching the internet
 - Narrowing the Focus
 
 Narrowing the focus means breaking up the topic into subtopics, or more
@@ -11296,7 +11297,7 @@ In addition to brainstorming, Mariah tried idea mapping.
 
 ### Searching the Internet
 
-Using search engines on the Internet is a good way to see what kinds of
+Using search engines on the internet is a good way to see what kinds of
 websites are available on your topic. Writers use search engines not
 only to understand more about the topic's specific issues but also to
 get better acquainted with their audience.
@@ -11304,18 +11305,18 @@ get better acquainted with their audience.
 **Tip**
 
 Look back at the chart you completed in **Exercise 2**. Did you guess at
-any of the answers? Searching the Internet may help you find answers to
+any of the answers? Searching the internet may help you find answers to
 your questions and confirm your guesses. Be choosy about the websites
 you use. Make sure they are reliable sources for the kind of information
 you seek.
 
-When you search the Internet, type some key words from your broad topic
+When you search the internet, type some key words from your broad topic
 or words from your narrowed focus into your browser's search engine
 (many good general and specialized search engines are available for you
 to try). Then look over the results for relevant and interesting
 articles.
 
-Results from an Internet search show writers the following information:
+Results from an internet search show writers the following information:
 - Who is talking about the topic?
 - How the topic is being discussed?
 - What specific points are being discussed?
@@ -11351,7 +11352,7 @@ In **Exercise 2**, you chose a possible topic and explored it by answering
 questions about it using the 5WH questions. However, this topic may
 still be too broad. Here, in **Exercise 3**, choose and complete one of
 the prewriting strategies to narrow the focus. Use either brainstorming,
-idea mapping, or searching the Internet.
+idea mapping, or searching the internet.
 
 Please share with a classmate and compare your answers. Share what you
 found and what interests you about the possible topic(s).
@@ -11854,7 +11855,7 @@ who collaborate on the planning, writing, and revising of documents,
 such as long reports, technical manuals, and the results of scientific
 research. Collaborators do not need to be in the same room, the same
 building, or even the same city. Many collaborations are conducted over
-the Internet.
+the internet.
 
 In a perfect collaboration, each contributor has the right to add, edit,
 and delete text. Strong communication skills, in addition to strong
@@ -12013,7 +12014,7 @@ semester's assignments.
 
 #### Exercise 2
 
-To build your sense of appropriate paragraph length, use the Internet to
+To build your sense of appropriate paragraph length, use the internet to
 find examples of the following items. Copy them into a file, identify
 your sources, and present them to your instructor with your annotations,
 or notes.
@@ -12874,7 +12875,7 @@ media. Starting with the title "The Future of Information: How It
 Will Be Created, Transmitted, and Consumed," narrow the focus of the
 topic until it is suitable for a two- to three-page paper. Then
 narrow your topic with the help of brainstorming, idea mapping, and
-searching the Internet until you select a final topic to explore.
+searching the internet until you select a final topic to explore.
 Keep a journal or diary in which you record and comment on
 everything you did to choose a final topic. Then record what you
 will do next to explore the idea and create a thesis
@@ -12902,8 +12903,8 @@ contribute to the research base for an essay such as the one Mariah
 wrote or the one you wrote while working through this chapter.
 Choosing either her topic or your own, compile a list of at least
 five sources. Then, working in a group of four students, bring in
-printouts or PDF files of Internet sources or paper copies of
-non-Internet sources for the other group members to examine. In a
+printouts or PDF files of internet sources or paper copies of
+non-internet sources for the other group members to examine. In a
 group report, rate the reliability of each other's sources.
 
 5. **Group activity.** Working in a peer-review group of four, go to
@@ -15206,7 +15207,7 @@ a cause-and-effect for each one on your own sheet of paper.
 2. Much of the wildlife is dying because of the oil spill.
 3. The town continued programs that it could no longer afford, so it
 went bankrupt.
-4. More young people became politically active as use of the Internet
+4. More young people became politically active as use of the internet
 spread throughout society.
 5. While many experts believed the rise in violence was due to the
 poor economy, it was really due to the summer-long heat wave.
@@ -15718,7 +15719,7 @@ it will be to do yourself.
 
 You may know the answers to these questions off the top of your head. If
 you are like most people, however, you find answers to tough questions
-like these by searching the Internet, visiting the library, or asking
+like these by searching the internet, visiting the library, or asking
 others for information. To put it simply, you perform research.
 
 Whether you are a scientist, an artist, a paralegal, or a parent, you
@@ -16026,7 +16027,7 @@ Jorge had to decide on a specific topic. He brainstormed this list of possibilit
 4. Americans' access to public health information
 5. Media portrayal of health care reform bill
 6. Depictions of drugs on television
-7. The effect of the Internet on mental health
+7. The effect of the internet on mental health
 8. Popularized diets (such as low-carbohydrate diets)
 9. Fear of pandemics (bird flu, HINI, SARS)
 10. Electronic entertainment and obesity
@@ -16708,11 +16709,10 @@ article and often allow users to access a summary or even the full text
 of the article.
 
 Print indexes may be available in the periodicals section of your
-library. Increasingly, libraries use online databases that users can
+library. Increasingly, libraries use databases that users can
 access through the library website. A single library may provide access
 to multiple periodical databases. These can range from general news
-databases to specialized databases. Table 11.2 "Commonly Used Indexes
-and Databases" describes some commonly used indexes and databases.
+databases to specialized databases.
 
 #### Table 11.2 Commonly Used Indexes and Databases
 
@@ -16843,7 +16843,7 @@ search for variations on a term. For instance, you might type
 **diabet#** to search for information on diabetes and diabetics. The
 specific symbol used varies with different databases.
 
-Finding and Using Electronic Resources
+#### Finding and Using Electronic Resources
 
 With the expansion of technology and media over the past few decades, a
 wealth of information is available to you in electronic format. Some
@@ -16853,13 +16853,13 @@ newspapers and magazines---may be available in both print and electronic
 form. The following are some of the electronic sources you might
 consult:
 
-- Online databases
+- Databases
 - CD-ROMs
 - Popular web search engines
 - Websites maintained by businesses, universities, nonprofit
 organizations, or government agencies
 - Newspapers, magazines, and journals published on the web
-- E-books
+- Ebooks
 - Audio books
 - Industry blogs
 - Radio and television programs and other audio and video recordings
@@ -17056,12 +17056,12 @@ another, unrelated area. For instance, an author may have an advanced
 degree in physiology, but this credential is not a valid qualification
 for writing about psychology. Check credentials carefully.
 
-Just as important as the author's credibility is the publication's
-overall reputability. Reputability refers to a source's standing and
-reputation as a respectable, reliable source of information. An
-established and well-known newspaper, such as the *New York Times* or
+Just as important as the author's credibility is the publication's 
+reputability. Reputability refers to a source's standing and
+reputation as a respectable, reliable source of information. A 
+well-known newspaper, such as the *New York Times* or
 the *Wall Street Journal*, is more reputable than a college newspaper
-put out by comparatively inexperienced students. A website that is
+put out by students, who are less-experienced. A website that is
 maintained by a well-known, respected organization and regularly updated
 is more reputable than one created by an unknown author or group.
 
@@ -20815,7 +20815,7 @@ presentation.
 
 **Tip**
 
-With the accessibility provided by the Internet, you can find
+With the accessibility provided by the internet, you can find
 interesting and appropriate audio and video with little difficulty.
 However, the clip alone will not sustain the presentation. To keep the
 audience interested and engaged, you must frame the beginning and end of
@@ -21641,7 +21641,7 @@ source information as you proceed.
 
 ### Searching for visuals
 
-You will probably find it most efficient to use the Internet to search
+You will probably find it most efficient to use the internet to search
 for visuals. Many students begin by typing keywords into a search engine
 to locate related images. However, this search technique is not
 necessarily efficient, for several reasons:
@@ -21680,7 +21680,7 @@ Finally, read the site's copyright or terms of use policy---usually
 found at the bottom of the home page---to make sure you may use the
 material.
 
-If you are unable to find what you are looking for on the Internet
+If you are unable to find what you are looking for on the internet
 consider using print sources of visuals. You may choose to mount
 these for display or scan them and include the files into an
 electronic presentation. (Scanning printed pages may lower the quality
@@ -21757,7 +21757,7 @@ checklist.
 
 As you conduct your research, make sure you document sources as you
 proceed. Follow the guidelines when you download images, video, or other
-media from the Internet or capture media from other sources. Keep track
+media from the internet or capture media from other sources. Keep track
 of where you accessed the media and where you can find additional
 information about it. You may also provide a references page at the end
 of the presentation to cite not only media and images but also the
@@ -22338,7 +22338,7 @@ is not required. Instead, focus on summarizing your main points
 concisely and using visuals effectively. If possible, share your
 presentation with a partner and evaluate each other's work.
 
-2. Conduct an Internet search to find examples of strong and weak
+2. Conduct an internet search to find examples of strong and weak
 slideshow presentations. Determine the reasons why each presentation is
 or is not successful. Consider the following elements:
 
@@ -23042,7 +23042,7 @@ effects will be experienced by all.
 >
 >One common effect of video game addiction is isolation and withdrawal
 from social experiences. Video game players often hide in their homes or
-in Internet cafés for days at a time---only reemerging for the most
+in internet cafés for days at a time---only reemerging for the most
 pressing tasks and necessities. The effect of this isolation can lead to
 a breakdown of communication skills and often a loss in socialization.
 While it is true that many games, especially massive multiplayer online
