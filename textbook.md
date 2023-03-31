@@ -4272,23 +4272,24 @@ numbers.
 
 ### In a Formal Greeting
 
-We use a colon after a greeting in a formal business letter, although
-we use a comma after the greeting in a less-formal letter.
+We use a colon after a greeting in a formal business letter. 
 
 > Dear Hiring Manager:
 >
 > To Whom It May Concern:
->  
+
+However, we use a comma after the greeting in a less-formal letter.
+
 > Dear Mom,
 > 
 > To my beloved Janie,
 
 #### Exercise 1
 
-On your own sheet of paper, correct the sentences by adding
-semicolons or colons. 
+On your own sheet of paper, correct each sentence by adding
+semicolons or colons as needed. 
 
-If the sentence does not need a semicolon or colon, write *OK*.
+If the sentence does not need semicolons or colons added, write *OK*.
 
 1. Don't give up you never know what tomorrow brings.
 2. Our records show that the patient was admitted on March 9, 2010
@@ -4306,11 +4307,11 @@ Vonnegut, Miller, and Orwell.
 9. My little sister said what we were all thinking "We should have
 stayed home."
 10. Trust me I have done this before.
-11. 
+
 #### Key Takeaways
 
 - Use a colon to introduce a list, quote, or example.
-- Use a colon after a greeting in business letters and memos.
+- Use a colon after a greeting in formal letters.
 
 ## 3.4 Quotes
 
@@ -4320,9 +4321,13 @@ stayed home."
 2. Correctly use quotes in sentences.
 
 To set off a group of words from the rest of the text, use quotation
-marks: **" "** Use quotation marks to indicate direct quotations of
-another person's words or to indicate a title. Quotation marks always
-appear in pairs.
+marks: **" "** 
+
+Quotation marks always appear in pairs.
+
+The main use of quotation marks is to show that you are giving someone else's exact words.
+We also use them for formatting; we typically put the title of a stand-alone work like a book or a
+movie with italics. 
 
 ### Direct Quotations
 
