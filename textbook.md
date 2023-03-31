@@ -3813,6 +3813,20 @@ correctly.
 
 ## Punctuation
 
+|Name of punctuation mark|Mark|Example|
+|:---|:---|:---|
+|Comma|,|Slowly, I went home.|
+|Semicolon|;|You go left; I will go right.|
+|Colon|:|Two things make me happy: coffee and more coffee.|
+|Quotation marks ("quotes")|" "|Bob said, "Give up and go home."|
+|Apostrophe|'|I can't stand any more.|
+|Parentheses|( )|I wonder why (given what happened) he left.|
+|Dash|---|Without help---or at least a map---they were sure to get lost on the trail.|
+|Hyphen|-|Give me the left-handed scissors.|
+|Period|.|It is time to go. Tomorrow we can return.|
+|Exclamation mark|!|Stop right where you are!|
+|Question mark|?|Did he come home last night?|
+
 ## 3.1 Commas
 
 **Learning Objectives**
