@@ -4206,16 +4206,9 @@ require a comma.
 Another punctuation mark used to indicate a full stop is the colon:
 **:**
 
-Use a colon to introduce lists, quotes, examples, and explanations. You
-can also use a colon after the greeting in business letters and memos.
+Use a colon to introduce lists, quotes, examples, and explanations. 
 
-> Dear Hiring Manager:
->
-> To: Human Resources
->
-> From: Deanna Dean
-
-### Colons to Introduce a List
+### Introducing a List
 
 Use a colon to introduce a list of items. Introduce the list with an
 independent clause.
@@ -4226,30 +4219,25 @@ Maryland.
 > I have to take four classes this semester: Composition,
 Statistics, Ethics, and Italian.
 
-### Colons to Introduce a Quote
+### Introducing a Quote
 
 You can use a colon to introduce a quote.
 
 > Mark Twain said it best: "When in doubt, tell the truth."
 
-If a quote is longer than forty words, skip a line after the colon and
-indent the left margin of the quote five spaces. Because quotations
-longer than forty words use line spacing and indentation to indicate a
-quote, quotation marks are not necessary.
+Especially long quotations are called *block quotations*. They get
+special formatting.
 
-> My father always loved Mark Twain's words:
->
-> There are basically two types of people. People who accomplish things,
-and people who claim to have accomplished things. The first group is
-less crowded.
 
-**Tip**
+In APA style, a block quotation is any quote 40 words or longer
+(*Publication Manual* p. 270). In
+MLA style, a block quotation is any quote that "runs more than four lines
+in your prose" (*MLA Handbook* p. 306).
 
-Long quotations are called block quotations. Block quotations frequently
-appear in longer essays and research papers. For more information about
-block quotations, see **Chapter 11**
+For details of formatting a block quote, check the MLA or APA style websites.
+For more information about block quotations, see **Chapter 11**
 
-### Colons to Introduce Examples or Explanations
+### Introducing a Definition or Examples
 
 Use a colon to introduce an example or to further explain an idea
 presented in the first part of a sentence. The first part of the
@@ -4282,11 +4270,25 @@ numbers.
 
 **Incorrect:** The recipe is simple: Tomato, basil, and avocado.
 
+### In a Formal Greeting
+
+We use a colon after a greeting in a formal business letter, although
+we use a comma after the greeting in a less-formal letter.
+
+> Dear Hiring Manager:
+>
+> To Whom It May Concern:
+>  
+> Dear Mom,
+> 
+> To my beloved Janie,
+
 #### Exercise 1
 
-On your own sheet of paper, correct the following sentences by adding
-semicolons or colons where needed. If the sentence does not need a
-semicolon or colon, write *OK*.
+On your own sheet of paper, correct the sentences by adding
+semicolons or colons. 
+
+If the sentence does not need a semicolon or colon, write *OK*.
 
 1. Don't give up you never know what tomorrow brings.
 2. Our records show that the patient was admitted on March 9, 2010
@@ -4304,10 +4306,10 @@ Vonnegut, Miller, and Orwell.
 9. My little sister said what we were all thinking "We should have
 stayed home."
 10. Trust me I have done this before.
+11. 
 #### Key Takeaways
 
 - Use a colon to introduce a list, quote, or example.
-
 - Use a colon after a greeting in business letters and memos.
 
 ## 3.4 Quotes
