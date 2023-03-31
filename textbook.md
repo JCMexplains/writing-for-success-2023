@@ -5177,11 +5177,7 @@ changing, and \_\_\_\_\_\_\_\_ (it's, its) getting darker earlier.
 
 ### Strategies to Avoid Commonly Confused Words
 
-When writing, you need to choose the correct word according to its
-spelling and meaning in the context. Not only does selecting the correct
-word improve your vocabulary and your writing, but it also makes a good
-impression on your readers. It also helps reduce confusion and improve
-clarity. The following strategies can help you avoid misusing confusing
+These strategies can help you avoid mixing up commonly confused
 words.
 
 1. **Use a dictionary.** Keep a dictionary at your desk while you
