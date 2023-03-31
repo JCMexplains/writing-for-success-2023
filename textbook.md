@@ -4329,8 +4329,6 @@ green, black, and brown or green, brown, and dark red.
 - Use a semicolon to separate items in a list when those items already
 require a comma.
 
-
-
 ## 3.4 Quotes
 
 **Learning Objectives**
@@ -4338,8 +4336,8 @@ require a comma.
 1. Identify the uses of quotes.
 2. Correctly use quotes in sentences.
 
-To set off a group of words from the rest of the text, use quotation
-marks: **" "** 
+To set off a group of words from the rest of the text, use *quotation marks*, more 
+informally known as *quotes*. 
 
 Quotation marks always appear in pairs.
 
@@ -4491,8 +4489,6 @@ roads diverged in a yellow wood?
 1. Identify the uses of apostrophes.
 2. Correctly use apostrophes in sentences.
 
-This punctuation mark is an apostrophe: **'**
-
 The apostrophe is used with a noun to show possession or to indicate
 where a letter has been left out to form a contraction.
 
@@ -4599,12 +4595,8 @@ been left out.
 1. Identify the uses of parentheses.
 2. Properly use parentheses in sentences.
 
-These are parentheses: **( )**
-
-They are always used in pairs and contain material that is secondary to
-the meaning of a sentence. Parentheses must never contain the subject or
-verb of a sentence. A sentence should make sense if you delete any text
-within parentheses and the parentheses.
+Parentheses are always used in pairs. They contain material that is secondary to
+the meaning of a sentence. A sentence should still make sense if you delete the portion in parentheses.
 
 > *Attack of the Killer Potatoes* has to be the worst movie I have seen
 (so far).
@@ -4629,7 +4621,6 @@ about it.
 
 - Parentheses enclose information that is secondary to the meaning of a
 sentence.
-
 - Parentheses are always used in pairs.
 
 ## 3.7 Dashes
@@ -4638,8 +4629,6 @@ sentence.
 
 1. Identify the uses of dashes.
 2. Correctly use dashes in sentences.
-
-This is a dash: **---**
 
 Dashes are used to set off information in a sentence for emphasis.
 
@@ -4666,7 +4655,6 @@ intelligence, dedication, and a strong work ethic.
 #### Key Takeaways
 
 - Dashes indicate a pause in text.
-
 - Dashes set off information in a sentence to show emphasis.
 
 ## 3.8 Hyphens
@@ -4676,7 +4664,7 @@ intelligence, dedication, and a strong work ethic.
 1. Identify the uses of hyphens.
 2. Properly use hyphens in sentences.
 
-A hyphen looks like a dash but it is shorter: **-**
+A hyphen looks like a dash but it is shorter.
 
 ### Hyphens between Two Adjectives That Work as One
 
