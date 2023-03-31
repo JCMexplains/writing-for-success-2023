@@ -26,8 +26,8 @@ Original author removed in 2015 by the University of Minnesota at the request of
     8. Writing Basics: End-of-Chapter Exercises
 3. [Punctuation](#chapter-3)
     1. Commas
-    2. Semicolons
-    3. Colons
+    2. Colons
+    3. Semicolons
     4. Quotes
     5. Apostrophes
     6. Parentheses
@@ -3834,8 +3834,7 @@ correctly.
 1. Identify the uses of commas.
 2. Correctly use commas in sentences.
 
-One of the most common punctuation marks is the comma:
-**,**
+One of the most common punctuation marks is the comma.
 
 A comma a pause in a sentence or
 a separation between things in a list. Commas are used in many ways.
@@ -4139,78 +4138,7 @@ comma comes after the zip code.
 - When you write a letter, you use commas in your greeting at the
 beginning and in your closing at the end of your letter.
 
-## 3.2 Semicolons
-
-**Learning Objectives**
-
-1. Identify the uses of semicolons.
-2. Properly use semicolons in sentences.
-
-Another punctuation mark that you will encounter is the semicolon: **;**
-
-Like most punctuation marks, the semicolon can be used in various ways.
-The semicolon indicates a break in the flow of a sentence, but functions
-differently than a period or a comma. When you encounter a semicolon
-while reading aloud, this represents a good place to pause and take a
-breath.
-
-### Semicolons to Join Two Independent Clauses
-
-Use a semicolon to combine two closely related independent clauses.
-> **Correct**: Be sure to wear clean, well-pressed clothes to the
-interview; appearances are important. 
-
-Using a period to separate closely related clauses is not
-a grammar error, but it sounds choppy. 
-> **Correct but choppy-sounding**: Be sure to wear clean, well-pressed clothes to the interview. Appearances are important. 
-
-Using a comma does create an error: a run-on sentence.
-> **Incorrect**: Be sure to wear clean, well-pressed clothes to the interview, appearances are important.
-
-### Semicolons to Join Items in a List
-
-You can also use a semicolon to join items in a list when the items in
-the list already require commas. Semicolons help the reader distinguish
-between items in the list.
-
-> **Correct:** The color combinations we can choose from are black, white,
-and grey; green, brown, and black; or red, green, and brown.
-
-> **Incorrect:** The color combinations we can choose from are black,
-white, and grey, green, brown, and black, or red, green, and brown.
-
-By using semicolons in this sentence, the reader can easily distinguish
-between the three sets of colors.
-
-**Tip**
-
-Use semicolons to join two main clauses. 
-
-Do not use semicolons with
-coordinating conjunctions such as *and*, *or*, and *but*.
-
-#### Exercise 1
-
-On your own sheet of paper, correct the following sentences by adding
-semicolons. If the sentence is correct as it is, write *OK*.
-
-1. I did not notice that you were in the office I was behind the front
-desk all day.
-2. Do you want turkey, spinach, and cheese roast beef, lettuce, and
-cheese or ham, tomato, and cheese?
-3. Please close the blinds there is a glare on the screen.
-4. Unbelievably, no one was hurt in the accident.
-5. I cannot decide if I want my room to be green, brown, and purple
-green, black, and brown or green, brown, and dark red.
-6. Let's go for a walk the air is so refreshing.
-
-#### Key Takeaways
-
-- Use a semicolon to join two independent clauses.
-- Use a semicolon to separate items in a list when those items already
-require a comma.
-
-## 3.3 Colons
+## 3.2 Colons
 
 **Learning Objectives**
 
@@ -4326,6 +4254,82 @@ stayed home."
 
 - Use a colon to introduce a list, quote, or example.
 - Use a colon after a greeting in formal letters.
+
+## 3.3 Semicolons
+
+**Learning Objectives**
+
+1. Identify the uses of semicolons.
+2. Properly use semicolons in sentences.
+
+Another punctuation mark that you will encounter is the semicolon.
+
+The prefix *semi-* means "partial" or "half". So a *semicolon* is a half-colon.
+At the top it looks like a colon; at the bottom it looks like a comma.
+
+Like most punctuation marks, the semicolon can be used in various ways.
+The semicolon indicates a break in the flow of a sentence, but functions
+differently than a period or a comma. When you encounter a semicolon
+while reading aloud, this represents a good place to pause and take a
+breath.
+
+### Semicolons to Join Two Independent Clauses
+
+Use a semicolon to combine two closely related independent clauses.
+> **Correct**: Be sure to wear clean, well-pressed clothes to the
+interview; appearances are important. 
+
+Using a period to separate closely related clauses is not
+a grammar error, but it sounds choppy. 
+> **Correct but choppy-sounding**: Be sure to wear clean, well-pressed clothes to the interview. Appearances are important. 
+
+Using a comma does create an error: a run-on sentence.
+> **Incorrect**: Be sure to wear clean, well-pressed clothes to the interview, appearances are important.
+
+### Semicolons to Join Items in a List
+
+You can also use a semicolon to join items in a list when the items in
+the list already require commas. Semicolons help the reader distinguish
+between items in the list.
+
+> **Correct:** The color combinations we can choose from are black, white,
+and grey; green, brown, and black; or red, green, and brown.
+
+> **Incorrect:** The color combinations we can choose from are black,
+white, and grey, green, brown, and black, or red, green, and brown.
+
+By using semicolons in this sentence, the reader can easily distinguish
+between the three sets of colors.
+
+**Tip**
+
+Use semicolons to join two main clauses. 
+
+Do not use semicolons with
+coordinating conjunctions such as *and*, *or*, and *but*.
+
+#### Exercise 1
+
+On your own sheet of paper, correct the following sentences by adding
+semicolons. If the sentence is correct as it is, write *OK*.
+
+1. I did not notice that you were in the office I was behind the front
+desk all day.
+2. Do you want turkey, spinach, and cheese roast beef, lettuce, and
+cheese or ham, tomato, and cheese?
+3. Please close the blinds there is a glare on the screen.
+4. Unbelievably, no one was hurt in the accident.
+5. I cannot decide if I want my room to be green, brown, and purple
+green, black, and brown or green, brown, and dark red.
+6. Let's go for a walk the air is so refreshing.
+
+#### Key Takeaways
+
+- Use a semicolon to join two independent clauses.
+- Use a semicolon to separate items in a list when those items already
+require a comma.
+
+
 
 ## 3.4 Quotes
 
