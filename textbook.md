@@ -12478,10 +12478,10 @@ helps readers because it makes your ideas easier to grasp.
 
 #### Sentences with unnecessary modifiers.
 
-**Wordy:** Two extremely famous and well-known consumer advocates spoke
+> **Wordy:** Two extremely famous and well-known consumer advocates spoke
 eloquently in favor of the proposed important legislation.
-
-**Revised:** Two well-known consumer advocates spoke in favor of the
+>
+> **Revised:** Two well-known consumer advocates spoke in favor of the
 proposed legislation.
 
 #### Sentences with deadwood phrases that add little to the meaning.
