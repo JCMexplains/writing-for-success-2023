@@ -12170,7 +12170,9 @@ conclusion in **Chapter
 decided, as the final touch for her writing session, to add an engaging
 title.
 
-![](image38.jpeg "Thesis statement: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. Working Title: Digital Technology: The Newest and the Best at What Price?")
+> **Thesis statement**: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. 
+>
+> **Working Title**: Digital Technology: The Newest and the Best but at What Price?
 
 #### Writing Your Own First Draft
 
