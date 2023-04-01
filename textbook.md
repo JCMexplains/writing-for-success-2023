@@ -8564,26 +8564,26 @@ In other words, a summary paragraph should be short and clear.
 
 Here is a sample three-paragraph report on alcohol and drug use among high school students:
 
-![](image12.jpeg "A sample three-paragraph report on alcohol and drug use among high school students")
+![](image12.jpeg "A sample three-paragraph report on alcohol and drug use among high school students.")
 
 A summary of the report should present all the main points but in fewer words. 
 Here is a summary of the report
 above written by a student:
 
-![](image13.jpeg "A student's two-paragraph summary of the report")
+![](image13.jpeg "A student's two-paragraph summary of the report: Brown et al. tell us that by tenth grade, nearly two-thirds of students have tried alcohol at least once. By twelfth grade this figure increases to over three-quarters of students. After high school, drinking increases further: college-aged students have the highest levels of drinking and alcohol dependence of any age group. Drinking varies according to gender, race, geographic location, and socioeconomic status. Some of these trends may reverse in early adulthood. For example, youth with lower socioeconomic status are more likely to drink during high school, while youth with higher socioeconomic status are more likely to drink after high school.")
 
-Notice how the summary retains the key points made by the writers of the
-original report but omits most of the numbers. Summaries should not include
-all the details from the original;
-they provide only an overview of the essential information.
+Notice how the summary keeps the key points from the
+original report but leaves out most of the numbers. 
+
+The key to writing a good summary is deciding which information is essential and which
+you can leave out.
 
 There is another kind of writing called *paraphrasing* which we won't discuss
 in detail here. When you paraphrase, you rewrite an original in your 
 own words, but you try to keep nearly all of the original's information.
 
-A paraphrase will be about the same length as the original. A summary,
-by contrast,
-should always be significantly shorter than its original.
+A paraphrase will be about the same length as the original. A summary
+should be much shorter than the original.
 
 ### Analysis
 
