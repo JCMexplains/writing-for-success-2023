@@ -3863,7 +3863,7 @@ You may notice a comma that appears near the beginning of the sentence,
 usually after a word or phrase. This comma lets the reader know where
 the introductory word or phrase ends and the main sentence begins.
 
-Without spoiling the surprise, we need to tell her to save the date.
+> Without spoiling the surprise, we need to tell her to save the date.
 
 In this sentence, *without spoiling the surprise* is an introductory
 phrase, while *we need to tell her to save the date* is the main
@@ -3871,7 +3871,7 @@ sentence. Notice how they are separated by a comma. When only an
 introductory word appears in the sentence, a comma also follows the
 introductory word.
 
-Ironically, she already had plans for that day.
+> Ironically, she already had plans for that day.
 
 #### Exercise 1
 
@@ -4188,10 +4188,10 @@ sentence must always be an independent clause; that is, it must stand
 alone as a complete thought with a subject and verb. Do not use a colon
 after phrases like *such as* or *for example*.
 
-**Correct:** Our company offers many publishing services: writing,
+> **Correct:** Our company offers many publishing services: writing,
 editing, and reviewing.
 
-**Incorrect:** Our company offers many publishing services, such as:
+> **Incorrect:** Our company offers many publishing services, such as:
 writing, editing, and reviewing.
 
 **Tip**
@@ -4201,17 +4201,17 @@ beginning of a quote, or the first letter of another independent clause.
 Do NOT capitalize if the information following the colon is not a
 complete sentence.
 
-**Proper noun:** We visited three countries: Belize, Honduras, and
+> **Proper noun:** We visited three countries: Belize, Honduras, and
 El Salvador.
 
-**Beginning of a quote:** My mother loved this line from *Hamlet*:
+> **Beginning of a quote:** My mother loved this line from *Hamlet*:
 "To thine own self be true."
 
-**Two independent clauses:** There are drawbacks to modern
+> **Two independent clauses:** There are drawbacks to modern
 technology: My brother's cell phone died and he lost a lot of phone
 numbers.
 
-**Incorrect:** The recipe is simple: Tomato, basil, and avocado.
+> **Incorrect:** The recipe is simple: Tomato, basil, and avocado.
 
 ### In a Formal Greeting
 
@@ -4354,9 +4354,9 @@ quotation marks. An indirect quotation is a restatement of what someone
 said or wrote. An indirect quotation does not use the person's exact
 words. You do not need to use quotation marks for indirect quotations.
 
-**Direct quotation:** Carly said, "I'm not ever going back there again."
+> **Direct quotation:** Carly said, "I'm not ever going back there again."
 
-**Indirect quotation:** Carly said that she would never go back there.
+> **Indirect quotation:** Carly said that she would never go back there.
 
 #### Writing at Work
 
@@ -4390,16 +4390,16 @@ will want to identify who is speaking. You can do this at the beginning,
 middle, or end of the quote. Notice the use of commas and capitalized
 words.
 
-**Beginning:** Madison said, "Let's stop at the farmers market to
+> **Beginning:** Madison said, "Let's stop at the farmers market to
 buy some fresh vegetables for dinner."
 
-**Middle:** "Let's stop at the farmers market," Madison said,
+> **Middle:** "Let's stop at the farmers market," Madison said,
 "to buy some fresh vegetables for dinner."
 
-**End:** "Let's stop at the farmers market to buy some fresh vegetables
+> **End:** "Let's stop at the farmers market to buy some fresh vegetables
 for dinner," Madison said.
 
-**Speaker not identified:** "Let's stop at the farmers market to buy
+> **Speaker not identified:** "Let's stop at the farmers market to buy
 some fresh vegetables for dinner."
 
 Always capitalize the first letter of a quote even if it is not the
@@ -4412,21 +4412,21 @@ placed *after* commas and periods. Place quotation marks after question
 marks and exclamation points only if the question or exclamation is part
 of the quoted text.
 
-**Question is part of quoted text:** The new employee asked, "When
+> **Question is part of quoted text:** The new employee asked, "When
 is lunch?"
 
-**Question is not part of quoted text:** Did you hear her say you were
+> **Question is not part of quoted text:** Did you hear her say you were
 "the next Picasso"?
 
-**Exclamation is part of quoted text:** My supervisor beamed,
+> **Exclamation is part of quoted text:** My supervisor beamed,
 "Thanks for all of your hard work!"
 
-**Exclamation is not part of quoted text:** He said I
+> **Exclamation is not part of quoted text:** He said I
 "single-handedly saved the company thousands of dollars"!
 
 ### Quotations within Quotations
 
-Use single quotation marks **' '** to show a quotation within in a
+Use single quotation marks **' '** to show a quotation inside of another
 quotation.
 
 > Theresa said, "I wanted to take my dog to the festival, but the man
@@ -4440,9 +4440,10 @@ mean?"
 ### Titles
 
 Use quotation marks around titles of short works of writing, such as
-essays, songs, poems, short stories, and chapters in books. Usually,
-titles of longer works, such as books, magazines, albums, newspapers,
-and novels, are italicized.
+essays, songs, poems, short stories, and chapters in books. 
+
+(Titles of longer works, such as books, magazines, albums, newspapers,
+and novels, are *italicized*.)
 
 "Annabelle Lee" is one of my favorite romantic poems.
 
