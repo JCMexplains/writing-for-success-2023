@@ -12472,10 +12472,9 @@ helps readers because it makes your ideas easier to grasp.
 
 #### Sentences that begin with *There is* or *There are*.
 
-**Wordy:** There are two major experiments that the Biology Department
-sponsors.
-
-**Revised:** The Biology Department sponsors two major experiments.
+> **Wordy:** There are two major experiments that are sponsored by the Biology Department.
+>
+> **Revised:** The Biology Department sponsors two major experiments.
 
 #### Sentences with unnecessary modifiers.
 
@@ -12492,39 +12491,30 @@ Avoid phrases such as *in terms of*, *with a mind to*,
 as. . .is concerned*, and similar expressions. You can usually find a more
 straightforward way to state your point.
 
-**Wordy:** As a world leader in the field of green technology, the
+> **Wordy:** As a world leader in the field of green technology, the
 company plans to focus its efforts in the area of geothermal energy.
-
-A report as to whether or not to use geysers as an energy source is in
-the process of preparation.
-
-**Revised:** As a world leader in green technology, the company plans to
+>
+> **Revised:** As a world leader in green technology, the company plans to
 focus on geothermal energy.
-
-A report about using geysers as an energy source is in preparation.
 
 #### Sentences in the passive voice
 
 Sentences in the passive voice are harder to understand, most of the time,
 even do not always have more words than the active-voice versions.
 
-**Less good:** People are helped by doctors.
+>**Less good:** People are helped by doctors.
+>
+>**Revised:** Doctors help people.
 
-**Revised:** Doctors help people.
-
-**Less good:** Mistakes were made.
-
-**REvised**: I made mistakes.
+>**Less good:** Mistakes were made.
+>
+>**Revised**: I made mistakes.
 
 #### Sentences with constructions that can be shortened.
 
-**Wordy:** 
-
-My over-sixty uncle bought a Kindle, and his wife bought a Kindle too.
-
-**Revised:** 
-
-My over-sixty uncle and his wife both bought Kindles.
+> **Wordy:** My over-sixty uncle bought a Kindle, and his wife bought a Kindle too.
+>
+> **Revised:** My over-sixty uncle and his wife both bought Kindles.
 
 #### Exercise 3
 
@@ -12591,7 +12581,7 @@ Two words may have the same **meaning** ("denotation") but a different **emotion
 
 Often as a teacher, my students have confused me when they choose a word with the wrong connotation. I had a student who wrote, "Florida is making a hasty move to legalize marijuana." *Hasty* means "fast, but with a bad connotation." It means Florida is moving *too fast* to legalize marijuana.
 
-The student didn't realize this. They thought that "hasty" just meant "fast." In fact, they though Florida wasn't moving fast enough: they wanted Florida to legalize marijuana as fast as possible. But because they chose the one wrong word "hasty," I misunderstood their point for nearly their entire essay.
+The student didn't realize this. They thought that "hasty" just meant "fast." In fact, they thought Florida wasn't moving fast enough: they wanted Florida to legalize marijuana as fast as possible. But because they chose the one wrong word "hasty," I misunderstood their point for nearly their entire essay.
 
 #### Use specific words
 
