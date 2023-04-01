@@ -12172,7 +12172,7 @@ title.
 
 > **Thesis statement**: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. 
 >
-> **Working Title**: Digital Technology: The Newest and the Best but at What Price?
+> **Working Title**: Digital Technology: The Newest and the Best at What Price?
 
 #### Writing Your Own First Draft
 
