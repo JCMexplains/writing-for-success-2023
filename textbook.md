@@ -12584,8 +12584,15 @@ dictionary.
 
 Choosing a word for its
 connotations is important in all
-kinds of writing. Compare the positive connotations of the word *proud*
-and the negative connotations of *arrogant* and *conceited*.
+kinds of writing. 
+
+Two words may have the same **meaning** ("denotation") but a different **vibe** ("connotation" or "valence").
+
+|Word | Meaning (denotation) | Vibe (connotation) |Explanation|
+|:---|:---|:---|:---|
+|*proud*|a person who thinks they are good at something|positive|If I say "you are proud of your gymnastics," I am praising you|
+|*arrogant*|a person who thinks they are good at something|negative|If I say "you are arrogant about your gymnastics," I am being criticizing you|
+
 
 #### Use specific words rather than overly general words.
 
