@@ -10280,20 +10280,21 @@ next week, lives in Seattle.
 
 Relative clauses are a useful way of providing additional 
 information in a sentence. Look at how Naomi might add
-relative clauses to her essay.
+relative clauses to her paragraph.
 
-![](image17.jpeg "The subprime mortgage crisis, WHICH HAD BEEN STEADILY BUILDING THROUGHOUT 2007 AND 2008, left many financial institutions in jeopardy. Some economists, WHO FAVORED THE BAILOUT, argued that the banks were too big to fail. Other economists, WHO OPPOSED THE BAILOUT, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
+> The subprime mortgage crisis, WHICH HAD BEEN STEADILY BUILDING THROUGHOUT 2007 AND 2008, left many financial institutions in jeopardy. Some economists, WHO FAVORED THE BAILOUT, argued that the banks were too big to fail. Other economists, WHO OPPOSED THE BAILOUT, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.
 
-Notice how the underlined relative clauses can be removed from Naomi's
+Notice how the relative clauses can be removed from Naomi's
 essay without changing the meaning of the sentence.
 
 **Tip**
 
-To check the punctuation of relative clauses, assess whether or not the
-clause can be taken out of the sentence without changing its meaning. If
-the relative clause is not essential to the meaning of the sentence, it
-should be placed in commas. If the relative clause is essential to the
-meaning of the sentence, it does not require commas around it.
+To check the punctuation of relative clauses, ask whether the
+clause can be taken out without changing the basic meaning of the sentence. 
+
+If the relative clause can be taken out, it
+needs commas. If the relative clause is essential to the
+meaning, it does not need commas.
 
 ### Joining Ideas Using an Appositive
 
@@ -10326,7 +10327,7 @@ Unlike relative clauses, appositives are always punctuated by a comma or
 a set of commas. Look at the way Naomi uses appositives to
 include additional facts in her essay.
 
-![](image18.jpeg "The subprime mortgage crisis, THE BIGGEST FINANCIAL DISASTER SINCE THE 1929 WALL STREET CRASH, left many financial institutions in jeopardy. Some economists argued that the banks were too big to fail. Other economists argued that an infusion of credit and debt would exacerbate the problem. The government, THE INSTITUTION THAT WOULD DECIDE THE FATE OF THE BANKS, finally opted to bail them out. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
+> The subprime mortgage crisis, THE BIGGEST FINANCIAL DISASTER SINCE THE 1929 WALL STREET CRASH, left many financial institutions in jeopardy. Some economists argued that the banks were too big to fail. Other economists argued that an infusion of credit and debt would exacerbate the problem. The government, THE INSTITUTION THAT WOULD DECIDE THE FATE OF THE BANKS, finally opted to bail them out. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.
 
 #### Exercise 4
 
