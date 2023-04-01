@@ -10260,10 +10260,10 @@ function as adjectives by answering questions such as *which one?* or
 *what kind?* Relative clauses begin with a relative pronoun, such as
 *who*, *which*, *where*, *why*, or *when*. Read the following examples:
 
-**Original sentences:** The managing director is visiting the company
+> **Original sentences:** The managing director is visiting the company
 next week. He lives in Seattle.
 
-**Revised sentence:** The managing director, who lives in Seattle, is
+> **Revised sentence:** The managing director, who lives in Seattle, is
 visiting the company next week.
 
 To connect two sentences using a relative clause, substitute the subject
@@ -10275,14 +10275,14 @@ reversing the main clause and subordinate clause in the preceding
 sentence emphasizes where the managing director lives, not the fact that
 he is visiting the company.
 
-**Revised sentence:** The managing director, who is visiting the company
+> **Revised sentence:** The managing director, who is visiting the company
 next week, lives in Seattle.
 
-Relative clauses are a useful way of providing additional, nonessential
-information in a sentence. Look at how Naomi might include
-relative clauses into her essay.
+Relative clauses are a useful way of providing additional 
+information in a sentence. Look at how Naomi might add
+relative clauses to her essay.
 
-![](image17.jpeg "The subprime mortgage crisis, WHICH HAD BEEN STEADILY BUILDING THROUGHOUT 2007 AND 2008, left many financial institutions in jeopardy. Some economists, WHO FAVORED THE BAILOUT, argued that the banks were too big to fail. Other economists, WHO OPPOSED THE BAILOUT, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008 The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
+![](image17.jpeg "The subprime mortgage crisis, WHICH HAD BEEN STEADILY BUILDING THROUGHOUT 2007 AND 2008, left many financial institutions in jeopardy. Some economists, WHO FAVORED THE BAILOUT, argued that the banks were too big to fail. Other economists, WHO OPPOSED THE BAILOUT, argued that an infusion of credit and debt would exacerbate the problem. The government finally opted to bail out the banks. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.")
 
 Notice how the underlined relative clauses can be removed from Naomi's
 essay without changing the meaning of the sentence.
