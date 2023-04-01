@@ -12580,19 +12580,18 @@ Some examples are *allusion/illusion*,
 *founder/flounder*, and *historic/historical*. When in doubt, check a
 dictionary.
 
-#### Choose words with the emotional vibe you want
+#### Choose words with the emotional impact you want
 
-Two words may have the same **meaning** ("denotation") but a different **vibe** ("connotation" or "valence"). 
+Two words may have the same **meaning** ("denotation") but a different **emotion** ("connotation" or "valence"). 
 
-|Word | Meaning (denotation) | Vibe (connotation) |Explanation|
+|Word | Meaning (denotation) | Emotion (connotation) |Explanation|
 |:---|:---|:---|:---|
 |*proud*|a person who thinks they are good at something|positive|If I say "you are proud of your gymnastics," I am praising you|
 |*arrogant*|a person who thinks they are good at something|negative|If I say "you are arrogant about your gymnastics," I am  criticizing you|
 
-Often as a teacher, my students have confused me when they choose a word with the wrong connotation. I had a student who write, "Florida is making a hasty move to legalize marijuana." But that doesn't just mean
-Florida is moving fast. *Hasty* means "fast, but with a bad connotation." It means Florida is moving *too fast* to legalize marijuana.
+Often as a teacher, my students have confused me when they choose a word with the wrong connotation. I had a student who wrote, "Florida is making a hasty move to legalize marijuana." *Hasty* means "fast, but with a bad connotation." It means Florida is moving *too fast* to legalize marijuana.
 
-The student didn't realize this. They thought that "hasty" just meant "fast," and in fact they wanted Florida to legalize marijuana as fast as possible. Because they chose the one wrong word "hasty," I misunderstood their point for nearly their entire essay.
+The student didn't realize this. They thought that "hasty" just meant "fast." In fact, they though Florida wasn't moving fast enough: they wanted Florida to legalize marijuana as fast as possible. But because they chose the one wrong word "hasty," I misunderstood their point for nearly their entire essay.
 
 #### Use specific words
 
