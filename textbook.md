@@ -12817,17 +12817,15 @@ for anything you missed.
 
 ### Formatting
 
-Remember to use proper format when creating your finished assignment.
-Sometimes an instructor, a department, or a college will require
-students to follow specific instructions on titles, margins, page
-numbers, or the location of the writer's name. These requirements may be
-more detailed and rigid for research projects and term papers, which
-often observe the American Psychological Association (APA) or Modern
-Language Association (MLA) style guides, especially when citations of
-sources are included.
+Remember to use proper format for your assignments.
 
-To ensure the format is correct and follows any specific instructions,
-make a final check before you submit an assignment.
+The most important person to check with is always the instructor for your
+class. Sometimes they will have specific rules they set themselves; other times,
+their department or their college will have specific rules.
+
+In general, many assignments will need to follow either APA or MLA format, which are discussed
+in detail in **Chapter 13**. But your instructor is always the best person
+to check with.
 
 #### Exercise 7
 
