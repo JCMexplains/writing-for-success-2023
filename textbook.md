@@ -12532,13 +12532,13 @@ Now return once more to the first draft of the essay you have been
 revising. Check it for unnecessary words. Try making your sentences as
 concise as they can be.
 
-### Choosing Specific, Appropriate Words
+### Choosing the Best Words
 
 Most college essays should be written in formal English. For more
 information about word choice, see **Chapter
 4**.
 
-#### Avoid slang.
+#### Avoid slang
 
 Slang is informal language. Groups regularly invent their own slang,
 and slang is always changing. There are always new slang terms for *good*
@@ -12548,14 +12548,14 @@ Prefer words that everyone knows and that have been around for a long time.
 Say *good* instead of *groovy* (from the 1960s) or *rad* (from the 1980s)
 or any more recent slang term for *good*.
 
-#### Avoid language that is too casual
+#### Avoid casual language
 
 The term *cool* has been around so long that it can't be considered slang.
 Everyone knows what it means. But it is too relaxed for college writing.
 Don't say "The article we read was cool." Try "The article we read
 was impressive" instead.
 
-#### Avoid contractions.
+#### Avoid contractions
 
 This is one that English teachers disagree about. Your
 2023 reviser, Jamie Martin, thinks this rule is silly. But
@@ -12565,7 +12565,7 @@ off for them.
 So to be safe, use *do not* in place of *don't*, *I am* in
 place of *I'm*, *have not* in place of *haven't*, and so on.
 
-#### Avoid clichés.
+#### Avoid clichés
 
 Avoid clichés such as *green with envy*, *face
 the music*, and *better late than never*.
@@ -12573,14 +12573,14 @@ the music*, and *better late than never*.
 The classic essay on the danger of clichés is "Politics and the English Language"
 by George Orwell, from 1946. Google it for a vivid argument against clichés.
 
-#### Be careful when you use words that sound alike but have different meanings.
+#### Be careful with words that sound alike
 
 Some examples are *allusion/illusion*,
 *complement/compliment*, *council/counsel*, *concurrent/consecutive*,
 *founder/flounder*, and *historic/historical*. When in doubt, check a
 dictionary.
 
-**Choose words with the connotations you want.** 
+#### Choose words with the emotional vibe you want
 
 Choosing a word for its
 connotations is important in all
@@ -12591,10 +12591,9 @@ Two words may have the same **meaning** ("denotation") but a different **vibe** 
 |Word | Meaning (denotation) | Vibe (connotation) |Explanation|
 |:---|:---|:---|:---|
 |*proud*|a person who thinks they are good at something|positive|If I say "you are proud of your gymnastics," I am praising you|
-|*arrogant*|a person who thinks they are good at something|negative|If I say "you are arrogant about your gymnastics," I am criticizing you|
+|*arrogant*|a person who thinks they are good at something|negative|If I say "you are arrogant about your gymnastics," I am  criticizing you|
 
-
-#### Use specific words rather than overly general words.
+#### Use specific words
 
 Find synonyms for *thing*, *people*, *nice*, *good*, *bad*, *interesting*, and other
 vague words. Or use specific details to make your exact meaning clear.
