@@ -959,16 +959,15 @@ Below are note-taking techniques that are popular with many students. Try one of
 My own favorite is the Cornell note-taking system; it offers a built-in way to review
 your notes.
 
-#### Modified Outline Format
+#### Modified Outline
 
-A modified outline format uses indenting to show layers of
+A modified outline uses **indenting** to show layers of
 ideas. 
 
-We call it a "modified" outline format because it is simpler than the
-more formal outline format for a paper that we will discuss in **Chapter 11**.
+We call it a "modified" outline because it is simpler than the formal outline that we will discuss in **Chapter 11**.
 
-The first example shows Crystal's notes from a developmental psychology
-class about an important theorist in this field. 
+The example shows Crystal's notes from a developmental psychology
+lecture about Jean Piaget, a very famous figure. 
 
 Notice how the line for
 the major point is all the way to the left. Smaller ideas are indented, and
