@@ -10325,14 +10325,14 @@ expected to win the race.
 
 Unlike relative clauses, appositives are always punctuated by a comma or
 a set of commas. Look at the way Naomi uses appositives to
-include additional facts in her essay.
+include additional facts in her paragraph.
 
 > The subprime mortgage crisis, THE BIGGEST FINANCIAL DISASTER SINCE THE 1929 WALL STREET CRASH, left many financial institutions in jeopardy. Some economists argued that the banks were too big to fail. Other economists argued that an infusion of credit and debt would exacerbate the problem. The government, THE INSTITUTION THAT WOULD DECIDE THE FATE OF THE BANKS, finally opted to bail them out. It acquired $700 billion worth of mortgage-backed securities in 2008. The government optimistically expects these assets will rise in value. This will profit both the banks and the government itself.
 
 #### Exercise 4
 
-On your own sheet of paper, rewrite the following sentence pairs as one
-sentence using the techniques you have learned in this section.
+On your own sheet of paper, rewrite each sentence pair as a single
+sentence using the techniques from this section.
 
 1. Baby sharks are called pups. Pups can be born in one of three ways.
 2. The Pacific Ocean is the world's largest ocean. It extends from the
@@ -10386,10 +10386,10 @@ with related ideas:
 Connecting sentences with coordinate or subordinate clauses creates more
 coherent paragraphs, and in turn, produces more effective writing. In
 this section, you will read excerpts from Naomi's classmate named
-Joshua, who drafted an essay about wine production. Read this excerpt
+Joshua, who drafted an essay about wine production. Read this paragraph
 from Joshua's essay.
 
-![](image19.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
+> When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.
 
 This section examines several ways to combine sentences with
 coordination and subordination, using Joshua's essay as an example.
@@ -10449,13 +10449,13 @@ semicolon usage). A conjunctive adverb is a linking word that
 demonstrates a relationship between two clauses. Read the following
 sentences:
 
-**Original sentences:** Bridget wants to take part in the next Olympics.
+> **Original sentences:** Bridget wants to take part in the next Olympics.
 She trains every day.
 
 Since these sentences contain two equal and related ideas, they may be
 joined using a conjunctive adverb. Now, read the revised sentence:
 
-**Revised sentence:** Bridget wants to take part in the next Olympics;
+> **Revised sentence:** Bridget wants to take part in the next Olympics;
 therefore, she trains every day.
 
 The revised sentence explains the relationship between Bridget's desire
@@ -10489,16 +10489,16 @@ examples of how they are used:
 || subsequently| She finished her work, and subsequently, she went to the gym.|
 || then| First, we need to get the supplies, then we can start the project.|
 
-Look at Joshua's essay on wine production and identify some areas
+Look again at the paragraph from Joshua's essay on wine production and identify some areas
 where he might use coordination.
 
-![](image19.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
+> When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.
 
-Now look at Joshua's revised essay. Did you coordinate the same
+Now look at Joshua's revised paragraph. Did you coordinate the same
 sentences? You may find that your answers are different because there
 are several ways to join two independent clauses.
 
-![](image21.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. THE STEMS ARE REMOVED, FOR THEY CONTAIN HARSH-TASTING TANNINS. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. IT PREVENTS THE LIQUID FROM BECOMING OXIDIZED AND ALSO DESTROYS BACTERIA. SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES; HOWEVER, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.")
+> When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. THE STEMS ARE REMOVED, FOR THEY CONTAIN HARSH-TASTING TANNINS. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. IT PREVENTS THE LIQUID FROM BECOMING OXIDIZED AND ALSO DESTROYS BACTERIA. SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES; HOWEVER, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.
 
 #### Exercise 1
 
@@ -10586,16 +10586,16 @@ are used:
 | Reason| because, since, so that  | Because the air conditioning was turned up so high, everyone wore a sweater. |
 | Time| after, before, while, once, when | After the meeting had finished, we all went to lunch.|
 
-Look at the excerpt from Joshua's essay and identify some areas
-in which he might use subordination.
+Look again at the original excerpt from Joshua's essay and identify some areas
+where he might use subordination.
 
-![](image19.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
+> When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. The stems are removed. They contain harsh-tasting tannins. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. Here, sulfur dioxide is added. It prevents the liquid from becoming oxidized. It also destroys bacteria. Some winemakers carry out the fermenting process by using yeast that is naturally present on the grapes. Many add a yeast that is cultivated in a laboratory.")
 
-Now look at Joshua's revised essay and compare your answers. You will
+Now look at Joshua's revised paragraph and compare your answers. You will
 probably notice that there are many different ways to subordinate
 sentences.
 
-![](image23.jpeg "When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. BECAUSE THE STEMS CONTAIN HARSH-TASTING TANNINS, THEY ARE REMOVED. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. HERE, SULFUR DIOXIDE IS ADDED IN ORDER TO PREVENT THE LIQUID FROM BECOMING OXIDIZED. Sulfur dioxide also destroys bacteria. ALTHOUGH SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.")
+> When the red grapes arrive at the winery, they are destemmed and crushed. The liquid that is left is made up of skins, seeds, and juice. BECAUSE THE STEMS CONTAIN HARSH-TASTING TANNINS, THEY ARE REMOVED. Once the grapes are destemmed and crushed, the liquid is pumped into a fermentation container. HERE, SULFUR DIOXIDE IS ADDED IN ORDER TO PREVENT THE LIQUID FROM BECOMING OXIDIZED. Sulfur dioxide also destroys bacteria. ALTHOUGH SOME WINEMAKERS CARRY OUT THE FERMENTING PROCESS BY USING YEAST THAT IS NATURALLY PRESENT ON THE GRAPES, MANY ADD A YEAST THAT IS CULTIVATED IN A LABORATORY.
 
 #### Exercise 2
 
@@ -10620,7 +10620,7 @@ Then edit using the techniques you have learned in this section. Join
 the underlined sentences using coordination or subordination. Check your
 revised sentences for punctuation.
 
-![](image24.jpeg "THE YEAST IS ADDED TO THE MUST. ALCOHOLIC FERMENTATION THEN BEGINS. Here, the red wind production process differs from the method used in white wine production. RED WINE IS FERMENTED FOR A SHORTER TIME. IT IS FERMENTED AT A HIGHER TEMPERATURE. Whereas white wines may ferment for over a month, red wines typically ferment for less than two weeks. DURING FERMENTATION, CONTACT BETWEEN THE SKINS AND THE JUICE RELEASES TANNINS AND FLAVOR COMPOUNDS INTO THE MUST. THIS PROCESS IS KNOWN AS MACERATION. Maceration may occur before, during, or after fermentation. THE FERMENTATION PROCESS IS COMPLETED. THE NEXT STAGE IS PRESSING. Many methods are used for pressing, the most common of which is basket pressing.")
+> THE YEAST IS ADDED TO THE MUST. ALCOHOLIC FERMENTATION THEN BEGINS. Here, the red wind production process differs from the method used in white wine production. RED WINE IS FERMENTED FOR A SHORTER TIME. IT IS FERMENTED AT A HIGHER TEMPERATURE. Whereas white wines may ferment for over a month, red wines typically ferment for less than two weeks. DURING FERMENTATION, CONTACT BETWEEN THE SKINS AND THE JUICE RELEASES TANNINS AND FLAVOR COMPOUNDS INTO THE MUST. THIS PROCESS IS KNOWN AS MACERATION. Maceration may occur before, during, or after fermentation. THE FERMENTATION PROCESS IS COMPLETED. THE NEXT STAGE IS PRESSING. Many methods are used for pressing, the most common of which is basket pressing.
 
 #### Key Takeaways
 
