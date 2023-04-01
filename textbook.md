@@ -12162,13 +12162,11 @@ of the entire essay. Like the headline in a newspaper or the big, bold
 title in a magazine, an essay's title gives the audience a first peek at
 the content. If readers like the title, they are likely to keep reading.
 
-Following her outline carefully, Mariah crafted each paragraph of her
+Following her outline, Mariah wrote each paragraph of her
 essay. Moving step by step in the writing process, Mariah finished the
-draft and even included a brief concluding paragraph. You will read her
-conclusion in **Chapter
-9**. She then
-decided, as the final touch for her writing session, to add an engaging
-title.
+draft and even included a brief conclusion, which you will read in **Chapter 9**. 
+
+Finally, she added an engaging title.
 
 > **Thesis statement**: Everyone wants the newest and the best digital technology, but the choices are many, and the specifications are often confusing. 
 >
