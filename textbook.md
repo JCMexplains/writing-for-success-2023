@@ -19288,28 +19288,27 @@ indent five spaces again in the first line of the second paragraph.
 
 **Tip**
 
-Be wary of quoting from sources at length. Remember, your ideas should
-drive the paper, and quotations should be used to support and enhance
-your points. Make sure any lengthy quotations that you include serve a
-clear purpose. Generally, no more than 10 to 15 percent of a paper should
-consist of quoted material.
+Don't quote too much. Your ideas and your words should
+drive the paper.
+
+Generally, no more than 10 to 15 percent of a paper should
+consist of quoted material. Some professors will give you a specific maximum percentage of quotes to use.
 
 ### Introducing Cited Material Effectively
 
 Including an introductory phrase in your text, such as "Jackson wrote"
 or "Copeland found," often helps you integrate source material smoothly.
-This citation technique also helps convey that you are actively engaged
-with your source material. Unfortunately, during the process of writing
+
+Unfortunately, during the process of writing
 your research paper, it is easy to fall into a rut and use the same few
 dull verbs repeatedly, such as "Jones said," "Smith stated," and so on.
 
 Punch up your writing by using strong verbs that help your reader
 understand how the source material presents ideas. There is a world of
 difference between an author who "suggests" and one who "claims," one
-who "questions" and one who "criticizes." You do not need to consult
-your thesaurus every time you cite a source, but do think about which
-verbs will accurately represent the ideas and make your writing more
-engaging. The following chart shows some possibilities.
+who "questions" and one who "criticizes." 
+
+The following chart shows some possibilities.
 
 | Strong Verbs for Introducing Cited Material|||
 |---|---|---|
@@ -19330,7 +19329,6 @@ your sentence.
 
 1. Highlight the verbs used in your signal phrases, and make note of
 any that seem to be overused throughout the paper.
-
 2. Identify at least three places where a stronger verb could be used.
 3. Make the edits to your draft.
 
@@ -19413,64 +19411,42 @@ are different.
 
 #### A Work by Two Authors
 
-When two authors are listed for a given work, include both authors'
-names each time you cite the work. If you are citing their names in
-parentheses, use an ampersand (&) between them. (Use the word *and*,
-however, if the names appear in your sentence.)
+When a work has two authors, include both authors' names. 
+
+In a narrative citation, use the word *and* between the two authors' names:
 
 > As Garrison and Gould (2010) pointed out, "It is never too late to quit
 > smoking. The health risks associated with this habit begin to decrease
 > soon after a smoker quits" (p. 101).
 
+In a parenthetical citation, use the character *&* (an "ampersand") between the two authors' names:
+
 > As doctors continue to point out, "It is never too late to quit smoking.
 > The health risks associated with this habit begin to decrease soon after
 > a smoker quits" (Garrison & Gould, 2010, p. 101).
 
-#### A Work by Three to Five Authors
+#### A Work by Three or More Authors
 
-If the work you are citing has three to five authors, list all the
-authors' names the first time you cite the source. In subsequent
-citations, use the first author's name followed by the abbreviation et
-al. 
+If the work you are citing has three or more authors, include only the first author's name followed by the Latin phrase et al., unless this is not enough to distinguish one source from another.
 
-*Et al.* is short for *et alia*, the Latin phrase for "and
-others."
+Et al. is short for *et alia*, the Latin phrase for "and others." Typically, we put foreign phrases in *italics*, but APA uses et al. so often that we leave it in regular font.
 
-> Henderson, Davidian, and Degler (2010) 
-> surveyed 350 smokers aged 18 to 30.
+This rule for three or more authors is an update in APA 7; version 6 and earlier had different rules for 3-5 authors and 6 or more authors. 
 
-> One survey, conducted among 350 smokers aged 18 to 30, included a
-> detailed questionnaire about participants' motivations for smoking
-> (Henderson, Davidian, & Degler, 2010).
+> Henderson et al. (2010) surveyed 350 smokers aged 18 to 30.
 
-Note that these examples follow the same ampersand conventions as
-sources with two authors. Again, use the ampersand only when listing
-authors' names in parentheses.
+> One survey, conducted among 350 smokers aged 18 to 30, included a 
+> questionnaire about participants' motivations for smoking
+> (Henderson et al., 2010).
 
-> As Henderson et al. (2010) found, some young people, particularly young
-> women, use smoking as a means of appetite suppression.
+Note how the phrase et al. is punctuated. No period comes after et,
+but al. gets a period because it is an abbreviation. 
 
-> Disturbingly, some young women use smoking as a means of appetite
-> suppression (Henderson et al., 2010).
-
-Note how the phrase *et al.* is punctuated. No period comes after *et*,
-but *al.* gets a period because it is an abbreviation for a longer Latin
-word. 
-
-In parenthetical references, include a comma after *et al.* but
+In parenthetical references, include a comma after et al. but
 not before. Remember this rule by mentally translating the citation to
 English: "Henderson and others, 2010."
 
-#### A Work by Six or More Authors
-
-If the work you are citing has six or more authors, list only the first
-author's name, followed by *et al.*, in your in-text citations. The
-other authors' names will be listed in your references section.
-
-> Researchers have found that outreach work with young people has helped
-> reduce tobacco use in some communities (Costello et al., 2007).
-
-#### A Work Authored by an Organization
+#### A Work by an Organization
 
 When citing a work that has no individual author(s) but is published by
 an organization, use the organization's name in place of the author's
