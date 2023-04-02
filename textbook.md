@@ -19130,10 +19130,10 @@ Reference entries include the following four elements:
 - Title.
 - Source.
 
-The details of what goes in each of the four parts depend on the kind of source; for example,
+The details for each of the parts depend on the kind of source. For example,
 dates in APA style often include only the year, but sometimes will be more specific.
 
-Entries should be in alphabetical order by author's last name. 
+Entries should be in alphabetical order by author's last name. If there is no author, use the title instead.
 
 Entries should have a **hanging indent**, which is the opposite of a typical indent:
 instead of the first line being pushed to the right by .5 inches, the first line
@@ -19179,7 +19179,7 @@ to introduce quoted and paraphrased material effectively. Keep this
 section handy as a reference to consult while writing the body of your
 paper.
 
-### Formatting Cited Material: The Basics
+### In-Text Citations: The Basics
 
 As noted in previous sections of this book, in-text citations usually
 provide the name of the author(s) and the year the source was published.
@@ -19187,28 +19187,29 @@ For direct quotations, the page number must also be included. Use
 past-tense verbs when introducing a quote---"Smith found. . ." and not
 "Smith finds. . .".
 
-#### Formatting Brief Quotations
+#### Brief Quotations
 
-In APA format, a brief quotation is a quote fewer than 40 words long. In MLA format, a brief quotation is a quote that takes up 
+In APA format, a brief quotation is a quote fewer than 40 words long. In MLA format, a brief quotation is a quote that takes up four or fewer lines.
 
-For brief quotations use quotation marks to
-indicate where the quoted material begins and ends, and cite the name of
-the author(s), the year of publication, and the page number where the
-quotation appears in your source. Remember to include commas to separate
-elements within the parenthetical citation. Also, avoid redundancy. If
-you name the author(s) in your sentence, do not repeat the name(s) in
-your parenthetical citation. Review following the examples of different
-ways to cite direct quotations.
+For brief quotations, 
+- use quotation marks to indicate where the quote begins and ends 
+- give the name of the author(s) 
+- give the year of publication, and 
+- give the page number
+
+Here are some examples: 
 
 > Chang (2008) emphasized that "engaging in weight-bearing exercise
 > consistently is one of the single best things women can do to maintain
 > good health" (p. 49).
 
-The author's name can be included in the body of the sentence or in the
-parenthetical citation. Note that when a parenthetical citation appears
+The author's name can be included in the body of the sentence or in the citation. 
+
+Note that when a citation appears
 at the end of the sentence, it comes **after** the closing quotation
-marks and **before** the period. The elements within parentheses are
-separated by commas.
+marks and **before** the period. 
+
+In APA format, the elements within parentheses are separated by commas.
 
 > *Weight Training for Women* (Chang, 2008) claimed that "engaging in
 > weight-bearing exercise consistently is one of the single best things
@@ -19220,7 +19221,7 @@ separated by commas.
 
 Including the title of a source is optional.
 
-In Chang's 2008 text *Weight Training for Women*, she asserts, "Engaging
+> In Chang's 2008 text *Weight Training for Women*, she asserts, "Engaging
 in weight-bearing exercise is one of the single best things women can do
 to maintain good health" (p. 49).
 
@@ -19228,20 +19229,16 @@ The author's name, the date, and the title may appear in the body of the
 text. Include the page number in the parenthetical citation. Also,
 notice the use of the verb *asserts* to introduce the direct quotation.
 
-"Engaging in weight-bearing exercise," Chang asserts, "is one of the
+> "Engaging in weight-bearing exercise," Chang asserts, "is one of the
 single best things women can do to maintain good health" (2008, p. 49).
 
 You may begin a sentence with the direct quotation and add the author's
 name and a strong verb before continuing the quotation.
 
-#### Formatting Paraphrased and Summarized Material
+#### Paraphrases or Summaries
 
-When you paraphrase or summarize ideas from a source, you follow the
-same guidelines previously provided, except that you are not required to
-provide the page number where the ideas are located. If you are summing
-up the main findings of a research article, simply providing the
-author's name and publication year may suffice, but if you are
-paraphrasing a more specific idea, consider including the page number.
+When you paraphrase or summarize ideas from a source, you do not need to
+give the page number.
 
 Read the following examples.
 
@@ -19262,20 +19259,19 @@ number where the information is located.
 
 **Tip**
 
-Although APA style guidelines do not require writers to provide page
-numbers for material that is not directly quoted, your instructor may
-wish you to do so when possible.
+Although APA style does not require a page
+number for a paraphrase or a summary, your instructor may
+wish you to include one. Check with your instructor for their preference.
 
-Check with your instructor about his or her preferences.
+#### Block Quotations
 
-#### Formatting Longer Quotations
+A longer quote is called a *block quotation*. For APA, a block quote is any quote of 40 words or more.
 
-When you quote a longer passage from a source---forty words or
-more---use a different format to set off the quoted material. Instead of
-using quotation marks, create a block quotation by starting the
-quotation on a new line and indented five spaces from the margin. Note
-that in this case, the parenthetical citation comes **after** the period
-that ends the sentence.
+Block quotes look different from brief quotes:
+
+- start them on a new line
+- indent each line by .5 inches (the same distance you indent the first line of an ordinary paragraph)
+- if (part of) your citation appears at the end, it should come **after** the period
 
 #### Exercise 1
 
