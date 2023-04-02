@@ -3827,6 +3827,15 @@ correctly.
 |Exclamation mark|!|Stop right where you are!|
 |Question mark|?|Did he come home last night?|
 
+Text can also be written in different styles. Although these styles are not technically punctuation, students don't always know what they look like, so here is a chart of the most common ones.
+
+|Name of text style|Example|
+|:---|:---|
+|Italics|*Italics are slanted letters that look like this*|
+|Bold|**Bold is strong letters that look like this**|
+|Underline|Underlined text has a line drawn beneath it. You have probably seen it before, but the markdown language used to write this book can't display it.|
+|Strikethrough|~Strikethrough text has a line through the middle of it like this~|
+
 ## 3.1 Commas
 
 **Learning Objectives**
@@ -19634,33 +19643,23 @@ for websites, and so forth.
 
 **Learning Objective**
 
-1. Apply American Psychological Association (APA) style and formatting
-guidelines for a references section.
+1. Apply American Psychological Association (APA) style to create a References section.
 
-This section provides detailed information about how to create the
-references section of your paper. You will review basic formatting
-guidelines and learn how to format bibliographical entries for various
-types of sources. This section of **Chapter 13**, like the
-previous section, is meant to be used as a reference tool while you
-write.
+This section describes how to create the References section of your paper. 
 
-### Formatting the References Section: The Basics
+### Starting the References Section
 
-At this stage in the writing process, you may already have begun setting
-up your references section. This section may consist of a single page
-for a brief research paper or may extend for many pages in professional
-journal articles. As you create this section of your paper, follow the
-guidelines provided here.
+With your cursor at the end of your paper, use the *Insert Page Break* command to start a new page. Do **not** hit Enter multiple times. If you do that, your References section will end up in the wrong place if you add or subtract text from the body of your paper.
 
-#### Formatting the References Section
+With *Insert Page Break*, your References section will always start at the top of a new page.
 
-To set up your references section, use the insert page break feature of
-your word-processing program to begin a new page. Note that the header
-and margins will be the same as in the body of your paper, and
-page numbering continues from the body of your paper. (In other words, if
-you set up the body of your paper correctly, the correct header and page
-number should appear automatically in your references section.) See
-additional guidelines below.
+Center your cursor, type "References," and bold it.
+
+Move to the next line. Left-align your cursor. Add a "hanging indent." This is the reverse of an ordinary indent: rather than pushing the first line of a paragraph *in*, it pushes the first line of the paragraph *out*. 
+
+Your layout should look like this:
+
+![](image55.jpeg "First page of an APA References section")
 
 #### Formatting Reference Entries
 
