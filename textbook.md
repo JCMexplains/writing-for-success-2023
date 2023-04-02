@@ -19538,9 +19538,11 @@ Often, you will be asked to cite them by part rather than by page; the reason is
 > separate from its "latent content," or hidden meaning (trans. 1965,
 > lecture XXIX).
 
-Here, the student is citing a lecture by Freud that was written in German; the particular version the student is using was translated to English in 1965. Since the book is a
+Here, the student is citing a lecture by Freud that was written in German; the particular version the student is using was translated to English in 1965. 
+
+Since the book is a
 collection of Freud's lectures, the student cites the lecture number
-(using the Roman numeral XXIX, equivalent to the Arabic numeral 29) rather than a page number.
+ rather than a page number. They use the Roman numeral XXIX, equivalent to the Arabic numeral 29.
 
 #### An Introduction, Foreword, Preface, or Afterword
 
