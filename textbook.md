@@ -19031,12 +19031,12 @@ All these components must be saved as one document, not separately.
 The title page of a student APA paper should include (*Publication Manual* p. 30):
 
 - Title of the paper
-- Author's name
+- Author's name (also called the *byline*)
 - Affiliation (name of the school you study at)
 - Course number and name
 - Instructor name
 - Assignment due date
-- Page number (also included on all pages)
+- Page number (included on all pages)
 
 Your title page should look like the following example.
 
@@ -19046,16 +19046,12 @@ Your title page should look like the following example.
 
 Use these general guidelines to format the paper:
 
-1. Set the margins of your paper at 1 inch.
-2. Double-space all the text.
-3. Use a standard font, such as Times New Roman or Arial, in a legible
-size (10- to 12-point).
-4. Use continuous page numbering throughout the paper, including the title
-page and the references section. Page numbers appear flush right
-within your header.
-5. Section headings in your text use different formatting depending on the level of
-information you are presenting.
+1. Double-space all the text.
+2. Use a standard font in a standard size. Common fonts include Times New Roman, Arial, and Calibri. Common sizes are 10-, 11-, or 12-point.
+3. Number every page of your paper, starting with the number 1 on the title page and going right through to the last page of your References section. (We specify this because some rules use different kinds of numbers for different sections, or restart the numbering when you get to a new section. APA doesn't.)
+4. In a student paper, you will probably use only one level of heading. But APA allows up to five levels. See below for formatting of each level of heading.
 
+The margins for your paper should be 1 inch on all four sides. However, nearly every word processor should do this by default.
 
 #### Exercise 1
 
