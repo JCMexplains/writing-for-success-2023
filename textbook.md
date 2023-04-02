@@ -19134,10 +19134,10 @@ A reference entry is intended to provide enough information about a source for y
 
 Reference entries include the following four elements:
 
-- Author.
-- Date.
-- Title.
-- Source.
+- Author
+- Date
+- Title
+- Source
 
 The details for each of the parts depend on the kind of source. For example,
 dates in APA style often include only the year, but sometimes will be more specific.
@@ -19303,7 +19303,7 @@ drive the paper.
 Generally, no more than 10 to 15 percent of a paper should
 consist of quoted material. Some professors will give you a specific maximum percentage of quotes to use.
 
-### Introducing Cited Material Effectively
+### Introducing Cited Material
 
 Including an introductory phrase in your text, such as "Jackson wrote"
 or "Copeland found," often helps you integrate source material smoothly.
@@ -19665,49 +19665,41 @@ Your layout should look like this:
 
 Reference entries should include the following information:
 
-- The name of the author(s)
-- The year of publication and, where applicable, the exact date of
-publication
-- The full title of the source
-- For books, the city of publication
-- For articles or essays, the name of the periodical or book in which the
-article or essay appears
-- For magazine and journal articles, the volume number, issue number, and
-pages where the article appears
-- For sources on the web, the URL where the source is located
+- Author
+- Date
+- Title
+- Source
 
-See the following examples for how to format a book or journal article
-with a single author.
+What these four entries look like depends on the kind of entry.
 
-Sample Book Entry
+For example, most academic articles written by professors appear in a special scholarly journal called a "peer-reviewed journal". The idea is that only another professor of (for example) electronic engineering can decide whether your article about electronic engineering is good enough to be published. So your article must pass a "peer review" before it can appear.
 
-![](image64.jpeg "Sample Book Entry")
+Scholarly journals are published (usually) in one *volume* per year. So if you are reading an article in *Electronic Engineering volume 30*, you know that it was most likely published in the 30th year the journal has been in operation. 
 
-Sample Journal Article Entry
+Within each volume, a journal will have several *issues*. Most journals publish 3 or 4 issues per year/volume.
+
+Journals also have page numbers. Often a journal will number all its pages for a single volume straight through. So if you are reading the 4th issue of Electronic Engineering volume 30, the first page of that issue might start with the number 750.
+
+This is also why page numbers in journal article entries are sometimes very high. With a regular book, the page number 2092 would probably be a typo, but for the article by Ebbeling et al. on our sample References page above, it is correct.
+
+Here is a sample journal article entry for an article called "Fraud in the lunchroom?". It was written by an author named D. N. Bass in 2010. It was from volume 10, issue 1 of a journal called *Education Next*. It appeared on pages 67-71 of that issue.
 
 ![](image65.jpeg "Sample Journal Article Entry")
 
-The following box provides general guidelines for formatting the
-reference page. For the remainder of this chapter, you will learn about
-how to format bibliographical entries for different source types,
-including multiauthor and electronic sources.
+Here is a sample entry for a book:
+
+![](image64.jpeg "Sample Book Entry")
+
+Here is how to organize and captialize your reference entries:
 
 #### Formatting the References Section: APA General Guidelines
 
-1. Include the heading *References*, centered at the top of the page.
-The heading should not be boldfaced, italicized, or underlined.
-2. Use double-spaced type throughout the references section, as in the
-body of your paper.
-3. Use hanging indentation for each entry. The first line should be
-flush with the left margin, while any lines that follow should be
-indented five spaces. Note that hanging indentation is the opposite of
-normal indenting rules for paragraphs.
 4. List entries in alphabetical order by the author's last name. For a
 work with multiple authors, use the last name of the first author
 listed.
 5. List authors' names using this format: Smith, J. C.
 6. For a work with no individual author(s), use the name of the
-organization that published the work or, if this is unavailable, the
+group that published the work or, if this is unavailable, the
 title of the work in place of the author's name.
 7. For works with multiple authors, follow these guidelines:
     1. For works with up to seven authors, list the last name and initials for each author.
