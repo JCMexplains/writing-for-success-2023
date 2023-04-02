@@ -19368,7 +19368,7 @@ source directly.
 > Chang (2008) pointed out that weight-bearing exercise has many potential
 > benefits for women.
 
-#### Two or More Works by the Same Author
+#### Multiple by the Same Author
 
 Your research may include multiple works by the same author.
 If the works were published in different years, a standard in-text
@@ -19510,7 +19510,7 @@ In that case, name the source you want to write about (Rosenhan). Then, in paren
 > said they were having hallucinations and wanted treatment---even
 > though these patients were actors who were only faking it.
 
-#### Two or More Works Cited in One Reference
+#### Multiple Works in One Reference
 
 You may provide more than one citation in a parenthetical
 reference, such as when you are discussing related works or studies with
@@ -19524,28 +19524,23 @@ Both of these researchers authored works that support the point being
 made in this sentence, so it makes sense to include both in the same
 citation.
 
-#### A Famous Text That Has Had Many Editions
+#### A Famous Text That Has Many Editions
 
-You may need to cite an extremely well-known work that
-has been repeatedly republished or translated. 
+You may need to cite an extremely well-known work with many editions. An example would be the Bible, the Odyssey, or the works of Sigmund Freud. 
 
-Many works of literature
-and sacred texts, as well as some classic nonfiction texts, fall into
-this category. For these works, the original date of publication may be
-unavailable. If so, include the year of publication or translation for
-your edition. Refer to specific parts or chapters if you need to cite a
-specific section. Discuss with your instructor whether he or she would
-like you to cite page numbers in this particular instance.
+Some of these, like the Bible or the Odyssey, have no known first year of publication.
+
+Often, you will be asked to cite them by part rather than by page; the reason is that the parts stay the same through all editions while the pages may change.
+
 
 > In *New Introductory Lectures on Psycho-Analysis*, Freud explains that
 > the "manifest content" of a dream---what literally takes place---is
 > separate from its "latent content," or hidden meaning (trans. 1965,
 > lecture XXIX).
 
-Here, the student is citing a classic work of psychology, originally
-written in German and later translated to English. Since the book is a
+Here, the student is citing a lecture by Freud that was written in German; the particular version the student is using was translated to English in 1965. Since the book is a
 collection of Freud's lectures, the student cites the lecture number
-rather than a page number.
+(using the Roman numeral XXIX, equivalent to the Arabic numeral 29) rather than a page number.
 
 #### An Introduction, Foreword, Preface, or Afterword
 
@@ -19553,16 +19548,7 @@ To cite an introduction, foreword, preface, or afterword, cite the
 author of the material and the year, following the same format used for
 other print materials.
 
-#### Electronic Sources
-
-Whenever possible, cite electronic sources as you would print sources,
-using the author, the date, and where appropriate, a page number. For
-some types of electronic sources---for instance, many online
-articles---this information is easily available. Other times, however,
-you will need to vary the format to reflect the differences in online
-media.
-
-#### Online Sources without Page Numbers
+#### Sources Without Page Numbers
 
 If an online source has no page numbers but you want to refer to a
 specific portion of the source, try to locate other information you can
