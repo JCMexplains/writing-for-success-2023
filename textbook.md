@@ -18983,18 +18983,16 @@ Here are some other popular styles:
 |AP (Associated Press)|Used by professional journalists|
 
 Style rules can be challenging! But with patience, you can follow them:
-Unlike with many aspects of an argumentative research paper,
-these style rules do offer correct answers. There is no one
+Unlike with many aspects of an argumentative research paper, style rules do offer correct answers. There is no one
 answer to whether marijuana should be legal, but there is one
 answer to how you should format the headers in your APA-style paper.
 
 There are three benefits of following a style:
-- it builds your credibility, making your paper look polished
+- it builds your credibility by making your paper look polished
 - it gives credit to those whose ideas you are using
 - it lets your readers find the sources you used for themselves
 
-The process requires attention. However, you
-can simplify it if you keep these guidelines in mind:
+The process requires attention. Keep these guidelines in mind:
 
 1. Work ahead. **Chapter 11** has tips for
 keeping track of your sources early in your research, which will
@@ -19051,7 +19049,7 @@ Use these general guidelines to format the paper:
 3. Number every page of your paper, starting with the number 1 on the title page and going right through to the last page of your References section. (We specify this because some rules use different kinds of numbers for different sections, or restart the numbering when you get to a new section. APA doesn't.)
 4. In a student paper, you will probably use only one level of heading. But APA allows up to five levels. See below for formatting of each level of heading.
 
-The margins for your paper should be 1 inch on all four sides. However, nearly every word processor should do this by default.
+Also, the margins for your paper should be 1 inch on all four sides. However, nearly every word processor should do this by default.
 
 #### Exercise 1
 
@@ -19082,24 +19080,17 @@ Manual of the American Psychological Association*, published in 2020.
 
 #### In-Text Citations
 
-Include a citation whenever you quote
-or paraphrase material from a source. 
-Citations give credit to others for their
-ideas and to allow your reader to follow up and learn more. 
-Your in-text citations provide basic information about
-your source; each source you cite will have a longer entry in the
-references section that provides more detailed information.
+Include an in-text citation whenever you quote, paraphrase, or summarize a source. *In-text* means that it appears in the body of your paper; your reader will see it as they are reading along.
+
+Your in-text citations provide only **basic** information about
+your source. Each source you cite will have a longer entry later on in the
+References section.
 
 In-text citations give the name(s) of the author(s) and the
-year the source was published. 
+year the source was published. If you are quoting the source, you must also include the page number.
 
-When directly quoting
-a source, it is also required that you include the page number where the
-quote appears in your citation.
-
-This information may be included either within the sentence or at the end of the sentence.
-When the information appears in the sentence, APA calls it a *narrative citation.* When the
-info appears at the end of the sentence, APA calls it a *parenthetical citation*.
+The in-text citation may appear either within the sentence or at the end of the sentence.
+When it is in the sentence, APA calls it a *narrative citation.* When it is at the end of the sentence, APA calls it a *parenthetical citation*.
 
 #### The two kinds of in-text citation
 
@@ -19107,8 +19098,9 @@ info appears at the end of the sentence, APA calls it a *parenthetical citation*
 |:---|:---|
 |Epstein (2010) points out that junk food is not addictive in the same way that drugs are.|Addiction researchers caution that junk food is not addictive in the same way that drugs are (Epstein, 2010).|
 
-In APA style, we often care about ideas of a source more than its exact words. The APA's *Publication Manual* says, "It is best to paraphrase sources . . . rather than directly quoting them because paraphrasing allows you to fit material to the context of your paper and writing style" (p. 270).
-MLA style takes the opposite view and prefers quotations for precision. 
+In APA style, we often care about the idea we take from a source more than the exact words of the source. The APA's *Publication Manual* says, "It is best to paraphrase sources . . . rather than directly quoting them because paraphrasing allows you to fit material to the context of your paper and writing style" (p. 270).
+
+MLA style takes the opposite view and prefers quotations for precision. This makes sense. Remember that the MLA is a group of English professors. They study poems and novels where the authors chose each word very carefully.
 
 However, even in APA style, you will 
 still sometimes use quotes from sources. When you do, you must include a page number.
@@ -19120,7 +19112,7 @@ still sometimes use quotes from sources. When you do, you must include a page nu
 There are many ways to format in-text citations to make them work best with your sentence. For
 more details, see the *Publication Manual* or https://apastyle.apa.org/. 
 
-### References
+### Your Bibliography: The References Section
 
 Your in-text citations connect to a special section at the end of your paper. 
 
@@ -19129,8 +19121,7 @@ This special section is is what is known as a **bibliography**. It is a list of 
 In APA style, the bibliography is called *References*. In MLA style, the
 bibliography is called *Works Cited*. 
 
-A reference entry provides much more information than an in-text citation: enough for your
-reader to find the source and read it.
+A reference entry is intended to provide enough information about a source for your reader to find it if they want to learn more. It will always be longer than the in-text citation for the same source.
 
 Reference entries include the following four elements:
 
@@ -19198,7 +19189,9 @@ past-tense verbs when introducing a quote---"Smith found. . ." and not
 
 #### Formatting Brief Quotations
 
-For brief quotations---fewer than forty words---use quotation marks to
+In APA format, a brief quotation is a quote fewer than 40 words long. In MLA format, a brief quotation is a quote that takes up 
+
+For brief quotations use quotation marks to
 indicate where the quoted material begins and ends, and cite the name of
 the author(s), the year of publication, and the page number where the
 quotation appears in your source. Remember to include commas to separate
