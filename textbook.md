@@ -19501,7 +19501,7 @@ You may use only the first few words if you are using a parenthetical reference.
 
 It is always best to find the actual source you want to cite from. But sometimes you can't; sometimes you will only be able to find a source that quotes another source, and it's the other, quoted source that you want to use.
 
-For example, say you want to write about a study by Rosenhan called "On Being Sane in Insane Place," but you can only find it discussed in a book by Spitzer from 1975.
+For example, say you want to write about a study by Rosenhan called "On Being Sane in Insane Places," but you can only find it discussed in a book by Spitzer from 1975.
 
 In that case, name the source you want to write about (Rosenhan). Then, in parentheses, write *as cited in* and the second source (Spitzer).
 
