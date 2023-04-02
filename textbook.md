@@ -19446,17 +19446,24 @@ In parenthetical references, include a comma after et al. but
 not before. Remember this rule by mentally translating the citation to
 English: "Henderson and others, 2010."
 
-#### A Work by an Organization
+#### A Work by a Group
 
-When citing a work that has no individual author(s) but is published by
-an organization, use the organization's name in place of the author's
-name. Lengthy organization names with well-known abbreviations can be
-abbreviated. In your first citation, use the full name, followed by the
-abbreviation in square brackets. Subsequent citations may use the
-abbreviation only.
+Some works do not name a person as they author; instead, they only give the name of the group that published them. 
+
+One example is the APA *Publication Manual*. The names of the authors do not appear on the cover, although they are included in an introduction to give them credit.
+
+Government reports are often the same: they will usually be credited to the agency that put them out, not to the individual people who worked on them.
+
+When citing a work like this, use the group's name for the author. 
+
+If the group's name is long, give it in full the first time and follow it with an abbreviation. Later citations may use the abbreviation only.
+
+First citation to a pamphlet by the American Heart Association: 
 
 > It is possible for a patient to have a small stroke without even
 > realizing it (American Heart Association \[AHA\], 2010).
+
+Second citation to the pamphlet:
 
 > Another cause for concern is that even if patients realize that they
 > have had a stroke and need medical attention, they may not know which
@@ -19465,26 +19472,27 @@ abbreviation only.
 #### Exercise 3
 
 1. Review the places in your paper where you cited material from a
-source with multiple authors or with an organization as the author.
-Edit your citations to ensure that each citation follows APA
+source with multiple authors or with a group as the author.
+Ensure that each citation follows APA
 guidelines for the inclusion of the authors' names, the use of
-ampersands and *et al.*, the date of publication, and, where
+ampersands and et al., the date of publication, and, where
 appropriate, a page reference.
 
-2. Mark any additional citations within your paper that you are not
-sure how to format based on the guidelines provided so far. You
-will revisit these citations after reading the next few sections.
+2. Mark any remaining citations within your paper that you are not
+sure how to format yet. You
+will revisit them after reading the next few sections.
 
-#### A Work with No Listed Author
+#### A Work with No Known Author
 
-If no author is listed and the source cannot be attributed to an
-organization, use the title in place of the author's name. You may use
+If no author is listed---neither a person nor a group---use the title in place of the author's name. You may use
 the full title in your sentence or use the first few words---enough to
 convey the key ideas---in a parenthetical reference. Follow standard
 conventions for using italics or quotations marks with titles:
 
 Use italics for titles of books or reports.
+
 Use quotation marks for titles of articles or chapters.
+
 > "Living With Diabetes: Managing Your Health" (2009) recommends regular
 > exercise for patients with diabetes.
 
@@ -19615,7 +19623,7 @@ potentially useful information. Provide as much specific information as
 possible to achieve that goal, and consult with your professor as to
 what specific style he or she may prefer.
 
-Exercise 4
+#### Exercise 4
 
 Revisit the problem citations you identified in **Exercise 3**---for
 instance, sources with no listed author or other oddities. Review the
@@ -19625,10 +19633,8 @@ kinds of sources according to APA guidelines.
 #### Key Takeaways
 
 - In APA papers, in-text citations include the name of the author(s) and
-the year of publication whenever possible.
-- Page numbers are always included when citing quotations. It is optional
-to include page numbers when citing paraphrased material; however, this
-should be done when citing a specific portion of a work.
+the year of publication.
+- Page numbers are included when quoting. Page numbers are optional when summarizing or paraphrasing; however, you should include them when citing a specific portion of a work.
 - When citing online sources, provide the same information used for print
 sources if it is available.
 - When a source does not provide information that usually appears in a
@@ -19636,8 +19642,7 @@ citation, in-text citations should provide readers with alternative
 information that would help them locate the source material. This may
 include the title of the source, section headings and paragraph numbers
 for websites, and so forth.
-- When writing a paper, discuss with your professor what particular
-standards he or she would like you to follow.
+- Ask your professor whether they have particular standards they want you to follow.
 
 ## 13.3 Creating a References Section
 
