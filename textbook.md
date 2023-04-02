@@ -2721,7 +2721,7 @@ with consistent tense and one with inconsistent tense.
 
 **Tip**
 
-In some cases, clear communication will call for different tenses. Look
+Clear communication may call for different tenses. Look
 at this example:
 
 > When I was a teenager, I **wanted** to be a fire fighter, 
@@ -18916,7 +18916,7 @@ presence or absence of bias.
 
 4. Different professional communities develop their own standards about
 the writing style people in that community use when creating documents
-to share with others. In some cases, these standards may apply to a very
+to share with others. These standards may apply to a very
 broad group of professionals---for example, researchers in many
 different social sciences use APA style in academic writing. MLA style
 is commonly used in the humanities, including English classes. In other
@@ -19370,7 +19370,7 @@ source directly.
 
 #### Two or More Works by the Same Author
 
-At times, your research may include multiple works by the same author.
+Your research may include multiple works by the same author.
 If the works were published in different years, a standard in-text
 citation will serve to distinguish them. If you are citing multiple
 works by the same author published in the same year, include a lowercase
@@ -19512,7 +19512,7 @@ In that case, name the source you want to write about (Rosenhan). Then, in paren
 
 #### Two or More Works Cited in One Reference
 
-At times, you may provide more than one citation in a parenthetical
+You may provide more than one citation in a parenthetical
 reference, such as when you are discussing related works or studies with
 similar results. List the citations in the same order they appear in
 your references section, and separate the citations with a semicolon.
@@ -19524,10 +19524,12 @@ Both of these researchers authored works that support the point being
 made in this sentence, so it makes sense to include both in the same
 citation.
 
-#### A Famous Text Published in Multiple Editions
+#### A Famous Text That Has Had Many Editions
 
-In some cases, you may need to cite an extremely well-known work that
-has been repeatedly republished or translated. Many works of literature
+You may need to cite an extremely well-known work that
+has been repeatedly republished or translated. 
+
+Many works of literature
 and sacred texts, as well as some classic nonfiction texts, fall into
 this category. For these works, the original date of publication may be
 unavailable. If so, include the year of publication or translation for
@@ -19951,7 +19953,7 @@ number from your reference entry.
 
 #### An Abstract of a Scholarly Article
 
-At times you may need to cite an abstract---the summary that appears at
+You may need to cite an abstract---the summary that appears at
 the beginning---of a published article. If you are citing the abstract
 only, and it was published separately from the article, provide the
 following information:
@@ -21481,7 +21483,7 @@ text. A caption is a brief, one- to two-sentence description or
 explanation of a visual image. Make sure your captions are clear,
 accurate, and to the point. Use full sentences when you write them.
 
-Captions should always be used with photographs, and in some cases, they
+Captions should always be used with photographs, and they
 can be useful for clarifying informational graphics, which represent
 qualitative data visually. However, informational graphics may not
 require a caption if the title and labels are sufficiently clear. For
