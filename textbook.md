@@ -19484,24 +19484,18 @@ will revisit them after reading the next few sections.
 
 #### A Work with No Known Author
 
-If no author is listed---neither a person nor a group---use the title in place of the author's name. You may use
-the full title in your sentence or use the first few words---enough to
-convey the key ideas---in a parenthetical reference. Follow standard
-conventions for using italics or quotations marks with titles:
+If no author is listed---neither a person nor a group---use the title in place of the author's name.
 
-Use italics for titles of books or reports.
-
-Use quotation marks for titles of articles or chapters.
+Use the full title if you give it in your sentence: 
 
 > "Living With Diabetes: Managing Your Health" (2009) recommends regular
 > exercise for patients with diabetes.
 
+You may use only the first few words if you are using a parenthetical reference.
+
 > Regular exercise can benefit patients with diabetes ("Living with
 > Diabetes," 2009).
 
-> Rosenhan (1973) had mentally healthy study participants claim to be
-> experiencing hallucinations so they would be admitted to psychiatric
-> hospitals.
 
 #### A Work Cited within Another Work
 
