@@ -11526,7 +11526,7 @@ a problem, I could write a thesis saying, "Piracy will make it impossible
 for even very famous musicians to make much money from their music."
 
 The first thesis you write will a *working* thesis 
-That means you might change it later. You will need it to plan
+That means you might change it later. You will need it to plan your
 essay. 
 
 As you continue to work and research, you are likely to revise your thesis.
@@ -11596,16 +11596,15 @@ The indention helps clarify how the ideas are related.
 
 **Tip**
 
-In an outline, any supporting detail can be developed with subpoints.
-For simplicity, the model shows them only under the first main point.
+Formal outlines are rigid in their organization.  
 
-**Tip**
+If there is a roman numeral I for your first main, there must be a roman numeral II for a second main point. If you have only one main point, you don't need the roman numerals in the first place.
 
-Formal outlines are often quite rigid in their organization. As many
-instructors will specify, you cannot subdivide one point if it is only
-one part. For example, for every roman numeral I, there must be a For
-every A, there must be a B. For every Arabic numeral 1, there must be a
-2. See for yourself on the sample outlines that follow.
+Similarly, for every letter A, there must be a letter B. If a main point has only one part, you don't need the letters in the first place.
+
+For every Arabic numeral 1, there must be an Arabic numberal 2. If a larger part doesn't have separate smaller parts, you don't need the Arabic numerals in the first place.
+
+In other words, only add a layer to your outline if you need it to keep two or more things separate.
 
 #### Constructing Topic Outlines
 
@@ -17249,7 +17248,7 @@ see **Chapter 13**
 |Book|Author(s), title and subtitle, publisher, city of publication, year of publication.|
 |Separate portion of a book (chapter or article)| Include all the info for the book. Also record the portion's title, author(s), pages, and  name of the book's editor(s).|  
 |Periodical| Author(s), article title, publication title, date of publication, volume and issue number, and page numbers|
-|Online source|Author(s) (if available), article or document title, organization that sponsors the site, database name (if applicable), date of publication, date you accessed the site, and URL|
+|Online source|Author(s) (if available), article or document title, oroup that sponsors the site, database name (if applicable), date of publication, date you accessed the site, and URL|
 |Interview|Name of person interviewed, method of communication, date of interview|
  
 Your research may involve less-common types of sources not listed in
@@ -19692,45 +19691,43 @@ Here is a sample entry for a book:
 
 Here is how to organize and captialize your reference entries:
 
-#### Formatting the References Section: APA General Guidelines
+#### General Guidelines for the References Section
 
-4. List entries in alphabetical order by the author's last name. For a
+1. List entries in alphabetical order by the author's last name. For a
 work with multiple authors, use the last name of the first author
 listed.
-5. List authors' names using this format: Smith, J. C.
-6. For a work with no individual author(s), use the name of the
+2. List authors' names using this format: Smith, J. C.
+3. For a work with no individual author(s), use the name of the
 group that published the work or, if this is unavailable, the
 title of the work in place of the author's name.
-7. For works with multiple authors, follow these guidelines:
+4. For works with multiple authors, follow these guidelines:
     1. For works with up to seven authors, list the last name and initials for each author.
     2. For works with more than seven authors, list the first six names, followed by ellipses, and then the name of the last author listed.
     3. Use an ampersand before the name of the last author listed.
-8. Use title case for journal titles. Capitalize all important words in
+5. Use title case for journal titles. Capitalize all important words in
 the title.
-9. Use sentence case for all other titles---books, articles, web pages,
+6. Use sentence case for all other titles---books, articles, web pages,
 and other source titles. Capitalize the first word of the title. Do not
 capitalize any other words in the title except for the following:
-- Proper nouns
-- First word of a subtitle
-- First word after a colon or dash
-
-10. Use italics for book and journal titles. Do not use italics,
+    - Proper nouns
+    - First word of a subtitle
+    - First word after a colon or dash
+7. Use italics for book and journal titles. Do not use italics,
 underlining, or quotation marks for titles of shorter works, such as
 articles.
 
 #### Exercise 1
 
 Set up the first page of your references section and begin adding
-entries, following the APA formatting guidelines provided in this
+entries, following the guidelines provided in this
 section.
 
-1. If there are any simple entries that you can format completely using
-the general guidelines, do so at this time.
-2. For entries you are unsure of how to format, type in as much
-information as you can, and highlight the entries so you can return
-to them later.
+1. If there are any entries you can complete using only what you already know, do so.
+2. For entries you are unsure about:
+    1. Type in as much information as you can. 
+    2. Highlight the entries so you can return to them later.
 
-### Formatting Reference Entries for Different Source Types
+### Reference Entries for Different Sources
 
 As is the case for in-text citations, formatting reference entries
 becomes more complicated when you are citing a source with multiple
@@ -19846,10 +19843,10 @@ Alphabetize entries by the authors' first initial.
 
 ![](image71.jpeg "When creating a references section, capitalize the first word of a subtitle")
 
-#### A Book Authored by an Organization
+#### A Book Authored by an Oroup
 
-Treat the organization name as you would an author's name. For the
-purposes of alphabetizing, ignore words like *The* in the organization's
+Treat the oroup name as you would an author's name. For the
+purposes of alphabetizing, ignore words like *The* in the oroup's
 name. (That is, a book published by the American Heart Association would
 be listed with other entries whose authors' names begin with *A*.)
 
@@ -19860,7 +19857,7 @@ be listed with other entries whose authors' names begin with *A*.)
 #### A Book-Length Report
 
 Format technical and research reports as you would format other
-book-length sources. If the organization that issued the report assigned
+book-length sources. If the oroup that issued the report assigned
 it a number, include the number in parentheses after the title. (See
 also the guidelines provided for citing works produced by government
 agencies.)
@@ -19872,7 +19869,7 @@ agencies.)
 #### A Book Authored by a Government Agency
 
 Treat these as you would a book published by a nongovernment
-organization, but be aware that these works may have an identification
+oroup, but be aware that these works may have an identification
 number listed. If so, include it in parentheses after the publication
 year.
 
@@ -20126,7 +20123,7 @@ slightly from source to source, depending on the information that is
 available. In your citation, include as much of the following
 information as you can:
 
-Name of the author(s), whether an individual or organization
+Name of the author(s), whether an individual or oroup
 Date of publication (Use *n.d.* if no date is available.)
 Title of the document
 Address where you retrieved the document
@@ -20149,9 +20146,9 @@ for the specific entry.
 
 #### Data Sets
 
-If you cite raw data compiled by an organization, such as statistical
+If you cite raw data compiled by an oroup, such as statistical
 data, provide the URL where you retrieved the information. Provide the
-name of the organization that sponsors the site.
+name of the oroup that sponsors the site.
 
 > US Food and Drug Administration. (2009). *Nationwide evaluation of X-ray
 > trends: NEXT surveys performed* \[Data file\]. Retrieved from
@@ -20160,7 +20157,7 @@ name of the organization that sponsors the site.
 #### Graphic Data
 
 When citing graphic data---such as maps, pie charts, bar graphs, and so
-on---include the name of the organization that compiled the information,
+on---include the name of the oroup that compiled the information,
 along with the publication date. Briefly describe the contents in
 brackets. Provide the URL where you retrieved the information. (If the
 graphic is associated with a specific project or document, list it after
@@ -20298,7 +20295,7 @@ label.
 #### A Podcast
 
 Provide as much information as possible about the writer, director, and
-producer; the date the podcast aired; its title; any organization or
+producer; the date the podcast aired; its title; any oroup or
 series with which it is associated; and where you retrieved the podcast.
 
 > Kelsey, A. R. (Writer), Garcia, J. (Director), & Kim, S. C. (Producer).
@@ -20334,7 +20331,7 @@ page numbers (for shorter works), editors (if applicable), and
 periodical title (if applicable).
 
 **Online sources (text-based).** Author(s), date of publication, title,
-publisher or sponsoring organization, and DOI or URL (if applicable).
+publisher or sponsoring oroup, and DOI or URL (if applicable).
 
 **Electronic sources (non-text-based).** Provide details about the
 creator(s) of the work, title, associated company or series, and date
