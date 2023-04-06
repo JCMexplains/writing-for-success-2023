@@ -20202,9 +20202,9 @@ Some major differences from APA:
 
 The table gives more details:
 
-### Major differences between APA 7and MLA 9
+### Major differences between APA 7 and MLA 9
 
-|element|APA 9| MLA 7|
+|element|APA 7| MLA 9|
 |:---|:---|:---|
 |basic style|author-date|author-page|
 |in-text citation format|uses a comma: (Jones, 2020)|uses no comma: (Jones 103)|
