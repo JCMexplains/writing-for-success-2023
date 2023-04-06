@@ -19376,34 +19376,36 @@ source directly.
 > Chang (2008) pointed out that weight-bearing exercise has many potential
 > benefits for women.
 
-#### Multiple by the Same Author
+#### Multiple Works by the Same Author
 
 Your research may include multiple works by the same author.
-If the works were published in different years, a standard in-text
-citation will serve to distinguish them. If you are citing multiple
-works by the same author published in the same year, include a lowercase
-letter immediately after the year. Rank the sources in the order they
-appear in your references section. The source listed first includes an
-*a* after the year, the source listed second includes a *b*, and so on.
+If they were published in different years, the distinction will be clear:
 
-Rodriguez (2009a) criticized the nutrition-supplement industry for
+> (Yang, 2015)
+> 
+> (Yang, 2019)
+
+If they were published in the *same* year, include a lowercase
+letter immediately after the year. 
+
+> (Yang, 2009a)
+> 
+> (Yang, 2009b)
+
+Assign the letters in the same order that the sources appear in your References section.
+
+Here is a longer example: 
+
+> Rodriguez (2009a) criticized the nutrition-supplement industry for
 making unsubstantiated and sometimes misleading claims about the
 benefits of taking supplements. Additionally, he warned that consumers
 frequently do not realize the potential harmful effects of some popular
 supplements (Rodriguez, 2009b).
 
-**Tip**
-
-If you have not yet created your references section, you may not be sure
-which source will appear first. See Section 13.3 for
-guidelines---or assign each source a temporary code and highlight the
-in-text citations so you remember to double-check them later on.
-
 #### Works by Authors with the Same Last Name
 
 If you are citing works by different authors with the same last name,
-include each author's initials in your citation, whether you mention
-them in the text or in parentheses. Do so even if the publication years
+include each author's initials in your citation. Do this even if the publication years
 are different.
 
 > J. S. Williams (2007) believes nutritional supplements can be a useful
@@ -19532,7 +19534,7 @@ Both of these researchers authored works that support the point being
 made in this sentence, so it makes sense to include both in the same
 citation.
 
-#### A Famous Text That Has Many Editions
+#### A Famous Text With Many Editions
 
 You may need to cite an extremely well-known work with many editions. An example would be the Bible, the Odyssey, or the works of Sigmund Freud. 
 
@@ -19554,8 +19556,7 @@ collection of Freud's lectures, the student cites the lecture number
 
 #### An Introduction, Foreword, Preface, or Afterword
 
-To cite an introduction, foreword, preface, or afterword, cite the
-author of the material and the year, following the same format used for
+To cite an introduction, foreword, preface, or afterword, follow the same format used for
 other print materials.
 
 #### Sources Without Page Numbers
@@ -19581,9 +19582,8 @@ where your cited information appears, followed by a paragraph number.
 > exposure is the second most common cause of lung cancer" (What Causes
 > Lung Cancer? section, para. 2).
 
-This student cited the appropriate section heading within the website
-and then counted to find the specific paragraph where the cited
-information was located.
+This student cited the appropriate section heading from the website
+and then counted paragraphs to find which paragraph the citation was from.
 
 If an online source has no listed author and no date, use the source
 title and the abbreviation *n.d.* in your parenthetical reference.
@@ -19594,17 +19594,14 @@ title and the abbreviation *n.d.* in your parenthetical reference.
 
 #### Personal Communication
 
-For personal communications, such as interviews, letters, and emails,
-cite the name of the person involved, clarify that the material is from
-a personal communication, and provide the specific date the
-communication took place. Note that while in-text citations correspond
-to entries in the references section, personal communications are an
-exception to this rule. They are cited only in the body text of your
-paper.
+For a "personal communications" like an interview, letter, or email,
+cite the name and the specific date. Include the phrase "personal communication." 
 
 > J. H. Yardley, M.D., believes that available information on the
 > relationship between cell phone use and cancer is inconclusive (personal
 > communication, May 1, 2009).
+
+In APA style, personal communications are cited *only in-text*. They do not appear in the References section. (In MLA format, such communications do appear in the Works Cited section.)
 
 #### Writing at Work
 
