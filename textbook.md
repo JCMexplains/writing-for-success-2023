@@ -19788,19 +19788,22 @@ the others are different, alphabetize by the second author's last name
 
 #### Books by Different Authors with the Same Last Name
 
-Alphabetize entries by the authors' first initial.
+Alphabetize entries by the authors' first initial. "Smith, I. T." comes before "Smith, S."
 
-> Smith, I. K. (2008) *The 4-day diet*. St. Martin's Press.
+> Smith, I. T. (2008) *The 4-day diet*. St. Martin's Press.
 > 
 > Smith, S. *The complete guide to Navy Seal fitness: Updated for today's warrior elite* (3rd ed.). Hatherleight Press.
 
 #### A Book by a Group
 
-Treat the group name as you would an author's name. For the
-purposes of alphabetizing, ignore words like *The* in the group's
-name. (That is, a book published by the American Heart Association would
-be listed with other entries whose authors' names begin with *A*.)
+Treat the group name as you would an author's name. 
 
+For alphabetizing, ignore the words "a", "an", or "the" at the start of a group author's name. 
+
+Notice that "The American Heart Association" is listed before "American Psychiatric Association" in the example.
+
+>The American Heart Association. (1990). *A sample publication* (2nd ed.). AHA Publishers.
+>
 > American Psychiatric Association. (1994). *Diagnostic and statistical
 > manual of mental disorders DSM-IV* (4th ed.). American
 > Psychiatric Publishing.
@@ -19859,36 +19862,8 @@ Include the following information:
 > DeMarco, R. F. (2010). Palliative care and African American women living
 > with HIV. *Journal of Nursing Education, 49*(5), 1--4.
 
-#### An Article in a Journal Paginated by Volume
 
-In these types of journals, page numbers for one volume continue across
-all the issues in that volume. For instance, the winter issue may begin
-with page 1, and in the spring issue that follows, the page numbers pick
-up where the previous issue left off. (If you have ever wondered why a
-print journal did not begin on page 1, or wondered why the page numbers
-of a journal extend into four digits, this is why.) Omit the issue
-number from your reference entry.
-
-> Wagner, J. (2009). Rethinking school lunches: A review of recent
-> literature. *American School Nurses' Journal*, *47,* 1123--1127.
-
-#### An Abstract of a Scholarly Article
-
-You may need to cite an abstract---the summary that appears at
-the beginning---of a published article. If you are citing the abstract
-only, and it was published separately from the article, provide the
-following information:
-
-Publication information for the article
-
-Information about where the abstract was published (for instance,
-another journal or a collection of abstracts)
-
-![](image72.jpeg "When creating a references section, use this format for abstracts published in a collection of abstracts")
-
-![](image73.jpeg "When creating a references section, use this format for abstracts published in another journal")
-
-#### A Journal Article with Two to Seven Authors
+#### A Journal Article with Up to Twenty Authors
 
 List all the authors' names in the order they appear in the article. Use
 an ampersand before the last name listed.
@@ -19902,27 +19877,20 @@ an ampersand before the last name listed.
 > from the 2007--2009 Canadian Health Measures Survey. *Health Reports,
 21*(1), 7--20.
 
-#### A Journal Article with More Than Seven Authors
+#### A Journal Article with More Than Twenty Authors
 
-List the first six authors' names, followed by a comma, an ellipsis, and
-the name of the last author listed. The article in the following example
-has sixteen listed authors; the reference entry lists the first six
-authors and the sixteenth, omitting the seventh through the fifteenth.
+Include the first 19 authors' names, add an ellipsis (but no amersand), and then give the final author's name.
 
-![](image74.jpeg "When creating a references section, because some names are omitted, use a comma and an ellipsis, rather than an ampersand, before the final name listed")
+#### Tip
 
-#### Writing at Work
+An eight-page article with sixteen authors may seem strange
+to you---especially if you are currently writing a ten-page
+research paper on your own. Who are all these authors?
 
-The idea of an eight-page article with sixteen authors may seem strange
-to you---especially if you are in the midst of writing a ten-page
-research paper on your own. More often than not, articles in scholarly
-journals list multiple authors. Sometimes, the authors actually did
-collaborate on writing and editing the published article. In other
-instances, some of the authors listed may have contributed to the
-research in some way while being only minimally involved in the process
-of writing the article. Whenever you collaborate with colleagues to
-produce a written product, follow your profession's conventions for
-giving everyone proper credit for their contribution.
+But in the sciences in the 20th century, more and more research
+began to be done by large teams. This long-term trend began with the military funding of research in World War II; it is sometimes called "big science."
+
+In the humanities (for example, English, history, or philosophy) it is still much more common to have an article written by a single person. 
 
 ### A Magazine Article
 
@@ -19945,23 +19913,15 @@ page reference A1, A4--A5.
 
 ![](image76.jpeg "When creating a references section, include the section in your page reference.")
 
-#### A Letter to the Editor
-
-After the title, indicate in brackets that the work is a letter to the
-editor.
-
-> Jones, J. (2009, January 31). Food police in our schools \[Letter to the
-> editor\]. *Rockwood Gazette,* p. A8.
 
 #### A Review
 
-After the title, indicate in brackets that the work is a review and
-state the name of the work being reviewed. (Note that even if the title
-of the review is the same as the title of the book being reviewed, as in
-the following example, you should treat it as an article title. Do not
-italicize it.)
+After the title, indicate in brackets that the work is a review and give details about the work being reviewed. 
 
-![](image77.jpeg "When creating a references section, italicize the title of the reviewed book only where it appears in brackets")
+Some publications give a review the same name as the book it is reviewing. That is what happened in this example: the name of the review comes first, followed by the name of the book in brackets. As it happens for this publication, those two names are almost exactly the same.
+
+> Martin, J. C. (2020). Love and depth in the American novel: From Stowe to James by Ashley C. Barnes 
+> [*Review of the book Love and depth in the American novel: From Stowe to James*, by A. C. Barnes]. *The Henry James Review*, *41*(3).
 
 #### Exercise 3
 
@@ -20233,11 +20193,31 @@ for humanities papers. As of 2023, MLA style is in its 9th edition.
 See https://style.mla.org
 
 MLA style is often used in the liberal arts and humanities. 
+
 Some major differences from APA:
 - MLA does not use a separate title page
 - MLA does not use an abstract
 - MLA in-text citations use **author-page**, not **author-year**
 - The MLA list of sources is called **Works Cited**, not **References**
+
+The table gives more details:
+
+### Major differences between APA 7and MLA 9
+
+|element|APA 9| MLA 7|
+|:---|:---|:---|
+|basic style|author-date|author-page|
+|in-text citation format|uses a comma: (Jones, 2020)|uses no comma: (Jones 103)|
+|in-text citation with a direct quote|uses *p.* or *pp.* for page number: (Jones, 2020, p. 103)|gives bare page number: (Jones 103)|
+|title page|has a separate title page|has no separate title page|
+|title format|paper title is bold|paper title is in ordinary font|
+|date format|"4 May 2023" is one allowable format|"4 May 2023" is required|
+|name of bibliography|References|Works Cited|
+|block quote|a block quote is 40 words or more|a block quote is 4 lines or more|
+|in-text for a source cited in another| as cited in|qtd. in|
+|referring to a private communication|called a "personal communication"; doesn't appear in References|cited normally (as an interview, email, etc.)|
+
+
 
 As a general rule, author-year styles like APA care more about the
 **ideas** of your sources, and so an APA paper typically uses more **summary**.
@@ -20269,12 +20249,12 @@ authors and artists.
 
 1. Use standard white paper (8.5 × 11 inches).
 2. Double-space everything.
-3. Use a standard 12-point font. MLA used to require Times New Roman, and some professors still will.
+3. Use a standard font. MLA used to require 12-point Times New Roman, and some professors still will.
 4. Use one-inch margins
 5. Indent paragraphs by .5 inches. The easiest way to do this is to press the **Tab** key.
 6. Include page numbers in the upper right corner.
 8. On the first page in the upper left, put 
-    1.your name, 
+    1. your name, 
     2. the course 
     3. the date 
     4. the instructor's name
