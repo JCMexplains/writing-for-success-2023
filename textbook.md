@@ -17248,7 +17248,7 @@ see **Chapter 13**
 |Book|Author(s), title and subtitle, publisher, city of publication, year of publication.|
 |Separate portion of a book (chapter or article)| Include all the info for the book. Also record the portion's title, author(s), pages, and  name of the book's editor(s).|  
 |Periodical| Author(s), article title, publication title, date of publication, volume and issue number, and page numbers|
-|Online source|Author(s) (if available), article or document title, oroup that sponsors the site, database name (if applicable), date of publication, date you accessed the site, and URL|
+|Online source|Author(s) (if available), article or document title, group that sponsors the site, database name (if applicable), date of publication, date you accessed the site, and URL|
 |Interview|Name of person interviewed, method of communication, date of interview|
  
 Your research may involve less-common types of sources not listed in
@@ -19804,10 +19804,10 @@ Alphabetize entries by the authors' first initial.
 
 ![](image71.jpeg "When creating a references section, capitalize the first word of a subtitle")
 
-#### A Book Authored by an Oroup
+#### A Book Authored by a Group
 
-Treat the oroup name as you would an author's name. For the
-purposes of alphabetizing, ignore words like *The* in the oroup's
+Treat the group name as you would an author's name. For the
+purposes of alphabetizing, ignore words like *The* in the group's
 name. (That is, a book published by the American Heart Association would
 be listed with other entries whose authors' names begin with *A*.)
 
@@ -19818,7 +19818,7 @@ be listed with other entries whose authors' names begin with *A*.)
 #### A Book-Length Report
 
 Format technical and research reports as you would format other
-book-length sources. If the oroup that issued the report assigned
+book-length sources. If the group that issued the report assigned
 it a number, include the number in parentheses after the title. (See
 also the guidelines provided for citing works produced by government
 agencies.)
@@ -19830,7 +19830,7 @@ agencies.)
 #### A Book Authored by a Government Agency
 
 Treat these as you would a book published by a nongovernment
-oroup, but be aware that these works may have an identification
+group, but be aware that these works may have an identification
 number listed. If so, include it in parentheses after the publication
 year.
 
@@ -20084,7 +20084,7 @@ slightly from source to source, depending on the information that is
 available. In your citation, include as much of the following
 information as you can:
 
-Name of the author(s), whether an individual or oroup
+Name of the author(s), whether an individual or group
 Date of publication (Use *n.d.* if no date is available.)
 Title of the document
 Address where you retrieved the document
@@ -20107,9 +20107,9 @@ for the specific entry.
 
 #### Data Sets
 
-If you cite raw data compiled by an oroup, such as statistical
+If you cite raw data compiled by a group, such as statistical
 data, provide the URL where you retrieved the information. Provide the
-name of the oroup that sponsors the site.
+name of the group that sponsors the site.
 
 > US Food and Drug Administration. (2009). *Nationwide evaluation of X-ray
 > trends: NEXT surveys performed* \[Data file\]. Retrieved from
@@ -20118,7 +20118,7 @@ name of the oroup that sponsors the site.
 #### Graphic Data
 
 When citing graphic data---such as maps, pie charts, bar graphs, and so
-on---include the name of the oroup that compiled the information,
+on---include the name of the group that compiled the information,
 along with the publication date. Briefly describe the contents in
 brackets. Provide the URL where you retrieved the information. (If the
 graphic is associated with a specific project or document, list it after
@@ -20256,7 +20256,7 @@ label.
 #### A Podcast
 
 Provide as much information as possible about the writer, director, and
-producer; the date the podcast aired; its title; any oroup or
+producer; the date the podcast aired; its title; any group or
 series with which it is associated; and where you retrieved the podcast.
 
 > Kelsey, A. R. (Writer), Garcia, J. (Director), & Kim, S. C. (Producer).
@@ -20292,7 +20292,7 @@ page numbers (for shorter works), editors (if applicable), and
 periodical title (if applicable).
 
 **Online sources (text-based).** Author(s), date of publication, title,
-publisher or sponsoring oroup, and DOI or URL (if applicable).
+publisher or sponsoring group, and DOI or URL (if applicable).
 
 **Electronic sources (non-text-based).** Provide details about the
 creator(s) of the work, title, associated company or series, and date
