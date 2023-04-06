@@ -19605,14 +19605,7 @@ In APA style, personal communications are cited *only in-text*. They do not appe
 
 #### Writing at Work
 
-At work, you may sometimes share information resources with your
-colleagues by photocopying an interesting article or forwarding the URL
-of a useful website. Your goal in these situations and in formal
-research citations is the same. The goal is to provide enough
-information to help your professional peers locate and follow up on
-potentially useful information. Provide as much specific information as
-possible to achieve that goal, and consult with your professor as to
-what specific style he or she may prefer.
+Sometimes at work, you might share information with your coworkers by making a copy of an article or sharing a website link. This is also true when you write a research paper. Your goal is to give enough information so that others can find the information you used. Try to include as many details as possible to make it easier for them. If you're not sure what to do, ask your professor for guidance.
 
 #### Exercise 4
 
@@ -19684,34 +19677,18 @@ Here is a sample journal article entry for an article called "Fraud in the lunch
 
 Here is a sample entry for a book:
 
-![](image64.jpeg "Sample Book Entry")
+> Atkins, R. C. (2002). *Dr. Atkins' diet revolution*. M. Evans and Company.
 
 Here is how to organize and captialize your reference entries:
 
 #### General Guidelines for the References Section
 
-1. List entries in alphabetical order by the author's last name. For a
-work with multiple authors, use the last name of the first author
-listed.
-2. List authors' names using this format: Smith, J. C.
-3. For a work with no individual author(s), use the name of the
-group that published the work or, if this is unavailable, the
-title of the work in place of the author's name.
-4. For works with multiple authors, follow these guidelines:
-    1. For works with up to seven authors, list the last name and initials for each author.
-    2. For works with more than seven authors, list the first six names, followed by ellipses, and then the name of the last author listed.
-    3. Use an ampersand before the name of the last author listed.
-5. Use title case for journal titles. Capitalize all important words in
-the title.
-6. Use sentence case for all other titles---books, articles, web pages,
-and other source titles. Capitalize the first word of the title. Do not
-capitalize any other words in the title except for the following:
-    - Proper nouns
-    - First word of a subtitle
-    - First word after a colon or dash
-7. Use italics for book and journal titles. Do not use italics,
-underlining, or quotation marks for titles of shorter works, such as
-articles.
+1. List entries in alphabetical order by the author's last name.
+2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*.
+3. For a work with no known human author(s), use the name of the group that produced the work. If there is no known group author either, use the title of the work instead of an author name. 
+4. For works with up to 20 authors, give the surname and initials for each author. Put an ampersand before the final author. (This is a change from APA 6.)
+5. Put titles in "sentence case," capitalizing only the first word of the title (or the first word after a colon). 
+6. Italicize titles of works that stand alond (like books); use no special format for titles of works that are part of a larger whole (like an article from a journal).
 
 #### Exercise 1
 
@@ -19724,35 +19701,26 @@ section.
     1. Type in as much information as you can. 
     2. Highlight the entries so you can return to them later.
 
-### Reference Entries for Different Sources
+### Example References
 
-As is the case for in-text citations, formatting reference entries
-becomes more complicated when you are citing a source with multiple
-authors, citing various types of online media, or citing sources for
-which you must provide additional information beyond the basics listed
-in the general guidelines. The following guidelines show how to format
-reference entries for these different situations.
+Sometimes it can be tricky to format your references, especially if you are citing a source with multiple authors, or if you used online sources. There are special rules for these situations, and you should follow them carefully. Here are some guidelines to help you format your reference list correctly.
 
-#### Print Sources: Books
-
-For book-length sources and shorter works that appear in a book, follow
-the guidelines that best describes your source.
+APA 6 asked for the city of publication for book publishers, but APA 7 no longer does.
 
 #### A Book by Two or More Authors
 
 List the authors' names in the order they appear on the book's title
 page. Use an ampersand before the last author's name.
 
-> Campbell, D. T., & Stanley, J. C. (1963). *Experimental and
-> quasi-experimental designs for research.* Boston, MA: Houghton Mifflin.
+> Campbell, D. T., & Stanley, J. C. (1963). *Experimental and*
+> *quasi-experimental designs for research.* Houghton Mifflin.
 
 #### An Edited Book with No Author
 
-List the editor or editors' names in place of the author's name,
+List the editor(s) names in place of the author's name,
 followed by *Ed.* or *Eds.* in parentheses.
 
-> Myers, C., & Reamer, D. (Eds.). (2009). *2009 nutrition index.* San
-> Francisco, CA: HealthSource, Inc.
+> Myers, C., & Reamer, D. (Eds.). (2009). *2009 nutrition index.* HealthSource, Inc.
 
 #### An Edited Book with an Author
 
@@ -19760,24 +19728,20 @@ List the author's name first, followed by the title and the editor or
 editors. Note that when the editor is listed after the title, you list
 the initials before the last name.
 
-![](image66.jpeg "Dickinson, E. (1959). Selected poems & letters of Emily Dickinson. R. N. Linscott (Ed.). Garden City, NY: Doubleday.")
+> Dickinson, E. (1959). *Selected poems & letters of Emily Dickinson*. R. N. Linscott (Ed.). Doubleday.
 
 **Tip**
 
-The previous example shows the format used for an edited book with one
-author---for instance, a collection of a famous person's letters that
-has been edited. This type of source is different from an anthology,
-which is a collection of articles or essays by different authors. For
-citing works in anthologies, see the guidelines later in this section.
+The previous example, shows how to cite a book that has been edited by one person. This is different from an anthology, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, you should follow different guidelines, which will be explained later in this section.
 
 #### A Translated Book
 
-Include the translator's name after the title, and at the end of the
+Include the translator's name after the title. At the end of the
 citation, list the date the original work was published. Note that for
 the translator's name, you list the initials before the last name.
 
 > Freud, S. (1965). *New introductory lectures on psycho-analysis* (J.
-> Strachey, Trans.). New York, NY: W. W. Norton. (Original work published
+> Strachey, Trans.). W. W. Norton. (Original work published
 > 1933).
 
 #### A Book Published in Multiple Editions
@@ -19785,7 +19749,7 @@ the translator's name, you list the initials before the last name.
 If you are using any edition other than the first edition, include the
 edition number in parentheses after the title.
 
-![](image67.jpeg "Berk, L. (2001). Development through the lifespan (2nd ed.). Needham Heights, MA: Allyn & Bacon.")
+> Berk, L. (2001). *Development through the lifespan* (2nd ed.). Allyn & Bacon.
 
 #### A Chapter in an Edited Book
 
@@ -19794,7 +19758,7 @@ chapter title. Then list the names of the book editor(s) and the title
 of the book, followed by the page numbers for the chapter and the usual
 information about the book's publisher.
 
-![](image68.jpeg "When creating a references section include the abbreviation")
+> Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Associaton.
 
 #### A Work That Appears in an Anthology
 
