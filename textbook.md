@@ -19765,46 +19765,36 @@ information about the book's publisher.
 Follow the same process you would use to cite a book chapter,
 substituting the article or essay title for the chapter title.
 
-![](image69.jpeg "When creating a references section include the abbreviation")
-
-#### An Article in a Reference Book
-
-List the author's name if available; if no author is listed, provide the
-title of the entry where the author's name would normally be listed. If
-the book lists the name of the editor(s), include it in your citation.
-Indicate the volume number (if applicable) and page numbers in
-parentheses after the article title.
-
-![](image70.jpeg "Capitalize proper nouns that appear in a book title while creating a references section")
+> Beck, A. T., &Young, J. (1986). College blues. In D. Goleman & D. Heller (Eds.), *The pleasures of psychology* (pp. 309-323). New American Library.
 
 #### Two or More Books by the Same Author
 
-List the entries in order of their publication year, beginning with the
-work published first.
+List the entries in order of publication, with the
+oldest.
 
 > Swedan, N. (2001). *Women's sports medicine and rehabilitation.*
-> Gaithersburg, MD: Aspen Publishers.
+> Aspen Publishers.
 
-> Swedan, N. (2003). *The active woman's health and fitness handbook.* New
-> York, NY: Perigee.
+> Swedan, N. (2003). *The active woman's health and fitness handbook.* Perigee.
 
 If two books have multiple authors, and the first author is the same but
 the others are different, alphabetize by the second author's last name
 (or the third or fourth, if necessary).
 
 > Carroll, D., & Aaronson, F. (2008). *Managing type II diabetes.*
-> Chicago, IL: Southwick Press.
+> Southwick Press.
 
-> Carroll, D., & Zuckerman, N. (2008). *Gestational diabetes.* Chicago,
-> IL: Southwick Press.
+> Carroll, D., & Zuckerman, N. (2008). *Gestational diabetes.* Southwick Press.
 
 #### Books by Different Authors with the Same Last Name
 
 Alphabetize entries by the authors' first initial.
 
-![](image71.jpeg "When creating a references section, capitalize the first word of a subtitle")
+> Smith, I. K. (2008) *The 4-day diet*. St. Martin's Press.
+> 
+> Smith, S. *The complete guide to Navy Seal fitness: Updated for today's warrior elite* (3rd ed.). Hatherleight Press.
 
-#### A Book Authored by a Group
+#### A Book by a Group
 
 Treat the group name as you would an author's name. For the
 purposes of alphabetizing, ignore words like *The* in the group's
@@ -19812,7 +19802,7 @@ name. (That is, a book published by the American Heart Association would
 be listed with other entries whose authors' names begin with *A*.)
 
 > American Psychiatric Association. (1994). *Diagnostic and statistical
-> manual of mental disorders DSM-IV* (4th ed.). Arlington, VA: American
+> manual of mental disorders DSM-IV* (4th ed.). American
 > Psychiatric Publishing.
 
 #### A Book-Length Report
@@ -19825,7 +19815,7 @@ agencies.)
 
 > Jameson, R., & Dewey, J. (2009). *Preliminary findings from an
 > evaluation of the president's physical fitness program in Pleasantville
-> school district.* Pleasantville, WA: Pleasantville Board of Education.
+> school district.* Pleasantville Board of Education.
 
 #### A Book Authored by a Government Agency
 
@@ -19835,7 +19825,7 @@ number listed. If so, include it in parentheses after the publication
 year.
 
 > U.S. Census Bureau. (2002). *The decennial censuses from 1790 to 2000*
-> (Publication No. POL/02-MA). Washington, DC: US Government Printing
+> (Publication No. POL/02-MA). US Government Printing
 > Offices.
 
 #### Exercise 2
@@ -19846,10 +19836,10 @@ sources that you were unable to finish earlier.
 
 Review how Jorge formatted these book-length print sources:
 
-Atkins, R. C. (2002). *Dr. Atkins' diet revolution*. New York, NY: M.
+> Atkins, R. C. (2002). *Dr. Atkins' diet revolution*. M.
 Evans and Company.
 
-Agatson, A. (2003). *The South Beach diet.* New York, NY: St. Martin's
+> Agatson, A. (2003). *The South Beach diet.* St. Martin's
 Griffin.
 
 ### Print Sources: Periodicals
@@ -19858,19 +19848,13 @@ Griffin.
 
 Include the following information:
 
-Author or authors' names
-
-Publication year
-
-Article title (in sentence case, without quotation marks or italics)
-
-Journal title (in title case and in italics)
-
-Volume number (in italics)
-
-Issue number (in parentheses)
-
-Page number(s) where the article appears
+- Author or authors' names
+- Publication year
+- Article title (in sentence case, without quotation marks or italics)
+- Journal title (in title case and in italics)
+- Volume number (in italics)
+- Issue number (in parentheses)
+- Page number(s) where the article appears
 
 > DeMarco, R. F. (2010). Palliative care and African American women living
 > with HIV. *Journal of Nursing Education, 49*(5), 1--4.
@@ -19985,41 +19969,15 @@ Revisit the references section you began in **Exercise 1**. Use
 the guidelines provided above to format any entries for periodicals and
 other shorter print sources that you were unable to finish earlier.
 
-### Electronic Sources
+### Online Sources: DOIs and URLs
 
-Citing Online Articles: 
-URLs and Digital Object Identifiers (DOIs)
+A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage.
 
-Whenever you cite online sources, it is important to provide the most
-up-to-date information available to help readers locate the source. In
-some cases, this means providing an article's URL, or web address. (The
-letters *URL* stand for uniform resource locator.) Always provide the
-most complete URL possible. Provide a link to the specific article used,
-rather than a link to the publication's homepage.
+URLs often change, so more and more, groups like the APA prefer you to include something called a *DOI*: a "digital object identifier."
 
-As you know, web addresses are not always stable. If a website is
-updated or reorganized, the article you accessed in April may move to a
-different location in May. The URL you provided may become a dead link.
-For this reason, many online periodicals, especially scholarly
-publications, now rely on DOIs rather than URLs to keep track of
-articles.
+A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been very carefully built from the ground up to be comprehensive in a way that permalinks are not.)
 
-A DOI is a Digital Object Identifier---an identification code provided
-for some online documents, typically articles in scholarly journals.
-Like a URL, its purpose is to help readers locate an article. However, a
-DOI is more stable than a URL, so it makes sense to include it in your
-reference entry when possible. Follow these guidelines:
-
-If you are citing an online article with a DOI, list the DOI at the end
-of the reference entry.
-
-If the article appears in print as well as online, you do not need to
-provide the URL. However, include the words *Electronic version* after
-the title in brackets.
-
-In other respects, treat the article as you would a print article.
-Include the volume number and issue number if available. (Note, however,
-that these may not be available for some online periodicals).
+In APA format, you should always use the DOI instead of the URL if you can.
 
 #### An Article from an Online Periodical with a DOI
 
@@ -20032,7 +19990,7 @@ you have listed the DOI.
 #### An Article from an Online Periodical with No DOI
 
 List the URL. Include the volume and issue number for the periodical if
-this information is available. 
+available. 
 
 ![](image78.jpeg "When creating a references section, use the words")
 
@@ -20172,17 +20130,6 @@ number in parentheses at the end of the citation.
 
 ![](image79.jpeg "When creating a references section, italicize the titles of theses and dissertations.")
 
-#### Computer Software
-
-For commonly used office software and programming languages, it is not
-necessary to provide a citation. Cite software only when you are using a
-specialized program, such as the nutrition tracking software in the
-following example. If you download software from a website, provide the
-version and the year if available.
-
-> Internet Brands, Inc. (2009). FitDay PC (Version 2) \[Software\].
-> Available from https://www.fitday.com/Pc/PcHome.html?gcid=14
-
 #### A Post on a Blog or Video Blog
 
 Citation guidelines for these sources are similar to those used for
@@ -20193,16 +20140,7 @@ brackets after the title.
 
 #### Writing at Work
 
-Because the content may not be carefully reviewed for accuracy,
-discussion forums and blogs should not be relied upon as a major source
-of information. However, it may be appropriate to cite these sources for
-some types of research. You may also participate in discussion forums or
-comment on blogs that address topics of personal or professional
-interest. Always keep in mind that when you post, you are making your
-thoughts public---and in many cases, available through search engines.
-Make sure any posts that can easily be associated with your name are
-appropriately professional, because a potential employer could view
-them.
+Be careful when using information from discussion forums and blogs because it's not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research. You might also want to participate in these forums if they discuss topics that interest you. But remember that anything you post can be seen by others, including potential employers. So, always make sure to keep your comments professional and appropriate.
 
 #### A Television or Radio Broadcast
 
@@ -20210,8 +20148,7 @@ Include the name of the producer or executive producer; the date, title,
 and type of broadcast; and the associated company and location.
 
 > West, Ty. (Executive producer). (2009, September 24). *PBS special
-> report: Health care reform* \[Television broadcast\]. New York, NY, and
-> Washington, DC: Public Broadcasting Service.
+> report: Health care reform* \[Television broadcast\]. Public Broadcasting Service.
 
 #### A Television or Radio Series or Episode
 
@@ -20219,8 +20156,7 @@ Include the producer and the type of series if you are citing an entire
 television or radio series.
 
 > Couture, D., Nabors, S., Pinkard, S., Robertson, N., & Smith, J.
-> (Producers). (1979). *The Diane Rehm show* \[Radio series\]. Washington,
-> DC: National Public Radio.
+> (Producers). (1979). *The Diane Rehm show* \[Radio series\]. National Public Radio.
 
 To cite a specific episode of a radio or television series, list the
 name of the writer or writers (if available), the date the episode
@@ -20229,7 +20165,7 @@ about the series.
 
 > Bernanke, J., & Wade, C. (2010, January 10). Hummingbirds: Magic in the
 > air \[Television series episode\]. In F. Kaufman (Executive producer),
-> *Nature.* New York, NY: WNET.
+> *Nature.* WNET.
 
 #### A Motion Picture
 
@@ -20243,7 +20179,7 @@ of origin, and studio.
 #### A Recording
 
 Name the primary contributors and list their role. Include the recording
-medium in brackets after the title. Then list the location and the
+medium in brackets after the title. Then list the
 label.
 
 > Smith, L. W. (Speaker). (1999). *Meditation and relaxation* \[CD\]. New
@@ -20251,7 +20187,7 @@ label.
 
 > Székely, I. (Pianist), Budapest Symphony Orchestra (Performers), &
 > Németh, G. (Conductor). (1988). *Chopin piano concertos no. 1 and 2*
-> \[CD\]. Hong Kong: Naxos.
+> \[CD\]. Naxos.
 
 #### A Podcast
 
@@ -20281,28 +20217,6 @@ https://owl.english.purdue.edu, which regularly updates its online
 style guidelines.
 
 3. Give your paper a final edit to check the references section.
-
-#### Key Takeaways
-
-In APA papers, entries in the references section include as much of the
-following information as possible:
-
-**Print sources.** Author(s), date of publication, title, publisher,
-page numbers (for shorter works), editors (if applicable), and
-periodical title (if applicable).
-
-**Online sources (text-based).** Author(s), date of publication, title,
-publisher or sponsoring group, and DOI or URL (if applicable).
-
-**Electronic sources (non-text-based).** Provide details about the
-creator(s) of the work, title, associated company or series, and date
-the work was produced or broadcast. The specific details provided will
-vary depending on the medium and the information that is available.
-
-**Electronic sources (text-based).** If an electronic source is also
-widely available in print form, it is sometimes unnecessary to provide
-details about how to access the electronic version. Check the guidelines
-for the specific source type.
 
 ## 13.4 Using Modern Language Association (MLA) Style
 
