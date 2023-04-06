@@ -12047,7 +12047,7 @@ these will put both you and Mariah in the proper mind-set to start.
 
 The following is Mariah's thesis:
 
-![](image30.jpeg "Everyone wants the newest and the best digital technology ,but the choices are many, and the specifications are often confusing")
+> Everyone wants the newest and the best digital technology ,but the choices are many, and the specifications are often confusing
 
 Here are the notes that Mariah wrote to herself to characterize her
 purpose and audience.
