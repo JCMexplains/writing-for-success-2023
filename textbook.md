@@ -1540,7 +1540,7 @@ Peter Adams, a Professor Emeritus at Community College Baltimore County (CCBC), 
 
 For example, does it make sense to say, "It is the case that *it is*"? Yes. It's a weird thing to say, but it does not give a native speaker the sense that it is broken. So *it is* can be a complete sentence.
 
-But does it make sense to say, "It is the case that *waiting by the train tracks, the snow falling softly*"? No. This feels wrong to nearly all native speakers. So *waiting by the train tracks, the snow falling softly* is not be a complete sentence.
+But does it make sense to say, "It is the case that *waiting by the train tracks, the snow falling softly*"? No. This feels wrong to nearly all native speakers. So *waiting by the train tracks, the snow falling softly* is not a complete sentence.
 
 A group of words capable of being its own sentence can also be called an *independent clause*. A sentence must have at least one independent clause.
 
