@@ -16410,7 +16410,7 @@ Organize project documents in a binder or electronic folder, and label
 project documents and folders clearly. Use note cards or an electronic
 document to record bibliographical information for each source you plan
 to use in your paper. Tracking this information throughout the research
-process can save you hours of time when you create your references page.
+process can save you hours of time when you create your References page.
 
 #### Exercise 2
 
@@ -17231,7 +17231,7 @@ https://www.zotero.org/
 Table 11.5 shows the details you should record for commonly
 used sources. Use these details to develop a working
 bibliography---a preliminary list of sources that you will later use to
-develop the references section of your paper. 
+develop the References section of your paper. 
 
 It is a good idea to record
 these details in the same style you will use for your paper. This will
@@ -18206,12 +18206,18 @@ The parenthetical citation at the end of the sentence includes the
 author's name, a comma, and the year the source was published. The
 period at the end of the sentence comes after the parentheses.
 
-### Creating a List of References
+### Creating a List of Sources
 
 Each of the sources you cite in the body text will appear in a
-references list at the end of your paper. While in-text citations
-provide the most basic information about the source, your references
-section will include additional publication details. In general, you
+bibliography (a "book list") at the end of your paper. 
+
+In-text citations
+give only basic information about the source. Your bibliography 
+will give more information---enough for your reader to find each source. 
+
+The two styles we will discuss later in this book are *APA (American Psychological Association) style* and *MLA (Modern Language Association) style*. In APA style your bibliography gets called *References*. In MLA style, it gets called *Works Cited*. See **Chapter 13** for more information.
+
+In general, you
 will include the following information:
 
 - The author's last name followed by his or her first (and sometimes
@@ -20265,7 +20271,7 @@ Because you do this inside the text of your paper, we call it an
 *in-text citation*. 
 
 Because you put the citation inside parentheses,
-you may also see the term *parenthetical citation*. (APA divides in-text citations into two kinds: narrative citations and parenthetical citations. MLA uses the terms "in-text citation" and/or "parenthetical citation" for everything.)
+you may also see the term *parenthetical citation*. (APA divides in-text citations into two kinds: narrative citations and parenthetical citations. MLA uses the terms "in-text citation" and/or "parenthetical citation" for all in-text citations.)
 
 If someone else wrote it, said it, drew it, or otherwise expressed it, you need to cite it.
 
@@ -20288,12 +20294,12 @@ You would not need to cite these facts. If you wrote for an audience of U.S.
 residents about a different schedule of daily meals in Papua, New Guinea,
 you would need to cite that information for them (but not for residents of Papua, New Guinea).
 
-**When in doubt, cite!** You will look slightly silly if you cite
-that the moon orbits the sun. But you could get a zero if you
+**When in doubt, cite!** You might look slightly silly if you cite
+that the moon orbits the Earth. But you could get a zero if you
 don't cite when you need to.
 
 Your in-text citations should do the following:
-- Clearly indicate the specific sources also referenced in the works cited
+- Clearly indicate the specific sources also referenced in the Works Cited
 - Specifically identify the location of the information that you used
 - Keep the citation clear and concise, always confirming its accuracy
 
@@ -20320,9 +20326,9 @@ Here is Jorge's same paper on low-carb diets reformatted in MLA style.
 
 ![](image91.jpeg "Evaluating low-carb diets page 6 MLA")
 
-![](image92.jpeg "Evaluating low-carb diets page 7 - works cited page 1 MLA")
+![](image92.jpeg "Evaluating low-carb diets page 7 - Works Cited page 1 MLA")
 
-![](image93.jpeg "Evaluating low-carb diets page 8 - works cited page 2 MLA")
+![](image93.jpeg "Evaluating low-carb diets page 8 - Works Cited page 2 MLA")
 
 #### Exercise 1
 
@@ -20388,7 +20394,7 @@ citations, and references list.
 
 2. Check one of your assignments for correct APA or MLA formatting and
 citations. (You may wish to conduct this activity in two sessions---one
-to edit the body of the paper and one to edit the references section.)
+to edit the body of the paper and one to edit the References section.)
 Check for the following:
     - All components of an APA or MLA paper are included.
     - The title page (or title block) and body of the paper are correctly
@@ -20396,8 +20402,8 @@ formatted.
     - In-text, or parenthetical, citations are complete and correctly
 formatted.
     - Sources cited within the paper match the sources listed in the
-references or works cited section.
-    - The references or works cited section uses correct formatting and lists
+References or Works Cited section.
+    - The References or Works Cited section uses correct formatting and lists
 entries in alphabetical order.
 
 3. As electronic media continually change, guidelines for citing
@@ -22874,7 +22880,7 @@ https://www.discovermagazine.com/planet-earth/earth-without-people
 The author of the 2023 revision wrote this essay as a sample for his classes in 2015. Since then, marijuana has
 been legalized in many states not only as medicine but for enjoyment.
 
-This essay follows MLA in-text citation and references style. However, in the language this book has
+This essay follows MLA style for its in-text citations and bibliography. However, in the language this book has
 been written in, it is not possible to follow MLA format precisely 
 (I used GitHub Flavored Markdown for this revision. It's great---Google it!). 
 
