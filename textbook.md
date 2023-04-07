@@ -10,20 +10,20 @@ Original author removed in 2015 by the University of Minnesota at the request of
 
 [Publisher Information](#publisher-information)
 
-1. [Introduction to Writing](#chapter-1)
-    1. Reading and Writing in College
+1. [Introduction To Writing](#chapter-1)
+    1. Reading And Writing In College
     2. Developing Study Skills
-    3. Becoming a Successful College Writer
-    4. Introduction to Writing: End-of-Chapter Exercises
-2. [Writing Basics: What Makes a Good Sentence?](#chapter-2)
+    3. Becoming A Successful College Writer
+    4. Introduction To Writing: End-of-chapter Exercises
+2. [Writing Basics: What Makes A Good Sentence?](#chapter-2)
     1. Sentence Writing
-    2. Subject-Verb Agreement
+    2. Subject-verb Agreement
     3. Verb Tense
     4. Capitalization
     5. Pronouns
-    6. Adjectives and Adverbs
-    7. Misplaced and Dangling Modifiers
-    8. Writing Basics: End-of-Chapter Exercises
+    6. Adjectives And Adverbs
+    7. Misplaced And Dangling Modifiers
+    8. Writing Basics: End-of-chapter Exercises
 3. [Punctuation](#chapter-3)
     1. Commas
     2. Colons
@@ -33,46 +33,46 @@ Original author removed in 2015 by the University of Minnesota at the request of
     6. Parentheses
     7. Dashes
     8. Hyphens
-    9. Punctuation: End-of-Chapter Exercises
-4. [Working with Words: Which Word Is Right?](#chapter-4)
+    9. Punctuation: End-of-chapter Exercises
+4. [Working With Words: Which Word Is Right?](#chapter-4)
     1. Commonly Confused Words
     2. Spelling
     3. Word Choice
-    4. Prefixes and Suffixes
-    5. Synonyms and Antonyms
+    4. Prefixes And Suffixes
+    5. Synonyms And Antonyms
     6. Using Context Clues
-    7. Working with Words: End-of-Chapter Exercises
-5. [Help for English Language Learners](#chapter-5)
+    7. Working With Words: End-of-chapter Exercises
+5. [Help For English Language Learners](#chapter-5)
     1. Word Order
     2. Negative Statements
-    3. Count and Noncount Nouns and Articles
+    3. Count And Noncount Nouns And Articles
     4. Pronouns
     5. Verb Tenses
     6. Modal Auxiliaries
     7. Prepositions
-    8. Slang and Idioms
-    9. Help for English Language Learners: End-of-Chapter Exercises
-6. [Writing Paragraphs: Separating Ideas and Shaping Content](#chapter-6)
-    1. Purpose, Audience, Tone, and Content
-    2. Effective Means for Writing a Paragraph
-    3. Writing Paragraphs: End-of-Chapter Exercises
+    8. Slang And Idioms
+    9. Help For English Language Learners: End-of-chapter Exercises
+6. [Writing Paragraphs: Separating Ideas And Shaping Content](#chapter-6)
+    1. Purpose, Audience, Tone, And Content
+    2. Effective Means For Writing A Paragraph
+    3. Writing Paragraphs: End-of-chapter Exercises
 7. [Refining Your Writing: How Do I Improve My Writing Technique?](#chapter-7)
     1. Sentence Variety
-    2. Coordination and Subordination
+    2. Coordination And Subordination
     3. Parallelism
-    4. Refining Your Writing: End-of-Chapter Exercises
+    4. Refining Your Writing: End-of-chapter Exercises
 8. [The Writing Process: How Do I Begin?](#chapter-8)
     1. Apply Prewriting Models
     2. Outlining
     3. Drafting
-    4. Revising and Editing
-    5. The Writing Process: End-of-Chapter Exercises
-9. [Writing Essays: From Start to Finish](#chapter-9)
-    1. Developing a Strong, Clear Thesis
+    4. Revising And Editing
+    5. The Writing Process: End-of-chapter Exercises
+9. [Writing Essays: From Start To Finish](#chapter-9)
+    1. Developing A Strong, Clear Thesis
     2. Writing Body Paragraphs
     3. Organizing Your Writing
-    4. Writing Introductory and Concluding Paragraphs
-    5. Writing Essays: End-of-Chapter Exercises
+    4. Writing Introductory And Concluding Paragraphs
+    5. Writing Essays: End-of-chapter Exercises
 10. [Rhetorical Modes](#chapter-10)
     1. Narration
     2. Illustration
@@ -80,42 +80,42 @@ Original author removed in 2015 by the University of Minnesota at the request of
     4. Classification
     5. Process Analysis
     6. Definition
-    7. Compare-and-Contrast
-    8. Cause-and-Effect
+    7. Compare-and-contrast
+    8. Cause-and-effect
     9. Persuasion
-    10. Rhetorical Modes: End-of-Chapter Exercises
-11. [Writing from Research: What Will I Learn?](#chapter-11)
-    1. The Purpose of Research Writing
-    2. Steps in Developing a Research Proposal
+    10. Rhetorical Modes: End-of-chapter Exercises
+11. [Writing From Research: What Will I Learn?](#chapter-11)
+    1. The Purpose Of Research Writing
+    2. Steps In Developing A Research Proposal
     3. Managing Your Research Project
-    4. Strategies for Gathering Reliable Information
-    5. Critical Thinking and Research Applications
-    6. Writing from Research: End-of-Chapter Exercises
-12. [Writing a Research Paper](#chapter-12)
-    1. Creating a Rough Draft for a Research Paper
-    2. Developing a Final Draft of a Research Paper
-    3. Writing a Research Paper: End-of-Chapter Exercises
-13. [APA and MLA Styles](#chapter-13)
-    1. Formatting a Research Paper
-    2. Citing and Referencing Techniques
-    3. Creating a References Section
-    4. Using Modern Language Association (MLA) Style
-    5. APA and MLA Documentation and Formatting: End-of-Chapter Exercises
+    4. Strategies For Gathering Reliable Information
+    5. Critical Thinking And Research Applications
+    6. Writing From Research: End-of-chapter Exercises
+12. [Writing A Research Paper](#chapter-12)
+    1. Creating A Rough Draft For A Research Paper
+    2. Developing A Final Draft Of A Research Paper
+    3. Writing A Research Paper: End-of-chapter Exercises
+13. [APA And MLA Styles](#chapter-13)
+    1. Formatting A Research Paper
+    2. Citing And Referencing Techniques
+    3. Creating A References Section
+    4. Using Modern Language Association (mla) Style
+    5. APA And MLA Documentation And Formatting: End-of-chapter Exercises
 14. [Creating Presentations: Sharing Your Ideas](#chapter-14)
-    1. Organizing a Visual Presentation
-    2. Incorporating Effective Visuals into a Presentation
-    3. Giving a Presentation
-    4. Creating Presentations: End-of-Chapter Exercises
-15. [Readings: Examples of Essays](#chapter-15)
-    1. Introduction to Sample Essays
+    1. Organizing A Visual Presentation
+    2. Incorporating Effective Visuals Into A Presentation
+    3. Giving A Presentation
+    4. Creating Presentations: End-of-chapter Exercises
+15. [Readings: Examples Of Essays](#chapter-15)
+    1. Introduction To Sample Essays
     2. Narrative Essay
     3. Illustration Essay
     4. Descriptive Essay
     5. Classification Essay
     6. Process Analysis Essay
     7. Definition Essay
-    8. Compare-and-Contrast Essay
-    9. Cause-and-Effect Essay
+    8. Compare-and-contrast Essay
+    9. Cause-and-effect Essay
     10. Persuasive Essay
 
 [Works Cited](#works-cited)
@@ -124,7 +124,7 @@ Original author removed in 2015 by the University of Minnesota at the request of
 
 [Table of Contents](#contents)
 
-### 2023 adaptation
+### 2023 Adaptation
 
 This book, *Writing for Success 2023*, has been adapted by Jamie Campbell
 Martin in spring of 2023 from 2015's *Writing for Success*. It is made available under the terms of 
@@ -149,7 +149,7 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
 - Updated broken links
 - Reformatted text in GitHub Flavored Markdown. See https://github.github.com/gfm/
 
-### 2015 adaptation
+### 2015 Adaptation
 
 Information from the 2015 University of Minnesota adaptation is below:
 
@@ -169,9 +169,9 @@ a Creative Commons Attribution-NonCommercial-ShareAlike license.
 
 [Table of Contents](#contents)
 
-## Introduction to Writing
+## Introduction To Writing
 
-## 1.1 Reading and Writing in College
+## 1.1 Reading And Writing In College
 
 **Learning Objectives**
 
@@ -202,7 +202,7 @@ summarize what you have learned on an exam. You will have to think hard
 about complex new ideas. You are moving into deeper
 waters. A good introductory writing course will help you swim.
 
-#### Table 1.1 High School versus College Expectations
+#### High School Versus College Expectations
 
 | High School | College |
 |:---|:--- |
@@ -296,7 +296,7 @@ are available through the college library; in print; or, more often,
 online. When you are assigned a reserve reading, download it early.
 Skim through it to understand how much time you will need to read it.
 
-### Setting a Purpose
+### Setting A Purpose
 
 The other key component of planning is setting a purpose. Knowing what
 you want to get out of a reading assignment helps you determine how to
@@ -362,7 +362,7 @@ reading. Finally, you can improve comprehension by taking time to
 determine which strategies work best for you and putting those
 strategies into practice.
 
-### Kinds of Reading
+### Kinds Of Reading
 
 In college, you will likely read all of the following:
 
@@ -370,23 +370,23 @@ In college, you will likely read all of the following:
 
 Often include study aids: summaries, glossaries, review questions, etc.
 
-#### Trade books
+#### Trade Books
 
 Less likely to include study aids. A *trade book* is a book written for the trade, 
 meaning a book written to sell a lot. Merriam-Webster says the term first appeared around 1870.
 
 https://www.merriam-webster.com/dictionary/trade%20book
 
-#### Popular articles
+#### Popular Articles
 
 Written for everyone. These are typically magazine or newspaper articles. These days they are typically read online.
 
-#### Scholarly articles
+#### Scholarly Articles
 
 Written for specialists, who we also call "scholars." 
 There are also scholarly books, though you will rarely be asked to read an entire scholarly book.
 
-### Identifying the Main Point
+### Identifying The Main Point
 
 With an expository text,
 the key goal is to identify the main point: the most important idea
@@ -505,7 +505,7 @@ respect students who are proactive about their own learning. Most
 instructors will work hard to help students who make the effort to help
 themselves.
 
-### Taking It to the Next Level: Active Reading
+### Taking It To The Next Level: Active Reading
 
 Now that you have reviewed planning and comprehension strategies,
 college readings may feel more manageable. You know what you need to do
@@ -513,7 +513,7 @@ to get your reading done and grasp the main points. However, the most
 successful students in college are not only competent readers but active
 readers.
 
-### Using the SQ3R Strategy
+### Using The Sq3r Strategy
 
 One strategy you can use to become a more active reader is the SQ3R
 strategy, a step-by-step process to follow before, during, and after
@@ -599,7 +599,7 @@ occasionally felt lost in a sea of new terms and theories about teaching
 and child development. She found that it helped to relate the reading to
 her personal observations of her son and other kids she knew.
 
-#### Writing at Work
+#### Writing At Work
 
 Many college courses require students to participate in interactive
 online components, such as a discussion forum, a page on a social
@@ -654,11 +654,11 @@ which you state and support your position on an issue. College
 instructors will hold you to a higher standard when it comes to
 supporting your ideas with reasons and evidence.
 
-Table 1.2 lists some common college writing assignments. Which
+Below are some common college writing assignments. Which
 assignments you encounter will depend on your courses your
 instructors.
 
-#### Table 1.2 Common Types of College Writing Assignments
+#### Common College Writing Assignments
 
 | Assignment | Description | Example |
 |:--- |:--- |:--- |
@@ -676,7 +676,7 @@ As an English professor, I have seen many students unsure of what we mean by "li
 
 One kind of literature is the "novel." A novel is a book-length work of prose fiction--usually 200 pages or longer, published as its own separate book. Elsewhere in this book, I explain how language is already changing. In South Florida where the 2023 revision of this book was written, more and more students use the word "novel" to mean any stand-alone book. But this is not what it currently means according to the dictionary.
 
-#### Writing at Work
+#### Writing At Work
 
 Part of managing your education is communicating well with others at
 your college. For instance, you might need to email your instructor
@@ -690,7 +690,7 @@ recipient politely; state your question, problem, or request clearly;
 and use a formal, respectful tone. Doing so helps you make a positive
 impression and get a quicker response.
 
-#### Key Takeaways
+#### Takeaways
 
 - College reading and writing differs from high school
 assignments not only in quantity but also in quality.
@@ -734,7 +734,7 @@ Read with an open mind and consider what has worked for you
 could help you succeed in college? Which habits
 might get in your way? What changes might you need to make?
 
-### Understanding Yourself as a Learner
+### Understanding Yourself As A Learner
 
 To succeed in college, it helps to know what makes you tick. For decades,
 psychologists have examined
@@ -777,7 +777,7 @@ class or forget assignments. College instructors, however, expect you to
 take full responsibility for managing yourself and getting your work
 done on time.
 
-#### Making a Plan for the Week and a Plan for the Semester
+#### Making A Plan For The Week And A Plan For The Semester
 
 At the beginning of the semester, establish a routine for when
 you will study and write. A general rule is that
@@ -847,7 +847,7 @@ for example. Use a star,
 highlighting, or something else to set off times
 that look like they will be extra busy.
 
-### Time Management Do's and Don'ts
+### Time Management Do's And Don'ts
 
 Setting up a schedule is easy. Sticking with it is harder. 
 A schedule that looked great on paper may prove to be
@@ -867,7 +867,7 @@ you need to figure out why and try using something else.
 Below is a list of dos and  don'ts for managing your time. Look
 back at it throughout your class to help yourself stay on track.
 
-### **Do**s
+### **do**s
 
 1. Make sure to regularly check and update your schedule or calendar.
 2. When planning your study time, be realistic about what you can  do and don't plan to study when you want to be socializing with friends.
@@ -877,7 +877,7 @@ back at it throughout your class to help yourself stay on track.
 6. If you're feeling overworked and exhausted all the time, you might need to cut back on some of your commitments.
 7. Have a plan for how you'll handle high-stress periods, like finals week, by reducing your other commitments and scheduling time for relaxing activities.
 
-### **Don't**s
+### **don't**s
 
 1. If you have a hard assignment, don't wait until the last minute. Break it into smaller tasks that you can do one at a time.
 2. Don't think you have to do everything at once. If you have some free time, even if it's just half an hour, use it to work on something productive.
@@ -893,11 +893,11 @@ following tasks will help you stay on track throughout the semester.
 2. Use your time-management system for the next two weeks. Check in with yourself every day and week, follow your plan, and make note of anything that gets in the way. After two weeks, look at your plan again and decide if you need to change it.
 3. Review the list of dos and don'ts above.
 
-#### Writing at Work
+#### Writing At Work
 
 If you have a job, you probably have ways to get things done quickly. You can use those same ways to do well in school. For example, you can use an electronic calendar to keep track of your school and work schedules. Instead of talking to your boss about work deadlines, you can talk to a friend about school projects. Take school as seriously as work.
 
-### Note-Taking Methods
+### Note-taking Methods
 
 One final valuable tool is a good
 note-taking system. Just the act of converting a spoken lecture to notes
@@ -910,7 +910,7 @@ These sections discuss strategies you can use to take notes
 efficiently. No matter which system you choose, keep the note-taking
 guidelines in mind.
 
-### Note-Taking Guidelines
+### Note-taking Guidelines
 
 1. Before class, quickly review your notes from last time and the reading. This will help you focus during the lecture.
 2. Make sure you have everything you need for class, like paper, pens, textbooks, and handouts.
@@ -921,7 +921,7 @@ guidelines in mind.
 Review your notes throughout the semester, not just before
 exams.
 
-### Layers of Ideas
+### Layers Of Ideas
 
 One of the biggest ideas we want to teach our students, whether they are reading or 
 writing, is that **ideas come in layers**. Instead of just one thing after another,
@@ -951,7 +951,7 @@ and supporting points." But the idea is the same: you need to use layers in read
 in writing. There is no real God-given rule about how many layers to use, but we will
 suggest that you use three layers in your notes.
 
-### Organizing Ideas in Your Notes
+### Organizing Ideas In Your Notes
 
 To take good notes, you need a system that helps you tell the difference between important points, smaller ideas, and details. It should also show how these ideas are connected. And you need to be able to write your notes down quickly. Some people make detailed outlines or maps, but that might not be best for taking notes in class, where the teacher often talks too fast for that.
 
@@ -998,7 +998,7 @@ figure shows how a chart for Crystal's notes might look.
 | Jean Piaget | Switzerland |||
 | Erik Erikson | Denmark (emigrated to US in 1930s) |||
 
-#### The Cornell Note-Taking System
+#### The Cornell Note-taking System
 
 Another choice is the Cornell
 note-taking system. This popular format makes it easy to
@@ -1033,7 +1033,7 @@ Using the Cornell system, Crystal's notes would look like the following:
 
 ![](image04.jpeg "Cornell system version of Crystal's notes on Jean Piaget")
 
-#### Writing at Work
+#### Writing At Work
 
 Especially in jobs where PowerPoint or other "slide deck"
 programs are used a lot, a presenter may give you
@@ -1056,7 +1056,7 @@ or just focus on separating what really matters from less-important details.
 3. If you are still struggling,
 set up an appointment with your school's academic resource center.
 
-#### Key Takeaways
+#### Takeaways
 
 - To manage your time well, you need to consider both the 
  **short term** (daily and weekly schedules) and the **long term** (major semester
@@ -1065,7 +1065,7 @@ deadlines).
 schedule. If your schedule is not working for you, adjust.
 - A good note-taking system must separate major points, smaller ideas, and supporting details. It must also allow you to work quickly. Choose the format that works best for you.
 
-## 1.3 Becoming a Successful College Writer
+## 1.3 Becoming A Successful College Writer
 
 **Learning Objectives**
 
@@ -1081,7 +1081,7 @@ writer. The general techniques you will learn will help ensure your
 success on any writing task, whether you complete a bluebook exam in an
 hour or an in-depth research project over several weeks.
 
-### Putting It All Together: Strategies for Success
+### Putting It All Together: Strategies For Success
 
 Writing well is difficult. Even people who write for a living sometimes
 struggle. Even people who enjoy
@@ -1416,7 +1416,7 @@ just the finished essays but also the preliminary steps that went into
 developing those essays. **Chapter 15** of this book
 provides additional examples of different essay types.
 
-#### Key Takeaways
+#### Takeaways
 
 - Following the steps of the writing process helps students complete any
 writing assignment more successfully.
@@ -1431,7 +1431,7 @@ and motivated.
 - Various resources are available to help students with writing and with
 other aspects of college life.
 
-## 1.4 Introduction to Writing: End-of-Chapter Exercises
+## 1.4 Introduction To Writing: End-of-chapter Exercises
 
 ### Exercises
 
@@ -1461,7 +1461,7 @@ use frequently.
 
 [Table of Contents](#contents)
 
-## Writing Basics: What Makes a Good Sentence?
+## Writing Basics: What Makes A Good Sentence?
 
 ## Language Change
 
@@ -1516,7 +1516,7 @@ Writing in complete sentences is one way to ensure that you communicate
 well. This section covers how to recognize and write basic sentence
 structures and how to avoid some common writing errors.
 
-### Components of a Sentence
+### Components Of A Sentence
 
 Clearly written, complete sentences require key information: a subject,
 a verb, and a complete idea. A sentence needs to make sense on its own.
@@ -1718,7 +1718,7 @@ dryer twice. \_\_\_\_\_\_\_\_
 8. The teacher who runs the studio is often praised for his restoration
 work on old masterpieces. \_\_\_\_\_\_\_\_
 
-### Sentence Structure, Including Fragments and Run-ons
+### Sentence Structure, Including Fragments And Run-ons
 
 Now that you know what makes a complete sentence---a subject and a
 verb---you can use other parts of speech to build on this basic
@@ -1751,7 +1751,7 @@ patterns use action verbs and others use linking verbs.
 |---|---|---| 
 |Computers| are| expensive.|
 
-##### Subject--Verb--Adverb
+##### Subject - Verb - Adverb
 
 |S|LV|Adv|
 |---|---|---| 
@@ -1888,7 +1888,7 @@ its own? If not, what you are looking at is a fragment. You will need to
 either add the parts of speech that are missing or combine the fragment
 with a nearby sentence.
 
-#### Editing Fragments That Begin with Gerunds
+#### Editing Fragments That Begin With Gerunds
 
 **Incorrect:** Taking deep breaths. Saul prepared for his presentation.
 
@@ -2060,7 +2060,7 @@ methods to discover and enhance the paintings' original colors, the
 result of which are stunningly vibrant and yet delicate displays of
 the man's genius.
 
-#### Key Takeaways
+#### Takeaways
 
 - A sentence is complete when it contains both a subject and verb. A
 complete sentence makes sense on its own.
@@ -2085,7 +2085,7 @@ corrected by combining the fragment with another sentence.
 Run-on sentences can be corrected by adding appropriate punctuation or
 adding a coordinating conjunction.
 
-#### Writing Application
+#### Application
 
 Using the six basic sentence structures, write one of the following:
 
@@ -2094,7 +2094,7 @@ Using the six basic sentence structures, write one of the following:
 3. A status report about your current project.
 4. A job description for your résumé.
 
-## 2.2 Subject-Verb Agreement
+## 2.2 Subject-verb Agreement
 
 **Learning Objectives**
 
@@ -2285,7 +2285,7 @@ this exercise.
 9. It \_\_\_\_\_\_\_\_ appear to be the right size.
 10. They \_\_\_\_\_\_\_\_ ready to take this job seriously.
 
-### Errors in Subject-Verb Agreement
+### Errors In Subject-verb Agreement
 
 Errors in subject-verb agreement may occur when
 
@@ -2319,7 +2319,7 @@ Compound subjects combined with *and* take a plural verb form.
 Compound subjects combined with *or* and *nor* are treated separately.
 The verb must agree with the subject that is nearest to the verb.
 
-#### With *neither . . . nor*
+#### With *neither . . . Nor*
 > **Two singular subjects**: Neither **Alice** nor **Bob** ***wants*** to eat at that restaurant.
 >
 > **Two plural subjects**: Neither **the kids** nor **the adults** ***wants*** to eat at that restaurant.
@@ -2328,7 +2328,7 @@ The verb must agree with the subject that is nearest to the verb.
 >
 > **Plural, then singular**: Neither **the men** nor **Alice** ***wants*** to eat at the restaurant.
 
-#### With *either . . . or*
+#### With *either . . . Or*
 > **Two singular subjects**: Either **you** or **Jason** ***takes*** the furniture out of the garage.
 >
 > **Two plural subjects**: Either **you** or **the twins** ***take*** the furniture out of the garage.
@@ -2342,7 +2342,7 @@ The verb must agree with the subject that is nearest to the verb.
 If you can substitute the word *they* for the compound subject, then the
 sentence takes the third person plural verb form.
 
-### Separation of Subjects and Verbs
+### Separation Of Subjects And Verbs
 
 As you read or write, you may come across a sentence that contains a
 phrase or clause that separates the subject from the verb. Often,
@@ -2424,7 +2424,7 @@ In this sentence, *class* is a collective noun. Although the class
 consists of many students, the class is treated as a singular unit and
 requires a singular verb form.
 
-#### The Subject Follows the Verb
+#### The Subject Follows The Verb
 
 You may encounter sentences in which the subject comes after the verb
 instead of before the verb. In other words, the subject of the sentence
@@ -2504,7 +2504,7 @@ phone. I looks forward to speaking with you in person.
 >
 > Felicia Fellini
 
-#### Key Takeaways
+#### Takeaways
 
 - Parts of sentences must agree in number, person, case, and gender.
 - A verb must always agree with its subject in number. A singular subject requires a singular verb; a plural subject requires a plural verb.
@@ -2516,7 +2516,7 @@ phone. I looks forward to speaking with you in person.
 - In sentences that begin with *here* and *there*, the subject follows the verb.
 - In questions, the subject follows the verb.
 
-#### Writing Application
+#### Application
 
 Use your knowledge of subject-verb agreement to write one of the
 following:
@@ -2606,7 +2606,7 @@ of the 1930s.
 ### Irregular Verbs
 
 The past tense of irregular verbs is not formed using the patterns that
-regular verbs follow. Study Table 2.1, which lists the most common
+regular verbs follow. Study the table below, which lists the most common
 irregular verbs.
 
 **Tip**
@@ -2615,7 +2615,7 @@ The best way to learn irregular verbs is to memorize them. With the help
 of a classmate, create flashcards of irregular verbs and test yourselves
 until you master them.
 
-#### Table 2.1 Irregular Verbs
+#### Irregular Verbs
 
 | Simple Present | Past | Simple Present | Past |
 |:--- |:--- |:--- |:--- |
@@ -2745,7 +2745,7 @@ long hours of backbreaking work, which includes plowing the land,
 planting seeds, and cutting crops for harvesting. The working life of
 a peasant in the Middle Ages is usually demanding and exhausting.
 
-#### Writing at Work
+#### Writing At Work
 
 Read this excerpt from a work email:
 
@@ -2759,7 +2759,7 @@ that we can discuss this important matter.
 
 Using different tenses in the email can make it harder for the reader to understand what you mean. Your coworkers might not say anything about it, but it's important to avoid mistakes like this because they can have a small negative effect on how you're seen at work.
 
-#### Key Takeaways
+#### Takeaways
 
 - Verb tense helps you express when an event takes place.
 - Regular verbs follow regular patterns when shifting from present to past
@@ -2768,7 +2768,7 @@ tense.
 shifting from present to past tense.
 - Using consistent verb tense is a key element to effective writing.
 
-#### Writing Application
+#### Application
 
 Tell a family story. You likely have several family stories to choose
 from but pick the one that you find most interesting to write about. Use
@@ -2784,7 +2784,7 @@ make sure your all your verbs are correct and the tenses are consistent.
 
 When we send messages quickly, like in text or email, we sometimes forget to use capital letters. But when we're writing something more important or serious, like a job application, it's important to use capital letters correctly. This shows the reader that we're careful about our writing and care about what we're saying.
 
-#### The letters of English
+#### The Letters Of English
 
 |capital (also called "uppercase")| lowercase|
 |:---|:---|
@@ -2819,7 +2819,7 @@ The terms "uppercase" and "lowercase" come from the history of printing: text us
 
 The history of letter cases in English is fascinating; you can read more here: https://en.wikipedia.org/wiki/Letter_case
 
-#### Capitalize the First Word of a Sentence
+#### Capitalize The First Word Of A Sentence
 
 > **T**he museum has a new butterfly exhibit.
 
@@ -2886,7 +2886,7 @@ Common noun: magazine
 4. 
 5. 
 
-#### Capitalize Days of the Week, Months of the Year, and Holidays
+#### Capitalize Days Of The Week, Months Of The Year, And Holidays
 
 > On **W**ednesday, I will be traveling to Austin for a music festival.
 
@@ -2935,13 +2935,13 @@ involved in his stories, a notion that is swiftly contradicted in the
 opening pages, as the reader can clearly perceive that he is in a dire
 predicament---and frighteningly involved.
 
-#### Key Takeaways
+#### Takeaways
 
 - Learning and applying the basic rules of capitalization is a fundamental
 aspect of good writing.
 - Identifying and correcting errors in capitalization is an important writing skill.
 
-#### Writing Application
+#### Application
 
 Write a one-page biography. Include people, places, and
 dates and make sure to capitalize them correctly.
@@ -2989,7 +2989,7 @@ Pronoun agreement errors occur when the pronoun and the antecedent do
 not match or agree with each other. There are several types of pronoun
 agreement.
 
-### Agreement in Number
+### Agreement In Number
 
 If the pronoun takes the place of or refers to a singular noun, the
 pronoun must also be singular.
@@ -3014,7 +3014,7 @@ bookstore, **they** (both sing. and plur.) must have a receipt.
 
 > **Incorrect**: If **students** (plur.) want to return a book to the bookstore, **he or she** (sing.) must have a receipt.
 
-### Agreement in Person
+### Agreement In Person
 
 ||Singular subjective|singular objective|singular possessive|Plural subjective|plural objective|plural possessive|
 |:---|:---|:---|:---|:---|:---|:---|
@@ -3046,7 +3046,7 @@ you got to see the entire life cycle of five Painted Lady butterflies.
 I even got to set it free. So when my cousin said they wanted to take
 me to the butterfly exhibit, I was really excited!
 
-### Indefinite Pronouns and Agreement
+### Indefinite Pronouns And Agreement
 
 Indefinite pronouns do not refer to a specific person or thing and are
 usually singular. Note that a pronoun that refers to an indefinite
@@ -3101,7 +3101,7 @@ Thursday evenings.
 10. I thought the flock of birds lost \_\_\_\_\_\_\_\_ way in the
 storm.
 
-### Subject and Object Pronouns
+### Subject And Object Pronouns
 
 Subject pronouns function as subjects in a sentence. Object pronouns
 function as the object of a verb or of a preposition.
@@ -3167,7 +3167,7 @@ sentence.
 It is correct to write *Janice and me*, as opposed to *me and Janice*.
 Just remember it is more polite to refer to yourself last.
 
-#### Writing at Work
+#### Writing At Work
 
 In conversation, people sometimes mix up subject and object
 pronouns. For instance, you might say, "Me and Donnie went to a movie
@@ -3197,7 +3197,7 @@ talk.
 9. I am going to the comedy club with Yolanda and she.
 10. The cooking instructor taught her and me a lot.
 
-### *Who* versus *Whom*
+### *who* Versus *whom*
 
 In traditional English usage, *who* (or *whoever*) is for a subject,
 while *whom* (or *whomever*) is for an object.
@@ -3205,12 +3205,12 @@ while *whom* (or *whomever*) is for an object.
 *Who* is taking over both roles. But if you want to be very correct
 and traditional, use *whom* in the object position.
 
-#### *Who* for a subject
+#### *who* For A Subject
 
 - *Who* won the marathon last Tuesday?
 - I wonder *who* came up with that terrible idea!
 
-#### *Whom* for an object
+#### *whom* For An Object
 
 - *Whom* did Frank marry the third time? (direct object of verb)
 - From *whom* did you buy that old record player? (object of
@@ -3251,7 +3251,7 @@ find out.
 9. From \_\_\_\_\_\_\_\_ did you get the concert tickets?
 10. No one knew \_\_\_\_\_\_\_\_ ate the cake mom was saving.
 
-#### Key Takeaways
+#### Takeaways
 
 - Pronouns and their antecedents need to agree in number and person.
 - Most indefinite pronouns are singular.
@@ -3262,14 +3262,14 @@ never used as subjects.
 - *Who* serves as a subject of a verb.
 - *Whom* serves as an object of a sentence or the object of a preposition.
 
-#### Writing Application
+#### Application
 
 Write about what makes an ideal marriage or long-term relationship.
 Provide specific details to back up your assertions. After you have
 written a few paragraphs, go back and proofread your paper for correct
 pronoun usage.
 
-## 2.6 Adjectives and Adverbs
+## 2.6 Adjectives And Adverbs
 
 **Learning Objectives**
 
@@ -3279,7 +3279,7 @@ pronoun usage.
 Adjectives and adverbs are descriptive words that bring your writing to
 life.
 
-### Adjectives and Adverbs
+### Adjectives And Adverbs
 
 An adjective is a word that describes a noun or a pronoun. It often
 answers questions such as *which one*, *what kind*, or *how many?*
@@ -3339,7 +3339,7 @@ single.
 10. At the party, Denise \_\_\_\_\_\_\_\_ devoured two pieces of
 pepperoni pizza and a several slices of ripe watermelon.
 
-### Comparative versus Superlative
+### Comparative Versus Superlative
 
 Comparative adjectives and adverbs are used to compare two people or
 things.
@@ -3417,7 +3417,7 @@ was the most sorry person on the block.
 
 Share and compare your answers with a classmate.
 
-### Irregular Words: *Good*, *Well*, *Bad*, and *Badly*
+### Irregular Words: *good*, *well*, *bad*, And *badly*
 
 *Good*, *well*, *bad*, and *badly* are often used incorrectly. Study the
 following chart to learn the correct usage of these words and their
@@ -3430,7 +3430,7 @@ comparative and superlative forms.
 | **Adjective**| bad| worse| worst|
 | **Adverb**| badly| worse| worst|
 
-### *Good* versus *Well*
+### *good* Versus *well*
 
 *Good* is always an adjective---that is, a word that describes a noun or
 a pronoun. The second sentence is correct because *well* is an adverb
@@ -3529,7 +3529,7 @@ was last year.
 10. My husband says mystery novels are the \_\_\_\_\_\_\_\_ (good)
 types of books.
 
-#### Writing at Work
+#### Writing At Work
 
 The irregular words *good*, *well*, *bad*, and *badly* are often misused. So
 are their comparative and superlative forms *better*, *best*,
@@ -3541,7 +3541,7 @@ and *worst*, so people sometimes mix them up.
 In a formal tone, use each of these words to write eight separate
 sentences. Assume these sentences will be judged by an employer.
 
-#### Key Takeaways
+#### Takeaways
 
 - Adjectives describe a noun or a pronoun.
 - Adverbs describe a verb, adjective, or another adverb.
@@ -3553,14 +3553,14 @@ things.
 unique in their comparative and superlative forms and require special
 attention.
 
-#### Writing Application
+#### Application
 
 Using the exercises as a guide, write your own ten-sentence quiz for
 your classmate(s) using the concepts covered in this section. Try to
 include two questions from each subsection in your quiz. Exchange papers
 and see whether you can get a perfect score.
 
-## 2.7 Misplaced and Dangling Modifiers
+## 2.7 Misplaced And Dangling Modifiers
 
 **Learning Objectives**
 
@@ -3744,14 +3744,14 @@ radio. Biting into the sandwich, my favorite song blared loudly in my
 ears. Humming and chewing, my sandwich went down smoothly. Smiling, my
 sandwich will be made again, but next time I will add cheese.
 
-#### Key Takeaways
+#### Takeaways
 
 - Misplaced and dangling modifiers make sentences difficult to understand.
 - Misplaced and dangling modifiers distract the reader.
 - There are several effective ways to identify and correct misplaced and
 dangling modifiers.
 
-#### Writing Application
+#### Application
 
 See how creative and humorous you can get by writing ten sentences with
 misplaced and dangling modifiers. This is a deceptively simple task but
@@ -3759,7 +3759,7 @@ rise to the challenge. Your writing will be stronger for it. Exchange
 papers with a classmate and rewrite your classmate's sentences to
 correct any misplaced modifiers.
 
-## 2.8 Writing Basics: End-of-Chapter Exercises
+## 2.8 Writing Basics: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -3865,7 +3865,7 @@ wanted them to find it themselves.
 **Dates, addresses, greetings, and letters:** The letter was postmarked
 December 8, 1945.
 
-### Commas after an Introductory Word or Phrase
+### Commas After An Introductory Word Or Phrase
 
 You may notice a comma that appears near the beginning of the sentence,
 usually after a word or phrase. This comma lets the reader know where
@@ -3896,7 +3896,7 @@ copy the sentence and add a comma to correct the sentence.
 8. Believe it or not the criminal was able to rob the same bank three
 times.
 
-### Commas in a List of Nouns
+### Commas In A List Of Nouns
 
 When listing several nouns in a sentence, separate each
 noun with a comma. This allows the reader to mentally pause after each item. 
@@ -3927,7 +3927,7 @@ the meaning was clear without it.
 These days, most writing is done online. The benefit to clarity
 is worth the extra character.
 
-### Commas in a List of Adjectives
+### Commas In A List Of Adjectives
 
 You can use commas to list adjectives too. 
 
@@ -3952,7 +3952,7 @@ before their portfolio reviews next week.
 the storm.
 6. He wrote his name on the board in clear precise delicate letters.
 
-#### Commas before Conjunctions in Compound Sentences
+#### Commas Before Conjunctions In Compound Sentences
 
 Commas are sometimes used to separate two independent clauses. The comma
 comes after the first independent clause and is followed by a
@@ -3984,7 +3984,7 @@ for a restaurant.
 10. I have never dealt with this client before. I know Leonardo has
 worked with them. Let's ask Leonardo for his help.
 
-### Commas before and after Interrupting Words
+### Commas Before And After Interrupting Words
 
 In a conversation, you might interrupt yourself to give
 more details about something you just said. In a sentence, you might do
@@ -4021,7 +4021,7 @@ came in time for dessert.
 6. All of a sudden our network crashed and we lost our files.
 7. Alex hand the wrench to me before the pipe comes loose again.
 
-### Commas in Dates, Addresses, and the Greetings and Closings of Letters
+### Commas In Dates, Addresses, And The Greetings And Closings Of Letters
 
 You also use commas when you write the date, such as in cover letters
 and emails. Commas are used when you write the date, when you include an
@@ -4123,7 +4123,7 @@ references. We will not be available for consultation after April
 10 but you may contact the office if you have any questions. Thank
 you HR Department.
 
-#### Key Takeaways
+#### Takeaways
 
 - Punctuation marks provide visual cues to readers to tell them how to
 read a sentence. Punctuation marks convey meaning.
@@ -4159,7 +4159,7 @@ Another punctuation mark used to indicate a full stop is the colon:
 
 Use a colon to introduce lists, quotes, examples, and explanations. 
 
-### Introducing a List
+### Introducing A List
 
 Use a colon to introduce a list of items. Introduce the list with an
 independent clause.
@@ -4170,7 +4170,7 @@ Maryland.
 > I have to take four classes this semester: Composition,
 Statistics, Ethics, and Italian.
 
-### Introducing a Quote
+### Introducing A Quote
 
 You can use a colon to introduce a quote.
 
@@ -4188,7 +4188,7 @@ in your prose" (*MLA Handbook* p. 306).
 For details of formatting a block quote, check the MLA or APA style websites.
 For more information about block quotations, see **Chapter 11**
 
-### Introducing a Definition or Examples
+### Introducing A Definition Or Examples
 
 Use a colon to introduce an example or to further explain an idea
 presented in the first part of a sentence. The first part of the
@@ -4221,7 +4221,7 @@ numbers.
 
 > **Incorrect:** The recipe is simple: Tomato, basil, and avocado.
 
-### In a Formal Greeting
+### In A Formal Greeting
 
 We use a colon after a greeting in a formal business letter. 
 
@@ -4259,7 +4259,7 @@ Vonnegut, Miller, and Orwell.
 stayed home."
 10. Trust me I have done this before.
 
-#### Key Takeaways
+#### Takeaways
 
 - Use a colon to introduce a list, quote, or example.
 - Use a colon after a greeting in formal letters.
@@ -4282,7 +4282,7 @@ differently than a period or a comma. When you encounter a semicolon
 while reading aloud, this represents a good place to pause and take a
 breath.
 
-### Semicolons to Join Two Independent Clauses
+### Semicolons To Join Two Independent Clauses
 
 Use a semicolon to combine two closely related independent clauses.
 > **Correct**: Be sure to wear clean, well-pressed clothes to the
@@ -4295,7 +4295,7 @@ a grammar error, but it sounds choppy.
 Using a comma does create an error: a run-on sentence.
 > **Incorrect**: Be sure to wear clean, well-pressed clothes to the interview, appearances are important.
 
-### Semicolons to Join Items in a List
+### Semicolons To Join Items In A List
 
 You can also use a semicolon to join items in a list when the items in
 the list already require commas. Semicolons help the reader distinguish
@@ -4332,7 +4332,7 @@ cheese or ham, tomato, and cheese?
 green, black, and brown or green, brown, and dark red.
 6. Let's go for a walk the air is so refreshing.
 
-#### Key Takeaways
+#### Takeaways
 
 - Use a semicolon to join two independent clauses.
 - Use a semicolon to separate items in a list when those items already
@@ -4366,7 +4366,7 @@ words. You do not need to use quotation marks for indirect quotations.
 
 > **Indirect quotation:** Carly said that she would never go back there.
 
-#### Writing at Work
+#### Writing At Work
 
 Most word processing software is designed to catch errors in grammar,
 spelling, and punctuation. While this can be a useful tool, it is better
@@ -4432,7 +4432,7 @@ is lunch?"
 > **Exclamation is not part of quoted text:** He said I
 "single-handedly saved the company thousands of dollars"!
 
-### Quotations within Quotations
+### Quotations Within Quotations
 
 Use single quotation marks **' '** to show a quotation inside of another
 quotation.
@@ -4457,7 +4457,7 @@ and novels, are *italicized*.)
 
 The *New York Times* has been in publication since 1851.
 
-#### Writing at Work
+#### Writing At Work
 
 In many businesses, the difference a quote and a
 paraphrase is extremely important. It can be essential to know exactly
@@ -4486,7 +4486,7 @@ poem? asked Russell.
 9. Oh! said Yasmin, Is that the one that starts with the line, Two
 roads diverged in a yellow wood?
 10. That's the one said Russell.
-#### Key Takeaways
+#### Takeaways
 
 - Use quotation marks to enclose direct quotes and titles of short works.
 - Use single quotation marks to enclose a quote within a quote.
@@ -4590,7 +4590,7 @@ off.
 5. Each of the students responses were unique.
 6. Wont you please join me for dinner tonight?
 
-#### Key Takeaways
+#### Takeaways
 
 - Use apostrophes to show possession. Add ***'s*** to singular nouns and
 plural nouns that do not end in *s*. Add ***'*** to plural nouns that
@@ -4627,7 +4627,7 @@ about it.
 5. Has anyone besides me read the assignment?
 6. Please be sure to circle not underline the correct answers.
 
-#### Key Takeaways
+#### Takeaways
 
 - Parentheses enclose information that is secondary to the meaning of a
 sentence.
@@ -4662,7 +4662,7 @@ dashes. If the sentence is clear as it is, write *OK*.
 5. You have all the qualities that we are looking for in a candidate
 intelligence, dedication, and a strong work ethic.
 
-#### Key Takeaways
+#### Takeaways
 
 - Dashes indicate a pause in text.
 - Dashes set off information in a sentence to show emphasis.
@@ -4676,7 +4676,7 @@ intelligence, dedication, and a strong work ethic.
 
 A hyphen looks like a dash but it is shorter.
 
-### Hyphens between Two Adjectives That Work as One
+### Hyphens Between Two Adjectives That Work As One
 
 Use a hyphen to combine words that work together to form a single
 description.
@@ -4689,7 +4689,7 @@ description.
 >
 > My study group focused on preparing for the mid-year review.
 
-### Hyphens When a Word Breaks at the End of a Line
+### Hyphens When A Word Breaks At The End Of A Line
 
 Use a hyphen to divide a word across two lines of text. You may notice
 that most word-processing programs will do this for you. If you have to
@@ -4701,11 +4701,11 @@ the entire word to the next line.
 >
 > ing would conflict with the client meeting.
 
-#### Key Takeaways
+#### Takeaways
 - Hyphens join words that work as one adjective.
 - Hyphens break words across two lines of text.
 
-## 3.9 Punctuation: End-of-Chapter Exercises
+## 3.9 Punctuation: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -4834,7 +4834,7 @@ tiny room. However, I think my responses to her questions were good.
 Ill send her an email to thank her for her time. Hopefully shell call
 me soon about the position.
 
-#### Writing Application
+#### Application
 
 Review some of the recent or current assignments you have completed for
 school or work. Look through recent business and personal emails. Does
@@ -4852,7 +4852,7 @@ parentheses to create a variety of sentence lengths and structures.
 
 [Table of Contents](#contents)
 
-## Working with Words: Which Word Is Right?
+## Working With Words: Which Word Is Right?
 
 ## 4.1 Commonly Confused Words
 
@@ -5185,7 +5185,7 @@ résumé and job application.
 10. It must be fall, because the leaves \_\_\_\_\_\_\_\_ (are, our)
 changing, and \_\_\_\_\_\_\_\_ (it's, its) getting darker earlier.
 
-### Strategies to Avoid Commonly Confused Words
+### Strategies To Avoid Commonly Confused Words
 
 These strategies can help you avoid mixing up commonly confused
 words.
@@ -5207,7 +5207,7 @@ which words confuse you, but before you sit down to write, study
 the words on the list. Prepare your mind for working with words by
 reviewing the commonly confused words identified in this chapter.
 
-#### Writing at Work
+#### Writing At Work
 
 Employers value communication. From an application to an
 interview to the first month on the job, employers pay attention to your
@@ -5246,7 +5246,7 @@ Declaration that began are country, but know longer can personal
 pictures serve as mementos. The administrators' compromise, they say,
 is a visit to the gift shop for a preprinted photograph.
 
-#### Key Takeaways
+#### Takeaways
 
 - In order to write accurately, it is important for writers to be aware of
 commonly confused words.
@@ -5257,7 +5257,7 @@ correct word in your writing. You may also keep a list of commonly
 confused words nearby when you write or study the chart in this book.
 - Choosing the proper words leaves a positive impression on your readers.
 
-#### Writing Application
+#### Application
 
 Review the latest assignment you completed for school or for work. Does
 it contain any commonly confused words? Circle each example and use the
@@ -5373,7 +5373,7 @@ work is sometimes funny but always thoughtful and full of richness and
 depth. Alexie also writes poetry, novels, and screenplays. His latest
 collection of storys came out in 2009.
 
-#### Eight Tips to Improve Spelling
+#### Eight Tips To Improve Spelling
 
 1. **Read carefully and avoid skimming.** Focusing on your written
 assignment word by word will help you pay close attention to each
@@ -5653,7 +5653,7 @@ boroughs of New York City. However, in some people's opinien, the
 intagration into New York City should have never happened; they though
 Brooklyn should have remained an independent city.
 
-#### Writing at Work
+#### Writing At Work
 
 In today's job market, writing a good email can help you get a job.
 Emails to prospective employers require thoughtful word choice, accurate
@@ -5668,7 +5668,7 @@ you; one of your teachers may be able to read the email and give you
 suggestions for improvement. Most colleges and universities have writing
 centers, which may also be able to assist you.
 
-#### Key Takeaways
+#### Takeaways
 
 - Accurate, error-free spelling enhances your credibility with the reader.
 - Mastering the rules of spelling may help you become a better speller.
@@ -5676,7 +5676,7 @@ centers, which may also be able to assist you.
 - Studying the list of commonly misspelled words in this chapter, or
 studying a list of your own, is one way to improve your spelling skills.
 
-#### Writing Application
+#### Application
 
 What is your definition of a successful person? Is it based on a
 person's profession or is it based on his or her character? Perhaps
@@ -5714,7 +5714,7 @@ of your word choice is a major factor in developing your writing style.
 Precise selection of your words will help you be more clearly
 understood---in both writing and speaking.
 
-### Using a Dictionary and Thesaurus
+### Using A Dictionary And Thesaurus
 
 Even professional writers need help with the meanings, spellings,
 pronunciations, and uses of particular words. In fact, they rely on
@@ -5851,7 +5851,7 @@ and in personal correspondences, such as emails, text messages, and
 instant messages. Slang is appropriate between friends in an informal
 context but should be avoided in formal academic writing.
 
-#### Writing at Work
+#### Writing At Work
 
 Frequent exposure to media and popular culture has desensitized many of
 us to slang. In certain situations, using slang at work may not be
@@ -5960,20 +5960,20 @@ your own sheet of paper.
 9. The goalie blocked the shot.
 10. I enjoyed my Mexican meal.
 
-#### Key Takeaways
+#### Takeaways
 - Using a dictionary and thesaurus as you write will improve your writing
 by improving your word choice.
 - Connotations of words may be positive, neutral, or negative.
 - Slang, clichés, and overly general words should be avoided in academic
 writing.
 
-#### Writing Application
+#### Application
 
 Review a piece of writing that you have completed for school. Circle any
 sentences with slang, clichés, or overly general words and rewrite them
 using stronger language.
 
-## 4.4 Prefixes and Suffixes
+## 4.4 Prefixes And Suffixes
 
 **Learning Objectives**
 
@@ -6158,7 +6158,7 @@ their suffixes.
 9. greedy + ly
 10. excite + ment
 
-#### Key Takeaways
+#### Takeaways
 - A prefix is a word part added to the beginning of a word that changes
 the word's meaning.
 - A suffix is a word part added to the end of a word that changes the
@@ -6166,14 +6166,14 @@ word's meaning.
 - Learning the meanings of prefixes and suffixes will help expand your
 vocabulary, which will help improve your writing.
 
-#### Writing Application
+#### Application
 
 Write a paragraph describing one of your life goals. Include five words
 with prefixes and five words with suffixes. Exchange papers with a
 classmate and circle the prefixes and suffixes in your classmate's
 paper. Correct each prefix or suffix that is spelled incorrectly.
 
-## 4.5 Synonyms and Antonyms
+## 4.5 Synonyms And Antonyms
 
 **Learning Objectives**
 
@@ -6214,7 +6214,7 @@ the most appropriate synonym to best convey their ideas. When you pay
 particular attention to synonyms in your writing, it comes across to
 your reader. The sentences become clearer and more meaningful.
 
-#### Writing at Work
+#### Writing At Work
 
 Any writing you do at work involves a careful choice of words. For
 example, if you are writing an email to your employer regarding your
@@ -6326,7 +6326,7 @@ eyes.
 their futures.
 10. The guest attended to every one of our needs.
 
-#### Key Takeaways
+#### Takeaways
 - Synonyms are words that have the same, or almost the same, meaning as
 another word.
 - Antonyms are words that have the opposite meaning of another word.
@@ -6334,7 +6334,7 @@ another word.
 - Learning common antonyms sharpens your sense of language and expands
 your vocabulary.
 
-#### Writing Application
+#### Application
 
 Write a paragraph that describes your favorite dish or food. Use as many
 synonyms as you can in the description, even if it seems too many. Be
@@ -6359,7 +6359,7 @@ its meaning. The following are the different types of context clues:
 - Synonyms and antonyms
 - Examples
 
-### Brief Definition or Restatement
+### Brief Definition Or Restatement
 
 Sometimes a text directly states the definition or a restatement of the
 unknown word. The brief definition or restatement is signaled by a word
@@ -6384,7 +6384,7 @@ signals---the word *or* and the punctuation dashes---to indicate the
 meaning of the unfamiliar word. Other signals to look for are the words
 *is*, *as*, *means*, *known as*, and *refers to*.
 
-### Synonyms and Antonyms
+### Synonyms And Antonyms
 
 Sometimes a text gives a synonym of the unknown word to signal the
 meaning of the unfamiliar word:
@@ -6473,7 +6473,7 @@ but her parents always kept their mouths closed and simply smiled.
 In addition to context clues to help you figure out the meaning of a
 word, examine the following word parts: prefixes, roots, and suffixes.
 
-#### Writing at Work
+#### Writing At Work
 
 *Jargon* is the technical language of a special field. Imagine it is your first
 time working as a server in a restaurant and your manager tells you he
@@ -6486,14 +6486,14 @@ encounter jargon that is unfamiliar. It can be baffling and
 make you feel like an outsider. If you cannot figure out the jargon
 from the context, it is a good idea to ask.
 
-#### Key Takeaways
+#### Takeaways
 
 - Context clues are words or phrases within a text that help clarify
 vocabulary that is unknown to you.
 - There are several types of context clues including brief definition and
 restatement, synonyms and antonyms, and example.
 
-#### Writing Application
+#### Application
 
 Write a paragraph describing your first job. In the paragraph, use five
 words previously unknown to you. These words could be jargon words or
@@ -6502,7 +6502,7 @@ to provide a specific context clue for understanding each word. Exchange
 papers with a classmate and try to decipher the meaning of the words in
 each other's paragraphs based on the context clues.
 
-## 4.7 Working with Words: End-of-Chapter Exercises
+## 4.7 Working With Words: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -6552,7 +6552,7 @@ one of his \_\_\_\_\_\_\_\_ (patience, patients).
 
 [Table of Contents](#contents)
 
-## Help for English Language Learners
+## Help For English Language Learners
 
 ## 5.1 Word Order
 
@@ -6773,7 +6773,7 @@ the correct order before the noun. The first one has been done for you.
 4. opinion: refreshing, new
 5. dress: fashionable, purple
 
-#### Key Takeaways
+#### Takeaways
 
 - The most basic sentence structure is a subject plus a verb.
 - Adding to a basic sentence makes it more complex. You might add
@@ -6790,7 +6790,7 @@ or adding the verb *do*, *does*, or *did* and adding a question mark.
     - ethnicity, 
     - material.
 
-#### Writing Application
+#### Application
 
 Write a paragraph about a memorable family trip. Use at least two
 adjectives to describe each noun in your paragraph. Proofread your
@@ -6909,7 +6909,7 @@ classmate and compare your answers. Did your partner find an error you
 missed? Did you find an error your partner missed? Compare with your
 instructor's answers.
 
-### Double negatives
+### Double Negatives
 
 A *double negative* is two negatives used in the same piece of language.
 *I don't want to drink nothing* is a double negative. 
@@ -6964,13 +6964,13 @@ On your own sheet of paper, correct the double negatives.
 4. My kids never get into no trouble.
 5. I could not do nothing about the past.
 
-#### Key Takeaways
+#### Takeaways
 
 - Negatives are usually formed using a negative word plus a helping verb.
 - Double negatives are considered incorrect in Standard English.
 - Only one negative word is used to express a negative statement.
 
-#### Writing Application
+#### Application
 
 Write a paragraph describing your favorite meal. Use rich, colorful
 language to describe the meal. Exchange papers with a classmate and read
@@ -6978,14 +6978,14 @@ their paragraph. Then rewrite each sentence of your classmate's
 paragraph using negatives. Be sure to avoid double negatives. Share your
 negative paragraphs with each other.
 
-## 5.3 Count and Noncount Nouns and Articles
+## 5.3 Count And Noncount Nouns And Articles
 
 **Learning Objectives**
 
 1. Define and use count and noncount nouns.
 2. Recognize and use definite and indefinite articles.
 
-### What Is a Noun, Really?
+### What Is A Noun, Really?
 
 Everyone who grew up in the U.S. school system has heard a "noun"
 defined as a word that names a person, place, or thing.
@@ -7017,7 +7017,7 @@ and come to recognize nouns automatically. You might never realize that what
 you are really doing is applying the syntactical definition. Most native
 speakers of English don't know it either.
 
-### Count and Noncount Nouns
+### Count And Noncount Nouns
 
 Right now, you may be surrounded by desks, computers, and notebooks. These are
 called count nouns because you can count the exact number of desks,
@@ -7039,7 +7039,7 @@ By the end of this section, you will grasp the difference between the
 two types of nouns and be able to use them confidently in speaking and
 writing.
 
-### Count and Noncount Nouns
+### Count And Noncount Nouns
 
 A count noun refers to people, places, and things that are separate
 units. You make count nouns plural by adding **--s**.
@@ -7062,7 +7062,7 @@ cannot be made plural, so they are noncount nouns. Examples of abstract
 nouns include anger, education, melancholy, softness, violence, and
 conduct.
 
-#### Table 5.2 Types of Noncount Nouns
+#### Table 5.2 Types Of Noncount Nouns
 | Type of Noncount Noun | Examples| Sentence |
 |:---|:---|:---|
 | Food| sugar, salt, pepper,| Add more sugar to my coffee, please|
@@ -7092,7 +7092,7 @@ above the noun.
 4. I prefer film *cameras* instead of digital ones.
 5. My favorite subject is *history*.
 
-### Definite and Indefinite Articles
+### Definite And Indefinite Articles
 
 The word *the* is a definite article. It refers to one or more specific
 things. For example, *the woman* refers to not any woman but a
@@ -7104,7 +7104,7 @@ nonspecific thing. For example, *a woman* refers to any woman, not a
 specific, particular woman. The indefinite article *a* or *an* is used
 before a singular count noun.
 
-#### Definite Articles (*The*) and Indefinite Articles (*A/An*) with Count
+#### Definite Articles (*the*) And Indefinite Articles (*a/an*) With Count
 Nouns
 
 > I saw **the** concert. (singular, refers to a specific concert)
@@ -7148,7 +7148,7 @@ compare your answers. Did your partner find an error you missed? Did you
 find an error your partner missed? Compare with your instructor's
 answers.
 
-#### Key Takeaways
+#### Takeaways
 
 You can make count nouns plural by adding **-s**.
 
@@ -7164,7 +7164,7 @@ place, or thing, such as **the** Queen of England.
 *A* and *an* are indefinite articles, and they refer to nonspecific
 people, places, or things, such as **an** apple or **a** bicycle.
 
-#### Writing Application
+#### Application
 
 Write five sentences using the definite article *the*. Write five
 sentences using the indefinite article *a* or *an*. Exchange papers with
@@ -7194,7 +7194,7 @@ following:
 *She* refers to
 Afrah, so you do not have to write the name twice.
 
-### Types of Pronouns
+### Types Of Pronouns
 
 Subject pronouns are often the subject of a sentence---"who" and "what"
 the sentence is about.
@@ -7218,20 +7218,20 @@ acted upon.
 
 *It* is the object of the verb *lifted*.
 
-#### Subject pronouns
+#### Subject Pronouns
 
 - The masculine subject pronoun is *he* 
 - The feminine subject pronoun is *she*
 - Recently, English has seen an explosion in the use of "singular *they*."
 In this rising usage, the gender-neutral subject pronoun is *they.*
 
-#### Object pronouns
+#### Object Pronouns
 
 - the masculine object pronoun is *him*
 - the feminine object pronoun is *her*
 - the gender-neutral object pronoun is *them*
 
-#### Possessive pronouns
+#### Possessive Pronouns
 
 A pronoun that shows possession or ownership is called a possessive
 pronoun.
@@ -7280,7 +7280,7 @@ instead of a subject pronoun.
 
 This sentence is now correct because a subject pronoun (*I*) is used.
 
-#### Error: Pronoun takes the gender of the object instead of the subject
+#### Error: Pronoun Takes The Gender Of The Object Instead Of The Subject
 
 > **Incorrect:** Mark put her (Mark's) grocery bag on the counter.
 
@@ -7298,7 +7298,7 @@ traditions like referring to a ship as *she* instead of *it*.
 This sentence is now correct because the male pronoun *his* refers to
 the male person, *Mark*.
 
-#### Error: Repeated subject
+#### Error: Repeated Subject
 
 > **Incorrect:** The woman, she went to work earlier than usual.
 
@@ -7404,7 +7404,7 @@ good for the environment.
 5. My Aunt Sherry is teaching me how to drive. She has never been in
 accident or gotten a ticket.
 
-#### Key Takeaways
+#### Takeaways
 - A pronoun is used in place of a noun.
 - There are several types of pronouns, including subject and object
 pronouns, possessive pronouns, and relative pronouns.
@@ -7415,7 +7415,7 @@ pronouns, possessive pronouns, and relative pronouns.
 pronouns, and repeating the subject of a sentence with a pronoun.
 - Relative pronouns help combine two separate sentences.
 
-#### Writing Application
+#### Application
 
 Proofread a piece of your writing for the pronoun errors
 discussed in this section. Correct any errors you come across.
@@ -7564,13 +7564,13 @@ classmate and compare your answers. Did your partner find an error you
 missed? Did you find an error your partner missed? Compare with your
 instructor's answers.
 
-### *To Be*, *To Do*, and *To Have*
+### *to Be*, *to Do*, And *to Have*
 
 There are some irregular verbs in English that are formed in special
 ways. The most common of these are the verbs *to be*, *to have*, and *to
 do*.
 
-#### Table 5.7 Verb Forms of *To Be*, *To Do*, and *To Have*
+#### Table 5.7 Verb Forms Of *to Be*, *to Do*, And *to Have*
 
 | Base| Present Tense| Past Tense| Future Tense|
 |---|---|---|---|
@@ -7905,7 +7905,7 @@ You can use a gerund in the following ways:
 
 Often verbs are followed by gerunds. 
 
-#### Table 5.8 Gerunds and Verbs
+#### Table 5.8 Gerunds And Verbs
 
 | Gerund |Verb Followed by a Gerund|
 |---|---|
@@ -7928,7 +7928,7 @@ read, and to sneeze.
 Often verbs are followed by infinitives. Study Table 5.9 "Infinitives
 and Verbs" for examples.
 
-#### Table 5.9 Infinitives and Verbs
+#### Table 5.9 Infinitives And Verbs
 
 | Infinitive| Verb Followed by Infinitive|
 |:---|:---|
@@ -7942,7 +7942,7 @@ You may wonder which verbs can be followed by gerunds and which verbs
 can be followed by infinitives. With the following verbs, you can use
 either a gerund or an infinitive.
 
-#### Table 5.10 Infinitives and Gerunds Verbs
+#### Table 5.10 Infinitives And Gerunds Verbs
 
 | Base Form | Gerund| Infinitive|
 |:---|:---|:---|
@@ -7970,7 +7970,7 @@ dressed) for the party.
 5. When we finish \_\_\_\_\_\_\_\_ (to play, playing) this game, we
 will go home.
 
-#### Key Takeaways
+#### Takeaways
 - Verb tenses tell the reader when the action takes place.
 - Actions could be in the past, present, or future.
 - There are some irregular verbs in English that are formed in special
@@ -7981,7 +7981,7 @@ past*, *simple future*, *present perfect*, *past perfect*, and *future
 perfect*.
 - Verbs can be followed by either gerunds or infinitives.
 
-#### Writing Application
+#### Application
 
 Write about a lively event that is either remembered or imagined. Ask
 yourself the following three questions: What happened during the event?
@@ -8075,7 +8075,7 @@ Palace of Versailles. I would to drive around the countryside. I could
 imagining myself living there; however, I will not move to France
 because my family should miss me very much.
 
-### Modals and Present Perfect Verbs
+### Modals And Present Perfect Verbs
 
 In the previous section, we defined present perfect verb tense as
 describing a continuing situation or something that has just happened.
@@ -8114,7 +8114,7 @@ tense.
 4. The audience \_\_\_\_\_\_\_\_ (cheer) all night.
 5. My best friend \_\_\_\_\_\_\_\_ (giggled).
 
-#### Key Takeaways
+#### Takeaways
 - The basic formula for using a modal auxiliary is 
 *subject \+ modal auxiliary \+ main verb*
 - There are ten main modal auxiliaries in English: *can*, *could*, *may*,
@@ -8128,7 +8128,7 @@ before the verb, the helping verb is always *have*.
 - The two common errors when using modals in the present perfect tense
 include using *had* instead of *have* and leaving out *have*.
 
-#### Writing Application
+#### Application
 
 On a separate sheet of paper, write ten original sentences using modal
 auxiliaries.
@@ -8146,12 +8146,12 @@ word in a sentence. Most prepositions such as *above*, *below*, and
 prepositions such as *during*, *after*, and *until* show location in
 time.
 
-### *In*, *At*, and *On*
+### *in*, *at*, And *on*
 
 The prepositions *in*, *at*, and *on* are used to indicate both location
 and time, but they are used in specific ways.
 
-#### *In*
+#### *in*
 
 Used with dates, seasons, and places
 
@@ -8165,7 +8165,7 @@ Used with dates, seasons, and places
 >
 > in Chicago
 
-#### *On*
+#### *on*
 
 Used with days and with supporting surfaces.
 
@@ -8179,7 +8179,7 @@ Used with days and with supporting surfaces.
 >
 > I ride on the bus (but I ride *in* a car) 
 
-#### *At*
+#### *at*
 
 Used with times and places.
 
@@ -8210,7 +8210,7 @@ other parts of the country now.
 >
 > Milani Davis
 
-### Prepositions after Verbs
+### Prepositions After Verbs
 
 Prepositions often follow verbs to create expressions with distinct
 meanings. These expressions are sometimes called prepositional verbs.
@@ -8251,7 +8251,7 @@ the last piece of cake.
 5. I \_\_\_\_\_\_\_\_ (care about, agree with) the environment very
 much.
 
-### Prepositions after Adjectives
+### Prepositions After Adjectives
 
 English verbs and adjectives can have special meanings when paired with specific prepositions. 
 The preposition must follow the verb or adjective, 
@@ -8283,7 +8283,7 @@ blue tunic.
 >
 > Mary Anne is **brilliant at** playing the violin.
 
-#### Key Takeaways
+#### Takeaways
 
 - The prepositions *in*, *at*, and *on* are used to indicate both location
 and time, but they are used in specific ways.
@@ -8298,14 +8298,14 @@ meanings that are unique to English.
 - Prepositions also follow adjectives to create expressions with distinct
 meanings that are unique to English.
 
-#### Writing Application
+#### Application
 
 Write about a happy childhood memory using as many prepositions followed
 by a verb or adjective as you can. Use at least ten. When you are
 finished, exchange papers with a classmate and correct any preposition
 errors you find.
 
-## 5.8 Slang and Idioms
+## 5.8 Slang And Idioms
 
 **Learning Objectives**
 
@@ -8419,7 +8419,7 @@ contrasting phrase or antonym that is near it.
 Pay attention to the signal word *but*, which tells the reader that an
 opposite thought or concept is occurring.
 
-#### Key Takeaways
+#### Takeaways
 
 - Avoid informal language when you are writing for school or work
 contexts.
@@ -8428,13 +8428,13 @@ English.
 - Be aware of slang and idioms so they do not appear in your
 formal writing.
 
-#### Writing Application
+#### Application
 
 Write a short paragraph about yourself to a friend. Write another
 paragraph about yourself to an employer. Examine and discuss the
 differences in language between the two paragraphs.
 
-## 5.9 Help for English Language Learners: End-of-Chapter Exercises
+## 5.9 Help For English Language Learners: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -8501,9 +8501,9 @@ instructor's answers.
 
 [Table of Contents](#contents)
 
-## Writing Paragraphs: Separating Ideas and Shaping Content
+## Writing Paragraphs: Separating Ideas And Shaping Content
 
-## 6.1 Purpose, Audience, Tone, and Content
+## 6.1 Purpose, Audience, Tone, And Content
 
 **Learning Objectives**
 
@@ -8693,7 +8693,7 @@ watch.
 
 Share with a classmate and compare your answers.
 
-#### Writing at Work
+#### Writing At Work
 
 Thinking about the purpose of writing a report at work can help
 focus and structure the document. A summary should provide colleagues
@@ -8715,7 +8715,7 @@ My assignment:
 My purpose:
 
 
-### Identifying the Audience
+### Identifying The Audience
 
 Imagine you have to give a talk to some important people at work. You prepare carefully and think about how you'll speak and what you'll say. You need to decide if you'll use technology to show pictures, if you should explain words, and what you'll wear. These choices will help you connect with your audience and get them to listen.
 
@@ -8816,7 +8816,7 @@ On your own sheet of paper, generate a list of characteristics under
 each category for each audience. This list will help you later when you
 read about tone and content.
 
-##### Your classmates
+##### Your Classmates
 
 Demographics
 
@@ -8830,7 +8830,7 @@ Prior knowledge
 Expectations
 
 
-##### Your instructor
+##### Your Instructor
 
 Demographics
 
@@ -8880,7 +8880,7 @@ knowledge, and expectations will affect how you write, but purpose and
 content play an equally important role. The next subsection covers how
 to select an appropriate tone to match the audience and purpose.
 
-### Selecting an Appropriate Tone
+### Selecting An Appropriate Tone
 
 Tone identifies a speaker's attitude toward a subject or another person.
 You may pick up a person's tone of voice fairly easily in conversation.
@@ -8932,7 +8932,7 @@ My audience:
 My tone:
 
 
-### The Right Content and the Right Tone
+### The Right Content And The Right Tone
 
 **Content** is all the writing in a document. Before you write, you need to choose what information will be in the document, like examples, statistics, or stories. You need to make sure the information is interesting and right for the audience and purpose. For example, if you're writing for third graders, you need to use simple language and explain things well.
 
@@ -9006,7 +9006,7 @@ My tone:
 My content ideas:
 
 
-#### Key Takeaways
+#### Takeaways
 
 - Paragraphs separate ideas into logical, manageable chunks of
 information.
@@ -9052,7 +9052,7 @@ of the paragraph should relate to the topic sentence.
 This section covers the parts of a paragraph and how
 to develop an effective topic sentence.
 
-### Developing a Topic Sentence
+### Developing A Topic Sentence
 
 Pick up any newspaper or magazine and read the first sentence of an
 article. Are you fairly confident that you know what the rest of the
@@ -9080,7 +9080,7 @@ what your paper will be about. If he or she is unable to guess your
 topic accurately, you should consider revising your topic sentence so
 that it clearly defines your purpose in writing.
 
-### Main Idea versus Controlling Idea
+### Main Idea Versus Controlling Idea
 
 There is a school of thought that each paragraph should do in miniature
 what an essay does at full size.
@@ -9139,7 +9139,7 @@ traffic accidents.
 5. Dog owners should be prohibited from taking their pets on public
 beaches.
 
-### Characteristics of a Good Topic Sentence
+### Characteristics Of A Good Topic Sentence
 
 Five characteristics define a good topic sentence:
 
@@ -9247,7 +9247,7 @@ on your own sheet of paper.
 3. The legal drinking age
 4. A controversial film or novel
 
-#### Writing at Work
+#### Writing At Work
 
 When creating a workplace document, use the "top-down" approach---keep
 the topic sentence at the beginning of each paragraph so that readers
@@ -9260,7 +9260,7 @@ each paragraph with individual headings. These serve as useful
 navigation aids, enabling colleagues to skim through the document and
 locate paragraphs that are relevant to them.
 
-### Using Topic Sentences, Supporting Ideas, and Transitions Effectively
+### Using Topic Sentences, Supporting Ideas, And Transitions Effectively
 
 Learning how to develop a good topic sentence is the first step toward
 writing a solid paragraph. Once you have composed your topic sentence,
@@ -9272,7 +9272,7 @@ This section identifies the three major structural parts of a paragraph
 and covers how to develop a paragraph using transitional words and
 phrases.
 
-### Identifying Parts of a Paragraph
+### Identifying Parts Of A Paragraph
 
 An effective paragraph contains three main parts: a **topic sentence**, the
 **body**, and the **concluding sentence**. A topic sentence is often the first
@@ -9609,9 +9609,9 @@ The following chart provides some useful transition words to connect
 supporting sentences and concluding sentences. See **Chapter 8** for a more
 comprehensive look at transitional words and phrases.
 
-#### Useful Transitional Words and Phrases
+#### Useful Transitional Words And Phrases
 
-##### For supporting sentences
+##### For Supporting Sentences
 - above all
 - also
 - aside from
@@ -9636,7 +9636,7 @@ comprehensive look at transitional words and phrases.
 - therefore
 - to begin with
 
-##### For concluding sentences
+##### For Concluding Sentences
 - after all
 - all in all
 - all things considered
@@ -9656,7 +9656,7 @@ sure to include a topic sentence, supporting sentences, and a concluding
 sentence and to use transitional words and phrases to link your ideas
 together.
 
-#### Writing at Work
+#### Writing At Work
 
 Transitional words and phrases are useful in
 workplace documents. They guide the reader through the document,
@@ -9670,7 +9670,7 @@ begin*, *first*, *next*, *then*, *finally*, *after you have completed*.
 Using these transitions will provide
 readers with a clear order in which steps should be completed.
 
-#### Key Takeaways
+#### Takeaways
 
 - A good paragraph contains three distinct components: a topic sentence,
 body, and concluding sentence.
@@ -9689,7 +9689,7 @@ reiterate the main idea without repeating it word for word.
 - Transitional words and phrases help organize ideas in a paragraph and
 show how these ideas relate to one another.
 
-## 6.3 Writing Paragraphs: End-of-Chapter Exercises
+## 6.3 Writing Paragraphs: End-of-chapter Exercises
 
 Exercises
 
@@ -9851,7 +9851,7 @@ outlining, brainstorming, and idea mapping.
 4. Mitch Bancroft is a famous writer. He also serves as a governor on
 the local school board. Mitch's two children attend the school.
 
-### Using Sentence Variety at the Beginning of Sentences
+### Using Sentence Variety At The Beginning Of Sentences
 
 Read the following sentences and consider what they all have in common:
 
@@ -9882,7 +9882,7 @@ in value. This will profit both banks and the government itself.
 This section examines several ways to introduce sentence variety at the
 beginning of sentences, using Naomi's essay as an example.
 
-### Starting a Sentence with an Adverb
+### Starting A Sentence With An Adverb
 
 One technique you can use so as to avoid beginning a sentence with the
 subject is to use an adverb. An adverb is a word that describes a verb,
@@ -9956,7 +9956,7 @@ back by flames.
 5. Mayor Johnson privately acknowledged that the budget was excessive
 and that further discussion was needed.
 
-### Starting a Sentence with a Prepositional Phrase
+### Starting A Sentence With A Prepositional Phrase
 
 A prepositional phrase is a group of words that behaves as an adjective
 or an adverb, modifying a noun or a verb. Prepositional phrases contain
@@ -10079,7 +10079,7 @@ fifteenth-century wall. In the nearby schoolyard, children played
 merrily during their lunch hour, unaware of the riches that remained
 hidden beneath their feet.
 
-#### Writing at Work
+#### Writing At Work
 
 The overuse of prepositional phrases often occurs when our thoughts are
 jumbled and we are unsure how concepts or ideas relate to one another.
@@ -10093,7 +10093,7 @@ contain unnecessary prepositional phrases. Reading aloud sometimes helps
 detect unclear and wordy sentences. You can also ask a colleague to
 paraphrase your main points to ensure that the meaning is clear.
 
-#### Starting a Sentence by Inverting Subject and Verb
+#### Starting A Sentence By Inverting Subject And Verb
 
 As we noted earlier, most writers follow the subject-verb-object
 sentence structure. In an inverted sentence, the order is reversed so
@@ -10148,7 +10148,7 @@ cooler.
 4. The well-dressed stranger stumbled through the doorway.
 5. My colleagues remain unconvinced about the proposed merger.
 
-### Connecting Ideas to Increase Sentence Variety
+### Connecting Ideas To Increase Sentence Variety
 
 Reviewing and rewriting the beginning of sentences is a good way of
 introducing sentence variety into your writing. Another useful technique
@@ -10217,7 +10217,7 @@ the dangling phrase.
 For more information on dangling modifiers, see **Chapter
 2**.
 
-### Joining Ideas Using an --*ed* Modifier
+### Joining Ideas Using An --*ed* Modifier
 
 Some sentences can be combined using an --*ed* verb form---*stopped*,
 *finished*, *played*. To use this method, one of the sentences must
@@ -10259,7 +10259,7 @@ draw a connection between the government's decision to bail out the
 banks and the result of that decision---the acquisition of the
 mortgage-backed securities.
 
-### Joining Ideas Using a Relative Clause
+### Joining Ideas Using A Relative Clause
 
 Another technique that writers use to combine sentences is to join them
 using a relative clause. A relative clause is a group of words that
@@ -10304,7 +10304,7 @@ If the relative clause can be taken out, it
 needs commas. If the relative clause is essential to the
 meaning, it does not need commas.
 
-### Joining Ideas Using an Appositive
+### Joining Ideas Using An Appositive
 
 An appositive is a word or group of words that describes or renames a
 noun or pronoun. Incorporating appositives into your writing is a useful
@@ -10352,7 +10352,7 @@ speculated that the two of them would have a lot in common.
 5. Cacao is harvested by hand. It is then sold to chocolate-processing
 companies at the Coffee, Sugar, and Cocoa Exchange.
 
-#### Writing at Work
+#### Writing At Work
 
 In addition to varying sentence structure, consider varying the types of
 sentences you are using in a report or other workplace document. Most
@@ -10365,7 +10365,7 @@ reading to find out the answers. Although they should be used sparingly
 in academic and professional writing, questions or commands are
 effective rhetorical devices.
 
-#### Key Takeaways
+#### Takeaways
 
 - Sentence variety reduces repetition in a piece of writing and adds
 emphasis to important points in the text.
@@ -10375,7 +10375,7 @@ prepositional phrase, or by inverting the subject and verb.
 - Combine ideas, using modifiers, relative clauses, or appositives, to
 achieve sentence variety.
 
-## 7.2 Coordination and Subordination
+## 7.2 Coordination And Subordination
 
 **Learning Objectives**
 
@@ -10530,7 +10530,7 @@ tomatoes grew juicy and ripe.
 wire hanger, a credit card, and a paper clip. He called the
 manufacturer for advice.
 
-#### Writing at Work
+#### Writing At Work
 
 When you write an essay or report, it's important to use coordination carefully. 
 You should only join two ideas that make sense together and support your main point. 
@@ -10630,7 +10630,7 @@ revised sentences for punctuation.
 
 > THE YEAST IS ADDED TO THE MUST. ALCOHOLIC FERMENTATION THEN BEGINS. Here, the red wind production process differs from the method used in white wine production. RED WINE IS FERMENTED FOR A SHORTER TIME. IT IS FERMENTED AT A HIGHER TEMPERATURE. Whereas white wines may ferment for over a month, red wines typically ferment for less than two weeks. DURING FERMENTATION, CONTACT BETWEEN THE SKINS AND THE JUICE RELEASES TANNINS AND FLAVOR COMPOUNDS INTO THE MUST. THIS PROCESS IS KNOWN AS MACERATION. Maceration may occur before, during, or after fermentation. THE FERMENTATION PROCESS IS COMPLETED. THE NEXT STAGE IS PRESSING. Many methods are used for pressing, the most common of which is basket pressing.
 
-#### Key Takeaways
+#### Takeaways
 
 - Coordination and subordination join two sentences with related ideas.
 - Coordination joins sentences with related and **equal** ideas, whereas
@@ -10758,7 +10758,7 @@ quietly, and were quick on their feet.
 5. Deal with a full inbox first thing in the morning, or by setting
 aside short periods of time in which to answer email queries.
 
-### Creating Parallelism Using *Than* or *As*
+### Creating Parallelism Using *than* Or *as*
 
 When you are making a comparison, the two items being compared should
 have a parallel structure. Comparing two items without using parallel
@@ -10853,7 +10853,7 @@ speeches by rhetoricians such as Abraham Lincoln and Martin Luther King
 Jr. Notice how they use parallel structures to emphasize important
 points and to create a smooth, easily understandable oration.
 
-#### Writing at Work
+#### Writing At Work
 
 Speechwriters use parallelism not only within sentences but also
 throughout paragraphs and beyond. Repeating particular key phrases
@@ -10889,7 +10889,7 @@ parallel structure.
 
 > Owning a pet has proven to be extremely beneficial to people's health. Pets help lower blood pressure, boost immunity, and are lessening anxiety. Studies indicate that children who grow up in a household with cats or dogs are at a lower risk of developing allergies or suffer from asthma. Owning a dog offers an additional bonus; it makes people more sociable. Dogs are natural conversation starters and this not only helps to draw people out of social isolation but also they are more likely to find a romantic partner. Benefits of pet ownership for elderly people include less anxiety, lower insurance costs, and they also gain peace of mind. A study of Alzheimer's patients showed that patients have fewer anxious outbursts if there is an animal in the home. Some doctors even keep dogs in the office to act as on-site therapists. In short, owning a pet keeps you healthy, happy, and is a great way to help you relax.
 
-#### Key Takeaways
+#### Takeaways
 
 - Parallelism creates a sense of rhythm and balance in writing by using
 the same grammatical structure to express equal ideas.
@@ -10900,7 +10900,7 @@ using coordinating conjunctions; by comparing two items using *than* or
 *as*; or by connecting two parts of a sentence using correlative
 conjunctions.
 
-## 7.4 Refining Your Writing: End-of-Chapter Exercises
+## 7.4 Refining Your Writing: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -10937,7 +10937,7 @@ two samples that lack sentence variety. Highlight areas of each writing
 sample that you would edit for sentence variety and explain why. Replace
 any recognizable name with a pseudonym, or a fictitious name.
 
-#### Exercise 3---**Group activity.**
+#### Exercise 3---**group Activity.**
 
 Choose a well-known speech, such as Martin Luther
 King's "I Have a Dream" speech, Winston Churchill's "Blood, Toil, Tears,
@@ -10949,7 +10949,7 @@ the effects of using parallelism and consider whether it is always used
 to achieve the same result or whether the writer manipulates parallelism
 to create various responses among his or her audience.
 
-#### Exercise 4---**Group activity.**
+#### Exercise 4---**group Activity.**
 
 Working in a small group, select a workplace
 document or academic essay. Examine each paragraph and identify examples
@@ -11036,7 +11036,7 @@ At this stage in the writing process, it is OK if you choose a general
 topic. Later you will learn more prewriting strategies that will narrow
 the focus of the topic.
 
-### Choosing a Topic
+### Choosing A Topic
 
 In addition to understanding that writing is a process, writers also
 understand that choosing a good general topic for an assignment is an
@@ -11059,7 +11059,7 @@ My purpose:
 My audience:
 
 
-### Using Experience and Observations
+### Using Experience And Observations
 
 When selecting a topic, you may also want to consider something that
 interests you or something based on your own life and personal
@@ -11207,7 +11207,7 @@ on your topic. Later in the chapter, you will read about additional ways
 (like searching the internet) to answer your questions and explore your
 guesses.
 
-#### 5WH Questions
+#### 5wh Questions
 
 1. Who?
 2. What?
@@ -11280,7 +11280,7 @@ The following is Mariah's brainstorming list:
 From this list, Mariah could narrow her focus to a particular technology
 under the broad category of media.
 
-#### Writing at Work
+#### Writing At Work
 
 Imagine you have to write an email to your current boss explaining your
 prior work experience, but you do not know where to start. Before you
@@ -11305,7 +11305,7 @@ many ideas as you can think of.
 
 In addition to brainstorming, Mariah tried idea mapping.
 
-### Searching the Internet
+### Searching The Internet
 
 Using search engines on the internet is a good way to see what kinds of
 websites are available on your topic. Writers use search engines not
@@ -11372,7 +11372,7 @@ First, they help you first choose a broad topic and then they help you
 narrow the focus of the topic to a more specific idea. An effective
 topic ensures that you are ready for the next step.
 
-#### Developing a Good Topic: Checklist
+#### Developing A Good Topic: Checklist
 
 The following checklist can help you decide if your narrowed topic is a
 good for your assignment.
@@ -11393,7 +11393,7 @@ and try the prewriting strategies again.
 My narrowed topic:
 
 
-#### Key Takeaways
+#### Takeaways
 - All writers rely on steps and strategies to begin the writing process.
 - The steps in the writing process are prewriting, outlining, writing a
 rough draft, revising, and editing.
@@ -11446,7 +11446,7 @@ In longer pieces of writing, you may organize different parts in
 different ways so that your purpose stands out clearly and all parts of
 the paper work together to consistently develop your main point.
 
-### Methods of Organizing Writing
+### Methods Of Organizing Writing
 
 The three common methods of organizing writing are chronological order,
 spatial order, and order of importance. You will learn more about these
@@ -11465,7 +11465,7 @@ you decide which pieces of information belong together and how you will
 order them. In other words, choose the order that will most effectively
 fit your purpose and support your main point.
 
-#### Table 8.1 "Order versus Purpose"
+#### Table 8.1 "order Versus Purpose"
 
 | Order | Purpose |
 | :--------------------|:----------------------------------------------------|
@@ -11479,7 +11479,7 @@ fit your purpose and support your main point.
 | | To rank items by their importance, benefit, or significance |
 
 
-### Writing a Thesis
+### Writing A Thesis
 
 One question readers always ask is, "What is the big idea?" Every
 essay needs a big idea as the spine for the work. 
@@ -11509,7 +11509,7 @@ ideas. But be sure to ask your instructor about this.
 Table 8.2 "Topics and Theses" compares topics and thesis
 statements.
 
-#### Table 8.2 Topics and Theses
+#### Table 8.2 Topics And Theses
 
 | Topic | Thesis
 |:---|:---|
@@ -11545,7 +11545,7 @@ statement that you think is effective. Each draft of the thesis
 statement will bring you closer to the wording that expresses your
 meaning exactly.
 
-### Writing an Outline
+### Writing An Outline
 
 For an essay question on a test or a brief oral presentation in class,
 all you may need to prepare is a short, informal outline in which you
@@ -11623,7 +11623,7 @@ structure.
 
 ![](image28.jpeg "Mariah's outline for her essay")
 
-#### Writing an Effective Topic Outline: Checklist
+#### Writing An Effective Topic Outline: Checklist
 
 This checklist can help you write an effective topic outline for your
 assignment. It will also help you discover where you may need to do
@@ -11643,7 +11643,7 @@ prove my main points?
 - Do I need to make any adjustments in my working thesis
 before I consider it the final version?
 
-#### Writing at Work
+#### Writing At Work
 
 Word processors generally have an automatic numbering feature
 that can be used to prepare outlines. This feature automatically sets
@@ -11685,7 +11685,7 @@ paragraph in your paper. The outline above is for
 a standard five-paragraph essay, but a longer essay
 will need more paragraphs and so the outline for it will need more roman numerals. 
 
-#### Writing at Work
+#### Writing At Work
 
 PowerPoint presentations, used both in schools and at work, are
 organized in a way similar to formal outlines. PowerPoint presentations
@@ -11702,7 +11702,7 @@ not contain them. Be sure to observe correct outline form, including
 correct indentations and the use of Roman and Arabic numerals and capital
 letters.
 
-#### Key Takeaways
+#### Takeaways
 - Writers must put their ideas in order so the assignment makes sense. The
 most common orders are chronological order, spatial order, and order of
 importance.
@@ -11748,7 +11748,7 @@ to get you thinking. In this lesson, Mariah does all her work on the
 computer, but you may use pen and paper or the computer to write a rough
 draft.
 
-### Making the Writing Process Work for You
+### Making The Writing Process Work For You
 
 What makes the writing process so beneficial to writers is that it
 encourages alternatives to standard practices while motivating you to
@@ -11812,7 +11812,7 @@ sure to address those issues when you write. It may be a good idea to
 also state exactly what you want to explain to that audience, or to
 inform them of, or to persuade them about.
 
-#### Writing at Work
+#### Writing At Work
 
 Many of the documents you produce at work target a particular audience
 for a particular purpose. You may find that it is highly advantageous to
@@ -11848,7 +11848,7 @@ My audience:
 
 
 
-### Setting Goals for Your First Draft
+### Setting Goals For Your First Draft
 
 A draft is a complete version of a piece of writing, but it is not the
 final version. The step in the writing process after drafting, as you
@@ -11857,7 +11857,7 @@ opportunity to make changes to your first draft before you put the
 finishing touches on it during the editing and proofreading stage. A
 first draft gives you a working version that you can later improve.
 
-#### Writing at Work
+#### Writing At Work
 
 Workplace writing in certain environments is done by teams of writers
 who collaborate on the planning, writing, and revising of documents,
@@ -11890,7 +11890,7 @@ to revise, set your reviewing tool to track any changes you make, so you
 will be able to tinker with text and commit only those final changes you
 want to keep.
 
-### Discovering the Basic Elements of a First Draft
+### Discovering The Basic Elements Of A First Draft
 
 If you have been using the information in this chapter step by step to
 help you develop an assignment, you already have both a formal topic
@@ -11920,7 +11920,7 @@ from her outline. **Chapter 9** covers writing
 introductions and conclusions, and you will read Mariah's introduction
 and conclusion in **Chapter 9**.
 
-### The Role of Topic Sentences
+### The Role Of Topic Sentences
 
 Topic sentences make the structure of a text and the writer's basic
 arguments easy to locate and comprehend. In college writing, using a
@@ -12113,7 +12113,7 @@ a few spaces between each part of the outline. Then copy sentences from
 Mariah's paragraph to align each sentence with its corresponding entry
 in her outline.
 
-### Continuing the First Draft
+### Continuing The First Draft
 
 Mariah continued writing her essay, moving to the second and third body
 paragraphs. She had supporting details but no numbered subpoints in her
@@ -12162,7 +12162,7 @@ of steam? What advice would you give her? Why?
 3. Choose one of these two body paragraphs. Write a version of your
 own that you think better fits Mariah's audience and purpose.
 
-### Writing a Title
+### Writing A Title
 
 A writer's best choice for a title is one that alludes to the main point
 of the entire essay. Like the headline in a newspaper or the big, bold
@@ -12184,7 +12184,7 @@ Finally, she added an engaging title.
 Now you may begin your own first draft, if you have not already done so.
 Follow the suggestions and the guidelines presented in this section.
 
-#### Key Takeaways
+#### Takeaways
 - Make the writing process work for you. Use any and all of the strategies
 that help you move forward in the writing process.
 - Always be aware of your purpose for writing and the needs of your
@@ -12204,7 +12204,7 @@ those details that you included in your outline.
 - Generally speaking, write your introduction and conclusion last, after
 you have fleshed out the body paragraphs.
 
-## 8.4 Revising and Editing
+## 8.4 Revising And Editing
 
 **Learning Objectives**
 
@@ -12270,7 +12270,7 @@ You also need to train your eye and trust your ability to
 fix what needs fixing. For this, you need to teach yourself where to
 look.
 
-### Creating Unity and Coherence
+### Creating Unity And Coherence
 
 Following your outline closely helps
 your writing to stay on track. However, when writers are rushed or frustrated, 
@@ -12351,7 +12351,7 @@ locate any problems with unity. Read it straight through a second time
 to find problems with coherence. You may follow this same practice
 during many stages of the writing process.
 
-#### Writing at Work
+#### Writing At Work
 
 Many companies hire copyeditors and proofreaders to help them produce
 the cleanest possible writing.
@@ -12449,7 +12449,7 @@ Return to the first draft of the essay you wrote in and revise
 it for coherence. Add transitions or make any other changes 
 to improve the flow and connection between ideas.
 
-### Being Clear and Concise
+### Being Clear And Concise
 
 The first draft of almost every piece of
 writing can be made clearer and more concise.
@@ -12477,13 +12477,13 @@ Sometimes writers use too many words when fewer words will work better. Here are
 examples of wordiness to look for. Eliminating wordiness
 helps readers because it makes your ideas easier to grasp.
 
-#### Sentences that begin with *There is* or *There are*.
+#### Sentences That Begin With *there Is* Or *there Are*.
 
 > **Wordy:** There are two major experiments that are sponsored by the Biology Department.
 >
 > **Revised:** The Biology Department sponsors two major experiments.
 
-#### Sentences with unnecessary modifiers.
+#### Sentences With Unnecessary Modifiers.
 
 > **Wordy:** Two extremely famous and well-known consumer advocates spoke
 eloquently in favor of the proposed important legislation.
@@ -12491,7 +12491,7 @@ eloquently in favor of the proposed important legislation.
 > **Revised:** Two well-known consumer advocates spoke in favor of the
 proposed legislation.
 
-#### Sentences with deadwood phrases that add little to the meaning.
+#### Sentences With Deadwood Phrases That Add Little To The Meaning.
 
 Avoid phrases such as *in terms of*, *with a mind to*,
 *on the subject of*, *as to whether or not*, *more or less*, *as far
@@ -12504,7 +12504,7 @@ company plans to focus its efforts in the area of geothermal energy.
 > **Revised:** As a world leader in green technology, the company plans to
 focus on geothermal energy.
 
-#### Sentences in the passive voice
+#### Sentences In The Passive Voice
 
 Sentences in the passive voice are harder to understand, most of the time,
 even do not always have more words than the active-voice versions.
@@ -12517,7 +12517,7 @@ even do not always have more words than the active-voice versions.
 >
 >**Revised**: I made mistakes.
 
-#### Sentences with constructions that can be shortened.
+#### Sentences With Constructions That Can Be Shortened.
 
 > **Wordy:** My over-sixty uncle bought a Kindle, and his wife bought a Kindle too.
 >
@@ -12529,13 +12529,13 @@ Now return once more to the first draft of the essay you have been
 revising. Check it for unnecessary words. Try making your sentences as
 concise as they can be.
 
-### Choosing the Best Words
+### Choosing The Best Words
 
 Most college essays should be written in formal English. For more
 information about word choice, see **Chapter
 4**.
 
-#### Avoid slang
+#### Avoid Slang
 
 Slang is informal language. Groups regularly invent their own slang,
 and slang is always changing. There are always new slang terms for *good*
@@ -12545,14 +12545,14 @@ Prefer words that everyone knows and that have been around for a long time.
 Say *good* instead of *groovy* (from the 1960s) or *rad* (from the 1980s)
 or any more recent slang term for *good*.
 
-#### Avoid casual language
+#### Avoid Casual Language
 
 The term *cool* has been around so long that it can't be considered slang.
 Everyone knows what it means. But it is too relaxed for college writing.
 Don't say "The article we read was cool." Try "The article we read
 was impressive" instead.
 
-#### Avoid contractions
+#### Avoid Contractions
 
 This is one that English teachers disagree about. Your
 2023 reviser, Jamie Martin, thinks this rule is silly. But
@@ -12562,7 +12562,7 @@ off for them.
 So to be safe, use *do not* in place of *don't*, *I am* in
 place of *I'm*, *have not* in place of *haven't*, and so on.
 
-#### Avoid clichés
+#### Avoid Clichés
 
 Avoid clichés such as *green with envy*, *face
 the music*, and *better late than never*.
@@ -12570,14 +12570,14 @@ the music*, and *better late than never*.
 The classic essay on the danger of clichés is "Politics and the English Language"
 by George Orwell, from 1946. Google it for a vivid argument against clichés.
 
-#### Be careful with words that sound alike
+#### Be Careful With Words That Sound Alike
 
 Some examples are *allusion/illusion*,
 *complement/compliment*, *council/counsel*, *concurrent/consecutive*,
 *founder/flounder*, and *historic/historical*. When in doubt, check a
 dictionary.
 
-#### Choose words with the emotional impact you want
+#### Choose Words With The Emotional Impact You Want
 
 Two words may have the same **meaning** ("denotation") but a different **emotion** ("connotation" or "valence"). 
 
@@ -12590,7 +12590,7 @@ Often as a teacher, my students have confused me when they choose a word with th
 
 The student didn't realize this. They thought that "hasty" just meant "fast." In fact, they thought Florida wasn't moving fast enough: they wanted Florida to legalize marijuana as fast as possible. But because they chose the one wrong word "hasty," I misunderstood their point for nearly their entire essay.
 
-#### Use specific words
+#### Use Specific Words
 
 Find synonyms for *thing*, *people*, *nice*, *good*, *bad*, *interesting*, and other
 vague words. Or use specific details to make your exact meaning clear.
@@ -12607,7 +12607,7 @@ Return once more to your essay in progress. Read carefully for
 problems with word choice. Be sure that your draft is written in formal
 language and that your word choice is specific and appropriate.
 
-### Completing a Peer Review
+### Completing A Peer Review
 
 After working so closely with a piece of writing, writers often need to
 step back and ask for a more objective reader. What writers most need is
@@ -12640,7 +12640,7 @@ Writer's name:
 
 Peer reviewer's name:
 
-##### Peer reviewer's feedback
+##### Peer Reviewer's Feedback
 
 1. This essay is about 
 
@@ -12661,7 +12661,7 @@ Peer reviewer's name:
 
 6. One additional change you could make to improve is:
 
-#### Writing at Work
+#### Writing At Work
 
 Word processors like Microsoft Word often have a built-in way
 for someone to comment on a document. The reason why is that
@@ -12692,7 +12692,7 @@ feedback into consideration in future assignments. For example, if you
 read consistent comments about a need for more research, then you may
 want to consider including more research in future assignments.
 
-### Using Feedback from Multiple Sources
+### Using Feedback From Multiple Sources
 
 You might get feedback from more than one reader as you share different
 stages of your revised draft. In this situation, you may receive
@@ -12838,7 +12838,7 @@ to check with.
 
 With the help of the checklist, edit and proofread your essay.
 
-#### Key Takeaways
+#### Takeaways
 
 - Revising and editing are the stages of the writing process in which you
 improve your work before producing a final draft.
@@ -12863,7 +12863,7 @@ of peer reviews and include only useful feedback.
 available resources, including editing checklists, peer editing, and
 your institution's writing lab, to improve your editing skills.
 
-## 8.5 The Writing Process: End-of-Chapter Exercises
+## 8.5 The Writing Process: End-of-chapter Exercises
 
 **Learning Objectives**
 
@@ -12926,9 +12926,9 @@ college essay about her topic.
 
 [Table of Contents](#contents)
 
-## Writing Essays: From Start to Finish
+## Writing Essays: From Start To Finish
 
-## 9.1 Developing a Strong, Clear Thesis
+## 9.1 Developing A Strong, Clear Thesis
 
 **Learning Objectives**
 
@@ -12956,7 +12956,7 @@ It is like a signpost that signals the essay's destination. You should
 form your thesis before you begin to organize an essay, but you may find
 that it needs revision as the essay develops.
 
-### Elements of a Thesis
+### Elements Of A Thesis
 
 For every essay you write, you must focus on a central idea. This idea
 stems from a topic you have chosen or been assigned or from a question
@@ -13043,7 +13043,7 @@ Topics
 - Abortion
 - Racism
 
-### Examples of Appropriate Theses
+### Examples Of Appropriate Theses
 
 Each of the following theses meets several of the following
 requirements:
@@ -13132,7 +13132,7 @@ safe.
 disciplinary parent because I believe that a child without
 discipline can be a parent's worst nightmare.
 
-#### Writing at Work
+#### Writing At Work
 
 Often in your career, you will need to ask your boss for something
 through an email. Just as a thesis organizes an essay, it can
@@ -13142,7 +13142,7 @@ your boss know what you are asking for, why it is necessary, and what
 the benefits are. In short body paragraphs, you can provide the
 essential information needed to expand upon your request.
 
-### thesis Revision
+### Thesis Revision
 
 Your thesis will probably change as you write, so you will need to
 modify it to reflect exactly what you have discussed in your essay.
@@ -13165,7 +13165,7 @@ own ideas and forming definite reasons for those ideas, you grow closer
 to a more precise point of view, which you can then include into
 your thesis
 
-### Ways to Revise Your Thesis
+### Ways To Revise Your Thesis
 
 You can cut down on irrelevant aspects and revise your thesis by taking
 the following steps:
@@ -13266,11 +13266,11 @@ statement to reflect the elements of a strong thesis Make
 sure it is specific, precise, arguable, demonstrable, forceful, and
 confident.
 
-#### Writing at Work
+#### Writing At Work
 
 Sometimes in your job, you might need to write a plan to fix a problem in your company, like making sure people are not late. This plan is called a *proposal* and should have a clear statement that explains what the problem is and what you want to achieve--in other words, a thesis. After writing the proposal, you might need to change the statement to better match what you wrote in the plan. You can use the methods from this chapter to make those changes.
 
-#### Key Takeaways
+#### Takeaways
 - Proper essays require a thesis to provide a specific focus and
 suggest how the essay will be organized.
 - A thesis is your interpretation of the subject, not the topic
@@ -13303,7 +13303,7 @@ your thesis. Before you begin to support your thesis in the body, you
 must find information from a variety of sources that support and give
 credit to what you are trying to prove.
 
-### Select Primary Support for Your Thesis
+### Select Primary Support For Your Thesis
 
 Without primary support, your argument is not likely to be convincing.
 Primary support can be described as the major points you choose to
@@ -13321,7 +13321,7 @@ research and take careful notes. They also talk to people knowledgeable
 about a topic in order to understand its implications before writing
 about it.
 
-### Identify the Characteristics of Good Primary Support
+### Identify The Characteristics Of Good Primary Support
 
 To fulfill the requirements of good primary support, the information you
 choose must meet the following standards:
@@ -13370,7 +13370,7 @@ prewriting techniques you learned in **Chapter
 3. Drug use among teens and young adults is a problem.
 4. The most important change that should occur at my college is:
 
-### Select the Most Effective Primary Supporting Points for a Thesis
+### Select The Most Effective Primary Supporting Points For A Thesis
 
 After you have prewritten about your working thesis you may
 have generated a lot of information, which may be edited out later.
@@ -13419,7 +13419,7 @@ children and your thesis states that being part of a large family is
 beneficial to a child's social development, you could use your own
 experience to support your thesis.
 
-#### Writing at Work
+#### Writing At Work
 
 In any job where you make a plan, you will need to support the steps
 that you lay out. This is where primary support is important. 
@@ -13499,7 +13499,7 @@ Supporting point 3:
 Topic sentence:
 
 
-### Draft Supporting Detail Sentences for Each Primary Support Sentence
+### Draft Supporting Detail Sentences For Each Primary Support Sentence
 
 After deciding which primary support points you will use as your topic
 sentences, you must add details to clarify and demonstrate each of those
@@ -13509,27 +13509,27 @@ that support the topic sentence.
 The writer drafts possible supporting detail sentences for each primary
 support sentence based on the thesis
 
-### Thesis:  Dogs on city streets without leashes are dangerous.
+### Thesis:  Dogs On City Streets Without Leashes Are Dangerous.
 
-#### Supporting point 1: Loose dogs can scare cyclists or pedestrians.
+#### Supporting Point 1: Loose Dogs Can Scare Cyclists Or Pedestrians.
 
-##### Supporting details
+##### Supporting Details
 
 1. Cyclists are forced to zigzag on the road.
 2. School children panic and turn wildly on their bikes.
 3. People who are walking at night freeze in fear.
 
-#### Supporting point 2: Loose dogs are traffic hazards.
+#### Supporting Point 2: Loose Dogs Are Traffic Hazards.
 
-##### Supporting details
+##### Supporting Details
 
 1. Dogs in the street make people swerve their cars.
 2. To avoid dogs, drivers run into other cars or pedestrians.
 3. Children coaxing dogs across busy streets create danger.
 
-#### Supporting point 3: Loose dogs damage gardens.
+#### Supporting Point 3: Loose Dogs Damage Gardens.
 
-##### Supporting details
+##### Supporting Details
 
 1. They step on flowers and vegetables.
 2. They destroy hedges by urinating on them.
@@ -13609,7 +13609,7 @@ reflect your thesis. If your topic sentence contains information that
 does not exist in the rest of the paragraph, rewrite it to more
 accurately match the rest of the paragraph.
 
-#### Key Takeaways
+#### Takeaways
 - Your body paragraphs should follow the path laid out by your
 thesis
 - Strong body paragraphs contain evidence that supports your thesis.
@@ -13686,7 +13686,7 @@ airline industry, you would begin with its conception and detail the
 essential timeline events up until present day. You would follow the
 chain of events using words such as *first*, *then*, *next*, and so on.
 
-#### Writing at Work
+#### Writing At Work
 
 At some point in your career you may have to file a complaint with your
 human resources department. Using chronological order is a useful tool
@@ -13728,7 +13728,7 @@ you are familiar with and can do well. Assume that your reader is
 unfamiliar with the procedure. Remember to use the chronological key
 words, such as *first*, *second*, *then*, and *finally*.
 
-### Order of Importance
+### Order Of Importance
 
 Recall from **Chapter 8** that order of
 importance is best used for the following purposes:
@@ -13753,7 +13753,7 @@ Some key transitional words you should use with this method of
 organization are *most importantly*, *almost as importantly*, *just as
 importantly*, and *finally*.
 
-#### Writing at Work
+#### Writing At Work
 
 During your career, you may be required to work on a team that devises a
 strategy for a specific goal of your company, such as increasing
@@ -13835,7 +13835,7 @@ On a separate sheet of paper, write a paragraph using spatial order that
 describes your commute to work, school, or another location you visit
 often.
 
-#### Key Takeaways
+#### Takeaways
 - The way you organize your body paragraphs ensures you and your readers
 stay focused on and draw connections to, your thesis
 - A strong organizational pattern allows you to articulate, analyze, and
@@ -13853,7 +13853,7 @@ significance.
 for helping readers visualize something as you want them to see it; it
 creates a dominant impression.
 
-## 9.4 Writing Introductory and Concluding Paragraphs
+## 9.4 Writing Introductory And Concluding Paragraphs
 
 **Learning Objectives**
 
@@ -13886,7 +13886,7 @@ reader's mind, which is why the introduction is so important to your
 essay. If your introductory paragraph is dull or disjointed, your reader
 probably will not have much interest in continuing with the essay.
 
-### Attracting Interest in Your Introductory Paragraph
+### Attracting Interest In Your Introductory Paragraph
 
 Your introduction should begin with an engaging statement devised to
 provoke your readers' interest. In the next few sentences, introduce
@@ -13953,7 +13953,7 @@ opening, it is a good idea to use a relevant, attention-grabbing quote
 about your topic. Use a search engine to find statements made by
 historical or significant figures about your subject.
 
-#### Writing at Work
+#### Writing At Work
 
 In your job field, you may be required to write a speech for an event,
 such as an awards banquet or a dedication ceremony. The introduction of
@@ -13970,7 +13970,7 @@ Reread each sentence in Mariah's introductory paragraph. Indicate which
 techniques she used and comment on how each sentence is designed to
 attract her readers' interest.
 
-### Writing a Conclusion
+### Writing A Conclusion
 
 It is not unusual to want to rush when you approach your conclusion, and
 even experienced writers may fade. But what good writers remember is
@@ -13984,7 +13984,7 @@ about the entire essay. However, if you have worked hard to write the
 introduction and body, your conclusion can often be the most logical
 part to compose.
 
-### The Anatomy of a Strong Conclusion
+### The Anatomy Of A Strong Conclusion
 
 Keep in mind that the ideas in your conclusion must conform to the rest
 of your essay. To tie these components together, restate your thesis at
@@ -14063,7 +14063,7 @@ short introduction or conclusion. Check that they match each other in
 length as closely as possible and try to mirror the formula you used in
 each. Parallelism strengthens the message of your essay.
 
-#### Writing at Work
+#### Writing At Work
 
 On the job you will sometimes give oral presentations based on research
 you have conducted. A concluding statement to an oral report contains
@@ -14073,7 +14073,7 @@ main points, and emphasizing the importance of the material you
 presented. A strong conclusion will leave a lasting impression on your
 audience.
 
-#### Key Takeaways
+#### Takeaways
 - A strong opening captures your readers' interest and introduces them to
 your topic before you present your thesis
 - An introduction should restate your thesis, review your main points, and
@@ -14093,7 +14093,7 @@ new material.
 - Closing with a final emphatic statement provides closure for your
 readers and makes your essay more memorable.
 
-## 9.5 Writing Essays: End-of-Chapter Exercises
+## 9.5 Writing Essays: End-of-chapter Exercises
 
 Exercises
 
@@ -14152,7 +14152,7 @@ rhetorical modes as a set of tools that will allow you greater
 flexibility and effectiveness in communicating with your audience and
 expressing your ideas.
 
-### The Purpose of Narrative Writing
+### The Purpose Of Narrative Writing
 
 Narration means the art of storytelling, and the purpose of narrative
 writing is to tell stories. Any time you tell a story to a friend or
@@ -14206,7 +14206,7 @@ The following are some topics to consider as you get going:
 9. Nature
 10. Space
 
-### The Structure of a Narrative Essay
+### The Structure Of A Narrative Essay
 
 Major narrative events are most often conveyed in chronological order,
 the order in which events unfold from first to last. Stories typically
@@ -14237,7 +14237,7 @@ the plot results in the theme of the narrative.
 - Theme. The ultimate message the narrative is trying to express;
 it can be either explicit or implicit.
 
-#### Writing at Work
+#### Writing At Work
 
 When interviewing candidates for jobs, employers often ask about
 conflicts or problems a potential employee has had to overcome. They are
@@ -14258,7 +14258,7 @@ Words and Phrases for Expressing Time" to sequence the events.
 
 Please share with a classmate and compare your rough plot summary.
 
-### Writing a Narrative Essay
+### Writing A Narrative Essay
 
 When writing a narrative essay, start by asking yourself if you want to
 write a factual or fictional story. Then freewrite about topics that are
@@ -14295,7 +14295,7 @@ summary you started in the last section. Describe in detail the main
 character and the setting of the first scene. Try to use all five senses
 in your descriptions.
 
-#### Key Takeaways
+#### Takeaways
 - Narration is the art of storytelling.
 - Narratives can be either factual or fictional. In either case,
 narratives should emotionally engage the reader.
@@ -14318,7 +14318,7 @@ narrative's theme.
 1. Determine the purpose and structure of the illustration essay.
 2. Understand how to write an illustration essay.
 
-### The Purpose of Illustration in Writing
+### The Purpose Of Illustration In Writing
 
 To illustrate means to show or demonstrate something clearly. An
 effective illustration essay clearly demonstrates and supports a point
@@ -14384,7 +14384,7 @@ Audience: parents, children
 
 Audience: engineers, local townspeople
 
-### The Structure of an Illustration Essay
+### The Structure Of An Illustration Essay
 
 The controlling idea, or thesis, belongs at the beginning of the essay.
 Evidence is then presented in the essay's body paragraphs to support the
@@ -14403,7 +14403,7 @@ many examples, it is also helpful to have a list of words and phrases to
 present each piece of evidence. Table 10.2 "Phrases of Illustration"
 provides a list of phrases for illustration.
 
-#### Table 10.2 Phrases of Illustration
+#### Table 10.2 Phrases Of Illustration
 
 |||
 |---|---|
@@ -14418,7 +14418,7 @@ Vary the phrases of illustration you use. Do not rely on just one.
 Variety in choice of words and phrasing is critical when trying to keep
 readers engaged in your writing and your ideas.
 
-#### Writing at Work
+#### Writing At Work
 
 At work, it is often helpful to keep the phrases of
 illustration in mind to include them whenever you can. Whether you
@@ -14444,7 +14444,7 @@ Please share with a classmate and compare your answers. Discuss which
 topic you like the best or would like to learn more about. Indicate
 which thesis you perceive as the most effective.
 
-### Writing an Illustration Essay
+### Writing An Illustration Essay
 
 First, decide on a topic that you feel interested in writing about. Then
 create an interesting introduction to engage the reader. The main point,
@@ -14464,7 +14464,7 @@ On a separate sheet of paper, write a five-paragraph illustration essay.
 You can choose one of the topics from **Exercise 1** or **Exercise 2**, or
 you can choose your own.
 
-#### Key Takeaways
+#### Takeaways
 - An illustration essay clearly explains a main point using evidence.
 - When choosing evidence, always gauge whether the evidence is appropriate
 for the subject as well as the audience.
@@ -14480,7 +14480,7 @@ important to most important or from most important to least important.
 1. Determine the purpose and structure of the description essay.
 2. Understand how to write a description essay.
 
-### The Purpose of Description in Writing
+### The Purpose Of Description In Writing
 
 Writers use description in writing to make sure that their audience is
 fully immersed in the words on the page. This requires a concerted
@@ -14504,7 +14504,7 @@ descriptions can lead to misreads and confusion. *A good day*, for
 instance, can mean far different things depending on one's age,
 personality, or tastes.
 
-#### Writing at Work
+#### Writing At Work
 
 Whether you are presenting a new product or service to a client,
 training new employees, or brainstorming ideas with colleagues, the use
@@ -14524,7 +14524,7 @@ description.
 4. Dinner
 5. Stranger
 
-### The Structure of a Description Essay
+### The Structure Of A Description Essay
 
 Description essays typically describe a person, a place, or an object
 using sensory details. The structure of a descriptive essay is more
@@ -14559,7 +14559,7 @@ execute it in a short paragraph for three of the following six items:
 6. Mystery option (Choose an object to describe but do not indicate it.
 Describe it but preserve the mystery.)
 
-### Writing a Description Essay
+### Writing A Description Essay
 
 Choosing a subject is the first step in writing a description essay.
 Once you have chosen the person, place, or object you want to describe,
@@ -14590,7 +14590,7 @@ your classmate correctly guess your mystery topic? If not, how could you
 provide more detail to describe it and lead them to the correct
 conclusion?
 
-#### Key Takeaways
+#### Takeaways
 - Description essays should describe something vividly to the reader using
 strong sensory details.
 - Sensory details appeal to the five human senses: sight, sound, smell,
@@ -14606,7 +14606,7 @@ person, a place, or an object.
 1. Determine the purpose and structure of the classification essay.
 2. Understand how to write a classification essay.
 
-### The Purpose of Classification in Writing
+### The Purpose Of Classification In Writing
 
 The purpose of classification is to break down broad subjects into
 smaller, more manageable, more specific parts. We classify things in our
@@ -14635,7 +14635,7 @@ smaller classifications.
 3. Beverages
 4. Fashion
 
-### The Structure of a Classification Essay
+### The Structure Of A Classification Essay
 
 The classification essay opens with an introductory paragraph that
 introduces the broader topic. The thesis should then explain how that
@@ -14677,7 +14677,7 @@ Using your classifications from **Exercise 1**, write a brief paragraph
 explaining why you chose to organize each main category in the way that
 you did.
 
-### Writing a Classification Essay
+### Writing A Classification Essay
 
 Start with an engaging opening that will adequately introduce the
 general topic that you will be dividing into smaller subcategories. Your
@@ -14712,7 +14712,7 @@ thesis, make sure to include the topic, subtopics, and rationale for
 your breakdown. And make sure that your essay is organized into
 paragraphs that each describes a subtopic.
 
-#### Key Takeaways
+#### Takeaways
 - The purpose of classification is to break a subject into smaller, more
 manageable, more specific parts.
 - Smaller subcategories help us make sense of the world, and the way in
@@ -14727,7 +14727,7 @@ world.
 1. Determine the purpose and structure of the process analysis essay.
 2. Understand how to write a process analysis essay.
 
-### The Purpose of Process Analysis in Writing
+### The Purpose Of Process Analysis In Writing
 
 The purpose of a process analysis essay is to explain how to do
 something or how something works. In either case, the formula for a
@@ -14741,7 +14741,7 @@ we have likely had to instruct others, so we know how important good
 directions are---and how frustrating it is when they are poorly put
 together.
 
-#### Writing at Work
+#### Writing At Work
 
 The next time you have to explain a process to someone at work, be
 mindful of how clearly you articulate each step. Strong communication
@@ -14760,7 +14760,7 @@ four processes:
 3. Planning a successful first date
 4. Being an effective communicator
 
-### The Structure of a Process Analysis Essay
+### The Structure Of A Process Analysis Essay
 
 The process analysis essay opens with a discussion of the process and a
 thesis that states the goal of the process.
@@ -14796,7 +14796,7 @@ on the complexity of each step. For complicated steps, dedicate an
 entire paragraph. If less complicated steps fall in succession, group
 them into a single paragraph.
 
-### Writing a Process Analysis Essay
+### Writing A Process Analysis Essay
 
 Choose a topic that is interesting, is relatively complex, and can be
 explained in a series of steps. As with other rhetorical writing modes,
@@ -14820,7 +14820,7 @@ process analysis essay from the work you have already done. That means
 adding an engaging introduction, a clear thesis, time transition
 phrases, body paragraphs, and a solid conclusion.
 
-#### Key Takeaways
+#### Takeaways
 - A process analysis essay explains how to do something, how something
 works, or both.
 - The process analysis essay opens with a discussion of the process and a
@@ -14837,7 +14837,7 @@ essays to organize steps and orient reader.
 1. Determine the purpose and structure of the definition essay.
 2. Understand how to write a definition essay.
 
-### The Purpose of Definition in Writing
+### The Purpose Of Definition In Writing
 
 The purpose of a definition essay may seem self-explanatory: the purpose
 of the definition essay is to simply define something. But defining
@@ -14871,7 +14871,7 @@ lack complexity. Think in terms of concepts, such as *hero*,
 of concepts, rather than objects, are often fluid and contentious,
 making for a more effective definition essay.
 
-#### Writing at Work
+#### Writing At Work
 
 Definitions play a critical role in all workplace environments. Take the
 term *sexual harassment*, for example. Sexual harassment is broadly
@@ -14892,7 +14892,7 @@ the definition of the word, and how the incident was finally resolved.
 
 Please share with a classmate and compare your responses.
 
-### The Structure of a Definition Essay
+### The Structure Of A Definition Essay
 
 The definition essay opens with a general discussion of the term to be
 defined. You then state as your thesis your definition of the term.
@@ -14920,7 +14920,7 @@ For definition essays, try to think of concepts that you have a personal
 stake in. You are more likely to write a more engaging definition essay
 if you are writing about an idea that has personal value and importance.
 
-#### Writing at Work
+#### Writing At Work
 
 It is a good idea to occasionally assess your role at work. You
 can do this through the process of definition. Identify your role at
@@ -14940,7 +14940,7 @@ own terms. If you can, establish a context for your definition.
 4. Violence
 5. Art
 
-### Writing a Definition Essay
+### Writing A Definition Essay
 
 Choose a topic that will be complex enough to be discussed at length.
 Choosing a word or phrase of personal relevance often leads to a more
@@ -14968,7 +14968,7 @@ in **Exercise 2**. Be sure to include an interesting introduction, a clear
 thesis, a well-explained context, distinct body paragraphs, and a
 conclusion that pulls everything together.
 
-#### Key Takeaways
+#### Takeaways
 - Definitions establish the way in which people communicate ideas. They
 set parameters for a given discourse.
 - Context affects the meaning and usage of words.
@@ -14979,7 +14979,7 @@ stated in the thesis.
 - The conclusion should pull all the elements of the definition together
 at the end and reinforce the thesis.
 
-## 10.7 Compare-and-Contrast
+## 10.7 Compare-and-contrast
 
 **Learning Objectives**
 
@@ -14988,7 +14988,7 @@ writing.
 2. Explain organizational methods used when comparing and contrasting.
 3. Understand how to write a compare-and-contrast essay.
 
-### The Purpose of Compare-and-Contrast in Writing
+### The Purpose Of Compare-and-contrast In Writing
 
 Comparison in writing discusses elements that are similar, while
 contrast in writing discusses elements that are different. A
@@ -15026,7 +15026,7 @@ Choosing subjects like this will lead to a much more interesting
 paper than if you just write a contrast essay that
 says "Apples are red but oranges are orange."
 
-#### Writing at Work
+#### Writing At Work
 
 Comparing and contrasting helps you evaluate things by looking at how they are similar and different. 
 This is important for things like workplace assessments, 
@@ -15054,7 +15054,7 @@ similarities.
 2. Fast food chains and fine dining restaurants
 3. Dogs and cats
 
-### The Structure of a Compare-and-Contrast Essay
+### The Structure Of A Compare-and-contrast Essay
 
 The compare-and-contrast essay starts with a thesis that clearly states
 the two subjects that are to be compared, contrasted, or both and the
@@ -15086,7 +15086,7 @@ two subjects, it is helpful to have some phrases on hand that will cue
 the reader to such analysis. See Table 10.3 "Phrases of Comparison and
 Contrast" for examples.
 
-#### Table 10.3 Phrases of Compare-and-Contrast
+#### Table 10.3 Phrases Of Compare-and-contrast
 
 | Comparison|Contrast|
 |:---|:---|
@@ -15104,7 +15104,7 @@ Create an outline for each of the items you chose in **Exercise 1** and
 **Exercise 2**. Use the point-by-point organizing strategy for one of them
 and use the subject organizing strategy for the other.
 
-### Writing a Compare-and-Contrast Essay
+### Writing A Compare-and-contrast Essay
 
 First choose whether you want to compare seemingly disparate subjects,
 contrast seemingly similar subjects, or compare-and-contrast subjects.
@@ -15127,7 +15127,7 @@ summarizes the main points of the essay and reinforces your thesis. See
 **Chapter 15** to read
 a sample compare-and-contrast essay.
 
-#### Writing at Work
+#### Writing At Work
 
 Many business presentations are conducted using compare-and-contrast.
 The organizing strategies---by subject or individual points---could also
@@ -15142,7 +15142,7 @@ compare-and-contrast essay. Be sure to include an engaging introduction,
 a clear thesis, well-defined and detailed paragraphs, and a fitting
 conclusion that ties everything together.
 
-#### Key Takeaways
+#### Takeaways
 - A compare-and-contrast essay analyzes two subjects by either comparing
 them, contrasting them, or both.
 - The purpose of writing a comparison or contrast essay is not to state
@@ -15161,14 +15161,14 @@ relation to each point.
 Use phrases of comparison or phrases of contrast to signal to readers
 how exactly the two subjects are being analyzed.
 
-## 10.8 Cause-and-Effect
+## 10.8 Cause-and-effect
 
 **Learning Objectives**
 
 1. Determine the purpose and structure of cause-and-effect in writing.
 2. Understand how to write a cause-and-effect essay.
 
-### The Purpose of Cause-and-Effect in Writing
+### The Purpose Of Cause-and-effect In Writing
 
 It is often considered human nature to ask, "why?" and "how?" We want to
 know how our child got sick so we can better prevent it from happening
@@ -15226,7 +15226,7 @@ the following five broad topics.
 4. Politics
 5. History
 
-### The Structure of a Cause-and-Effect Essay
+### The Structure Of A Cause-and-effect Essay
 
 The cause-and-effect essay opens with a general introduction to the
 topic, which then leads to a thesis that states the main cause, main
@@ -15252,7 +15252,7 @@ Because cause-and-effect essays determine how things are linked, they
 make frequent use of certain words and phrases that denote linkage.
 
 
-#### Phrases of Causation
+#### Phrases Of Causation
 
 |||
 |---|---|
@@ -15278,7 +15278,7 @@ Look at some of the cause-and-effect relationships from **Exercise 2**.
 Outline the links you listed. Outline one using a cause-then-effect
 structure. Outline the other using the effect-then-cause structure.
 
-### Writing a Cause-and-Effect Essay
+### Writing A Cause-and-effect Essay
 
 Choose something that you think has an interesting
 cause-and-effect relationship. Introduce your topic in an engaging way.
@@ -15307,7 +15307,7 @@ Choose one of the ideas you outlined in **Exercise 3** and write a full
 cause-and-effect essay. Be sure to include an engaging introduction, a
 clear thesis, strong evidence and examples, and a thoughtful conclusion.
 
-#### Key Takeaways
+#### Takeaways
 - The purpose of the cause-and-effect essay is to determine how various
 things are related.
 - The thesis states what the writer sees as the main cause, main effect,
@@ -15335,7 +15335,7 @@ elements in the essay.
 5. Understand the importance of visuals to strengthen arguments.
 6. Write a persuasive essay.
 
-### The Purpose of Persuasive Writing
+### The Purpose Of Persuasive Writing
 
 The purpose of persuasion in writing is to convince, motivate, or move
 readers toward a certain point of view, or opinion. The act of trying to
@@ -15358,7 +15358,7 @@ sides try to win end up producing losers all around. The more productive
 approach is to persuade your audience to consider your opinion as a
 valid one, not simply the right one.
 
-### The Structure of a Persuasive Essay
+### The Structure Of A Persuasive Essay
 
 The following five features make up the structure of a persuasive essay:
 
@@ -15368,7 +15368,7 @@ The following five features make up the structure of a persuasive essay:
 4. Style and tone of language
 5. A compelling conclusion
 
-### Creating an Introduction and Thesis
+### Creating An Introduction And Thesis
 
 The persuasive essay begins with an engaging introduction that presents
 the general topic. The thesis typically appears somewhere in the
@@ -15382,7 +15382,7 @@ on." This is probably a true statement, but persuasive arguments should
 make a positive case. That is, the thesis should focus on how
 the hourly minimum wage is low or insufficient.
 
-### Acknowledging Opposing Ideas and Limits to Your Argument
+### Acknowledging Opposing Ideas And Limits To Your Argument
 
 Because an argument implies differing points of view on the subject, you
 must be sure to acknowledge those opposing ideas. Avoiding ideas that
@@ -15422,7 +15422,7 @@ readers, writers need to be modest in their goals and humble in their
 approach to get readers to listen to the ideas. See Table 10.5 "Phrases
 of Concession" for some useful phrases of concession.
 
-#### Phrases of Concession
+#### Phrases Of Concession
 
 - although 
 - granted that
@@ -15445,7 +15445,7 @@ specific your thesis, the better.
 Please share with a classmate and compare your answers. Choose the
 thesis that most interests you and discuss why.
 
-### Bias in Writing
+### Bias In Writing
 
 Everyone has various biases on any number of topics. For example, you
 might have a bias toward wearing black instead of brightly colored
@@ -15475,7 +15475,7 @@ points, or put yourself ahead of the subject by using *I*
 too often. Being aware of these pitfalls will help you
 avoid them.
 
-### The Use of *I* in Writing
+### The Use Of *i* In Writing
 
 Instructors disagree about whether you should use *I* in your writing.
 
@@ -15502,7 +15502,7 @@ audience
 - A conclusion that will adequately summarize the essay and reinforce
 the thesis
 
-### Fact and Opinion
+### Fact And Opinion
 
 A **fact** is a true statement about reality. 
 
@@ -15576,7 +15576,7 @@ Using the evidence you provided in support of the three theses in
 write a concession statement, expressing the limits to each of your
 three arguments.
 
-### Using Visuals to Strengthen Arguments
+### Using Visuals To Strengthen Arguments
 
 Adding visuals to a persuasive argument can often strengthen its
 persuasive effect. There are two main types of visuals: quantitative
@@ -15598,7 +15598,7 @@ For example, one image of a child suffering from malnutrition will
 likely have more of an emotional impact than pages dedicated to
 describing that same condition in writing.
 
-#### Writing at Work
+#### Writing At Work
 
 When making a business presentation, you typically have limited time to
 get across your idea. Providing visuals for your audience can be an
@@ -15611,7 +15611,7 @@ devices used in writing are the same ones used at work. For
 more information about visuals in presentations, see **Chapter
 14**.
 
-### Writing a Persuasive Essay
+### Writing A Persuasive Essay
 
 Choose a topic that you feel passionate about. If your instructor
 requires you to write about a specific topic, approach the subject from
@@ -15650,7 +15650,7 @@ statement as the basis for writing a full persuasive essay. Be sure to
 include an engaging introduction, clear explanations of all the evidence
 you present, and a strong conclusion.
 
-#### Key Takeaways
+#### Takeaways
 - The purpose of persuasion in writing is to convince or move readers
 toward a certain point of view, or opinion.
 - An argument is a reasoned opinion supported and explained by evidence.
@@ -15683,7 +15683,7 @@ quantitative visuals is to make logical appeals to the audience.
 - Qualitative visuals present images that appeal to the audience's
 emotions.
 
-## 10.10 Rhetorical Modes: End-of-Chapter Exercises
+## 10.10 Rhetorical Modes: End-of-chapter Exercises
 
 ### Exercises
 
@@ -15705,9 +15705,9 @@ it will be to do yourself.
 [Table of Contents](#contents)
 
 
-## Writing from Research: What Will I Learn?
+## Writing From Research: What Will I Learn?
 
-## 11.1 The Purpose of Research Writing
+## 11.1 The Purpose Of Research Writing
 
 **Learning Objectives**
 
@@ -15734,7 +15734,7 @@ key steps in the research process, and in this chapter, you will learn
 more about each step. By developing your research writing skills, you
 will prepare yourself to answer any question no matter how challenging.
 
-### Reasons for Research
+### Reasons For Research
 
 When you perform research, you are essentially trying to solve a
 mystery---you want to know how something works or why something
@@ -15772,7 +15772,7 @@ Denver? Did you search for a way to remove gum from the bottom of your
 shoe? In your paragraph, explain what you wanted to research, how you
 performed the research, and what you learned as a result.
 
-### Research Writing and the Academic Paper
+### Research Writing And The Academic Paper
 
 No matter what field of study you are interested in, you will most
 likely be asked to write a research paper during your academic career.
@@ -15789,7 +15789,7 @@ to you. The research process allows you to gain expertise on a topic of
 your choice, and the writing process helps you remember what you have
 learned and understand it on a deeper level.
 
-#### Research Writing at Work
+#### Research Writing At Work
 
 Knowing how to write a good research paper is a valuable skill that will
 serve you well throughout your career. Whether you are developing a new
@@ -15800,7 +15800,7 @@ create a written report of your findings. And because effective
 communication is essential to any company, employers seek to hire people
 who can write clearly and professionally.
 
-#### Writing at Work
+#### Writing At Work
 
 Take a few minutes to think about each of the following careers. How
 might each of these professionals use researching and research writing
@@ -15826,7 +15826,7 @@ researching, organizing, writing, and critical thinking skills could
 help you succeed at your dream job. How might these skills help you
 obtain that job?
 
-### Steps of the Research Writing Process
+### Steps Of The Research Writing Process
 
 How does a research paper grow from a folder of brainstormed notes to a
 polished final draft? No two projects are identical, but most projects
@@ -15845,7 +15845,7 @@ Each of these steps will be discussed in more detail later in this
 chapter. For now, though, we will take a brief look at what each step
 involves.
 
-### Step 1: Choosing a Topic
+### Step 1: Choosing A Topic
 
 As you may recall from **Chapter 8**, to narrow the
 focus of your topic, you may try freewriting exercises, such as
@@ -15856,7 +15856,7 @@ research question and your working thesis to create a research proposal.
 In a research proposal, you present your main research question, any
 related sub-questions you plan to explore, and your working thesis.
 
-### Step 2: Planning and Scheduling
+### Step 2: Planning And Scheduling
 
 Before you start researching your topic, take time to plan your
 researching and writing schedule. Research projects can take days,
@@ -15886,7 +15886,7 @@ information presented. As you conduct research, you will take detailed,
 careful notes about your discoveries. You will also evaluate the
 reliability of each source you find.
 
-### Step 4: Organizing Research and the Writer's Ideas
+### Step 4: Organizing Research And The Writer's Ideas
 
 When your research is complete, you will organize your findings and
 decide which sources to cite in your paper. You will also have an
@@ -15922,7 +15922,7 @@ acknowledging the source. Later in this chapter, you will learn how to
 include sources in your paper and avoid some of the most common
 pitfalls of attributing information.
 
-### Step 6: Revising and Editing Your Paper
+### Step 6: Revising And Editing Your Paper
 
 In the final step of the research writing process, you will revise and
 polish your paper. You might reorganize your paper's structure or revise
@@ -15948,7 +15948,7 @@ project schedule?
 3. What might happen if you eliminated step 4 from the research
 writing process?
 
-#### Key Takeaways
+#### Takeaways
 
 People undertake research projects throughout their academic and
 professional careers in order to answer specific questions, share their
@@ -15961,7 +15961,7 @@ topic, scheduling and planning time for research and writing, conducting
 research, organizing research and ideas, drafting a paper, and revising
 and editing the paper.
 
-## 11.2 Steps in Developing a Research Proposal
+## 11.2 Steps In Developing A Research Proposal
 
 **Learning Objectives**
 
@@ -15980,7 +15980,7 @@ questions, a working thesis, and a written research proposal. Set aside
 adequate time for this part of the process. Fully exploring ideas will
 help you build a solid foundation for your paper.
 
-### Choosing a Topic
+### Choosing A Topic
 
 When you choose a topic for a research paper, you are making a major
 commitment. Your choice will help determine whether you enjoy the
@@ -16073,7 +16073,7 @@ Narrowing down your topic is important so that it's manageable.
 To do this, you can write about your topic, do some 
 initial research, and talk to others about your topic and research.
 
-### Exploring Your Topic in Writing
+### Exploring Your Topic In Writing
 
 You might wonder, "How am I supposed to narrow my topic when I haven't even begun
 researching yet?" In fact, you may already know more than you realize.
@@ -16106,7 +16106,7 @@ deal of media attention---low-carbohydrate diets. He wanted to find out
 whether low-carbohydrate diets were as effective as their proponents
 claimed.
 
-#### Writing at Work
+#### Writing At Work
 
 At work, you may need to research a topic quickly to find general
 information. This information can be useful in understanding trends in a
@@ -16139,7 +16139,7 @@ on his or her list that you would like to learn more about and return it
 to him or her. Discuss why you found the topics interesting and learn
 which of your topics your classmate selected and why.
 
-### A Plan for Research
+### A Plan For Research
 
 Your freewriting and preliminary research have helped you choose a
 focused, manageable topic for your research paper. To work with your
@@ -16149,7 +16149,7 @@ begin conducting in-depth research, you will further define your focus
 by developing a research question, a working thesis, and a research
 proposal.
 
-### Formulating a Research Question
+### Formulating A Research Question
 
 In forming a research question, you are setting a goal for your
 research. Your main research question should be substantial enough to
@@ -16194,7 +16194,7 @@ Using the topic you selected in **Exercise 2**, write your main research
 question and at least four to five subquestions. Check that your main
 research question is appropriately complex for your assignment.
 
-### Constructing a Working Thesis
+### Constructing A Working Thesis
 
 A working thesis concisely states a writer's initial answer to the main
 research question. It does not merely state a fact or present a
@@ -16229,7 +16229,7 @@ to the research question you wrote in **Exercise 3**. Check that your
 working thesis presents an idea or claim that could be
 supported or refuted by evidence from research.
 
-### Creating a Research Proposal
+### Creating A Research Proposal
 
 A research proposal is a brief document---no more than one typed
 page---that summarizes the preliminary work you have completed. Your
@@ -16248,7 +16248,7 @@ Jorge's research proposal.
 
 ![](image41.jpeg "Read Jorge's research proposal")
 
-#### Writing at Work
+#### Writing At Work
 
 Before you begin a new project at work, you may have to develop a
 project summary document that states the purpose of the project,
@@ -16263,7 +16263,7 @@ what resources you will use.
 Now you may write your own research proposal, if you have not done so
 already. Follow the guidelines provided in this lesson.
 
-#### Key Takeaways
+#### Takeaways
 
 - Developing a research proposal involves the following preliminary steps:
 identifying potential ideas, choosing ideas to explore further, choosing
@@ -16304,7 +16304,7 @@ research paper is a complex process that takes time. Breaking it into
 manageable steps is crucial. Review the steps outlined at the beginning
 of this chapter.
 
-### Steps to Writing a Research Paper
+### Steps To Writing A Research Paper
 
 1. Choose a topic.
 2. Schedule and plan time for research and writing.
@@ -16380,7 +16380,7 @@ break can help you feel more excited when you start working again.
 It's also a good idea to stop working each day at a point 
 where it's easy to start again the next day.
 
-#### Writing at Work
+#### Writing At Work
 
 When you create a project schedule at work, you set target dates for
 completing certain tasks and identify the resources you plan to use on
@@ -16468,7 +16468,7 @@ researching and writing your paper. Write them on a separate sheet of
 paper. For each problem, write at least one strategy for solving the
 problem or minimizing its effect on your project.
 
-#### Writing at Work
+#### Writing At Work
 
 At work, documents prepared at the beginning of a project often
 include a detailed plan for risk management. When you manage a project,
@@ -16478,7 +16478,7 @@ must strive to complete tasks on a schedule in order to meet the new
 product release date. The project manager may need to adjust the project
 plan if one or more tasks fall behind schedule.
 
-#### Key Takeaways
+#### Takeaways
 
 - To complete a research project successfully, a writer must carefully
 manage each phase of the process and break major steps into smaller
@@ -16492,7 +16492,7 @@ needs.
 - Anticipating and planning for potential setbacks can help writers avoid
 those setbacks or minimize their effect on the project schedule.
 
-## 11.4 Strategies for Gathering Reliable Information
+## 11.4 Strategies For Gathering Reliable Information
 
 **Learning Objectives**
 
@@ -16533,7 +16533,7 @@ analyzing the content of popular magazines. You may even have identified
 a few potential sources. Now it is time to conduct a more focused,
 systematic search for informative primary and secondary sources.
 
-### Using Primary and Secondary Sources
+### Using Primary And Secondary Sources
 
 Writers classify research resources in two categories: primary sources
 and secondary sources. *Primary sources* are direct, firsthand sources
@@ -16593,7 +16593,7 @@ available at libraries.
 
 #### Library Print Resources
 
-##### Nonfiction books
+##### Nonfiction Books
 
 Nonfiction books provide in-depth coverage of a topic. Trade books, biographies, and 
 how-to guides are written for general audience. Scholarly books and 
@@ -16605,12 +16605,12 @@ These sources are published at regular intervals---daily, weekly, monthly,
 or quarterly. Newspapers, magazines, and academic journals are examples. Some periodicals provide articles on subjects of
 general interest, while others are more specialized. 
 
-##### Government publications
+##### Government Publications
 Federal, state, and local government agencies publish information on a variety of 
 topics. Government publications include reports, legislation, court documents, 
 public records, statistics, studies, guides, programs, and forms. 
 
-##### Business or nonprofit publications
+##### Business Or Nonprofit Publications
 Businesses and nonprofit organizations produce publications designed to market a 
 product, provide background about the organization, provide information on topics 
 connected to the organization, or promote a cause. These publications include reports, 
@@ -16621,7 +16621,7 @@ In addition to the resources noted in the table, library holdings may
 include primary texts such as historical documents, letters, and
 diaries.
 
-#### Writing at Work
+#### Writing At Work
 
 Businesses, government organizations, and nonprofit organizations
 produce published materials that range from brief advertisements and
@@ -16700,7 +16700,7 @@ terms you might use when you conduct your research.
 2. Print out the search results or save the results to your research
 folder on your computer or portable storage device.
 
-### Using Periodicals, Indexes, and Databases
+### Using Periodicals, Indexes, And Databases
 
 Library catalogs can help you locate book-length sources, as well as
 some types of nonprint holdings, such as CDs, DVDs, and audio books. To
@@ -16717,7 +16717,7 @@ access through the library website. A single library may provide access
 to multiple periodical databases. These can range from general news
 databases to specialized databases.
 
-#### Table 11.2 Commonly Used Indexes and Databases
+#### Table 11.2 Commonly Used Indexes And Databases
 
 | Resource | Format | Contents|
 |:---|:---|:---|
@@ -16728,7 +16728,7 @@ databases to specialized databases.
 |MEDLINE, PubMed | Online | Databases that archive articles in medicine and health|
 |EBSCOhost | Online | General database that provides access to articles on a wide variety of topics|
 
-### Reading Popular and Scholarly Periodicals
+### Reading Popular And Scholarly Periodicals
 
 When you search for periodicals, be sure to distinguish among different
 types. Mass-market publications, such as newspapers and popular
@@ -16761,7 +16761,7 @@ information available in popular media. Seek out academic journals along
 with other resources. Just be prepared to spend a little more time
 processing the information.
 
-#### Writing at Work
+#### Writing At Work
 
 Periodicals databases are not just for students writing research papers.
 They also provide a valuable service to workers in various fields. The
@@ -16774,7 +16774,7 @@ can be a useful tool for researching specific topics and identifying
 periodicals that will help you keep up with the latest news in your
 industry.
 
-### Consulting a Reference Librarian
+### Consulting A Reference Librarian
 
 Sifting through library stacks and database search results to find the
 information you need can be like trying to find a needle in a haystack.
@@ -16846,7 +16846,7 @@ search for variations on a term. For instance, you might type
 **diabet#** to search for information on diabetes and diabetics. The
 specific symbol used varies with different databases.
 
-#### Finding and Using Electronic Resources
+#### Finding And Using Electronic Resources
 
 With the expansion of technology and media over the past few decades, a
 wealth of information is available to you in electronic format. Some
@@ -16960,7 +16960,7 @@ first question will help you avoid wasting valuable time reading sources
 that stray too far from your specific topic and research questions. The
 second question will help you find accurate, trustworthy sources.
 
-### Determining Whether a Source Is Relevant
+### Is Your Source Relevant?
 
 At this point in your research process, you may have identified dozens
 of potential sources. It is easy for writers to get so caught up in
@@ -16974,7 +16974,7 @@ Read quickly with your research questions and subtopics in mind. If a
 book or article is not especially relevant, put it aside. You can always
 come back to it later if you need to.
 
-### Determining Whether a Source Is Reliable
+### Is Your Source Reliable?
 
 All information sources are not created equal. Sources can vary greatly
 in terms of how carefully they are researched, written, edited, and
@@ -16992,7 +16992,7 @@ authors') qualifications, the publication's reputation, any indications
 of bias or hidden agendas, how current the source is, and the overall
 quality of the writing, thinking, and design.
 
-### Evaluating Types of Sources
+### Evaluating Types Of Sources
 
 The different types of sources you will consult are written for distinct
 purposes and with different audiences in mind. This accounts for other
@@ -17044,7 +17044,7 @@ Instead, they rely on a community of users to police themselves. At
 best, these sites can be a starting point for finding other, more
 trustworthy sources. Never use them as final sources.
 
-### Evaluating Credibility and Reputability
+### Evaluating Credibility And Reputability
 
 Even when you are using a type of source that is generally reliable, you
 will still need to evaluate the author's credibility and the publication
@@ -17074,7 +17074,7 @@ in other articles. This can be a rough indication of the article's
 quality or, at the very least, of its influence and reputation among
 other scholars.
 
-### Checking for Biases and Hidden Agendas
+### Checking For Biases And Hidden Agendas
 
 Whenever you consult a source, always think carefully about the author's
 or authors' purpose in presenting the information. Few sources present
@@ -17122,7 +17122,7 @@ afraid to ask your professor for suggestions if you find that many of
 your most relevant sources are not especially reliable---or that the
 most reliable sources are not relevant.
 
-### Evaluating Overall Quality by Asking Questions
+### Evaluating Overall Quality By Asking Questions
 
 When you evaluate a source, you will consider the criteria previously
 discussed as well as your overall impressions of its quality. Read
@@ -17160,7 +17160,7 @@ about which sources you find more convincing and why. Be suspicious,
 however, of any source that presents facts that you cannot confirm
 elsewhere.)
 
-#### Writing at Work
+#### Writing At Work
 
 The critical thinking skills you use to evaluate research sources as a
 student are equally valuable when you conduct research on the job. If
@@ -17187,7 +17187,7 @@ superior. What matters is that you keep materials in order; record
 bibliographical information you will need later; and take detailed,
 organized notes.
 
-### Keeping Track of Your Sources
+### Keeping Track Of Your Sources
 
 Think ahead to a moment a few weeks from now, when you've written your
 research paper and are almost ready to submit it for a grade. There is
@@ -17226,7 +17226,7 @@ very few writing courses, a citation manager might not be worth it.
 
 https://www.zotero.org/
 
-#### What to Record
+#### What To Record
 
 Table 11.5 shows the details you should record for commonly
 used sources. Use these details to develop a working
@@ -17241,7 +17241,7 @@ Your completed paper is most likely to be in either APA (American Psychological 
 or MLA (Modern Language Association) format. For more on APA and MLA,
 see **Chapter 13**
 
-#### Table 11.5 Details to Record for Common Sources
+#### Table 11.5 Details To Record For Common Sources
 
 |Source|Information|
 |:---|:---|
@@ -17287,7 +17287,7 @@ every detail from your reading. Focus on finding and recording details
 that will help you answer your research questions. The following
 strategies will help you take notes efficiently.
 
-### Use Headings to Organize Ideas
+### Use Headings To Organize Ideas
 
 Whether you use index cards or a
 word-processor, record just one major point from each source
@@ -17297,7 +17297,7 @@ identify connections among different pieces of information. It will also
 help you make connections between your notes and the research questions
 and subtopics you identified earlier.
 
-### Know When to Summarize, Paraphrase, or Quote
+### Know When To Summarize, Paraphrase, Or Quote
 
 Your notes will fall under three categories---summary notes, paraphrased
 information, and direct quotations from your sources. Effective
@@ -17356,7 +17356,7 @@ carefully and check your paraphrased notes against the original text to
 make sure that you have restated the author's ideas accurately in your
 own words.
 
-### Use a System That Works for You
+### Use A System That Works For You
 
 There are several formats you can use to take notes. No technique is
 necessarily better than the others---it is more important to choose a
@@ -17397,7 +17397,7 @@ Continue gathering sources and taking notes. In the next section, you
 will learn strategies for organizing and synthesizing the information
 you have found.
 
-#### Key Takeaways
+#### Takeaways
 
 A writer's use of primary and secondary sources is determined by the
 topic and purpose of the research. Sources used may include print
@@ -17426,7 +17426,7 @@ information. This includes bibliographic information about each source
 as well as summarized, paraphrased, or quoted information from the
 source.
 
-## 11.5 Critical Thinking and Research Applications
+## 11.5 Critical Thinking And Research Applications
 
 **Learning Objectives**
 
@@ -17521,7 +17521,7 @@ critical-thinking skills to the information you recorded---analyzing how
 it is relevant, determining how it meshes with your ideas, and finding
 how it forms connections and patterns.
 
-#### Writing at Work
+#### Writing At Work
 
 When you create workplace documents based on research, selectivity
 remains important. A project team may spend months conducting market
@@ -17574,7 +17574,7 @@ written about the issue. More importantly, it can help you question and
 refine your own thinking so that writing your research paper is a true
 learning process.
 
-### Find Connections between Your Sources
+### Find Connections Between Your Sources
 
 As you find connections between your ideas and information in your
 sources, also look for information that connects your sources. Do most
@@ -17636,7 +17636,7 @@ Although following a low-carbohydrate diet can benefit some people,
 these diets are not necessarily the best option for everyone who wants
 to lose weight or improve their health.
 
-### Synthesizing and Organizing Information
+### Synthesizing And Organizing Information
 
 By now your thinking on your topic is taking shape. You have a sense of
 what major ideas to address in your paper, what points you can easily
@@ -17653,7 +17653,7 @@ struggle with it at times. A little uncertainty is often a good sign! It
 means you are challenging yourself to work thoughtfully with your topic
 instead of simply restating the same information.
 
-### Use Your Research Questions to Synthesize Information
+### Use Your Research Questions To Synthesize Information
 
 You have already considered how your notes fit with your working thesis.
 Now, take your synthesis a step further. Analyze how your notes relate
@@ -17709,7 +17709,7 @@ research by grouping related ideas or pointing out connections or
 contrasts. The result is that you are not simply presenting information;
 you are synthesizing, analyzing, and interpreting it.
 
-### Plan How to Organize Your Paper
+### Plan How To Organize Your Paper
 
 The final step to complete before beginning your draft is to choose an
 organizational structure. For some assignments, this may be determined
@@ -17751,7 +17751,7 @@ classmate's outline and see if any questions come to mind or if you see
 any area that would benefit from an additional point or clarification.
 Return the outlines to each other and compare observations.
 
-#### Writing at Work
+#### Writing At Work
 
 The structures described in this section and **Chapter
 10** can also help you
@@ -17763,7 +17763,7 @@ comparing and contrasting the choices. Understanding when and how to use
 each organizational structure can help you write workplace documents
 efficiently and effectively.
 
-#### Key Takeaways
+#### Takeaways
 
 - An effective research paper focuses on presenting the writer's ideas
 using information from research as support.
@@ -17777,7 +17777,7 @@ minor adjustments.
 appropriate for the topic and purpose. Longer papers may make use of
 more than one structure.
 
-## 11.6 Writing from Research: End-of-Chapter Exercises
+## 11.6 Writing From Research: End-of-chapter Exercises
 
 Exercises
 
@@ -17820,9 +17820,9 @@ some way?
 [Table of Contents](#contents)
 
 
-## Writing a Research Paper
+## Writing A Research Paper
 
-## 12.1 Creating a Rough Draft for a Research Paper
+## 12.1 Creating A Rough Draft For A Research Paper
 
 **Learning Objectives**
 
@@ -17843,7 +17843,7 @@ In this section, you will learn to handle the challenges of a research paper,
 especially integrating your sources, citing correctly,
 and avoiding misuse of sources.
 
-### The Structure of a Research Paper
+### The Structure Of A Research Paper
 
 Most research papers have a three-part structure: 
 
@@ -17940,7 +17940,7 @@ conclude a paper by asking a new question the research inspired,
 revisiting an anecdote presented earlier, or reminding readers of how
 the topic relates to their lives.
 
-#### Writing at Work
+#### Writing At Work
 
 If you work in the sciences, you will find the papers you read have
 a very specific structure that scientists hold to. 
@@ -17952,7 +17952,7 @@ as who participated in it, what the researchers measured, and what
 results they recorded. The conclusion presents the researchers'
 interpretation of the data, or what they learned.
 
-### Using Source Material in Your Paper
+### Using Source Material In Your Paper
 
 One of the challenges of writing a research paper is successfully
 integrating your ideas with material from your sources. Your paper must
@@ -18172,7 +18172,7 @@ citation format used by the American Psychological Association (also
 known as APA style). For information on the format used by the Modern
 Language Association (MLA style), see **Chapter 13**.
 
-### Citing Sources in the Body of Your Paper
+### Citing Sources In The Body Of Your Paper
 
 In-text citations document your sources within the body of your paper.
 These include two vital pieces of information: the author's name and the
@@ -18206,7 +18206,7 @@ The parenthetical citation at the end of the sentence includes the
 author's name, a comma, and the year the source was published. The
 period at the end of the sentence comes after the parentheses.
 
-### Creating a List of Sources
+### Creating A List Of Sources
 
 Each of the sources you cite in the body text will appear in a
 bibliography (a "book list") at the end of your paper. 
@@ -18234,7 +18234,7 @@ see **Chapter 13**.
 A sample reference list is provided with the final draft of Jorge's paper
 later in this chapter.
 
-### Using Primary and Secondary Research
+### Using Primary And Secondary Research
 
 As you write your draft, be mindful of how you are using primary and
 secondary source material to support your points. Recall that primary
@@ -18322,7 +18322,7 @@ always distinguish between the two---as you conduct research, as you
 plan your paper, and as you write. Failure to do so can lead to
 plagiarism.
 
-#### Intentional and Accidental Plagiarism
+#### Intentional And Accidental Plagiarism
 
 Plagiarism is the act of misrepresenting someone else's work as your
 own. Sometimes a writer plagiarizes work on purpose---for instance, by
@@ -18335,7 +18335,7 @@ plagiarism, follow these guidelines:
 - Keep source materials and notes carefully organized.
 - Follow guidelines for summarizing, paraphrasing, and quoting sources.
 
-#### When to Cite
+#### When To Cite
 
 Any idea or fact taken from an outside source must be cited, in both the
 body of your paper and the references list. The only exceptions are
@@ -18372,7 +18372,7 @@ instances, he highlighted the paragraph in question so that he could go
 back to it later and revise. Read the example, along with Jorge's
 revision.
 
-### Summary
+### Example With Too Much Quotation
 
 > Heinz (2009) found that "subjects in the low-carbohydrate group (30%
 > carbohydrates; 40% protein, 30% fat) had a mean weight loss of 10 kg (22
@@ -18391,7 +18391,7 @@ single article. Although Jorge had enclosed the material in quotation
 marks, he knew it was not an appropriate way to use the research in his
 paper.
 
-### Summary
+### Improved Example With More Paraphrase
 
 > Low-carbohydrate diets may indeed be superior to other diet plans for
 > short-term weight loss. In a study comparing low-carbohydrate diets and
@@ -18409,7 +18409,7 @@ findings. He also made sure to include a topic sentence stating the main
 idea of the paragraph and a concluding sentence that transitioned to the
 next major topic in his essay.
 
-#### Working with Sources Carefully
+#### Working With Sources Carefully
 
 Disorganization and carelessness sometimes lead to plagiarism. For
 instance, a writer may be unable to provide a complete, accurate
@@ -18426,7 +18426,7 @@ thorough notes throughout the research process. Check original sources
 again to clear up any uncertainties. Allow plenty of time for writing
 your draft so there is no temptation to cut corners.
 
-#### Writing at Work
+#### Writing At Work
 
 Citing other people's work appropriately is just as important in the
 workplace as it is in school. If you need to consult outside sources to
@@ -18455,7 +18455,7 @@ from the college. Employees may be fired for plagiarism and do
 irreparable damage to their professional reputation. In short, it is
 never worth the risk.
 
-#### Key Takeaways
+#### Takeaways
 - An effective research paper focuses on the writer's ideas. The
 introduction and conclusion present and revisit the writer's thesis. The
 body of the paper develops the thesis and related points with
@@ -18478,7 +18478,7 @@ accidental plagiarism, keep research materials organized, understand
 guidelines for fair use and appropriate citation of sources, and review
 the paper to make sure these guidelines are followed.
 
-## 12.2 Developing a Final Draft of a Research Paper
+## 12.2 Developing A Final Draft Of A Research Paper
 
 **Learning Objectives**
 
@@ -18503,7 +18503,7 @@ revising and editing a research paper:
 - How to use checklists to identify and correct any errors in language,
 citations, and formatting
 
-### Revising Your Paper: Organization and Cohesion
+### Revising Your Paper: Organization And Cohesion
 
 When writing a research paper, it is easy to become overly focused on
 editorial details, such as the proper format for bibliographical
@@ -18517,7 +18517,7 @@ means that the elements of your paper work together smoothly and
 naturally. In a cohesive research paper, information from research is
 seamlessly integrated with the writer's ideas.
 
-#### Revise to Improve Organization
+#### Revise To Improve Organization
 
 When you revise to improve organization, you look at the flow of ideas
 throughout the essay as a whole and within individual paragraphs. You
@@ -18595,7 +18595,7 @@ examples. Make sure your transitions suit your purpose and avoid
 overusing the same ones. For an extensive list of transitions, see
 **Section 8.4**.
 
-### Revise to Improve Cohesion
+### Revise To Improve Cohesion
 
 When you revise to improve cohesion, you analyze how the parts of your
 paper work together. You look for anything that seems awkward or out of
@@ -18672,7 +18672,7 @@ Please exchange papers with a classmate. Complete step four. On a
 separate piece of paper, note any areas that would benefit from
 clarification. Return and compare notes.
 
-#### Writing at Work
+#### Writing At Work
 
 Understanding cohesion can also benefit you at work, especially
 when you have to write and deliver a presentation. Speakers sometimes
@@ -18683,7 +18683,7 @@ are asked to give a financial presentation, and the financial report
 shows that the company lost money, funny illustrations would not be
 relevant or appropriate for the presentation.
 
-### Using a Consistent Style and Tone
+### Using A Consistent Style And Tone
 
 Once you are certain that the content of your paper fulfills your
 purpose, you can begin revising to improve style and tone. Together,
@@ -18693,7 +18693,7 @@ writer---the sentence structures you use and the word choices you make.
 Tone is the attitude toward your subject and audience that you convey
 through your word choice.
 
-#### Determining an Appropriate Style and Tone
+#### Determining An Appropriate Style And Tone
 
 When you write about research, you want to sound like you know what you're talking about. It's like being a tour guide and showing people around a topic. But you don't want to sound too fancy or too casual. You also don't want to use extreme or emotional language. To avoid these problems, think about your topic and your audience and choose a style and tone that fits. A paper on serious medical research should sound more formal than a paper on tips for sleeping better. It's also a good idea to avoid using "I" or talking about your personal opinions. Use the Style Checklist below to check your writing for other style issues, and make sure everything is consistent when you're done.
 
@@ -18811,7 +18811,7 @@ spelling and run a spellcheck.
 - I have checked my paper for any editing errors that I know I tend to
 make frequently.
 
-### Checking Citations and Formatting
+### Checking Citations And Formatting
 
 When editing a research paper, it is also important to check that you
 have cited sources properly and formatted your document according to the
@@ -18825,7 +18825,7 @@ academic community. Increasingly, American Psychological Association
 Language Association (MLA) is also a standard style in many fields. Use
 the Citations and Format Checklist to help you check citations and formatting.
 
-#### Citations and Format Checklist
+#### Citations And Format Checklist
 
 - Within the text of my paper, each fact or idea taken from a source is credited to the correct source.
 - Each in-text citation includes the author's name and year of publication.
@@ -18840,7 +18840,7 @@ the Citations and Format Checklist to help you check citations and formatting.
 For detailed guidelines on APA and MLA citation and formatting, see
 **Chapter 13**.
 
-#### Writing at Work
+#### Writing At Work
 
 Following APA or MLA citation and formatting guidelines may require time
 and effort. However, it is good practice for learning how to follow
@@ -18872,7 +18872,7 @@ citations and formatting. Read the final draft of his paper.
 
 ![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
-#### Key Takeaways
+#### Takeaways
 
 - Organization in a research paper means that the argument proceeds
 logically from the introduction to the body to the conclusion. It flows
@@ -18889,7 +18889,7 @@ style and tone are consistent throughout.
 - Editing a research paper involves checking for errors in grammar,
 mechanics, punctuation, usage, spelling, citations, and formatting.
 
-## 12.3 Writing a Research Paper: End-of-Chapter Exercises
+## 12.3 Writing A Research Paper: End-of-chapter Exercises
 
 ### Exercises
 
@@ -18954,9 +18954,9 @@ document's purpose? Why or why not? If it is not effective, explain why.
 [Table of Contents](#contents)
 
 
-## APA and MLA Styles
+## APA And MLA Styles
 
-## 13.1 Formatting a Research Paper
+## 13.1 Formatting A Research Paper
 
 
 **Learning Objectives**
@@ -19054,7 +19054,7 @@ Your title page should look like the following example.
 
 ![](image48.jpeg "Evaluating low-carb diets page 1 APA")
 
-#### Margins, Page numbering, and Headings
+#### Margins, Page Numbering, And Headings
 
 Use these general guidelines to format the paper:
 
@@ -19092,7 +19092,7 @@ Manual of the American Psychological Association*, published in 2020.
 
 ### Citation Guidelines
 
-#### In-Text Citations
+#### In-text Citations
 
 Include an in-text citation whenever you quote, paraphrase, or summarize a source. *In-text* means that it appears in the body of your paper; your reader will see it as they are reading along.
 
@@ -19106,7 +19106,7 @@ year the source was published. If you are quoting the source, you must also incl
 The in-text citation may appear either within the sentence or at the end of the sentence.
 When it is in the sentence, APA calls it a *narrative citation.* When it is at the end of the sentence, APA calls it a *parenthetical citation*.
 
-#### The two kinds of in-text citation
+#### The Two Kinds Of In-text Citation
 
 |Narrative citation|Parenthetical citation|
 |:---|:---|
@@ -19166,7 +19166,7 @@ Review the following example of a References section. Notice the hanging indents
 
 ![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
-#### Key Takeaways
+#### Takeaways
 
 - Proper citation and formatting helps a writer ensure
 they are taken seriously, gives credit to others for their work, and
@@ -19179,7 +19179,7 @@ author(s), the year of publication, and sometimes the page number.
 - Every in-text citation connects to a reference entry, which
 gives information about the source.
 
-## Section 13.2: Citing and Referencing Techniques
+## Section 13.2: Citing And Referencing Techniques
 
 **Learning Objective**
 
@@ -19193,7 +19193,7 @@ to introduce quoted and paraphrased material effectively. Keep this
 section handy as a reference to consult while writing the body of your
 paper.
 
-### In-Text Citations: The Basics
+### In-text Citations: The Basics
 
 As noted in previous sections of this book, in-text citations usually
 provide the name of the author(s) and the year the source was published.
@@ -19249,7 +19249,7 @@ single best things women can do to maintain good health" (2008, p. 49).
 You may begin a sentence with the direct quotation and add the author's
 name and a strong verb before continuing the quotation.
 
-#### Paraphrases or Summaries
+#### Paraphrases Or Summaries
 
 When you paraphrase or summarize ideas from a source, you do not need to
 give the page number.
@@ -19346,7 +19346,7 @@ any that seem to be overused throughout the paper.
 2. Identify at least three places where a stronger verb could be used.
 3. Make the edits to your draft.
 
-#### Writing at Work
+#### Writing At Work
 
 It is important to accurately represent a colleague's ideas or
 communications at work. When writing professional or academic
@@ -19357,7 +19357,7 @@ language, but avoid language that is emotionally charged. Doing so will
 ensure you have represented your colleague's words in an authentic and
 accurate way.
 
-### Formatting In-Text Citations for Other Source Types
+### Formatting In-text Citations For Other Source Types
 
 These sections discuss the correct format for various types of in-text
 citations. Read them through quickly to get a sense of what is covered,
@@ -19368,7 +19368,7 @@ and then refer to them again as needed.
 This section covers books, articles, and other print sources with one or
 more authors.
 
-#### A Work by One Author
+#### A Work By One Author
 
 For a print work with one author, follow the guidelines provided in Section
 13.1. Always include the author's name and
@@ -19382,7 +19382,7 @@ source directly.
 > Chang (2008) pointed out that weight-bearing exercise has many potential
 > benefits for women.
 
-#### Multiple Works by the Same Author
+#### Multiple Works By The Same Author
 
 Your research may include multiple works by the same author.
 If they were published in different years, the distinction will be clear:
@@ -19408,7 +19408,7 @@ benefits of taking supplements. Additionally, he warned that consumers
 frequently do not realize the potential harmful effects of some popular
 supplements (Rodriguez, 2009b).
 
-#### Works by Authors with the Same Last Name
+#### Works By Authors With The Same Last Name
 
 If you are citing works by different authors with the same last name,
 include each author's initials in your citation. Do this even if the publication years
@@ -19425,7 +19425,7 @@ are different.
 > Studies from both A. Wright (2007) and C. A. Wright (2008) confirm the
 > benefits of diet and exercise on weight loss.
 
-#### A Work by Two Authors
+#### A Work By Two Authors
 
 When a work has two authors, include both authors' names. 
 
@@ -19441,7 +19441,7 @@ In a parenthetical citation, use the character *&* (an "ampersand") between the 
 > The health risks associated with this habit begin to decrease soon after
 > a smoker quits" (Garrison & Gould, 2010, p. 101).
 
-#### A Work by Three or More Authors
+#### A Work By Three Or More Authors
 
 If the work you are citing has three or more authors, include only the first author's name followed by the Latin phrase et al., unless this is not enough to distinguish one source from another.
 
@@ -19462,7 +19462,7 @@ In parenthetical references, include a comma after et al. but
 not before. Remember this rule by mentally translating the citation to
 English: "Henderson and others, 2010."
 
-#### A Work by a Group
+#### A Work By A Group
 
 Some works do not name a person as they author; instead, they only give the name of the group that published them. 
 
@@ -19498,7 +19498,7 @@ appropriate, a page reference.
 sure how to format yet. You
 will revisit them after reading the next few sections.
 
-#### A Work with No Known Author
+#### A Work With No Known Author
 
 If no author is listed---neither a person nor a group---use the title in place of the author's name.
 
@@ -19513,7 +19513,7 @@ You may use only the first few words if you are using a parenthetical reference.
 > Diabetes," 2009).
 
 
-#### A Work You Only Found Mentioned in Another Work
+#### A Work You Only Found Mentioned In Another Work
 
 It is always best to find the actual source you want to cite from. But sometimes you can't; sometimes you will only be able to find a source that quotes another source, and it's the other, quoted source that you want to use.
 
@@ -19526,7 +19526,7 @@ In that case, name the source you want to write about (Rosenhan). Then, in paren
 > said they were having hallucinations and wanted treatment---even
 > though these patients were actors who were only faking it.
 
-#### Multiple Works in One Reference
+#### Multiple Works In One Reference
 
 You may provide more than one citation in a parenthetical
 reference, such as when you are discussing related works or studies with
@@ -19560,7 +19560,7 @@ Since the book is a
 collection of Freud's lectures, the student cites the lecture number
  rather than a page number. They use the Roman numeral XXIX, equivalent to the Arabic numeral 29.
 
-#### An Introduction, Foreword, Preface, or Afterword
+#### An Introduction, Foreword, Preface, Or Afterword
 
 To cite an introduction, foreword, preface, or afterword, follow the same format used for
 other print materials.
@@ -19609,7 +19609,7 @@ cite the name and the specific date. Include the phrase "personal communication.
 
 In APA style, personal communications are cited *only in-text*. They do not appear in the References section. (In MLA format, such communications do appear in the Works Cited section.)
 
-#### Writing at Work
+#### Writing At Work
 
 Sometimes at work, you might share information with your coworkers by making a copy of an article or sharing a website link. This is also true when you write a research paper. Your goal is to give enough information so that others can find the information you used. Try to include as many details as possible to make it easier for them. If you're not sure what to do, ask your professor for guidance.
 
@@ -19620,7 +19620,7 @@ instance, sources with no listed author or other oddities. Review the
 guidelines provided in this section and edit your citations for these
 kinds of sources according to APA guidelines.
 
-#### Key Takeaways
+#### Takeaways
 
 - In APA papers, in-text citations include the name of the author(s) and
 the year of publication.
@@ -19634,7 +19634,7 @@ include the title of the source, section headings and paragraph numbers
 for websites, and so forth.
 - Ask your professor whether they have particular standards they want you to follow.
 
-## 13.3 Creating a References Section
+## 13.3 Creating A References Section
 
 **Learning Objective**
 
@@ -19642,7 +19642,7 @@ for websites, and so forth.
 
 This section describes how to create the References section of your paper. 
 
-### Starting the References Section
+### Starting The References Section
 
 With your cursor at the end of your paper, use the *Insert Page Break* command to start a new page. Do **not** hit Enter multiple times. If you do that, your References section will end up in the wrong place if you add or subtract text from the body of your paper.
 
@@ -19687,7 +19687,7 @@ Here is a sample entry for a book:
 
 Here is how to organize and captialize your reference entries:
 
-#### General Guidelines for the References Section
+#### General Guidelines For The References Section
 
 1. List entries in alphabetical order by the author's last name.
 2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*.
@@ -19713,7 +19713,7 @@ Sometimes it can be tricky to format your references, especially if you are citi
 
 APA 6 asked for the city of publication for book publishers, but APA 7 no longer does.
 
-#### A Book by Two or More Authors
+#### A Book By Two Or More Authors
 
 List the authors' names in the order they appear on the book's title
 page. Use an ampersand before the last author's name.
@@ -19721,14 +19721,14 @@ page. Use an ampersand before the last author's name.
 > Campbell, D. T., & Stanley, J. C. (1963). *Experimental and*
 > *quasi-experimental designs for research.* Houghton Mifflin.
 
-#### An Edited Book with No Author
+#### An Edited Book With No Author
 
 List the editor(s) names in place of the author's name,
 followed by *Ed.* or *Eds.* in parentheses.
 
 > Myers, C., & Reamer, D. (Eds.). (2009). *2009 nutrition index.* HealthSource, Inc.
 
-#### An Edited Book with an Author
+#### An Edited Book With An Author
 
 List the author's name first, followed by the title and the editor or
 editors. Note that when the editor is listed after the title, you list
@@ -19750,14 +19750,14 @@ the translator's name, you list the initials before the last name.
 > Strachey, Trans.). W. W. Norton. (Original work published
 > 1933).
 
-#### A Book Published in Multiple Editions
+#### A Book Published In Multiple Editions
 
 If you are using any edition other than the first edition, include the
 edition number in parentheses after the title.
 
 > Berk, L. (2001). *Development through the lifespan* (2nd ed.). Allyn & Bacon.
 
-#### A Chapter in an Edited Book
+#### A Chapter In An Edited Book
 
 List the name of the author(s) who wrote the chapter, followed by the
 chapter title. Then list the names of the book editor(s) and the title
@@ -19766,14 +19766,14 @@ information about the book's publisher.
 
 > Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Associaton.
 
-#### A Work That Appears in an Anthology
+#### A Work That Appears In An Anthology
 
 Follow the same process you would use to cite a book chapter,
 substituting the article or essay title for the chapter title.
 
 > Beck, A. T., &Young, J. (1986). College blues. In D. Goleman & D. Heller (Eds.), *The pleasures of psychology* (pp. 309-323). New American Library.
 
-#### Two or More Books by the Same Author
+#### Two Or More Books By The Same Author
 
 List the entries in order of publication, with the
 oldest.
@@ -19792,7 +19792,7 @@ the others are different, alphabetize by the second author's last name
 
 > Carroll, D., & Zuckerman, N. (2008). *Gestational diabetes.* Southwick Press.
 
-#### Books by Different Authors with the Same Last Name
+#### Books By Different Authors With The Same Last Name
 
 Alphabetize entries by the authors' first initial. "Smith, I. T." comes before "Smith, S."
 
@@ -19800,7 +19800,7 @@ Alphabetize entries by the authors' first initial. "Smith, I. T." comes before "
 > 
 > Smith, S. *The complete guide to Navy Seal fitness: Updated for today's warrior elite* (3rd ed.). Hatherleight Press.
 
-#### A Book by a Group
+#### A Book By A Group
 
 Treat the group name as you would an author's name. 
 
@@ -19814,7 +19814,7 @@ Notice that "The American Heart Association" is listed before "American Psychiat
 > manual of mental disorders DSM-IV* (4th ed.). American
 > Psychiatric Publishing.
 
-#### A Book-Length Report
+#### A Book-length Report
 
 Format technical and research reports as you would format other
 book-length sources. If the group that issued the report assigned
@@ -19826,7 +19826,7 @@ agencies.)
 > evaluation of the president's physical fitness program in Pleasantville
 > school district.* Pleasantville Board of Education.
 
-#### A Book Authored by a Government Agency
+#### A Book Authored By A Government Agency
 
 Treat these as you would a book published by a nongovernment
 group, but be aware that these works may have an identification
@@ -19853,7 +19853,7 @@ Griffin.
 
 ### Print Sources: Periodicals
 
-#### An Article in a Scholarly Journal
+#### An Article In A Scholarly Journal
 
 Include the following information:
 
@@ -19869,7 +19869,7 @@ Include the following information:
 > with HIV. *Journal of Nursing Education, 49*(5), 1--4.
 
 
-#### A Journal Article with Up to Twenty Authors
+#### A Journal Article With Up To Twenty Authors
 
 List all the authors' names in the order they appear in the article. Use
 an ampersand before the last name listed.
@@ -19883,7 +19883,7 @@ an ampersand before the last name listed.
 > from the 2007--2009 Canadian Health Measures Survey. *Health Reports,
 21*(1), 7--20.
 
-#### A Journal Article with More Than Twenty Authors
+#### A Journal Article With More Than Twenty Authors
 
 Include the first 19 authors' names, add an ellipsis (but no amersand), and then give the final author's name.
 
@@ -19935,7 +19935,7 @@ Revisit the references section you began in **Exercise 1**. Use
 the guidelines provided above to format any entries for periodicals and
 other shorter print sources that you were unable to finish earlier.
 
-### Online Sources: DOIs and URLs
+### Online Sources: Dois And Urls
 
 A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage.
 
@@ -19945,7 +19945,7 @@ A DOI is designed to never change. If you enter it ten years from now, it should
 
 In APA format, you should always use the DOI instead of the URL if you can.
 
-#### An Article from an Online Periodical with a DOI
+#### An Article From An Online Periodical With A Doi
 
 List the DOI if one is provided. There is no need to include the URL if
 you have listed the DOI.
@@ -19953,7 +19953,7 @@ you have listed the DOI.
 > Bell, J. R. (2006). Low-carb beats low-fat diet for early losses but not
 > long term. *OBGYN News, 41*(12), 32. doi:10.1016/S0029-7437(06)71905-X
 
-#### An Article from an Online Periodical with No DOI
+#### An Article From An Online Periodical With No Doi
 
 List the URL. Include the volume and issue number for the periodical if
 available. 
@@ -19976,7 +19976,7 @@ Provide the URL of the article.
 > Retrieved from
 > https://www.nytimes.com/2010/05/04/health/04glob.html?ref=health
 
-#### An Article Accessed through a Database
+#### An Article Accessed Through A Database
 
 Cite these articles as you would normally cite a print article. Provide
 database information only if the article is difficult to locate.
@@ -19989,7 +19989,7 @@ to do so if the article is difficult to locate or the database is an
 obscure one. Check with your professor to see if this is something he or
 she would like you to include.
 
-#### An Abstract of an Article
+#### An Abstract Of An Article
 
 Format these as you would an article citation, but add the word
 *Abstract* in brackets after the title.
@@ -20020,7 +20020,7 @@ to the homepage or the entry page for the document.
 > arrest warning signs.* Retrieved from
 > https://www.americanheart.org/presenter.jhtml?identifier=3053
 
-#### An Entry from an Online Encyclopedia or Dictionary
+#### An Entry From An Online Encyclopedia Or Dictionary
 
 Because these sources often do not include authors' names, you may list
 the title of the entry at the beginning of the citation. Provide the URL
@@ -20053,7 +20053,7 @@ your bracketed description of the contents.)
 > FDA budget summary*. Retrieved from
 > https://www.fda.gov/AboutFDA/ReportsManualsForms/Reports/BudgetReports/2005FDABudgetSummary/ucm117231.htm
 
-#### An Online Interview (Audio File or Transcript)
+#### An Online Interview (audio File Or Transcript)
 
 List the interviewer, interviewee, and date. After the title, include
 bracketed text describing the interview as an "Interview transcript" or
@@ -20078,7 +20078,7 @@ not available directly.)
 > Chisholm, L. (n.d.). *Celtic tales.* Retrieved from
 > https://www.childrenslibrary.org/icdl/BookReader?bookid=chicelt_00150014
 
-#### A Chapter from an Online Book or a Chapter or Section of a Web Document
+#### A Chapter From An Online Book Or A Chapter Or Section Of A Web Document
 
 These are treated similarly to their print counterparts with the
 addition of retrieval information. Include the chapter or section number
@@ -20088,7 +20088,7 @@ in parentheses after the book title.
 > sickness and in health* (VI). Retrieved from
 > https://www.archive.org/details/dietinsicknessin00hartrich
 
-#### A Dissertation or Thesis from a Database
+#### A Dissertation Or Thesis From A Database
 
 Provide the author, date of publication, title, and retrieval
 information. If the work is numbered within the database, include the
@@ -20096,7 +20096,7 @@ number in parentheses at the end of the citation.
 
 ![](image79.jpeg "When creating a references section, italicize the titles of theses and dissertations.")
 
-#### A Post on a Blog or Video Blog
+#### A Post On A Blog Or Video Blog
 
 Citation guidelines for these sources are similar to those used for
 discussion forum postings. Briefly describe the type of source in
@@ -20104,11 +20104,11 @@ brackets after the title.
 
 ![](image80.jpeg "When creating a references section, do not italicize the titles of blog or video blog postings")
 
-#### Writing at Work
+#### Writing At Work
 
 Be careful when using information from discussion forums and blogs because it's not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research. You might also want to participate in these forums if they discuss topics that interest you. But remember that anything you post can be seen by others, including potential employers. So, always make sure to keep your comments professional and appropriate.
 
-#### A Television or Radio Broadcast
+#### A Television Or Radio Broadcast
 
 Include the name of the producer or executive producer; the date, title,
 and type of broadcast; and the associated company and location.
@@ -20116,7 +20116,7 @@ and type of broadcast; and the associated company and location.
 > West, Ty. (Executive producer). (2009, September 24). *PBS special
 > report: Health care reform* \[Television broadcast\]. Public Broadcasting Service.
 
-#### A Television or Radio Series or Episode
+#### A Television Or Radio Series Or Episode
 
 Include the producer and the type of series if you are citing an entire
 television or radio series.
@@ -20180,7 +20180,7 @@ earlier.
 
 3. Give your paper a final edit to check the references section.
 
-## 13.4 Using Modern Language Association (MLA) Style
+## 13.4 Using Modern Language Association (mla) Style
 
 **Learning Objectives**
 
@@ -20204,7 +20204,7 @@ Some major differences from APA:
 
 The table gives more details:
 
-### Major differences between APA 7 and MLA 9
+### Major Differences Between APA 7 And MLA 9
 
 |element|APA 7| MLA 9|
 |:---|:---|:---|
@@ -20250,7 +20250,7 @@ Like APA style, MLA style uses *in-text citations* in the body of the essay that
     4. the instructor's name
 9. On the next line, write your title. Center it and capitalize all major words.
 
-### Dates in MLA style
+### Dates In MLA Style
 MLA date format is unusual. It looks like this:
 
 > 5 February 2023
@@ -20358,7 +20358,7 @@ Sample Student Reference List in APA Style
 |*Journal of Psychosocial Nursing and Mental Health, 22*||
 |*Darkness to light: Confronting child abuse with courage.*||
 
-#### Useful Sources of Examples of MLA Style
+#### Examples Of MLA Style
 
 Arizona State University Libraries offers clear examples.
 https://libguides.asu.edu/content.php?pid=122697&sid=1132964
@@ -20381,7 +20381,7 @@ https://www.library.cornell.edu/resrch/citmanage/mla
 The University of Kansas Writing Center is an excellent resource.
 https://www.writing.ku.edu/guides
 
-## 13.5 APA and MLA Documentation and Formatting: End-of-Chapter Exercises
+## 13.5 APA And MLA Documentation And Formatting: End-of-chapter Exercises
 
 Exercises
 
@@ -20427,7 +20427,7 @@ you identified.
 
 ## Creating Presentations: Sharing Your Ideas
 
-## 14.1 Organizing a Visual Presentation
+## 14.1 Organizing A Visual Presentation
 
 **Learning Objectives**
 
@@ -20470,7 +20470,7 @@ create or locate these media aids.
 4. Rehearse your presentation in advance.
 5. Deliver your presentation to your audience.
 
-### Getting Started: Identifying and Organizing Key Ideas
+### Getting Started: Identifying And Organizing Key Ideas
 
 To deliver a successful presentation, you need to develop content
 suitable for an effective presentation. Your ideas make up your
@@ -20506,7 +20506,7 @@ want your audience to come away from your presentation knowing how to do
 something they that they did not know before? In that case, you are not
 only informing them but also explaining or teaching a process.
 
-#### Writing at Work
+#### Writing At Work
 
 Schoolteachers are trained to structure lessons around one or more
 lesson objectives. Usually the objective, the mission or purpose, states
@@ -20549,7 +20549,7 @@ listing your key ideas:
 2. On the same paper, identify the steps you must complete before you
 begin creating your presentation.
 
-### Use an Outline to Organize Ideas
+### Use An Outline To Organize Ideas
 
 After you determine which ideas are most appropriate for your
 presentation, you will create an outline of those ideas. Your
@@ -20611,7 +20611,7 @@ low-carbohydrate diet trend.
 
 ![](image82.jpeg "Introduction section with the categories: background, and thesis/point of view")
 
-### Planning the Body of Your Presentation
+### Planning The Body Of Your Presentation
 
 The next step is to work with the key ideas you identified earlier.
 Determine the order in which you want to present these ideas, and flesh
@@ -20708,7 +20708,7 @@ attention
 - Brief notes about how much time you plan to spend on each part of the
 presentation (you may adjust the timing later as needed)
 
-### Identifying Opportunities to Include Visuals and Audio
+### Identifying Opportunities To Include Visuals And Audio
 
 You may already have some ideas for how to include visuals and audio 
 in your presentation. If not, review your outline and begin
@@ -20822,7 +20822,7 @@ yours. People often understand pictures and images more quickly and
 easily than text, and you can use this to your advantage, using the
 knowledge that a picture is worth a thousand words.
 
-### Include visuals
+### Include Visuals
 
 Even if you do not use a slideshow to complement your presentation, you
 can include visuals to support and enhance your content. Visual
@@ -20894,7 +20894,7 @@ other visual or audio media to include, make a note of that, too. Be as
 detailed as necessary. Jotting "Start video at 3:14" can spare you the
 awkwardness of searching for the right clip during your presentation.
 
-#### Writing at Work
+#### Writing At Work
 
 At work, employees are often asked to deliver presentations or
 conduct a meeting using standard office presentation software. If you
@@ -20956,7 +20956,7 @@ which slides go with each section of your outline.
 
 ![](image85.jpeg "Sometimes bolding parts in the outline is helpful")
 
-#### Key Takeaways
+#### Takeaways
 - An effective presentation presents ideas more concisely than a written
 document and uses media to explain ideas and hold the audience's
 interest.
@@ -20968,7 +20968,7 @@ outline to organize their ideas.
 - Annotating a presentation outline is a useful way to coordinate
 different parts of the presentation and manage time effectively.
 
-## 14.2 Adding Visuals to a Presentation
+## 14.2 Adding Visuals To A Presentation
 
 **Learning Objectives**
 
@@ -21048,7 +21048,7 @@ audience test their products before they are released, to ensure that
 people will understand how to use them. Understanding the function of
 different visuals will help you use them with purpose.
 
-### Types of Visuals
+### Types Of Visuals
 
 Visuals fall into two main categories---images and informational
 graphics. Images include photographs, illustrations and clip art, and
@@ -21155,7 +21155,7 @@ This table gives examples of two people who moved back and forth between
 Goldman Sachs (a big bank) and the Federal government. Its purpose is to give an
 example of "agency capture" as it affected the subprime crisis.
 
-#### Table 14.1 Agency Capture in the Subprime Crisis of 2008
+#### Table 14.1 Agency Capture In The Subprime Crisis Of 2008
 
 |Name |Role at Goldman Sachs|Years  |Government Role   | Years |
 |:---|:---|:---|:---|:---|
@@ -21225,13 +21225,13 @@ content.
 photographer or designer but do take time to make sure your visuals are
 neat, attractive, and legible. Proofread for errors, too.
 
-### Using Software to Create Visuals
+### Using Software To Create Visuals
 
 You can use standard office software to create simple graphics easily.
 The following guidelines describe how to work with word-processing
 software and presentation software.
 
-#### Working with Photographs
+#### Working With Photographs
 
 Most personal computers come equipped with some basic image-editing
 software, and many people choose to purchase more advanced programs as
@@ -21262,7 +21262,7 @@ colors that are hard on the eyes, such as lime green or hot pink. The
 title should clearly state what the graph explains. Lastly, avoid using
 acronyms in the titles and other labels.
 
-#### Creating Graphics in an Electronic Presentation
+#### Creating Graphics In An Electronic Presentation
 
 If you plan to work only with hard copy graphics during your
 presentation, you may choose to create them as word-processing
@@ -21283,7 +21283,7 @@ your own desktop files. Shape your use of multimedia in accordance with
 the message your presentation is trying to convey, the purpose, and your
 audience.
 
-### Creating Visuals by Hand
+### Creating Visuals By Hand
 
 Most of the time, using computer-generated graphics is more efficient
 than creating them by hand. Using office software programs helps give
@@ -21348,7 +21348,7 @@ what they have produced. On a separate piece of paper, note both the
 elements that catch your attention and those that would benefit from
 clarification. Return and compare notes.
 
-### Testing and Evaluating Visuals
+### Testing And Evaluating Visuals
 
 Regardless of how you create your visuals, be sure to test-drive them
 before you deliver your presentation. Edit and proofread them, and if
@@ -21375,7 +21375,7 @@ information effectively
 - Display text for hyperlinks is concise and informative (Never paste
 a link into a slide without modifying the display text.)
 
-#### Writing at Work
+#### Writing At Work
 
 Office software includes many options for personalizing a presentation.
 For instance, you can choose or create a theme and color scheme, modify
@@ -21389,7 +21389,7 @@ the customization options to help give your presentations a consistent,
 polished, appearance. However, do not let these special effects detract
 from the substance of your slides.
 
-### Using Existing visuals
+### Using Existing Visuals
 
 Depending on your topic, you may be able to find images and other
 graphics you can use instead of creating your own. For instance, you
@@ -21422,7 +21422,7 @@ government and nonprofit organizations, and educational institutions.
 Verify data in additional sources. Finally, be sure to document all
 source information as you proceed.
 
-### Searching for visuals
+### Searching For Visuals
 
 You will probably find it most efficient to use the internet to search
 for visuals. Many students begin by typing keywords into a search engine
@@ -21470,7 +21470,7 @@ electronic presentation. (Scanning printed pages may lower the quality
 of the image. However, if you are skilled at using photo-editing
 software, you may be able to improve the quality of the scanned image.)
 
-### Inserting Hyperlinks in a Presentation
+### Inserting Hyperlinks In A Presentation
 
 If you are working with images, audio, or video footage available
 online, you may wish to insert a link within your presentation. Then,
@@ -21478,7 +21478,7 @@ during your presentation, you can simply click the link to open the
 website in a separate window and toggle between windows to return to
 your presentation slides.
 
-### Copyright and Fair Use
+### Copyright And Fair Use
 
 Before you download (or scan) any visuals, make sure you have the
 right to use it. Most websites state their copyright and terms of use
@@ -21522,7 +21522,7 @@ you financially.
 By following these guidelines, you are respecting the copyright holder's
 right to control the distribution of the work and to profit from it.
 
-#### Writing at Work
+#### Writing At Work
 
 In some fields, such as teaching, job applicants often submit a
  portfolio to a prospective employer. Recent college
@@ -21583,7 +21583,7 @@ If you are not using presentation software, review the annotated outline
 you created in **Exercise 1**. Update it as needed to reflect your current
 plan. Also, determine how you will physically set up your visuals.
 
-#### Key Takeaways
+#### Takeaways
 - Visuals are most effective when they are chosen with the purpose and
 audience in mind. They serve to add emotional impact to a presentation
 and to organize information more clearly.
@@ -21601,7 +21601,7 @@ visuals electronically, such as photo images, charts, and graphs.
 research skills, follow guidelines for fair use, and credit sources
 appropriately.
 
-## 14.3 Giving a Presentation
+## 14.3 Giving A Presentation
 
 **Learning Objectives**
 
@@ -21640,7 +21640,7 @@ job requirement.
 In this section, you will learn strategies for becoming a confident,
 effective speaker. 
 
-### What Makes a Speaker Effective?
+### What Makes A Speaker Effective?
 
 Think about times you have been part of the audience for a speech,
 lecture, or other presentation. You have probably noticed how certain
@@ -21799,7 +21799,7 @@ the highest rating. Determine which areas are strengths and which
 areas you need to improve.
 4. If you wish, ask another person to evaluate your presentation.
 
-### The Power of Body Language
+### The Power Of Body Language
 
 The nonverbal content of a presentation is just as important as the
 verbal delivery. A person's body language---eye contact, facial
@@ -21827,7 +21827,7 @@ did body language make a difference?
 Three things work together powerfully to convey a nonverbal message:
 eye contact, posture, and movement.
 
-### Eye Contact and Facial Expressions
+### Eye Contact And Facial Expressions
 
 "Maintain eye contact" is a common piece of public-speaking advice---so
 common it may sound elementary. Why is that simple piece of
@@ -21892,7 +21892,7 @@ suck in your stomach or push out your chest. You do not need
 to stand like a military officer; just be a more confident version of
 yourself.
 
-### Movement and Gestures
+### Movement And Gestures
 
 The final piece of body language that helps tie your presentation
 together is your use of gestures and movement. A speaker who barely
@@ -21907,7 +21907,7 @@ connection. Consider where you might use gestures such as pointing,
 holding up your hand, or moving your hands for emphasis. Avoid putting
 your hands in your pockets or clasping them in front of or behind you.
 
-#### Writing at Work
+#### Writing At Work
 
 When you give a presentation at work, wearing the right outfit can help
 you feel more confident. The right outfit can also help you
@@ -21931,7 +21931,7 @@ one to five on each criterion, with five being the highest rating.
 Determine in which areas you have strength and in which areas you
 need to improve.
 
-### Rehearsing Your Presentation and Making Final Preparations
+### Rehearsing Your Presentation And Making Final Preparations
 
 Practice is essential if you want your presentation to be effective.
 Speaking in front of a group is a complicated task because there are so
@@ -21988,7 +21988,7 @@ liking. However, by thinking ahead, you can make the best of the space
 you have to work in. If you have a chance to rehearse in that
 environment, do so.
 
-### Engaging Your Audience: Planning a Question-and-Answer Session
+### Engaging Your Audience: Planning A Question-and-answer Session
 
 Rehearsing your presentation will help you feel confident and in
 control. The most effective presenters do not simply rehearse the
@@ -22008,7 +22008,7 @@ flow and giving up a little of your control. If someone asks a question
 you were not anticipating and cannot answer, simply admit you do not
 know and make a note to follow up.
 
-#### Writing at Work
+#### Writing At Work
 
 Increasingly, employees need to manage a virtual environment when giving
 presentations at work. You might need to conduct a webinar, a
@@ -22045,7 +22045,7 @@ presentation. For example, could you clarify your presentation to reduce
 the number of questions---or enhance the quality of the questions---the
 audience asked during the question-and-answer session?
 
-### Coping with Public-Speaking Anxiety
+### Coping With Public-speaking Anxiety
 
 The tips in this chapter should help you reduce any nervousness you may
 feel about public speaking. Although most people are a little anxious
@@ -22096,7 +22096,7 @@ Which were most distracting to the audience? Make a note of these
 clues and practice the presentation again; be aware of how you show
 your anxiety and try to lessen these distractions.
 
-#### Key Takeaways
+#### Takeaways
 - Delivering an effective speech requires paying attention to both verbal
 delivery and body language.
 - Good speakers rehearse their presentation and, if necessary, get
@@ -22109,7 +22109,7 @@ facial expressions, posture, movement, and gestures.
 - Good speakers plan ahead to help them manage the presentation
 effectively.
 
-## 14.4 Creating Presentations: End-of-Chapter Exercises
+## 14.4 Creating Presentations: End-of-chapter Exercises
 
 Exercises
 
@@ -22153,9 +22153,9 @@ using the following questions:
 
 [Table of Contents](#contents)
 
-## Readings: Examples of Essays
+## Readings: Examples Of Essays
 
-## 15.1 Introduction to Sample Essays
+## 15.1 Introduction To Sample Essays
 
 **Learning Objectives**
 
@@ -22276,7 +22276,7 @@ https://www.cengage.com/custom/static_content/OLC/s76656_76218lf/alexie.pdf
 
 1. Read an example of the illustration mode.
 
-### Letter to the City
+### Letter To The City
 
 >To: Lakeview Department of Transportation
 >
@@ -22430,7 +22430,7 @@ https://www.nytimes.com/2002/04/21/travel/where-nothing-says-everything.html
 
 1. Read an example of the classification mode.
 
-### Types of Higher Education Programs
+### Types Of Higher Education Programs
 
 >Today's students have many choices when it comes to pursuing a degree:
 four-year programs, two-year programs, large or small classroom
@@ -22519,7 +22519,7 @@ https://genius.com/Amy-tan-mother-tongue-annotated
 
 1. Read an example of the process analysis mode.
 
-### How to Grow Tomatoes from a Seedling
+### How To Grow Tomatoes From A Seedling
 
 >Growing tomatoes is a simple and rewarding task, and more people should
 be growing them. This paper walks readers through the main steps for
@@ -22632,7 +22632,7 @@ https://www.nytimes.com/1992/05/08/opinion/get-it-right-privatize-executions.htm
 
 1. Read an example of the definition mode.
 
-### A Good Student Is More Than Just a Good Grade
+### A Good Student Is More Than Just A Good Grade
 
 >Many people define good students as those who receive the best grades.
 While it is true that good students often earn high grades, I contend
@@ -22713,13 +22713,13 @@ https://faculty.gordonstate.edu/cperkowski/1101/WifeBeater.pdf
 In a famous poem, Philip Levine defines "What Work Is":
 https://www.poetryfoundation.org/poems/52173/what-work-is
 
-## 15.8 Compare-and-Contrast Essay
+## 15.8 Compare-and-contrast Essay
 
 **Learning Objective**
 
 1. Read an example of the compare-and-contrast mode.
 
-### Comparing and Contrasting London and Washington, DC
+### Comparing And Contrasting London And Washington, Dc
 
 >Both Washington, DC, and London are capital cities of English-speaking
 countries, and yet they offer vastly different experiences to their
@@ -22786,7 +22786,7 @@ differences along with their similarities. They have vastly different
 histories, art cultures, and racial demographics, but they remain
 similar in their cost of living and socioeconomic disparity.
 
-### Online Compare-and-Contrast Essays
+### Online Compare-and-contrast Essays
 
 Deborah Tannen compares and contrasts conversation styles in "Sex, Lies
 and Conversation: Why Is It So Hard for Men and Women to Talk to Each
@@ -22798,13 +22798,13 @@ Alex Wright examines communication patterns, old and new, in
 "Friending, Ancient or Otherwise":
 https://www.nytimes.com/2007/12/02/weekinreview/02wright.html
 
-## 15.9 Cause-and-Effect Essay
+## 15.9 Cause-and-effect Essay
 
 **Learning Objective**
 
 1. Read an example of the cause-and-effect mode.
 
-### Effects of Video Game Addiction
+### Effects Of Video Game Addiction
 
 >Video game addition is a serious problem in many parts of the world
 today and deserves more attention. It is no secret that children and
@@ -22861,7 +22861,7 @@ should be a fun activity for all to enjoy. But just like everything
 else, the amount of time one spends playing video games needs to be
 balanced with personal and social responsibilities.
 
-### Online Cause-and-Effective Essays
+### Online Cause-and-effective Essays
 
 Robin Tolmach Lakoff discusses the power of language to dehumanize in
 \"From Ancient Greece to Iraq: The Power of Words in Wartime\":
@@ -22978,7 +22978,7 @@ https://www.villagevoice.com/2001-11-27/news/the-case-against-torture/1
 
 # Works Cited
 
-[Table of Contents](#contents)
+[table Of Contents](#contents)
 
 Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford UP, 2014.
 
