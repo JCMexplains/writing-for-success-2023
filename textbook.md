@@ -1748,25 +1748,25 @@ patterns use action verbs and others use linking verbs.
 ##### Subject - Verb
 
 |S|V|
-|---|---| 
+|:---|:---| 
 |Computers| hum.|
 
 ##### Subject - Linking Verb - Noun
 
 |S|LV|N|
-|---|---|---| 
+|:---|:---|:---| 
 |Computers| are| tools.|
 
 ##### Subject - Linking Verb - Adjective
 
 |S|LV|Adj|
-|---|---|---| 
+|:---|:---|:---| 
 |Computers| are| expensive.|
 
 ##### Subject - Verb - Adverb
 
 |S|LV|Adv|
-|---|---|---| 
+|:---|:---|:---| 
 |Computers| calculate| quickly.|
 
 ##### Subject - Verb - Direct Object
@@ -1775,7 +1775,7 @@ When you write a sentence with a direct object (DO), make sure that the
 DO receives the action of the verb.
 
 |S|V|DO|
-|---|---|---| 
+|:---|:---|:---| 
 |Sally| rides| a motorcycle.|
 
 ##### Subject - Verb - Indirect Object - Direct Object
@@ -1785,7 +1785,7 @@ what* the action is being done. The indirect object is a noun or
 pronoun, and it comes before the direct object in a sentence.
 
 |S|V|IO|DO|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |My coworker| gave| me| the reports.|
 
 #### Exercise 3
@@ -2131,7 +2131,7 @@ in number, person, case, and gender.
 Grammatical person
 
 |First person|Second person|Third person|
-|---|---|---|
+|:---|:---|:---|
 |I|You|He / she / it / they|
 
 **Case.** All parts must match by being subjective, objective, or possessive.
@@ -3078,7 +3078,7 @@ Collective nouns suggest more than one person but are usually considered
 singular. Look over the following examples of collective nouns.
 
 |Common Collective Nouns|||
-|---|---|---| 
+|:---|:---|:---| 
 |audience|faculty|public|
 |band|family|school|
 |class|government|society|
@@ -3117,7 +3117,7 @@ Subject pronouns function as subjects in a sentence. Object pronouns
 function as the object of a verb or of a preposition.
 
 |Singular Pronouns||Plural Pronouns||
-|---|---|---|---| 
+|:---|:---|:---|:---| 
 |Subject|Object|Subject |Object|
 |I|me|we| us|
 |you|you|you| you|
@@ -3434,7 +3434,7 @@ following chart to learn the correct usage of these words and their
 comparative and superlative forms.
 
 |||Comparative|Superlative|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |**Adjective**|good|better|best|
 | **Adverb**| well| better| best|
 | **Adjective**| bad| worse| worst|
@@ -4557,7 +4557,7 @@ been left out.
 Look at the chart for some examples of commonly used contractions.
 
 |Contracted version |Spelled-out version|
-|---|---|
+|:---|:---|
 |aren't|are not|
 |can't|cannot|
 |doesn't|does not|
@@ -6019,7 +6019,7 @@ for examples of this rule.
 
 #### Table 4.2 Common Prefixes
 | **Prefix**| **Meaning**| **Example**|
-|---|---|---|
+|:---|:---|:---|
 | dis| not, opposite of| dis + satisfied = dissatisfied|
 | mis| wrongly| mis + spell = misspell|
 | un| not| un + acceptable = unacceptable|
@@ -6610,7 +6610,7 @@ When you see a preposition, you can find the prepositional phrase that goes with
 *On* is the preposition. *On the couch* is the prepositional phrase.
 
 | Common Prepositions|||
-|---|---|---|
+|:---|:---|:---|
 | about| beside| off|
 | above| between| on|
 | across| by| over|
@@ -6820,14 +6820,14 @@ negative words and helping verbs that can be combined to form a negative
 statement.
 
 | Negative Words|||
-|---|---|---|
+|:---|:---|:---|
 | never| no| hardly|
 | nobody| none| scarcely|
 | no one| not| barely|
 | nowhere| rarely||
 
 | Common Helping Verbs|||
-|---|---|---|
+|:---|:---|:---|
 | am| is| are|
 | was| were| be|
 | being| been| have|
@@ -6948,7 +6948,7 @@ but they may look down on you for it. In Standard English, double negatives are 
 Avoid them in college writing.
 
 |Double negative|Single negative|
-|---|---|
+|:---|:---|
 |I don't want none|I don't want any|
 |I am not never going there|I am not ever going there|
 
@@ -7498,7 +7498,7 @@ is now finished:
 #### Table 5.5 Regular Simple Past Tense Verbs
 
 | Verb| I| He/She/It| You| We| They|
-|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|
 | ask| asked| asked| asked| asked| asked|
 | bake| baked| baked| baked| baked| baked|
 | cook| cooked| cooked| cooked| cooked| cooked|
@@ -7523,7 +7523,7 @@ Simple future verbs are used when the action has not yet taken place:
 #### Table 5.6 Regular Simple Future Tense Verbs
 
 | Verb| I| He/She/It| You| We| They|
-|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|
 | ask| will ask| will ask| will ask| will ask| will ask|
 | bake| will bake| will bake| will bake| will bake| will bake|
 | cook| will cook| will cook| will cook| will cook| will cook|
@@ -7583,7 +7583,7 @@ do*.
 #### Table 5.7 Verb Forms Of *to Be*, *to Do*, And *to Have*
 
 | Base| Present Tense| Past Tense| Future Tense|
-|---|---|---|---|
+|:---|:---|:---|:---|
 | be| am/is/are| was/were| will be|
 | do| do/does| did| will do|
 | have| have/has| had| will have|
@@ -7594,7 +7594,7 @@ Memorize the present tense forms of *to be*, *to do*, and *to have*. A
 song or rhythmic pattern will make them easier to memorize.
 
 |Verb| Past| ← Present →| Future|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |to be| was| am| will be|
 |to do| did| do| will do|
 |to have| had| have| will have|
@@ -7657,7 +7657,7 @@ perfect tense.
 Review the following basic formula for the present perfect tense:
 
 |Subject|*has* or *have*|past participle|
-|---|---|---|
+|:---|:---|:---|
 |I|have|helped|
 
 ![](image07.jpeg "The present perfect tense stands between the past and the present")
@@ -7681,7 +7681,7 @@ The word *just* emphasizes that the action happened very recently.
 Study the following basic formula for the past perfect tense:
 
 |Subject|*had* or *have*|past participle|
-|---|---|---|
+|:---|:---|:---|
 |I|had|listened|
 
 ![](image08.jpeg "The bus had left (past perfect tense). Theo arrived at the station (past tense).")
@@ -7696,7 +7696,7 @@ bus *had left* (past perfect).
 Look at the following basic formula for the future perfect tense:
 
 |Subject|*will have*|past participle|
-|---|---|---|
+|:---|:---|:---|
 |I|will have|graduated|
 
 ![](image09.jpeg "You move to London (future tense). You will have forgotten me (future perfect tense).")
@@ -7918,7 +7918,7 @@ Often verbs are followed by gerunds.
 #### Table 5.8 Gerunds And Verbs
 
 | Gerund |Verb Followed by a Gerund|
-|---|---|
+|:---|:---|
 | moving| considered moving|
 | cleaning| hate cleaning|
 | winning| imagines winning|
@@ -8017,7 +8017,7 @@ main verb to help express its mood.
 The following is the basic formula for using a modal auxiliary:
 
 |Subject|*modal auxiliary*|past participle|
-|---|---|---|
+|:---|:---|:---|
 |I|may|call|
 
 There are ten main modal auxiliaries in English.
@@ -8043,7 +8043,7 @@ Use the following format to form a yes-no question with a modal
 auxiliary:
 
 |Modal auxiliary|subject|main verb|
-|---|---|---|
+|:---|:---|:---|
 |Should|I|drive?|
 
 Be aware of these four common errors when using modal auxiliaries:
@@ -8231,7 +8231,7 @@ Prepositions are idiosyncratic across languages. You may just need to memorize w
 to use with which verbs in English.
 
 |Verb + Preposition|
-|---|
+|:---|
 |agree with|
 |apologize for|
 |apply for|
@@ -8345,7 +8345,7 @@ and the table below only shows a few of them.
 #### Table 5.17 Slang Expressions
 
 | Slang Word or Phrase|Meaning|
-|---|---|
+|:---|:---|
 |check it out, check this out| look at, watch, examine|
 |chocoholic, workaholic, shopaholic| a person who loves, is addicted to, chocolate/work/shopping|
 |stuff| things (used as a singular, noncount noun)|
@@ -9975,7 +9975,7 @@ object of the preposition (a noun phrase or pronoun that follows the
 preposition).
 
 |Table 7.1 Common Prepositions||||
-|---|---|---|---|
+|:---|:---|:---|:---|
 |above |beneath | into | till |
 |across |beside | like | toward|
 |against |between | near | under|
@@ -10442,7 +10442,7 @@ The most common coordinating conjunctions are *for*, *and*, *nor*,
 coordinating conjunction when joining two clauses.
 
 | Independent Clause | Coordinating Conjunction | Independent Clause | Revised Sentence|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |I will not be attending the dance.|for (indicates cause) |I have no one to go with. |I will not be attending the dance, for I have no one to go with.|
 |I plan to stay home|and (joins two ideas)|I will complete an essay for class| I plan to stay home, and I will complete an essay for class.|
 |Jessie won't be at the dance|nor (indicates a negative)|Tom won't be at the dance.|Jessie won't be at the dance nor will Tom be at the dance.|
@@ -10485,7 +10485,7 @@ Review the following chart of some common conjunctive adverbs with
 examples of how they are used:
 
 | Function| Conjunctive Adverb | Example|
-|-------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Addition| also| Alicia was late for class and stuck in traffic; also, her shoe heel had broken and she had forgotten her lunch|
 || furthermore| Alicia was late for class and stuck in traffic; furthermore, her shoe heel had broken and she had forgotten her lunch|
 || moreover| Alicia was late for class and stuck in traffic; moreover, her shoe heel had broken and she had forgotten her lunch|
@@ -11183,7 +11183,7 @@ letters.
 #### Asking Questions
 
 | Questions | Answers |
-|-----------|---------------------------------------------------------------------------------------------------|
+|:-----------|:---------------------------------------------------------------------------------------------------|
 | Who? | I use media. Students, teachers, parents, employers and employees-almost everyone uses media. |
 | What? | The media can be a lot of things. Television, radio, email (I think), newspapers, magazines, books. |
 | Where? | The media is almost everywhere now. It's in homes, at work, in cars, even on cell phones! |
@@ -12380,7 +12380,7 @@ coherence, but it is often useful. Below are some transitions grouped by their p
 #### Table 8.3 Common Transitions
 
 |Transitions That Show Sequence or Time|| | 
-|---|---|---|
+|:---|:---|:---|
 |after | before| later|
 |afterward | before long | meanwhile|
 |as soon as| finally | next|
@@ -12388,42 +12388,42 @@ coherence, but it is often useful. Below are some transitions grouped by their p
 |at last | in the first place then||
 
 |Transitions That Show Position|||
-|---|---|---|
+|:---|:---|:---|
 |above|across |at the bottom|
 |at the top |behind |below|
 |beside |beyond |inside|
 |near |next to|opposite| 
 
 |Transitions That Show a Conclusion|||
-|---|---|---|
+|:---|:---|:---|
 |indeed| hence | in conclusion|
 |in the final analysis | therefore | thus|
 
 |Transitions That Continue a Line of Thought |||
-|---|---|---|
+|:---|:---|:---|
 |consequently |furthermore | additionally|
 |because|besides the fact| following this idea further|
 | in addition | in the same way|moreover|
 | looking further |considering. . ., it is clear that |||
 
 |Transitions That Change a Line of Thought|||
-|---|---|---|
+|:---|:---|:---|
 | but | yet|however|
 | nevertheless| on the contrary|on the other hand|
 
 | Transitions That Show Importance|||
-|---|---|---|
+|:---|:---|:---|
 |above all | best| especially|
 |in fact | more important| most important|
 |most| worst | |
 
 |Transitions That Introduce Final Thoughts |||
-|---|---|---|
+|:---|:---|:---|
 | finally | last |in conclusion|
 | most of all | least of all |last of all|
 
 | All-Purpose Transitions |||
-|---|---|---|
+|:---|:---|:---|
 | admittedly |at this point | certainly|
 | granted|it is true| generally speaking|
 | in general |in this situation | no doubt|
@@ -12431,11 +12431,11 @@ coherence, but it is often useful. Below are some transitions grouped by their p
 | to be sure |undoubtedly | unquestionably|
 
 |Transitions That Introduce Examples||
-|---|---|
+|:---|:---|
 |for instance|for example|
 
 |Transitions That Clarify the Order of Events|||
-|---|---|---|
+|:---|:---|:---|
 |first, second, third|generally, furthermore, finally|in the first place, also, last|
 |in the first place, furthermore, finally|in the first place, likewise, lastly| |
 
@@ -14416,7 +14416,7 @@ provides a list of phrases for illustration.
 #### Table 10.2 Phrases Of Illustration
 
 |||
-|---|---|
+|:---|:---|
 |case in point|for example|
 |for instance|in particular|
 |in this case|one example/another example|
@@ -15265,7 +15265,7 @@ make frequent use of certain words and phrases that denote linkage.
 #### Phrases Of Causation
 
 |||
-|---|---|
+|:---|:---|
 | as a result | consequently|
 | because | due to|
 | hence | since|
@@ -19075,7 +19075,7 @@ These heading formats are current as of the 7th edition of the *Publication
 Manual of the American Psychological Association*, published in 2020.
 
 |Level|Format of heading|Format of text following the heading|
-|---|---|---|
+|:---|:---|:---|
 |1|**Centered, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |2|**Flush Left, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |3| ***Flush Left, Bold Italic, Title Case Heading*** |Text begins as a new paragraph.|
@@ -19317,7 +19317,7 @@ who "questions" and one who "criticizes."
 The following chart shows some possibilities.
 
 | Strong Verbs for Introducing Cited Material|||
-|---|---|---|
+|:---|:---|:---|
 |ask|suggest|question|
 |explain|assert|claim|
 |recommend|compare|contrast|
