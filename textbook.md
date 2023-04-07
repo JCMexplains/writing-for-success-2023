@@ -513,7 +513,7 @@ to get your reading done and grasp the main points. However, the most
 successful students in college are not only competent readers but active
 readers.
 
-### Using The Sq3r Strategy
+### Using The SQ3R Strategy
 
 One strategy you can use to become a more active reader is the SQ3R
 strategy, a step-by-step process to follow before, during, and after
@@ -17008,10 +17008,9 @@ expanding scholarship in a field will take an approach quite different
 from a magazine feature written to inform a general audience. Textbooks,
 hard news articles, and websites approach a subject from different
 angles as well. To some extent, the type of source provides clues about
-its overall depth and reliability. Table 11.4 "Source Rankings" ranks
-different source types.
+its overall depth and reliability.
 
-#### Table 11.4 Source Rankings
+#### Source Rankings
 
 **High-Quality Sources** 
 
@@ -17228,7 +17227,7 @@ https://www.zotero.org/
 
 #### What To Record
 
-Table 11.5 shows the details you should record for commonly
+This table shows the details you should record for commonly
 used sources. Use these details to develop a working
 bibliography---a preliminary list of sources that you will later use to
 develop the References section of your paper. 
@@ -17241,7 +17240,7 @@ Your completed paper is most likely to be in either APA (American Psychological 
 or MLA (Modern Language Association) format. For more on APA and MLA,
 see **Chapter 13**
 
-#### Table 11.5 Details To Record For Common Sources
+#### Details To Record For Common Sources
 
 |Source|Information|
 |:---|:---|
@@ -18094,7 +18093,7 @@ own words.
 sure both your language and your sentence structure are original.
 4. Revise your paraphrase if necessary.
 
-### Quoting Sources Directly
+### Quoting Sources
 
 Most of the time, you will summarize or paraphrase source material
 instead of quoting directly. Doing so shows that you understand your
@@ -18182,53 +18181,41 @@ originally appears. The page number will follow the year in the in-text
 citation. Page numbers are necessary only when content has been directly
 quoted, not when it has been summarized or paraphrased.
 
-Within a paragraph, this information may appear as part of your
-introduction to the material or as a parenthetical citation at the end
-of a sentence. Read the examples that follow. For more information about
-in-text citations for other source types, see **Chapter 13**.
-
-### Summary
+Within a paragraph, this information may appear inside your sentence: 
 
 > Leibowitz (2008) found that low-carbohydrate diets often helped subjects
 with Type II diabetes maintain a healthy weight and control blood-sugar
 levels.
 
-The introduction to the source material includes the author's name
-followed by the year of publication in parentheses.
-
-### Summary
+Or it may appear at the end of your sentence:
 
 > Low-carbohydrate diets often help subjects with Type II diabetes
 maintain a healthy weight and control blood-sugar levels (Leibowitz,
 2008).
 
-The parenthetical citation at the end of the sentence includes the
-author's name, a comma, and the year the source was published. The
-period at the end of the sentence comes after the parentheses.
+Both of these are in-text citations. APA style calls the first kind a *narrative citation* and the second kind a *parenthetical citation*. MLA style calls both just *in-text citations*.
+
+For more information on APA and MLA styles, see **Chapter 13**.
 
 ### Creating A List Of Sources
 
-Each of the sources you cite in the body text will appear in a
+Each and every source you cite in the body will appear in a
 bibliography (a "book list") at the end of your paper. 
 
-In-text citations
-give only basic information about the source. Your bibliography 
-will give more information---enough for your reader to find each source. 
+In-text citations give only basic information---the author and the date or page number. A bibliography 
+gives more information---enough for your reader to find each source. 
 
 The two styles we will discuss later in this book are *APA (American Psychological Association) style* and *MLA (Modern Language Association) style*. In APA style your bibliography gets called *References*. In MLA style, it gets called *Works Cited*. See **Chapter 13** for more information.
 
-In general, you
-will include the following information:
+In general, an entry in a bibliography will include this information:
 
-- The author's last name followed by his or her first (and sometimes
-middle) initial
+- The author's last name followed by his or her first name (MLA) or first initial (APA)
 - The year the source was published
 - The source title
 - For articles in periodicals, the full name of the periodical, along with
 the volume and issue number and the pages where the article appeared
 
-Additional information may be included for different types of sources,
-such as online sources. For a detailed guide to APA or MLA citations,
+For a detailed guide to APA or MLA citations,
 see **Chapter 13**. 
 
 A sample reference list is provided with the final draft of Jorge's paper
@@ -18647,25 +18634,20 @@ Follow these steps to begin revising your paper to improve cohesion.
 
 1. Print out a hard copy of your paper, or work with your printout from
 **Exercise 1**.
-
 2. Read the body paragraphs of your paper first. Each time you come to
 a place that cites information from sources, ask yourself what
 purpose this information serves. Check that it helps support a
 point and that it is clearly related to the other sentences in the
 paragraph.
-
 3. Identify unnecessary information from sources that you can delete.
 4. Identify places where you need to revise your writing so that
 readers understand the significance of the details cited from
 sources.
-
 5. Skim the body paragraphs once more, looking for any paragraphs that
 seem packed with citations. Review these paragraphs carefully for
 cohesion.
-
 6. Review your introduction and conclusion. Make sure the information
 presented works with ideas in the body of the paper.
-
 7. Revise the places you identified in your paper to improve cohesion.
 
 Please exchange papers with a classmate. Complete step four. On a
