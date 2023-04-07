@@ -1518,11 +1518,11 @@ structures and how to avoid some common writing errors.
 
 ### What Makes A Sentence?
 
-Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a very bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I feel like somthing is missing?" That is a *semantic* question---a question about meaning.
+Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I *feel* like somthing is missing from this sentence?" That is a *semantic* question---a question about meaning.
 
 But whether something is a senetence is a *syntactic* question: a question about parts. A sentence needs two parts: a subject and a particular kind of verb.
 
-If it has them, it is a complete sentence. This is a complete sentence:
+If it has those two parts, it is a complete sentence. This is a complete sentence:
 
 > It is.
 
@@ -1530,7 +1530,9 @@ If it *doesn't* have them, it is *not* a complete sentence. This is not a comple
 
 > Waiting by the train tracks, the snow falling softly.
 
-If you ask yourself what's missing from the first example, you'll probably say, "everything!" If you ask yourself what's missing from the second sentence, you might say, "nothing." But this is the wrong question.
+If you ask yourself what's missing from the first example, you'll probably say, "everything!" All you have is questions.
+
+If you ask yourself what's missing from the second sentence, you might say, "nothing." This sentence paints a clear picture in your mind. But "is something missing?" is the wrong question.
 
 Peter Adams, a Professor Emeritus at Community College Baltimore County (CCBC), has the best test I know of for whether a group of words can be a complete sentence:
 
