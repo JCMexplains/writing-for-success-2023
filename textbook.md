@@ -19722,13 +19722,32 @@ followed by *Ed.* or *Eds.* in parentheses.
 
 #### An Edited Book With An Author
 
-An *edited book* means a book with one author and a separate editor. This is different from an *anthology*, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, see the guidelines later in this section.
-
 For an edited book, list the author's name first, followed by the title and the editor or
 editors. Note that when the editor is listed after the title, you list
 the initials before the last name.
 
 > Dickinson, E. (1959). *Selected poems & letters of Emily Dickinson*. R. N. Linscott (Ed.). Doubleday.
+
+An *edited book* means a book with one author and a separate editor. This is different from an *anthology*, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, see the next entry.
+
+#### A Work In An Anthology
+
+Follow the same process you would use to cite a book chapter,
+substituting the article or essay title for the chapter title.
+
+> Beck, A. T., & Young, J. (1986). College blues. In D. Goleman & D. Heller (Eds.), *The pleasures of psychology* (pp. 309-323). New American Library.
+
+#### A Chapter In An Edited Book
+
+
+List the name of the author(s) who wrote the chapter, followed by the
+chapter title. Then list the names of the book editor(s) and the title
+of the book, followed by the page numbers for the chapter and the usual
+information about the book's publisher.
+
+> Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Associaton.
+
+The difference between an anthology and an edited book of chapters by different authors is subtle. Generally, the chapters in an edited book were written *for that book*. By contrast, the works in an anthology---such as the *Norton Anthology of American Literature*---were collected by an editor after the fact. The contribtors did not write the works for the anthology, and in the case of literature anthologies, most of the authors represented may have died long before the anthology even existed.
 
 #### A Translated Book
 
@@ -19747,21 +19766,6 @@ edition number in parentheses after the title.
 
 > Berk, L. (2001). *Development through the lifespan* (2nd ed.). Allyn & Bacon.
 
-#### A Chapter In An Edited Book
-
-List the name of the author(s) who wrote the chapter, followed by the
-chapter title. Then list the names of the book editor(s) and the title
-of the book, followed by the page numbers for the chapter and the usual
-information about the book's publisher.
-
-> Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Associaton.
-
-#### A Work That Appears In An Anthology
-
-Follow the same process you would use to cite a book chapter,
-substituting the article or essay title for the chapter title.
-
-> Beck, A. T., &Young, J. (1986). College blues. In D. Goleman & D. Heller (Eds.), *The pleasures of psychology* (pp. 309-323). New American Library.
 
 #### Two Or More Books By The Same Author
 
@@ -19816,7 +19820,7 @@ agencies.)
 > evaluation of the president's physical fitness program in Pleasantville
 > school district.* Pleasantville Board of Education.
 
-#### A Book Authored By A Government Agency
+#### A Book By A Government Agency
 
 Treat these as you would a book published by a nongovernment
 group, but be aware that these works may have an identification
@@ -19925,17 +19929,17 @@ Revisit the references section you began in **Exercise 1**. Use
 the guidelines provided above to format any entries for periodicals and
 other shorter print sources that you were unable to finish earlier.
 
-### Online Sources: Dois And Urls
+### Online Sources: DOIs And URLs
 
 A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage.
 
 URLs often change, so more and more, groups like the APA prefer you to include something called a *DOI*: a "digital object identifier."
 
-A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been very carefully built from the ground up to be comprehensive in a way that permalinks are not.)
+A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been carefully built from the ground up to be comprehensive in a way that permalinks are not.)
 
 In APA format, you should always use the DOI instead of the URL if you can.
 
-#### An Article From An Online Periodical With A Doi
+#### An Article From An Online Periodical With A DOI
 
 List the DOI if one is provided. There is no need to include the URL if
 you have listed the DOI.
@@ -19943,7 +19947,7 @@ you have listed the DOI.
 > Bell, J. R. (2006). Low-carb beats low-fat diet for early losses but not
 > long term. *OBGYN News, 41*(12), 32. doi:10.1016/S0029-7437(06)71905-X
 
-#### An Article From An Online Periodical With No Doi
+#### An Article From An Online Periodical With No DOI
 
 List the URL. Include the volume and issue number for the periodical if
 available. 
@@ -20043,7 +20047,7 @@ your bracketed description of the contents.)
 > FDA budget summary*. Retrieved from
 > https://www.fda.gov/AboutFDA/ReportsManualsForms/Reports/BudgetReports/2005FDABudgetSummary/ucm117231.htm
 
-#### An Online Interview (audio File Or Transcript)
+#### An Interview (Audio File Or Transcript)
 
 List the interviewer, interviewee, and date. After the title, include
 bracketed text describing the interview as an "Interview transcript" or
@@ -20086,33 +20090,19 @@ number in parentheses at the end of the citation.
 
 ![](image79.jpeg "When creating a references section, italicize the titles of theses and dissertations.")
 
-#### A Post On A Blog Or Video Blog
-
-Citation guidelines for these sources are similar to those used for
-discussion forum postings. Briefly describe the type of source in
-brackets after the title.
-
-![](image80.jpeg "When creating a references section, do not italicize the titles of blog or video blog postings")
+A *dissertation* is the long document you typically write to get a doctorate. A *thesis* is the less-long document you typically write to get a master's degree.
 
 #### Writing At Work
 
-Be careful when using information from discussion forums and blogs because it's not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research. You might also want to participate in these forums if they discuss topics that interest you. But remember that anything you post can be seen by others, including potential employers. So, always make sure to keep your comments professional and appropriate.
+Be careful when using information from a discussion site like Reddit, Quora, or other forums because the information is not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research.
 
-#### A Television Or Radio Broadcast
+#### A Television Series
 
-Include the name of the producer or executive producer; the date, title,
-and type of broadcast; and the associated company and location.
+Under APA guidelines, treat the executive producer(s) as the author when citing an entire TV series. 
 
-> West, Ty. (Executive producer). (2009, September 24). *PBS special
-> report: Health care reform* \[Television broadcast\]. Public Broadcasting Service.
+> (Executive Producers). (2016--2019). *Fleabag* \[TV series\]. Two Brothers Pictures; BBC Three.
 
-#### A Television Or Radio Series Or Episode
-
-Include the producer and the type of series if you are citing an entire
-television or radio series.
-
-> Couture, D., Nabors, S., Pinkard, S., Robertson, N., & Smith, J.
-> (Producers). (1979). *The Diane Rehm show* \[Radio series\]. National Public Radio.
+#### A Television Episode
 
 To cite a specific episode of a radio or television series, list the
 name of the writer or writers (if available), the date the episode
