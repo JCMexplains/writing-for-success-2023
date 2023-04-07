@@ -1546,18 +1546,16 @@ A group of words capable of being its own sentence can also be called an *indepe
 
 This sentence has three independent clauses:
 
-![](image05.jpeg "Independent Clause: We went to the store, we bought the ingredients on our list, and then we went home")
-
-All complete sentences have at least one independent clause. You can
-identify an independent clause by reading it on its own and looking for
-the subject and the verb.
+![](image05.jpeg "Sentence containing three independent clauses: We went to the store, we bought the ingredients on our list, and then we went home.")
 
 ### Subjects
 
-When you read a sentence, you may first look for the subject.
+As we just learned, every sentence must have at least one independent clause, and every independent clause must have at least one subject. 
+
+So it is useful to know how to find the subject.
 
 You will often hear people say "the subject is what the sentence is about."
-That is sort-of true. For example, this sentence is about John, and the subject is *John*.
+That is often true. For example, this sentence is about John, and the subject is *John*.
 
 > John walked to the store.
 
@@ -1572,29 +1570,25 @@ that the subject is wildfires.
 
 But that's wrong. The subject is *I*. 
 
-A linguist would say that the subject is about *syntax*, while "what the sentence is about"
-(the topic) is about *semantics*. Often these two things are the same, but **not always**.
+A linguist would say that the subject is defined by *syntax*, while "what the sentence is about"
+has to do with other layers of language (semantics or pragmatics). Very often these two things are the same, but **not always**.
 
-The subject usually appears at the beginning of a sentence. It is usually a noun or a pronoun. 
+The subject *usually* appears at the beginning of a sentence.  
 
-A noun is a person, place, thing, or idea. A pronoun is a word that stands in for a noun.
-Common pronouns are *I*, *he*, *she*, *it*, *you*, *they*, and *we*. In
-the following sentences, the subject is in bold.
+In the following sentences, the subject is in bold.
 
 > **Malik** is the project manager for this project. **He** will give us our assignments.
 
 In these sentences, the subject is a person: *Malik*. The pronoun *He*
-replaces and refers back to *Malik*.
+replaces and refers back to *Malik*. (See below for discussion of nouns and pronouns.)
 
-> The **computer lab** is where we will work. **It**
-will be open twenty-four hours a day.
+> The **computer lab** is where we will work. **It** will be open twenty-four hours a day.
 
 In the first sentence, the subject is a place: *computer lab*. In the
 second sentence, the pronoun *It* substitutes for *computer lab* as the
 subject.
 
-> The **project** will run for three weeks. **It**
-will have a quick turnaround.
+> The **project** will run for three weeks. **It** will have a quick turnaround.
 
 In the first sentence, the subject is a thing: *project*. In the second
 sentence, the pronoun *It* stands in for the *project*.
@@ -1611,9 +1605,7 @@ Verbs are in ***bold italics***.
 
 ### Compound Subjects
 
-A sentence may have more than one person, place, or thing as the
-subject. These subjects are called compound subjects. Compound subjects
-are useful when you want to discuss several subjects at once.
+Some sentences combine two or more nouns into a single subject. We call this a *compound subject*.
 
 > **Desmond** and **Maria** have been working on that design for almost a year.
 **Books**, **magazines**, and **online articles** are all good resources.
@@ -1853,9 +1845,7 @@ prepositional phrase to the end of the sentence. If you add it to the
 beginning of the other sentence, insert a comma after the prepositional
 phrase.
 
-Figure 2.2 Editing Fragments That Begin with a Preposition
-
-##### Example A
+##### Fragment Example 1
 
 > **Fragment**: After walking over two miles. John remembered his wallet.
 
@@ -1863,7 +1853,7 @@ Figure 2.2 Editing Fragments That Begin with a Preposition
 
 > **Fixed**: John remembered his wallet ~After~ after walking over two miles.
 
-##### Example B
+##### Fragment Example 2
 
 > **Fragment**: The dog growled at the vacuum cleaner. When it was switched on.
 
@@ -1898,9 +1888,9 @@ look for a helping verb. If the word is not used as a verb or if no
 helping verb is used with the *-ing* verb form, the verb is being used
 as a noun. An *-ing* verb form used as a noun is called a gerund.
 
-Verb: I was working on homework until midnight.
+> Verb: I was working on homework until midnight.
 
-Noun: Working until midnight makes me tired the next morning.
+> Noun: Working until midnight makes me tired the next morning.
 
 Once you know whether the *-ing* word is acting as a noun or a verb,
 look at the rest of the sentence. Does the entire sentence make sense on
