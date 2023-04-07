@@ -1518,13 +1518,31 @@ structures and how to avoid some common writing errors.
 
 ### Components Of A Sentence
 
-Clearly written, complete sentences require key information: a subject,
-a verb, and a complete idea. A sentence needs to make sense on its own.
-Sometimes, complete sentences are also called independent clauses. A
-clause is a group of words that may make up a sentence. An independent
-clause is a group of words that may stand alone as a complete,
-grammatically correct thought. These sentences show independent
-clauses:
+Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a very bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I feel like somthing is missing?" That is a *semantic* question---a question about meaning.
+
+But whether something is a senetence is a *syntactic* question: a question about parts. A sentence needs two parts: a subject and a particular kind of verb.
+
+If it has them, it is a complete sentence. This is a complete sentence:
+
+> It is.
+
+If it *doesn't* have them, it is *not* a complete sentence. This is not a complete sentence:
+
+> Waiting by the train tracks, the snow falling softly.
+
+If you ask yourself what's missing from the first example, you'll probably say, "everything!" If you ask yourself what's missing from the second sentence, you might say, "nothing." But this is the wrong question.
+
+Peter Adams, a Professor Emeritus at Community College Baltimore County (CCBC), has the best test I know of for whether a group of words can be a complete sentence:
+
+> Does the group of words make sense if you put it after "It is the case that"?
+
+For example, does it make sense to say, "It is the case that *it is*"? Yes. It's a weird thing to say, but it does not give a native speaker the sense that it is broken. So *it is* can be a complete sentence.
+
+But does it make sense to say, "It is the case that *waiting by the train tracks, the snow falling softly*"? No. This feels wrong to nearly all native speakers. So *waiting by the train tracks, the snow falling softly* is not be a complete sentence.
+
+A group of words capable of being its own sentence can also be called an *independent clause*. A sentence must have at least one independent clause.
+
+This sentence has three independent clauses:
 
 ![](image05.jpeg "Independent Clause: We went to the store, we bought the ingredients on our list, and then we went home")
 
