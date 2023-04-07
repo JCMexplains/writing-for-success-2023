@@ -20168,13 +20168,9 @@ Revisit the references section you began to compile in **Exercise 1**.
 entries for electronic sources that you were unable to finish
 earlier.
 
-2. If your sources include a form of media not covered in the APA
-guidelines here, consult with a writing tutor or review a print or
-online reference book. You may wish to visit the website of the
-American Psychological Association at https://www.apa.org or the
-Purdue University Online Writing lab at
-https://owl.english.purdue.edu, which regularly updates its online
-style guidelines.
+2. If your are using a kind of source not covered here, speak with a writing tutor, check the *Publication Manual*, or try one of these websites: 
+    - the style page of the APA's website at https://apastyle.apa.org/  
+    - the APA section of the Purdue University Online Writing lab at https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
 
 3. Give your paper a final edit to check the references section.
 
@@ -20206,7 +20202,6 @@ The table gives more details:
 
 |element|APA 7| MLA 9|
 |:---|:---|:---|
-|basic style|author-date|author-page|
 |in-text citation format|uses a comma: (Jones, 2020)|uses no comma: (Jones 103)|
 |in-text citation with a direct quote|uses *p.* or *pp.* for page number: (Jones, 2020, p. 103)|gives bare page number: (Jones 103)|
 |title page|has a separate title page|has no separate title page|
@@ -20219,31 +20214,20 @@ The table gives more details:
 
 
 
-As a general rule, author-year styles like APA care more about the
-**ideas** of your sources, and so an APA paper typically uses more **summary**.
+As a general rule, author-date styles like APA care more about the
+**ideas** of your sources. As a result, an APA paper typically uses more **summary**.
 Author-page styles like MLA care more about the **exact words** of
-your sources, and so an MLA paper typically uses more **quotation**.
+your sources. As a result, an MLA paper typically uses more **quotation**.
 
 Remember that the MLA is an organization of literature professors,
 and when we study literature (like a Shakespeare sonnet), the 
 exact words used are very important.
 
 If you are taking an English, art history, or music appreciation class,
-chances are that you will be asked to write an essay in MLA format.
+you may be asked to write an essay in MLA format.
 
-MLA style uses a citation in the body of the essay that links to the
-works cited page at the end. The in-text citation is offset with
-parentheses, clearly calling attention to itself for the reader. The
-reference to the author or title is like a signal to the reader that
-information was included from a separate source. It also provides
-the reader with information to then turn to the works cited section of
-your essay (at the end) where they can find the complete reference. If
-you follow the MLA style, and indicate your source both in your essay
-and in the works cited section, you will prevent the possibility of
-plagiarism. If you follow the MLA guidelines, pay attention to detail,
-and clearly indicate your sources, then this approach to formatting and
-citation offers a proven way to demonstrate your respect for other
-authors and artists.
+Like APA style, MLA style uses *in-text citations* in the body of the essay that link to the
+*bibliography* at the end. It has the same goals as APA style---giving credit to others' ideas, allowing your reader to learn more---but documents them in a different way.
 
 ### General MLA List
 
@@ -20278,8 +20262,10 @@ By spelling out the month like this, MLA removes ambiguity.
 You must cite your sources as you use them. Right after using
 someone's idea, say where you found it with a citation.
 Because you do this inside the text of your paper, we call it an
-*in-text citation*. Because you put the citation inside parentheses,
-you may also see the term *parenthetical citation*.
+*in-text citation*. 
+
+Because you put the citation inside parentheses,
+you may also see the term *parenthetical citation*. (APA divides in-text citations into two kinds: narrative citations and parenthetical citations. MLA uses the terms "in-text citation" and/or "parenthetical citation" for everything.)
 
 If someone else wrote it, said it, drew it, or otherwise expressed it, you need to cite it.
 
@@ -20313,9 +20299,11 @@ Your in-text citations should do the following:
 
 ### Works Cited Page
 
-After the body of your paper comes the works cited page. 
-It features the sources used in your essay. 
-List the sources alphabetically by the author's
+In MLA format, the bibliography (book list) is called the Works Cited page. (In APA format, it is called References.)
+
+The purpose of the Works Cited page is to give enough information on each of your sources for your reader to find it if they want to learn more.
+
+List the Works Cited entries alphabetically by the author's
 last name. List them by title if the author is unknown. 
 
 Here is Jorge's same paper on low-carb diets reformatted in MLA style.
@@ -20338,17 +20326,17 @@ Here is Jorge's same paper on low-carb diets reformatted in MLA style.
 
 #### Exercise 1
 
-In **Chapter 13**, you created
-a sample essay in APA style. After looking over this section (including 
-the sample paper from California State University--Sacramento), 
-convert your paper to MLA style using the
-guidelines.
+Earlier in **Chapter 13**, you created
+a sample essay in APA style. After looking over this section, 
+convert your paper to MLA style.
 
 #### Exercise 2
 
 Convert these APA-style titles to MLA-style titles. 
 Many websites can help, even though you must double-check them. 
+
 Consider these two sites:
+
 - https://www.noodletools.com
 - https://citationmachine.net
 
@@ -20366,11 +20354,10 @@ Sample Student Reference List in APA Style
 
 #### Useful Sources of Examples of MLA Style
 
-Arizona State University Libraries offers an excellent resource with
-clear examples.
+Arizona State University Libraries offers clear examples.
 https://libguides.asu.edu/content.php?pid=122697&sid=1132964
 
-Purdue Online Writing Lab includes sample pages and works cited.
+Purdue Online Writing Lab includes sample Works Cited pages and entries.
 https://owl.english.purdue.edu/owl/resource/747/01
 
 California State University--Sacramento's Online Writing Lab has an
