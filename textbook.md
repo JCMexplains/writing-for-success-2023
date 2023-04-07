@@ -19661,13 +19661,13 @@ What these four entries look like depends on the kind of entry.
 
 For example, most academic articles written by professors appear in a special scholarly journal called a "peer-reviewed journal". The idea is that only another professor of (for example) electronic engineering can decide whether your article about electronic engineering is good enough to be published. So your article must pass a "peer review" before it can appear.
 
-Scholarly journals are published (usually) in one *volume* per year. So if you are reading an article in *Electronic Engineering volume 30*, you know that it was most likely published in the 30th year the journal has been in operation. 
+Scholarly journals are published (usually) in one *volume* per year. So if you are reading an article in *Electronic Engineering* volume 30, you know that it was most likely published in the 30th year the journal has been in operation. 
 
 Within each volume, a journal will have several *issues*. Most journals publish 3 or 4 issues per year/volume.
 
-Journals also have page numbers. Often a journal will number all its pages for a single volume straight through. So if you are reading the 4th issue of Electronic Engineering volume 30, the first page of that issue might start with the number 750.
+Journals also have page numbers. Often a journal will number all its pages for a single volume straight through. So if you are reading the 4th issue of *Electronic Engineering* volume 30, the first page of that issue might start with the number 750.
 
-This is also why page numbers in journal article entries are sometimes very high. With a regular book, the page number 2092 would probably be a typo, but for the article by Ebbeling et al. on our sample References page above, it is correct.
+This is why page numbers in journal article entries are sometimes very high. With a regular book, the page number 2092 would probably be a typo, but for the article by Ebbeling et al. on our sample References page above, it is correct.
 
 Here is a sample journal article entry for an article called "Fraud in the lunchroom?". It was written by an author named D. N. Bass in 2010. It was from volume 10, issue 1 of a journal called *Education Next*. It appeared on pages 67-71 of that issue.
 
@@ -19682,7 +19682,7 @@ Here is how to organize and captialize your reference entries:
 #### General Guidelines For The References Section
 
 1. List entries in alphabetical order by the author's last name.
-2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*.
+2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*
 3. For a work with no known human author(s), use the name of the group that produced the work. If there is no known group author either, use the title of the work instead of an author name. 
 4. For works with up to 20 authors, give the surname and initials for each author. Put an ampersand before the final author. (This is a change from APA 6.)
 5. Put titles in "sentence case," capitalizing only the first word of the title (or the first word after a colon). 
@@ -19722,15 +19722,13 @@ followed by *Ed.* or *Eds.* in parentheses.
 
 #### An Edited Book With An Author
 
-List the author's name first, followed by the title and the editor or
+An *edited book* means a book with one author and a separate editor. This is different from an *anthology*, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, see the guidelines later in this section.
+
+For an edited book, list the author's name first, followed by the title and the editor or
 editors. Note that when the editor is listed after the title, you list
 the initials before the last name.
 
 > Dickinson, E. (1959). *Selected poems & letters of Emily Dickinson*. R. N. Linscott (Ed.). Doubleday.
-
-**Tip**
-
-The previous example, shows how to cite a book that has been edited by one person. This is different from an anthology, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, you should follow different guidelines, which will be explained later in this section.
 
 #### A Translated Book
 
