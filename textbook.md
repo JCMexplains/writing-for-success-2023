@@ -1516,7 +1516,7 @@ Writing in complete sentences is one way to ensure that you communicate
 well. This section covers how to recognize and write basic sentence
 structures and how to avoid some common writing errors.
 
-### Components Of A Sentence
+### What Makes A Sentence?
 
 Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a very bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I feel like somthing is missing?" That is a *semantic* question---a question about meaning.
 
