@@ -19970,9 +19970,9 @@ Provide the URL of the article.
 > Retrieved from
 > https://www.nytimes.com/2010/05/04/health/04glob.html?ref=health
 
-#### An Article Accessed Through A Database
+#### An Article From A Database
 
-Cite these articles as you would normally cite a print article. Provide
+Cite these articles as you would cite a print article. Provide
 database information only if the article is difficult to locate.
 
 **Tip**
@@ -20092,26 +20092,17 @@ number in parentheses at the end of the citation.
 
 A *dissertation* is the long document you typically write to get a doctorate. A *thesis* is the less-long document you typically write to get a master's degree.
 
-#### Writing At Work
-
-Be careful when using information from a discussion site like Reddit, Quora, or other forums because the information is not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research.
-
 #### A Television Series
 
 Under APA guidelines, treat the executive producer(s) as the author when citing an entire TV series. 
 
-> (Executive Producers). (2016--2019). *Fleabag* \[TV series\]. Two Brothers Pictures; BBC Three.
+> Bradbeer, H., Hampson, L., Lewis, J., Waller-Bridge, P., Williams, H., & Williams, J. (Executive Producers). (2016--2019). *Fleabag* \[TV series\]. Two Brothers Pictures; BBC Three.
 
 #### A Television Episode
 
-To cite a specific episode of a radio or television series, list the
-name of the writer or writers (if available), the date the episode
-aired, its title, and the type of series, along with general information
-about the series.
+To cite one episode of a TV series, treat the writer(s) and director(s) as the author.
 
-> Bernanke, J., & Wade, C. (2010, January 10). Hummingbirds: Magic in the
-> air \[Television series episode\]. In F. Kaufman (Executive producer),
-> *Nature.* WNET.
+> Bradbeer, H. (Director) & Waller-Bridge, P. (Writer). (2019, May 17). Episode #2.6 (Season 2, Episode 6) \[TV series episode\]. In H. Bradbeer, L. Hampson, J. Lewis, P. Waller-Bridge, H. Williams & J. Williams (Executive Producers), *Fleabag*. Two Brothers Pictures; BBC Three.
 
 #### A Motion Picture
 
@@ -20146,6 +20137,10 @@ series with which it is associated; and where you retrieved the podcast.
 > \[Audio podcast\]*.* Retrieved from
 > https://www.savvyconsumer.org/podcasts/050710
 
+#### Writing At Work
+
+Be careful when using information from a discussion site like Reddit, Quora, or other forums because the information is not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research.
+
 #### Exercise 4
 
 Revisit the references section you began to compile in **Exercise 1**.
@@ -20160,7 +20155,7 @@ earlier.
 
 3. Give your paper a final edit to check the references section.
 
-## 13.4 Using Modern Language Association (mla) Style
+## 13.4 Using Modern Language Association (MLA) Style
 
 **Learning Objectives**
 
@@ -20179,7 +20174,7 @@ MLA style is often used in the liberal arts and humanities.
 Some major differences from APA:
 - MLA does not use a separate title page
 - MLA does not use an abstract
-- MLA in-text citations use **author-page**, not **author-year**
+- MLA in-text citations use **author-page**, not **author-date**
 - The MLA list of sources is called **Works Cited**, not **References**
 
 The table gives more details:
@@ -20198,8 +20193,6 @@ The table gives more details:
 |in-text for a source cited in another| as cited in|qtd. in|
 |referring to a private communication|called a "personal communication"; doesn't appear in References|cited normally (as an interview, email, etc.)|
 
-
-
 As a general rule, author-date styles like APA care more about the
 **ideas** of your sources. As a result, an APA paper typically uses more **summary**.
 Author-page styles like MLA care more about the **exact words** of
@@ -20217,18 +20210,18 @@ Like APA style, MLA style uses *in-text citations* in the body of the essay that
 
 ### General MLA List
 
-1. Use standard white paper (8.5 × 11 inches).
-2. Double-space everything.
-3. Use a standard font. MLA used to require 12-point Times New Roman, and some professors still will.
-4. Use one-inch margins
-5. Indent paragraphs by .5 inches. The easiest way to do this is to press the **Tab** key.
-6. Include page numbers in the upper right corner.
-8. On the first page in the upper left, put 
+1. Double-space everything.
+2. Use a standard font. MLA used to require 12-point Times New Roman, and some professors still will.
+3. Indent the first line of each paragraph by .5 inches. The easiest way to do this is to press the **Tab** key.
+4. Include page numbers in the upper right corner.
+5. On the first page in the upper left, put 
     1. your name, 
     2. the course 
     3. the date 
     4. the instructor's name
-9. On the next line, write your title. Center it and capitalize all major words.
+6. On the next line, write your title. Center it and capitalize all major words.
+
+Use standard white paper (8.5 x 11 inches) and standard one-inch margins. Nearly every word processing program will give you one-inch margins by default.
 
 ### Dates In MLA Style
 MLA date format is unusual. It looks like this:
