@@ -20245,6 +20245,7 @@ In European style, February 5, 2023, would be written with the day first:
 > 5/2/2023 (day, month, year)
 
 By spelling out the month like this, MLA removes ambiguity.
+
 ### In-text Citations
 
 You must cite your sources as you use them. Right after using
@@ -22234,7 +22235,7 @@ express my own interpretation and to argue for my own values, my
 philosophy class taught me the importance of education for education's
 sake. That realization continues to pay dividends every day.
 
-### Online Narrative Essays
+### Additional Narrative Essays
 
 In "Only Daughter," Sandra Cisneros captures her sense of her
 Chicana-Mexican heritage as the only daughter in a family of seven
@@ -22320,7 +22321,7 @@ money impede this urgent project.
 >
 >A Concerned Citizen
 
-### Online Illustration Essays
+### Additional Illustration Essays
 
 Lewis Thomas provides several illustrative examples in "On Natural
 Death":
@@ -22400,7 +22401,7 @@ under common ideals. For these reasons and for the whole experience in
 general, going to a Major League Baseball game is the perfect way to
 glimpse a slice of Americana.
 
-### Online Descriptive Essays
+### Additional Descriptive Essays
 
 Suzanne Berne visits New York and describes her impressions in "Where
 Nothing Says Everything":
@@ -22489,7 +22490,7 @@ easier. It is very important for students to learn about the different
 types of higher education programs available before making their
 selections.
 
-### Online Classification Essays
+### Additional Classification Essays
 
 Amy Tan describes relationship with her Chinese heritage, her mother,
 and the English language in "Mother Tongue":
@@ -22596,7 +22597,7 @@ for even novice gardeners. The satisfaction of picking and eating fresh
 food, and doing it yourself, outweighs all the effort you put in over
 the growing season.
 
-### Online Process Analysis Essays:
+### Additional Process Analysis Essays
 
 Stanley Fish (born 1938) became famous as an English professor at Duke
 University and is currently a visiting professor of law at Yeshiva
@@ -22682,7 +22683,7 @@ relationship with professors. While every professor will have different
 criteria for earning an A in their course, most would agree on these
 characteristics for defining good students.
 
-### Online Definition Essays
+### Additional Definition Essays
 
 Judy Brady provides a humorous look at responsibilities and
 relationships in "I Want a Wife":
@@ -22768,7 +22769,7 @@ differences along with their similarities. They have vastly different
 histories, art cultures, and racial demographics, but they remain
 similar in their cost of living and socioeconomic disparity.
 
-### Online Compare-and-contrast Essays
+### Additional Compare-and-contrast Essays
 
 Deborah Tannen compares and contrasts conversation styles in "Sex, Lies
 and Conversation: Why Is It So Hard for Men and Women to Talk to Each
@@ -22843,7 +22844,7 @@ should be a fun activity for all to enjoy. But just like everything
 else, the amount of time one spends playing video games needs to be
 balanced with personal and social responsibilities.
 
-### Online Cause-and-effective Essays
+### Additional Cause-and-effect Essays
 
 Robin Tolmach Lakoff discusses the power of language to dehumanize in
 \"From Ancient Greece to Iraq: The Power of Words in Wartime\":
@@ -22946,7 +22947,7 @@ medicalmarijuana.procon.org/questions/is-marijuana-a-gateway-or-stepping-stone-d
 >---. "Top 10 Pro & Con Arguments." *ProCon.org*, Encyclopedia Britannica, 
 4 Jan. 2018, medicalmarijuana.procon.org/top-10-pro-con-arguments/
 
-### Online Persuasive Essays
+### Additional Persuasive Essays
 
 Martin Luther King Jr. writes persuasively about civil disobedience in
 \"Letter from Birmingham Jail\":
@@ -22960,7 +22961,7 @@ https://www.villagevoice.com/2001-11-27/news/the-case-against-torture/1
 
 # Works Cited
 
-[table Of Contents](#contents)
+[Table Of Contents](#contents)
 
 Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford UP, 2014.
 
