@@ -19679,7 +19679,7 @@ Here is a sample entry for a book:
 
 Here is how to organize and captialize your reference entries:
 
-#### General Guidelines For The References Section
+#### Formatting The References Page(s)
 
 1. List entries in alphabetical order by the author's last name.
 2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*
@@ -19699,13 +19699,100 @@ section.
     1. Type in as much information as you can. 
     2. Highlight the entries so you can return to them later.
 
-### Example References
+### References
 
-Sometimes it can be tricky to format your references, especially if you are citing a source with multiple authors, or if you used online sources. There are special rules for these situations, and you should follow them carefully. Here are some guidelines to help you format your reference list correctly.
+Sometimes it can be tricky to format your references, especially if they are complex. Here are some guidelines.
 
 APA 6 asked for the city of publication for book publishers, but APA 7 no longer does.
 
-#### A Book By Two Or More Authors
+APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
+
+Because there are so many different kinds of references, the *Publication Manual* now organizes them into three layers:
+
+- group: a large category (text, data, audiovisual, or online)
+- category: a smaller category (online contains social media, webpages, and websites)
+- type: a still smaller category (social meida category contains tweets, Instagram posts, etc.)
+
+We will follow this organization.
+
+### Text References
+
+#### Periodicals (articles, magazines, newspapers, etc.)
+
+##### Journal Article
+
+Include the following information:
+
+- Author(s) name(s)
+- Publication year
+- Article title (sentence case, no quotes or italics)
+- Journal title (title case, italics)
+- Volume number (italics)
+- Issue number (parentheses, no italics)
+- Page number(s) where the article appears
+
+> DeMarco, R. F. (2010). Palliative care and African American women living
+> with HIV. *Journal of Nursing Education*, *49*(5), 1--4.
+
+
+##### Journal Article With Up To Twenty Authors
+
+List all the authors' names in the order they appear in the article. Use
+an ampersand before the last name listed.
+
+> Barker, E. T., & Bornstein, M. H. (2010). Global self-esteem, appearance
+> satisfaction, and self-reported dieting in early adolescence. *Journal
+> of Early Adolescence, 30*(2), 205--224.
+
+> Tremblay, M. S., Shields, M., Laviolette, M., Craig, C. L., Janssen, I.,
+> & Gorber, S. C. (2010). Fitness of Canadian children and youth: Results
+> from the 2007--2009 Canadian Health Measures Survey. *Health Reports,
+21*(1), 7--20.
+
+##### Journal Article With More Than Twenty Authors
+
+Include the first 19 authors' names, add an ellipsis (but no ampersand), and then give the final author's name.
+
+An eight-page article with twenty-one authors may seem strange
+to you---especially if you are currently writing a ten-page
+research paper by yourself. Who are all these authors?
+
+But in the sciences in the 20th century, more and more research
+began to be done by large teams. This long-term trend began with the military funding of research in World War II; it is sometimes called "big science."
+
+In the humanities (for example, English, history, or philosophy) it is still much more common to have an article written by a single person. 
+
+##### Magazine Article
+
+The date should include the date of the specific issue (sometimes just a month, other times a particular month and day). 
+
+Give the volume and issue number if available; not all magazines have them.
+
+> Marano, H. E. (2010, March/April). Keen cuisine: Dairy queen. *Psychology Today*, *43*(2), 58.
+
+##### Newspaper Article
+
+Same as a magazine article. Here the article appears on pages A1 and A2 (newspapers are often divided into different sections, with each section having a letter).
+
+> Corwin, C. (2009, January 24). School board votes to remove soda machines from county schools. *Rockwood Gazette*, A1--A2.
+
+> McNeil, D. G. (2010, May 3). Maternal health: A new study challenges
+> benefits of vitamin A for women and babies. *The New York Times.*
+> Retrieved from
+> https://www.nytimes.com/2010/05/04/health/04glob.html?ref=health
+
+##### Review
+
+After the title, indicate in brackets that the work is a review and give details about the work being reviewed. 
+
+Some publications give a review the same name as the book it is reviewing. That is what happened in this example: the name of the review comes first, followed by the name of the book in brackets. As it happens for this publication, those two names are almost exactly the same.
+
+> Martin, J. C. (2020). Love and depth in the American novel: From Stowe to James by Ashley C. Barnes 
+> [*Review of the book Love and depth in the American novel: From Stowe to James*, by A. C. Barnes]. *The Henry James Review*, *41*(3).
+
+#### Books (including book chapters)
+
+##### Book By Two Or More Authors
 
 List the authors' names in the order they appear on the book's title
 page. Use an ampersand before the last author's name.
@@ -19713,14 +19800,14 @@ page. Use an ampersand before the last author's name.
 > Campbell, D. T., & Stanley, J. C. (1963). *Experimental and*
 > *quasi-experimental designs for research.* Houghton Mifflin.
 
-#### An Edited Book With No Author
+##### Edited Book With No Author
 
 List the editor(s) names in place of the author's name,
 followed by *Ed.* or *Eds.* in parentheses.
 
 > Myers, C., & Reamer, D. (Eds.). (2009). *2009 nutrition index.* HealthSource, Inc.
 
-#### An Edited Book With An Author
+##### Edited Book With An Author
 
 For an edited book, list the author's name first, followed by the title and the editor or
 editors. Note that when the editor is listed after the title, you list
@@ -19730,15 +19817,14 @@ the initials before the last name.
 
 An *edited book* means a book with one author and a separate editor. This is different from an *anthology*, which is a collection of articles or essays written by different people. If you need to cite a work from an anthology, see the next entry.
 
-#### A Work In An Anthology
+##### Work In An Anthology
 
 Follow the same process you would use to cite a book chapter,
 substituting the article or essay title for the chapter title.
 
 > Beck, A. T., & Young, J. (1986). College blues. In D. Goleman & D. Heller (Eds.), *The pleasures of psychology* (pp. 309-323). New American Library.
 
-#### A Chapter In An Edited Book
-
+##### Chapter In An Edited Book
 
 List the name of the author(s) who wrote the chapter, followed by the
 chapter title. Then list the names of the book editor(s) and the title
@@ -19749,7 +19835,7 @@ information about the book's publisher.
 
 The difference between an anthology and an edited book of chapters by different authors is subtle. Generally, the chapters in an edited book were written *for that book*. By contrast, the works in an anthology---such as the *Norton Anthology of American Literature*---were collected by an editor after the fact. The contribtors did not write the works for the anthology, and in the case of literature anthologies, most of the authors represented may have died long before the anthology even existed.
 
-#### A Translated Book
+##### Translated Book
 
 Include the translator's name after the title. At the end of the
 citation, list the date the original work was published. Note that for
@@ -19759,7 +19845,7 @@ the translator's name, you list the initials before the last name.
 > Strachey, Trans.). W. W. Norton. (Original work published
 > 1933).
 
-#### A Book Published In Multiple Editions
+##### Book Published In Multiple Editions
 
 If you are using any edition other than the first edition, include the
 edition number in parentheses after the title.
@@ -19767,7 +19853,7 @@ edition number in parentheses after the title.
 > Berk, L. (2001). *Development through the lifespan* (2nd ed.). Allyn & Bacon.
 
 
-#### Two Or More Books By The Same Author
+##### Two Or More Books By The Same Author
 
 List the entries in order of publication, with the
 oldest.
@@ -19786,7 +19872,7 @@ the others are different, alphabetize by the second author's last name
 
 > Carroll, D., & Zuckerman, N. (2008). *Gestational diabetes.* Southwick Press.
 
-#### Books By Different Authors With The Same Last Name
+##### Books By Different Authors With The Same Last Name
 
 Alphabetize entries by the authors' first initial. "Smith, I. T." comes before "Smith, S."
 
@@ -19794,7 +19880,7 @@ Alphabetize entries by the authors' first initial. "Smith, I. T." comes before "
 > 
 > Smith, S. *The complete guide to Navy Seal fitness: Updated for today's warrior elite* (3rd ed.). Hatherleight Press.
 
-#### A Book By A Group
+##### Book By A Group
 
 Treat the group name as you would an author's name. 
 
@@ -19808,28 +19894,6 @@ Notice that "The American Heart Association" is listed before "American Psychiat
 > manual of mental disorders DSM-IV* (4th ed.). American
 > Psychiatric Publishing.
 
-#### A Book-length Report
-
-Format technical and research reports as you would format other
-book-length sources. If the group that issued the report assigned
-it a number, include the number in parentheses after the title. (See
-also the guidelines provided for citing works produced by government
-agencies.)
-
-> Jameson, R., & Dewey, J. (2009). *Preliminary findings from an
-> evaluation of the president's physical fitness program in Pleasantville
-> school district.* Pleasantville Board of Education.
-
-#### A Book By A Government Agency
-
-Treat these as you would a book published by a nongovernment
-group, but be aware that these works may have an identification
-number listed. If so, include it in parentheses after the publication
-year.
-
-> U.S. Census Bureau. (2002). *The decennial censuses from 1790 to 2000*
-> (Publication No. POL/02-MA). US Government Printing
-> Offices.
 
 #### Exercise 2
 
@@ -19845,89 +19909,14 @@ Evans and Company.
 > Agatson, A. (2003). *The South Beach diet.* St. Martin's
 Griffin.
 
-### Print Sources: Periodicals
-
-#### An Article In A Scholarly Journal
-
-Include the following information:
-
-- Author or authors' names
-- Publication year
-- Article title (in sentence case, without quotation marks or italics)
-- Journal title (in title case and in italics)
-- Volume number (in italics)
-- Issue number (in parentheses)
-- Page number(s) where the article appears
-
-> DeMarco, R. F. (2010). Palliative care and African American women living
-> with HIV. *Journal of Nursing Education, 49*(5), 1--4.
-
-
-#### A Journal Article With Up To Twenty Authors
-
-List all the authors' names in the order they appear in the article. Use
-an ampersand before the last name listed.
-
-> Barker, E. T., & Bornstein, M. H. (2010). Global self-esteem, appearance
-> satisfaction, and self-reported dieting in early adolescence. *Journal
-> of Early Adolescence, 30*(2), 205--224.
-
-> Tremblay, M. S., Shields, M., Laviolette, M., Craig, C. L., Janssen, I.,
-> & Gorber, S. C. (2010). Fitness of Canadian children and youth: Results
-> from the 2007--2009 Canadian Health Measures Survey. *Health Reports,
-21*(1), 7--20.
-
-#### A Journal Article With More Than Twenty Authors
-
-Include the first 19 authors' names, add an ellipsis (but no amersand), and then give the final author's name.
-
-#### Tip
-
-An eight-page article with sixteen authors may seem strange
-to you---especially if you are currently writing a ten-page
-research paper on your own. Who are all these authors?
-
-But in the sciences in the 20th century, more and more research
-began to be done by large teams. This long-term trend began with the military funding of research in World War II; it is sometimes called "big science."
-
-In the humanities (for example, English, history, or philosophy) it is still much more common to have an article written by a single person. 
-
-### A Magazine Article
-
-After the publication year, list the issue date. Otherwise, treat these
-as you would journal articles. List the volume and issue number if both
-are available.
-
-![](image75.jpeg "When creating a references section, list the month after the year. For weekly magazines, list the full date, e.g.")
-
-A Newspaper Article
-
-Treat these as you would magazine and journal articles, with one
-important difference: precede the page number(s) with the abbreviation
-*p.* (for a single-page article) or *pp.* (for a multi-page article). For
-articles whose page numbering is not continuous, list all the pages included
-in the article. For example, an article that begins on page A1 and
-continues on pages A4 would have the page reference A1, A4. An article
-that begins on page A1 and continues on pages A4 and A5 would have the
-page reference A1, A4--A5.
-
-![](image76.jpeg "When creating a references section, include the section in your page reference.")
-
-
-#### A Review
-
-After the title, indicate in brackets that the work is a review and give details about the work being reviewed. 
-
-Some publications give a review the same name as the book it is reviewing. That is what happened in this example: the name of the review comes first, followed by the name of the book in brackets. As it happens for this publication, those two names are almost exactly the same.
-
-> Martin, J. C. (2020). Love and depth in the American novel: From Stowe to James by Ashley C. Barnes 
-> [*Review of the book Love and depth in the American novel: From Stowe to James*, by A. C. Barnes]. *The Henry James Review*, *41*(3).
 
 #### Exercise 3
 
 Revisit the references section you began in **Exercise 1**. Use
 the guidelines provided above to format any entries for periodicals and
 other shorter print sources that you were unable to finish earlier.
+
+### Data References
 
 ### Online Sources: DOIs And URLs
 
@@ -19939,7 +19928,7 @@ A DOI is designed to never change. If you enter it ten years from now, it should
 
 In APA format, you should always use the DOI instead of the URL if you can.
 
-#### An Article From An Online Periodical With A DOI
+##### Article From An Online Periodical With A DOI
 
 List the DOI if one is provided. There is no need to include the URL if
 you have listed the DOI.
@@ -19947,7 +19936,7 @@ you have listed the DOI.
 > Bell, J. R. (2006). Low-carb beats low-fat diet for early losses but not
 > long term. *OBGYN News, 41*(12), 32. doi:10.1016/S0029-7437(06)71905-X
 
-#### An Article From An Online Periodical With No DOI
+##### Article From An Online Periodical With No DOI
 
 List the URL. Include the volume and issue number for the periodical if
 available. 
@@ -19961,16 +19950,10 @@ electronic version.
 > Robbins, K. (2010, March/April). Nature's bounty: A heady feast
 > \[Electronic version\]. *Psychology Today, 43*(2), 58.
 
-#### A Newspaper Article
 
-Provide the URL of the article.
 
-> McNeil, D. G. (2010, May 3). Maternal health: A new study challenges
-> benefits of vitamin A for women and babies. *The New York Times.*
-> Retrieved from
-> https://www.nytimes.com/2010/05/04/health/04glob.html?ref=health
 
-#### An Article From A Database
+##### An Article From A Database
 
 Cite these articles as you would cite a print article. Provide
 database information only if the article is difficult to locate.
@@ -19983,7 +19966,7 @@ to do so if the article is difficult to locate or the database is an
 obscure one. Check with your professor to see if this is something he or
 she would like you to include.
 
-#### An Abstract Of An Article
+##### An Abstract Of An Article
 
 Format these as you would an article citation, but add the word
 *Abstract* in brackets after the title.
@@ -20011,10 +19994,10 @@ If the document consists of more than one web page within the site, link
 to the homepage or the entry page for the document.
 
 > American Heart Association. (2010). *Heart attack, stroke, and cardiac
-> arrest warning signs.* Retrieved from
+> arrest warning signs.*
 > https://www.americanheart.org/presenter.jhtml?identifier=3053
 
-#### An Entry From An Online Encyclopedia Or Dictionary
+##### An Entry From An Online Encyclopedia Or Dictionary
 
 Because these sources often do not include authors' names, you may list
 the title of the entry at the beginning of the citation. Provide the URL
@@ -20023,17 +20006,17 @@ for the specific entry.
 > Addiction. (n.d.) In *Merriam-Webster's online dictionary*. Retrieved
 > from https://www.merriam-webster.com/dictionary/addiction
 
-#### Data Sets
+##### Data Sets
 
 If you cite raw data compiled by a group, such as statistical
 data, provide the URL where you retrieved the information. Provide the
 name of the group that sponsors the site.
 
 > US Food and Drug Administration. (2009). *Nationwide evaluation of X-ray
-> trends: NEXT surveys performed* \[Data file\]. Retrieved from
+> trends: NEXT surveys performed* \[Data file\].
 > https://www.fda.gov/Radiation-EmittingProducts/RadiationSafety/NationwideEvaluationofX-RayTrendsNEXT/ucm116508.htm
 
-#### Graphic Data
+##### Graphic Data
 
 When citing graphic data---such as maps, pie charts, bar graphs, and so
 on---include the name of the group that compiled the information,
@@ -20044,10 +20027,10 @@ your bracketed description of the contents.)
 
 > US Food and Drug Administration. (2009). \[Pie charts showing the
 > percentage breakdown of the FDA's budget for fiscal year 2005\]. *2005
-> FDA budget summary*. Retrieved from
+> FDA budget summary*.
 > https://www.fda.gov/AboutFDA/ReportsManualsForms/Reports/BudgetReports/2005FDABudgetSummary/ucm117231.htm
 
-#### An Interview (Audio File Or Transcript)
+##### An Interview (Audio File Or Transcript)
 
 List the interviewer, interviewee, and date. After the title, include
 bracketed text describing the interview as an "Interview transcript" or
@@ -20057,10 +20040,10 @@ the information. Use the following format.
 
 > Davies, D. (Interviewer), & Pollan, M. (Interviewee). (2008). *Michael
 > Pollan offers president food for thought* \[Interview transcript\].
-> Retrieved from National Public Radio website:
+> National Public Radio website:
 > https://www.npr.org/templates/transcript/transcript.php?storyId=100755362
 
-#### An Electronic Book
+##### An Electronic Book
 
 Electronic books may include books available as text files online or
 audiobooks. If an electronic book is easily available in print, cite it
@@ -20069,20 +20052,20 @@ difficult to find), use the format in the example. (Use the words
 *Available from* in your citation if the book must be purchased or is
 not available directly.)
 
-> Chisholm, L. (n.d.). *Celtic tales.* Retrieved from
+> Chisholm, L. (n.d.). *Celtic tales.*
 > https://www.childrenslibrary.org/icdl/BookReader?bookid=chicelt_00150014
 
-#### A Chapter From An Online Book Or A Chapter Or Section Of A Web Document
+##### A Chapter From An Online Book Or A Chapter Or Section Of A Web Document
 
 These are treated similarly to their print counterparts with the
 addition of retrieval information. Include the chapter or section number
 in parentheses after the book title.
 
 > Hart, A. M. (1895). Restoratives---Coffee, cocoa, chocolate. In *Diet in
-> sickness and in health* (VI). Retrieved from
+> sickness and in health* (VI).
 > https://www.archive.org/details/dietinsicknessin00hartrich
 
-#### A Dissertation Or Thesis From A Database
+##### A Dissertation Or Thesis From A Database
 
 Provide the author, date of publication, title, and retrieval
 information. If the work is numbered within the database, include the
@@ -20092,19 +20075,19 @@ number in parentheses at the end of the citation.
 
 A *dissertation* is the long document you typically write to get a doctorate. A *thesis* is the less-long document you typically write to get a master's degree.
 
-#### A Television Series
+##### A Television Series
 
 Under APA guidelines, treat the executive producer(s) as the author when citing an entire TV series. 
 
 > Bradbeer, H., Hampson, L., Lewis, J., Waller-Bridge, P., Williams, H., & Williams, J. (Executive Producers). (2016--2019). *Fleabag* \[TV series\]. Two Brothers Pictures; BBC Three.
 
-#### A Television Episode
+##### A Television Episode
 
 To cite one episode of a TV series, treat the writer(s) and director(s) as the author.
 
 > Bradbeer, H. (Director) & Waller-Bridge, P. (Writer). (2019, May 17). Episode #2.6 (Season 2, Episode 6) \[TV series episode\]. In H. Bradbeer, L. Hampson, J. Lewis, P. Waller-Bridge, H. Williams & J. Williams (Executive Producers), *Fleabag*. Two Brothers Pictures; BBC Three.
 
-#### A Motion Picture
+##### A Motion Picture
 
 Name the director or producer (or both), year of release, title, country
 of origin, and studio.
@@ -20113,7 +20096,7 @@ of origin, and studio.
 > Winters. H. M. (Executive producer). (2004). *Super size me.* United
 > States: Kathbur Pictures in association with Studio on Hudson.
 
-#### A Recording
+##### A Recording
 
 Name the primary contributors and list their role. Include the recording
 medium in brackets after the title. Then list the
@@ -20126,7 +20109,7 @@ label.
 > Németh, G. (Conductor). (1988). *Chopin piano concertos no. 1 and 2*
 > \[CD\]. Naxos.
 
-#### A Podcast
+##### A Podcast
 
 Provide as much information as possible about the writer, director, and
 producer; the date the podcast aired; its title; any group or
@@ -20134,7 +20117,7 @@ series with which it is associated; and where you retrieved the podcast.
 
 > Kelsey, A. R. (Writer), Garcia, J. (Director), & Kim, S. C. (Producer).
 > (2010, May 7). Lies food labels tell us. *Savvy consumer podcasts*
-> \[Audio podcast\]*.* Retrieved from
+> \[Audio podcast\]*.*
 > https://www.savvyconsumer.org/podcasts/050710
 
 #### Writing At Work
