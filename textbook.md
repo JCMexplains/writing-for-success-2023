@@ -19679,7 +19679,7 @@ Here is a sample entry for a book:
 
 Here is how to organize and captialize your reference entries:
 
-#### Formatting The References Page(s)
+#### The References Page(s)
 
 1. List entries in alphabetical order by the author's last name.
 2. List author's name with the last name first, a comma, and the author's initial(s): *Smith, J. C.*
@@ -19688,24 +19688,8 @@ Here is how to organize and captialize your reference entries:
 5. Put titles in "sentence case," capitalizing only the first word of the title (or the first word after a colon). 
 6. Italicize titles of works that stand alond (like books); use no special format for titles of works that are part of a larger whole (like an article from a journal).
 
-#### Exercise 1
 
-Set up the first page of your references section and begin adding
-entries, following the guidelines provided in this
-section.
-
-1. If there are any entries you can complete using only what you already know, do so.
-2. For entries you are unsure about:
-    1. Type in as much information as you can. 
-    2. Highlight the entries so you can return to them later.
-
-### References
-
-Sometimes it can be tricky to format your references, especially if they are complex. Here are some guidelines.
-
-APA 6 asked for the city of publication for book publishers, but APA 7 no longer does.
-
-APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
+### Example References
 
 Because there are so many different kinds of references, the *Publication Manual* now organizes them into three layers:
 
@@ -19714,6 +19698,18 @@ Because there are so many different kinds of references, the *Publication Manual
 - type: a still smaller category (social meida category contains tweets, Instagram posts, etc.)
 
 We will follow this organization.
+
+As general notes, APA 6 asked for the city of publication for books, but APA 7 no longer does. APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
+
+These days, nearly all sources are online. The older way to give a link to an online source uses a "URL." The newer way, which APA 7 prefers, uses a "DOI." A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage. Because URLs often change, groups like the APA now prefer you to include something called a *DOI*: a "digital object identifier."
+
+A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been carefully built from the ground up to be comprehensive in a way that permalinks are not.)
+
+In APA format, you should always use the DOI instead of the URL if you can. Not every source will have a DOI, but more and more do.
+
+If you are using a source type not covered here, speak with a writing tutor, check the *Publication Manual*, or try one of these websites: 
+    - the style page of the APA's website at https://apastyle.apa.org/  
+    - the APA section of the Purdue University Online Writing lab at https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
 
 ### Text References
 
@@ -19734,6 +19730,7 @@ Include the following information:
 > DeMarco, R. F. (2010). Palliative care and African American women living
 > with HIV. *Journal of Nursing Education*, *49*(5), 1--4.
 
+>  Bell, J. R. (2006). Low-carb beats low-fat diet for early losses but not long term. *OBGYN News, 41*(12), 32. https://doi.org/10.1016/S0029-7437(06)71905-X
 
 ##### Journal Article With Up To Twenty Authors
 
@@ -19778,7 +19775,6 @@ Same as a magazine article. Here the article appears on pages A1 and A2 (newspap
 
 > McNeil, D. G. (2010, May 3). Maternal health: A new study challenges
 > benefits of vitamin A for women and babies. *The New York Times.*
-> Retrieved from
 > https://www.nytimes.com/2010/05/04/health/04glob.html?ref=health
 
 ##### Review
@@ -19788,7 +19784,7 @@ After the title, indicate in brackets that the work is a review and give details
 Some publications give a review the same name as the book it is reviewing. That is what happened in this example: the name of the review comes first, followed by the name of the book in brackets. As it happens for this publication, those two names are almost exactly the same.
 
 > Martin, J. C. (2020). Love and depth in the American novel: From Stowe to James by Ashley C. Barnes 
-> [*Review of the book Love and depth in the American novel: From Stowe to James*, by A. C. Barnes]. *The Henry James Review*, *41*(3).
+> \[*Review of the book Love and depth in the American novel: From Stowe to James*, by A. C. Barnes\]. *The Henry James Review*, *41*(3).
 
 #### Books (including book chapters)
 
@@ -19852,24 +19848,20 @@ edition number in parentheses after the title.
 
 > Berk, L. (2001). *Development through the lifespan* (2nd ed.). Allyn & Bacon.
 
-
 ##### Two Or More Books By The Same Author
 
-List the entries in order of publication, with the
-oldest.
+List the entries in order of publication, oldest first.
 
 > Swedan, N. (2001). *Women's sports medicine and rehabilitation.*
 > Aspen Publishers.
-
+>
 > Swedan, N. (2003). *The active woman's health and fitness handbook.* Perigee.
 
-If two books have multiple authors, and the first author is the same but
-the others are different, alphabetize by the second author's last name
-(or the third or fourth, if necessary).
+If two books have the same first author but different second authors, alphabetize by the second author's last name.
 
 > Carroll, D., & Aaronson, F. (2008). *Managing type II diabetes.*
 > Southwick Press.
-
+>
 > Carroll, D., & Zuckerman, N. (2008). *Gestational diabetes.* Southwick Press.
 
 ##### Books By Different Authors With The Same Last Name
@@ -19894,200 +19886,54 @@ Notice that "The American Heart Association" is listed before "American Psychiat
 > manual of mental disorders DSM-IV* (4th ed.). American
 > Psychiatric Publishing.
 
-
-#### Exercise 2
-
-Revisit the references section you began to compile in **Exercise 1**. Use
-the guidelines provided to format any entries for book-length print
-sources that you were unable to finish earlier.
-
-Review how Jorge formatted these book-length print sources:
-
-> Atkins, R. C. (2002). *Dr. Atkins' diet revolution*. M.
-Evans and Company.
-
-> Agatson, A. (2003). *The South Beach diet.* St. Martin's
-Griffin.
-
-
-#### Exercise 3
-
-Revisit the references section you began in **Exercise 1**. Use
-the guidelines provided above to format any entries for periodicals and
-other shorter print sources that you were unable to finish earlier.
-
-### Data References
-
-### Online Sources: DOIs And URLs
-
-A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage.
-
-URLs often change, so more and more, groups like the APA prefer you to include something called a *DOI*: a "digital object identifier."
-
-A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been carefully built from the ground up to be comprehensive in a way that permalinks are not.)
-
-In APA format, you should always use the DOI instead of the URL if you can.
-
-##### Article From An Online Periodical With A DOI
-
-List the DOI if one is provided. There is no need to include the URL if
-you have listed the DOI.
-
-> Bell, J. R. (2006). Low-carb beats low-fat diet for early losses but not
-> long term. *OBGYN News, 41*(12), 32. doi:10.1016/S0029-7437(06)71905-X
-
-##### Article From An Online Periodical With No DOI
-
-List the URL. Include the volume and issue number for the periodical if
-available. 
-
-![](image78.jpeg "When creating a references section, use the words")
-
-Note that if the article appears in a print version of the publication,
-you do not need to list the URL, but do indicate that you accessed the
-electronic version.
-
-> Robbins, K. (2010, March/April). Nature's bounty: A heady feast
-> \[Electronic version\]. *Psychology Today, 43*(2), 58.
-
-
-
-
-##### An Article From A Database
-
-Cite these articles as you would cite a print article. Provide
-database information only if the article is difficult to locate.
-
-**Tip**
-
-APA style does not require writers to provide the item number or
-accession number for articles retrieved from databases. You may choose
-to do so if the article is difficult to locate or the database is an
-obscure one. Check with your professor to see if this is something he or
-she would like you to include.
-
-##### An Abstract Of An Article
-
-Format these as you would an article citation, but add the word
-*Abstract* in brackets after the title.
-
-> Bradley, U., Spence, M., Courtney, C. H., McKinley, M. C., Ennis, C. N.,
-> McCance, D. R., Hunter, S. J. (2009). Low-fat versus low-carbohydrate
-> weight reduction diets: Effects on weight loss, insulin resistance, and
-> cardiovascular risk: A randomized control trial \[Abstract\].
-> *Diabetes*, *58*(12), 2741--2748.
-> https://diabetes.diabetesjournals.org/content/early/2009/08/23/db00098.abstract
-
-##### A Nonperiodical Web Document
-
-The ways you cite different nonperiodical web documents may vary
-slightly from source to source, depending on the information that is
-available. In your citation, include as much of the following
-information as you can:
-
-Name of the author(s), whether an individual or group
-Date of publication (Use *n.d.* if no date is available.)
-Title of the document
-Address where you retrieved the document
-
-If the document consists of more than one web page within the site, link
-to the homepage or the entry page for the document.
-
-> American Heart Association. (2010). *Heart attack, stroke, and cardiac
-> arrest warning signs.*
-> https://www.americanheart.org/presenter.jhtml?identifier=3053
-
-##### An Entry From An Online Encyclopedia Or Dictionary
-
-Because these sources often do not include authors' names, you may list
-the title of the entry at the beginning of the citation. Provide the URL
-for the specific entry.
-
-> Addiction. (n.d.) In *Merriam-Webster's online dictionary*. Retrieved
-> from https://www.merriam-webster.com/dictionary/addiction
-
-##### Data Sets
-
-If you cite raw data compiled by a group, such as statistical
-data, provide the URL where you retrieved the information. Provide the
-name of the group that sponsors the site.
-
-> US Food and Drug Administration. (2009). *Nationwide evaluation of X-ray
-> trends: NEXT surveys performed* \[Data file\].
-> https://www.fda.gov/Radiation-EmittingProducts/RadiationSafety/NationwideEvaluationofX-RayTrendsNEXT/ucm116508.htm
-
-##### Graphic Data
-
-When citing graphic data---such as maps, pie charts, bar graphs, and so
-on---include the name of the group that compiled the information,
-along with the publication date. Briefly describe the contents in
-brackets. Provide the URL where you retrieved the information. (If the
-graphic is associated with a specific project or document, list it after
-your bracketed description of the contents.)
-
-> US Food and Drug Administration. (2009). \[Pie charts showing the
-> percentage breakdown of the FDA's budget for fiscal year 2005\]. *2005
-> FDA budget summary*.
-> https://www.fda.gov/AboutFDA/ReportsManualsForms/Reports/BudgetReports/2005FDABudgetSummary/ucm117231.htm
-
-##### An Interview (Audio File Or Transcript)
-
-List the interviewer, interviewee, and date. After the title, include
-bracketed text describing the interview as an "Interview transcript" or
-"Interview audio file," depending on the format of the interview you
-accessed. List the name of the website and the URL where you retrieved
-the information. Use the following format.
-
-> Davies, D. (Interviewer), & Pollan, M. (Interviewee). (2008). *Michael
-> Pollan offers president food for thought* \[Interview transcript\].
-> National Public Radio website:
-> https://www.npr.org/templates/transcript/transcript.php?storyId=100755362
-
-##### An Electronic Book
-
-Electronic books may include books available as text files online or
-audiobooks. If an electronic book is easily available in print, cite it
-as you would a print source. If it is unavailable in print (or extremely
-difficult to find), use the format in the example. (Use the words
-*Available from* in your citation if the book must be purchased or is
-not available directly.)
-
-> Chisholm, L. (n.d.). *Celtic tales.*
-> https://www.childrenslibrary.org/icdl/BookReader?bookid=chicelt_00150014
-
-##### A Chapter From An Online Book Or A Chapter Or Section Of A Web Document
-
-These are treated similarly to their print counterparts with the
-addition of retrieval information. Include the chapter or section number
-in parentheses after the book title.
-
-> Hart, A. M. (1895). Restoratives---Coffee, cocoa, chocolate. In *Diet in
-> sickness and in health* (VI).
-> https://www.archive.org/details/dietinsicknessin00hartrich
-
-##### A Dissertation Or Thesis From A Database
-
-Provide the author, date of publication, title, and retrieval
-information. If the work is numbered within the database, include the
-number in parentheses at the end of the citation.
-
-![](image79.jpeg "When creating a references section, italicize the titles of theses and dissertations.")
+##### Dissertation Or Thesis
 
 A *dissertation* is the long document you typically write to get a doctorate. A *thesis* is the less-long document you typically write to get a master's degree.
 
-##### A Television Series
+If the thesis/dissertation is unpublished, this is all you need:
+
+> Martin, J. C. (2023). *Self-touch in Henry James's major phase* \[Unpublished doctoral dissertation\]. Florida Atlantic University. 
+
+If it has been published in a database or archive, the format looks a little different:
+
+> Martin, J. C. (2023). *Self-touch in Henry James's major phase* \[Doctoral dissertation, Florida Atlantic University\]. ProQuest, https://sample.blahblah/test.html  
+
+### Data Sets, Software, and Tests
+
+##### Data Sets
+
+If you cite raw data compiled by a group, give the URL where you retrieved the information. 
+Give the name of the group that sponsors the site.
+
+> US Food and Drug Administration. (2009). *Nationwide evaluation of X-ray
+> trends: NEXT surveys performed* \[Data set\].
+> https://www.fda.gov/Radiation-EmittingProducts/RadiationSafety/NationwideEvaluationofX-RayTrendsNEXT/ucm116508.htm
+
+### Audiovisual Media
+
+##### Infographic
+
+When citing an infographic---such as a map, chart, or graph---include the name of the group that created it and the publication date. 
+
+Provide the URL where you retrieved the information. 
+
+> US Food and Drug Administration. (2009). \[Infographic\]. *2005
+> FDA budget summary*.
+> https://www.fda.gov/AboutFDA/ReportsManualsForms/Reports/BudgetReports/2005FDABudgetSummary/ucm117231.htm
+
+##### Television Series
 
 Under APA guidelines, treat the executive producer(s) as the author when citing an entire TV series. 
 
 > Bradbeer, H., Hampson, L., Lewis, J., Waller-Bridge, P., Williams, H., & Williams, J. (Executive Producers). (2016--2019). *Fleabag* \[TV series\]. Two Brothers Pictures; BBC Three.
 
-##### A Television Episode
+##### Television Episode
 
 To cite one episode of a TV series, treat the writer(s) and director(s) as the author.
 
 > Bradbeer, H. (Director) & Waller-Bridge, P. (Writer). (2019, May 17). Episode #2.6 (Season 2, Episode 6) \[TV series episode\]. In H. Bradbeer, L. Hampson, J. Lewis, P. Waller-Bridge, H. Williams & J. Williams (Executive Producers), *Fleabag*. Two Brothers Pictures; BBC Three.
 
-##### A Motion Picture
+##### Motion Picture
 
 Name the director or producer (or both), year of release, title, country
 of origin, and studio.
@@ -20096,7 +19942,7 @@ of origin, and studio.
 > Winters. H. M. (Executive producer). (2004). *Super size me.* United
 > States: Kathbur Pictures in association with Studio on Hudson.
 
-##### A Recording
+##### Recording
 
 Name the primary contributors and list their role. Include the recording
 medium in brackets after the title. Then list the
@@ -20109,7 +19955,7 @@ label.
 > Németh, G. (Conductor). (1988). *Chopin piano concertos no. 1 and 2*
 > \[CD\]. Naxos.
 
-##### A Podcast
+##### Podcast
 
 Provide as much information as possible about the writer, director, and
 producer; the date the podcast aired; its title; any group or
@@ -20120,23 +19966,30 @@ series with which it is associated; and where you retrieved the podcast.
 > \[Audio podcast\]*.*
 > https://www.savvyconsumer.org/podcasts/050710
 
-#### Writing At Work
+### Online Media
+
+##### Tweet
+
+> APA Education \[@APAEducation\]. (2018, June 29). College students are forming mental-health clubs--and they're making a difference \[Tweet\]. Twitter. https://twitter.com/apaeducation/status/10128490530140161
+
+##### Online forum post
+
+> Harrelson, Woody \[iamwoodyharrelson\]. (2012, February 3). *I'm Woody Harrelson, AMA* \[Online forum post\]. Reddit. https://www.reddit.com/r/IAmA/comments/p9a1v/im_woody_harrelson_ama/
+
+After the author's name, put the username in brackets.
 
 Be careful when using information from a discussion site like Reddit, Quora, or other forums because the information is not always checked for accuracy. It's not a good idea to rely solely on these sources for important information. However, you can still use them for some types of research.
 
-#### Exercise 4
 
-Revisit the references section you began to compile in **Exercise 1**.
+##### Webpage
 
-1. Use the APA guidelines provided in this section to format any
-entries for electronic sources that you were unable to finish
-earlier.
+If your source does not fit into another category, then you can use a general "webpage" category, though this should be your last choice.
 
-2. If your are using a kind of source not covered here, speak with a writing tutor, check the *Publication Manual*, or try one of these websites: 
-    - the style page of the APA's website at https://apastyle.apa.org/  
-    - the APA section of the Purdue University Online Writing lab at https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
+> American Heart Association. (2010). *Heart attack, stroke, and cardiac
+> arrest warning signs.*
+> https://www.americanheart.org/presenter.jhtml?identifier=3053
 
-3. Give your paper a final edit to check the references section.
+
 
 ## 13.4 Using Modern Language Association (MLA) Style
 
