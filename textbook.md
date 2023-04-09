@@ -19699,7 +19699,10 @@ Because there are so many different kinds of references, the *Publication Manual
 
 We will follow this organization.
 
-As general notes, APA 6 asked for the city of publication for books, but APA 7 no longer does. APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
+As general notes:
+ 
+- APA 6 asked for the city of publication for books, but APA 7 no longer does. 
+- APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
 
 These days, nearly all sources are online. The older way to give a link to an online source uses a "URL." The newer way, which APA 7 prefers, uses a "DOI." A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage. Because URLs often change, groups like the APA now prefer you to include something called a *DOI*: a "digital object identifier."
 
