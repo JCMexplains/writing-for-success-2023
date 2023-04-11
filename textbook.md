@@ -12482,7 +12482,7 @@ Many writers make their revisions on a printed copy and then transfer
 them to the version on-screen. They use a small arrow called a caret
 (\^) to show where to insert an addition or correction.
 
-![](image39.jpeg "A marked up essay")
+![](revised-para-roman-numeral-iv.jpeg "A marked up essay")
 
 #### Exercise 2
 
@@ -12640,7 +12640,7 @@ Now read the revisions Mariah made to make her third paragraph clearer
 and more concise. She has already included the changes she made to
 improve unity and coherence.
 
-![](image40.jpeg "A marked up essay with revisions")
+![](second-revision-roman-numeral-iv.jpeg "A marked up essay with revisions")
 
 #### Exercise 4
 
@@ -16396,7 +16396,7 @@ Review Jorge's schedule. Key target dates are shaded. Note that Jorge
 planned times to use available resources by visiting the library and
 writing center and by meeting with his instructor.
 
-![](image42.jpeg "Jorge's schedule")
+![](jorge-schedule.jpeg "Jorge's schedule")
 
 #### Exercise 1
 
@@ -18891,23 +18891,23 @@ content and style of his paper. He also gave the paper a final review to
 check for overall correctness and, particularly, correct APA or MLA
 citations and formatting. Read the final draft of his paper.
 
-![](image48.jpeg "Evaluating low-carb diets page 1 APA")
+![](apa-essay-page-1.jpeg "Evaluating low-carb diets page 1 APA")
 
-![](image49.jpeg "Evaluating low-carb diets page 2 APA")
+![](apa-essay-page-2.jpeg "Evaluating low-carb diets page 2 APA")
 
-![](image50.jpeg "Evaluating low-carb diets page 3 APA")
+![](apa-essay-page-3.jpeg "Evaluating low-carb diets page 3 APA")
 
-![](image51.jpeg "Evaluating low-carb diets page 4 APA")
+![](apa-essay-page-4.jpeg "Evaluating low-carb diets page 4 APA")
 
-![](image52.jpeg "Evaluating low-carb diets page 5 APA")
+![](apa-essay-page-5.jpeg "Evaluating low-carb diets page 5 APA")
 
-![](image53.jpeg "Evaluating low-carb diets page 6 APA")
+![](apa-essay-page-6.jpeg "Evaluating low-carb diets page 6 APA")
 
-![](image54.jpeg "Evaluating low-carb diets page 7 APA")
+![](apa-essay-page-7.jpeg "Evaluating low-carb diets page 7 APA")
 
-![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
+![](apa-essay-page-8.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
 
-![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
+![](apa-essay-page-9.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
 #### Takeaways
 
