@@ -2029,16 +2029,21 @@ independent clauses.
 
 **Tip**
 
-These are the seven coordinating conjunctions: *for*, *and*, *nor*,
-*but*, *or*, *yet*, and *so*. Use these words to link two independent
-clauses.
+These are the seven coordinating conjunctions. The acronym **FANBOYS** will help you remember them: 
 
-The acronym **FANBOYS** will help you remember this group of
-coordinating conjunctions.
+- **F**or
+- **A**nd
+- **N**or
+- **B**ut
+- **O**r
+- **Y**et
+- **S**o
 
-**Run-on:** The new printer was installed, no one knew how to use it.
+Use a coordinating conjunction to link two independent clauses.
 
-**Complete sentence:** The new printer was installed**, but** no one
+> **Run-on:** The new printer was installed, no one knew how to use it.
+>
+> **Complete sentence:** The new printer was installed **but** no one
 knew how to use it.
 
 ### Dependent Words
@@ -2047,15 +2052,15 @@ Adding dependent words is another way to link independent clauses. Like
 the coordinating conjunctions, dependent words show a relationship
 between two independent clauses.
 
-**Run-on:** We took the elevator, the others still got there before us.
-
-**Complete sentence: Although** we took the elevator, the others got
+> **Run-on:** We took the elevator, the others still got there before us.
+>
+>**Complete sentence: Although** we took the elevator, the others got
 there before us.
 
-**Run-on:** Cobwebs covered the furniture, the room hadn't been used in
+> **Run-on:** Cobwebs covered the furniture, the room hadn't been used in
 years.
-
-**Complete sentence:** Cobwebs covered the furniture **because** the
+>
+> **Complete sentence:** Cobwebs covered the furniture **because** the
 room hadn't been used in years.
 
 #### Exercise 5
