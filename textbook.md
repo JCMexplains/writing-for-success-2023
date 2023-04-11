@@ -1630,10 +1630,10 @@ Common prepositions include *in*, *on*, *under*, *near*, *by*, *with*,
 and *about*. A group of words that begin with a preposition is called a
 prepositional phrase. A prepositional phrase begins with a preposition
 and modifies or describes a word. It cannot act as the subject of a
-sentence. The following circled phrases are examples of prepositional
+sentence. The following capitalized phrases are examples of prepositional
 phrases.
 
-![](image06.jpeg "We went ON A BUSINESS TRIP. That restaurant WITH THE FAMOUS PIZZA was on the way. We stopped FOR LUNCH.")
+> We went ON A BUSINESS TRIP. That restaurant WITH THE FAMOUS PIZZA was ON THE WAY. We stopped FOR LUNCH.
 
 #### Exercise 1
 
