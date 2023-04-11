@@ -12109,7 +12109,7 @@ indicate supporting details, and Arabic numerals label subpoints.
         B. The market expands as companies enter it
             1. Booksellers sell their own readers
             2. Electronics companies and computer companies also sell readers
-        C. Current ebook readers have significant limitations
+        C. Current ebook readers have serious limits
             1. The devices are owned by different companies and are not always compatible
             2. Few programs have been made to fit the other way Americans read: by borrowing from libraries
 
@@ -12168,14 +12168,23 @@ III from her outline into a first draft of the second body paragraph. As
 you read, ask yourself how closely she stayed on purpose and how well
 she paid attention to the needs of her audience.
 
-![](image34.jpeg "Outline excerpt for Roman numeral III")
+    III. Digital cameras have almost replaced film cameras
+        A. The first major choice is the type of digital camera
+            1. Compact digital cameras are light but lack the megapixels
+            2. Single lens reflex cameras, or SLRs, may be large but can be used for many functions
+            3. Some cameras combine the best features of compacts and SLRs
+        B. Choosing the camera type involves the confusing "megapixel wars"
+        C. The zoom lens battle also determines the camera you will buy
 
 ![](image35.jpeg "Essay paragraph built from Roman numeral III")
 
 Mariah then began her third and final body paragraph using roman numeral
 IV from her outline.
 
-![](image36.jpeg "Outline excerpt for Roman numeral IV")
+    IV. Nothing is more confusing to me that choosing among televisions
+        A. In the resolution wars, what are the benefits of 1080p and 768p?
+        B. In the screen-size wars, what do plasma screens and LCD screens offer?
+        C. Does every home really need a media center?
 
 ![](image37.jpeg "Essay paragraph built from Roman numeral IV")
 
