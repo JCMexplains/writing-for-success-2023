@@ -712,7 +712,7 @@ strategies that work best for you individually.
 By now, you have a general idea of what to expect from your college
 courses. You have probably received course syllabi, started on your
 first few assignments, and begun applying the strategies you learned
-about in Section 1.1.
+about in **Section 1.1**.
 
 At the beginning of the semester, your workload is lighter. This is the
 perfect time to establish good habits.
@@ -2002,7 +2002,7 @@ Using a semicolon between the two complete sentences will also correct
 the error. A semicolon allows you to keep the two closely related ideas
 together in one sentence. When you punctuate with a semicolon, make sure
 that both parts of the sentence are independent clauses. For more
-information on semicolons, see Section 2.4.
+information on semicolons, see **Section 2.4**.
 
 **Run-on:** The accident closed both lanes of traffic we waited an hour
 for the wreckage to be cleared.
@@ -2162,7 +2162,7 @@ Grammatical person
 |Objective|The acted-on|me / her / him / them / us | The air conditioner hit *us*|
 |Possessive|Shows ownership|my / mine / your / yours / his / hers / their / theirs / our / ours|The money is *ours*.|
 
-For more information on pronoun case agreement, see Section 2.5.
+For more information on pronoun case agreement, see **Section 2.5**.
 
 **Gender.** All parts must match in male or female forms.
 
@@ -2173,7 +2173,7 @@ Because subjects and verbs are either singular or plural, the subject of
 a sentence and the verb of a sentence must agree with each other in
 number. That is, a singular subject belongs with a singular verb form,
 and a plural subject belongs with a plural verb form. For more
-information on subjects and verbs, see Section 2.1.
+information on subjects and verbs, see **Section 2.1**.
 
 > **Singular**: The **cat** ***jumps*** over the fence.
 
@@ -9742,7 +9742,7 @@ differ in tone and content.
 2. At some point during your career, you may be asked to write a report
 or complete a presentation. Imagine that you have been asked to report
 on the issue of health and safety at work. Using the
-information in Section 6.1.2 "Identifying the Audience", complete an
+information in **Section 6.1**, complete an
 analysis of your intended audience---your fellow office workers.
 Consider how demographics, education, prior knowledge, and expectations
 will influence your report and explain how you will tailor it to your
@@ -10951,7 +10951,7 @@ suitable for eight- to ten-year-olds. Rewrite a chapter of the story so
 that it appeals to a slightly older age group, by adding more sentence
 variety. 
 
-Experiment with the techniques you learned in Section 7.1,
+Experiment with the techniques you learned in **Section 7.1**,
 including the three different ways to vary sentence structure at the
 beginning of a sentence and the three different ways to connect ideas
 between sentences. Compare the revised chapter with the original version
@@ -11565,7 +11565,7 @@ As you continue to work and research, you are likely to revise your thesis.
 
 #### Exercise 1
 
-Using the topic you selected in Section 8.1,
+Using the topic you selected in **Section 8.1**,
 develop a working thesis that states your controlling idea for
 the piece of writing you are doing. On a sheet of paper, write your
 working thesis
@@ -12947,8 +12947,7 @@ group report, rate the reliability of each other's sources.
 reread the draft of the first two body paragraphs of Mariah's
 essay, "Digital Technology: The Newest and the Best at What Price?"
 Review those two paragraphs using the same level of inspection
-given to the essay's third paragraph in [Section 8.4 "Revising and
-Editing"].
+given to the essay's third paragraph in **Section 8.4**.
 Suggest and agree on changes to improve unity and coherence,
 eliminate unneeded words, and refine word choice. Your purpose is
 to help Mariah produce two effective paragraphs for a formal
@@ -14137,7 +14136,7 @@ Make sure that your topic sentences can be backed up with examples
 and details.
 
 2. **Group activity.** Choose one of the topics from **Exercise 1** in
-Section 9.1 "Developing a Strong, Clear Thesis and form
+**Section 9.1** and form
 a yes-or-no question about that topic. Then, take a survey of the
 people in your class to find out how they feel about the subject.
 Using the majority vote, ask those people to write on slips of
