@@ -16286,7 +16286,7 @@ care professionals. In addition, he wanted to form a general plan for
 doing the research and identifying potentially useful sources. Read
 Jorge's research proposal.
 
-![](image41.jpeg "Read Jorge's research proposal")
+![](jorge-research-proposal.jpeg "Read Jorge's research proposal")
 
 #### Writing At Work
 
@@ -17719,7 +17719,7 @@ Jorge looked back on the list of research questions that he had written
 down earlier. He changed a few to match his new thesis, and he began a
 rough outline for his paper.
 
-![](image43.jpeg "Jorge's rough outline")
+![](jorge-rough-outline.jpeg "Jorge's rough outline")
 
 #### Exercise 2
 
@@ -18597,7 +18597,7 @@ improve the flow of ideas from sentence to sentence.
 Read the following paragraph twice, the first time without Jorge's
 changes, and the second time with them.
 
-![](image45.jpeg "Jorge's first paragraph")
+![](jorge-first-paragraph.jpeg "Jorge's first paragraph")
 
 #### Exercise 1
 
@@ -18673,7 +18673,7 @@ information needed to be integrated more carefully and decided to omit
 some details entirely. Read the following paragraph, first without
 Jorge's revisions and then with them.
 
-![](image46.jpeg "A body paragraph from Jorge's paper")
+![](jorge-body-paragraph.jpeg "A body paragraph from Jorge's paper")
 
 Jorge decided that his comment about pizza and birthday cake came across
 as subjective and was not necessary to make his point, so he deleted it.
@@ -18785,7 +18785,7 @@ and then take time to rework those sections.
 
 Jorge looked over his paper and thought it sounded pretty academic, except for the first part. He saw that some of the words he used were too casual and might make people think he wasn't taking the topic seriously. He fixed this by changing some words and taking out a joke, so that his writing sounded the same all the way through. You can read his changes.
 
-![](image47.jpeg "Jorge's updated, more serious-sounding first paragraph")
+![](jorge-updated-first-paragraph.jpeg "Jorge's updated, more serious-sounding first paragraph")
 
 #### Exercise 3
 
@@ -20419,7 +20419,7 @@ Jorge, who wrote the research paper featured in **Chapter
 following outline. Jorge relied heavily on this outline to plan his
 presentation, but he adjusted it to suit the new format.
 
-![](image81.jpeg "Outline for a presentation including the sections: introduction, purported benefits of low-carbohydrate diets, research on low-carbohydrate diets and weight loss, other long-term health outcomes, and conclusion")
+![](jorge-presentation-outline.jpeg "Outline for a presentation including the sections: introduction, purported benefits of low-carbohydrate diets, research on low-carbohydrate diets and weight loss, other long-term health outcomes, and conclusion")
 
 ### Planning Your Introduction
 
@@ -20497,7 +20497,7 @@ long-term health outcomes. The research on other issues was
 inconclusive, so Jorge decided to omit this material. Jorge's notes on
 his outline show the revisions he has made to his presentation.
 
-![](image83.jpeg "Some material could be chosen to omit")
+![](jorge-omitting-material-from-outline.jpeg "Some material could be chosen to omit")
 
 **Tip**
 
@@ -20771,7 +20771,7 @@ Highlighting, all capital letters, or different-colored font will help
 you easily distinguish notes from the text of your speech. Read Jorge's
 annotated outline.
 
-![](image84.jpeg "Jorge's annotated outline")
+![](jorge-annotated-presentation-outline.jpeg "Jorge's annotated outline")
 
 **Tip**
 
