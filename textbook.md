@@ -99,7 +99,7 @@ Original author removed in 2015 by the University of Minnesota at the request of
     1. Formatting A Research Paper
     2. Citing And Referencing Techniques
     3. Creating A References Section
-    4. Using Modern Language Association (mla) Style
+    4. Using Modern Language Association (MLA) Style
     5. APA And MLA Documentation And Formatting: End-of-chapter Exercises
 14. [Creating Presentations: Sharing Your Ideas](#chapter-14)
     1. Organizing A Visual Presentation
@@ -20254,30 +20254,20 @@ citations, and references list.
 citations. (You may wish to conduct this activity in two sessions---one
 to edit the body of the paper and one to edit the References section.)
 Check for the following:
-    - All components of an APA or MLA paper are included.
-    - The title page (or title block) and body of the paper are correctly
-formatted.
-    - In-text, or parenthetical, citations are complete and correctly
-formatted.
-    - Sources cited within the paper match the sources listed in the
-References or Works Cited section.
-    - The References or Works Cited section uses correct formatting and lists
-entries in alphabetical order.
+    - All components of the paper are included.
+    - The title and body of the paper have the correct format.
+    - In-text citations are complete and have the correct format.
+    - Every in-text citation is in the bibliography.
+    - Every entry in the bibliography is cited in-text.
+    - The bibliography lists entries in alphabetical order.
 
-3. As electronic media continually change, guidelines for citing
-electronic sources are continually updated. Identify three new or
-emerging forms of electronic media not listed in this text---for
-instance, virtual communities, such as Second Life, or social networking
-sites, such as LinkedIn, Facebook, and MySpace. Answer the following
-questions:
-    - Under what circumstances would this media be a useful source of
-information for a research paper? How might students use these sources
-to conduct research five or ten years from now?
-    - What information would a student need to provide if citing this source?
-Why?
-
-Develop brief guidelines for how to cite the emerging media source types
-you identified.
+3. As new online spaces emerge, guidelines for citing
+online sources are continually updated. Identify three
+emerging online sources not listed in this book---for
+instance, a meeting held in the metaverse as offered by the company Meta (formerly Facebook), or a TikTok video. Ask yourself:
+    - When would this medium be a useful source for a research paper today? 
+    - What information would a student need to provide to cite this source?
+Develop brief guidelines for citing the three sources you came up with.
 
 # Chapter 14
 
