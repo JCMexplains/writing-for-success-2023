@@ -1565,9 +1565,9 @@ In the sentence below, the subject is *John*.
 
 What makes something the subject of a sentence is *where is goes* and *how it affects the other words in the sentence*.
 
-In this case, *John* is also the thing that does the action. If I ask, "Who visits the store?"" the answer is, "John does.""
+In this case, *John* is also the thing that does the action. If I ask, "Who visits the store?" the answer is, "John does."
 
-Doing the action in a sentence is called being the *agent* in the sentence. (This is part of the layer of linguistics called *semantics*, the study of meaning, which is a different layer from *syntax*, the study of grammar.)
+Doing the action is called being the *agent* in the sentence. (This is part of the layer of linguistics called *semantics*, the study of meaning. It is a different layer from *syntax*, the study of grammar.)
 
 The subject and the agent are often the same thing, but **not always**. The subject does not always do the action. Look at this sentence:
 
@@ -1658,11 +1658,25 @@ us.
 
 ### Verbs
 
-Once you locate the subject of a sentence, you can move on to the next
-part of a complete sentence: the verb. A verb is often an action word
-that shows what the subject is doing. A verb can also link the subject
-to a describing word. There are three types of verbs that you can use in
-a sentence: action verbs, linking verbs, or helping verbs.
+The other part that every complete sentence needs is a verb. 
+
+A verb is often an action word that shows what the subject is doing. The verb in the sentence below is *visits*.
+
+> John ***visits*** the store.
+
+A verb can also link the subject to a describing word. The verb in the sentence below is *is*.
+
+> John ***is*** energetic.
+
+We can't really say there is an action in the sentence above; John is not doing anything in this sentence, he is just existing in the world as an energetic person. So *is* is not an regular action verb here; it is a linking verb.
+
+Finally, a verb can help another verb, often by putting it in the past or future or making it a possibility instead of an actual thing. In the sentence below, the helping verb is *can*:
+
+> John ***can visit*** the store.
+
+Here we are not describing what John *is* doing; we are describing what he is *capable* of doing. (Linguists call these *modals*.) The helping verb *can* changes the sentence so it describes a possibility.
+
+So, there are three types of verbs: action verbs, linking verbs, and helping verbs.
 
 ### Action Verbs
 
@@ -2430,17 +2444,19 @@ singular, *all* is singular.
 
 #### Collective Nouns
 
-A **collective noun** is a noun that identifies more than one person, place,
-or thing and considers those people, places, or things one singular
-unit. Because collective nouns are counted as one, they are singular and
-require a singular verb. Some commonly used collective nouns are
+A **collective noun** is a noun that collects more than one person, place,
+or thing and considers them as one unit. 
+
+Some commonly used collective nouns are
 *group*, *team*, *army*, *flock*, *family*, and *class*.
 
 > **Singular**: The **class** ***is*** going on a field trip.
 
-In this sentence, *class* is a collective noun. Although the class
-consists of many students, the class is treated as a singular unit and
-requires a singular verb form.
+Collective nouns are treated as singular and
+require a singular verb form. 
+
+In the sentence above, *class* is a collective noun. Although the class
+has many students, the class is being treated as one unit, so the verb form must be singular.
 
 #### The Subject Follows The Verb
 
