@@ -2024,7 +2024,7 @@ didn't have time to slow down, so we kept working.
 ### Coordinating Conjunctions
 
 You can also fix run-on sentences by adding a comma and a coordinating
-conjunction. A coordinating conjunction acts as a link between two
+conjunction. A coordinating conjunction can link two
 independent clauses.
 
 **Tip**
@@ -2038,8 +2038,6 @@ These are the seven coordinating conjunctions. The acronym **FANBOYS** will help
 - **O**r
 - **Y**et
 - **S**o
-
-Use a coordinating conjunction to link two independent clauses.
 
 > **Run-on:** The new printer was installed, no one knew how to use it.
 >
