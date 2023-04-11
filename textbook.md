@@ -1978,10 +1978,10 @@ clauses that have been incorrectly combined are known as run-on
 sentences. A run-on sentence may be either a fused sentence or a comma
 splice.
 
-**Fused sentence:** A family of foxes lived under our shed young foxes
+> **Fused sentence:** A family of foxes lived under our shed young foxes
 played all over the yard.
 
-**Comma splice:** We looked outside, the kids were hopping on the
+> **Comma splice:** We looked outside, the kids were hopping on the
 trampoline.
 
 When two sentences are combined into one without any
@@ -2004,10 +2004,10 @@ together in one sentence. When you punctuate with a semicolon, make sure
 that both parts of the sentence are independent clauses. For more
 information on semicolons, see **Section 2.4**.
 
-**Run-on:** The accident closed both lanes of traffic we waited an hour
+> **Run-on:** The accident closed both lanes of traffic we waited an hour
 for the wreckage to be cleared.
-
-**Complete sentence:** The accident closed both lanes of traffic**;** we
+>
+> **Complete sentence:** The accident closed both lanes of traffic **;** we
 waited an hour for the wreckage to be cleared.
 
 When you use a *semicolon* to separate two independent clauses, you may
@@ -2015,10 +2015,10 @@ wish to add a transition word to show the connection between the two
 thoughts. After the semicolon, add the transition word and follow it
 with a comma. For more information on transition words, see **Chapter 8**.
 
-**Run-on:** The project was put on hold we didn't have time to slow
+> **Run-on:** The project was put on hold we didn't have time to slow
 down, so we kept working.
-
-**Complete sentence:** The project was put on hold**; however,** we
+>
+> **Complete sentence:** The project was put on hold; **however,** we
 didn't have time to slow down, so we kept working.
 
 ### Coordinating Conjunctions
@@ -2740,7 +2740,7 @@ the verb tense shown below.
 4. Tell (past)
 5. Share (simple present)
 
-### Maintaining Consistent Tense
+### Keeping A Consistent Tense
 
 **Consistent tense** means the same verb tense is used throughout a
 passage. As you write and revise, it is important to avoid shifting from one tense to
