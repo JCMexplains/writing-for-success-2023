@@ -11285,7 +11285,20 @@ more specific paper topic.
 
 The following is Mariah's brainstorming list:
 
-![](image27.jpeg "Mass Media: magazines, newspapers, broadcasting, radio, television, DVD, gaming/video games, internet, cell phones, smartphones, text messages, tiny cameras, GPS")
+#### Mass Media
+- magazines, 
+- newspapers, 
+- broadcasting, 
+- radio, 
+- television, 
+- DVD, 
+- gaming/video games, 
+- internet, 
+- cell phones, 
+- smartphones, 
+- text messages, 
+- tiny cameras, 
+- GPS
 
 From this list, Mariah could narrow her focus to a particular technology
 under the broad category of media.
@@ -12089,13 +12102,22 @@ portion of her outline for the first body paragraph. The roman numeral
 II identifies the topic sentence for the paragraph, capital letters
 indicate supporting details, and Arabic numerals label subpoints.
 
-![](image32.jpeg "The roman numeral II identifies the topic sentence for the paragraph, capital letters indicate supporting details, and Arabic numerals label subpoints.")
+    II. Ebook readers are changing the way people read
+        A. Ebook readers make books easy to access and carry
+            1. Books can be downloaded
+            2. Readers can store hundreds of books
+        B. The market expands as companies enter it
+            1. Booksellers sell their own readers
+            2. Electronics companies and computer companies also sell readers
+        C. Current ebook readers have significant limitations
+            1. The devices are owned by different companies and are not always compatible
+            2. Few programs have been made to fit the other way Americans read: by borrowing from libraries
 
 Mariah then began to expand the ideas in her outline into a paragraph.
 Notice how the outline helped her guarantee that all her sentences in
 the body of the paragraph develop the topic sentence.
 
-![](image33.jpeg "Outlines help guarantee that all sentences in the body of the paragraph develop the topic sentence.")
+> Ebook readers are changing the way people read. The main selling point for these devices, which are the size of a paperback book, is that they make it easy to access and carry multiple books. Electronic versions of printed books can be downloaded for a few bucks. These devices can store hundreds of books and, with text-to-speech, can even read them. The market for ebooks and ereaders keeps expanding as new companies enter it. Online and traditional booksellers have been the first to market ebook readers to the public, but computer companies have also entered the market. The problem for consumers is which ereader to choose. Incompatibility is the norm. An ebook can only be read on the device it was intended for. Use is restricted by a DRM (digital rights management) system. As a result, book buyers are often unable to lend an ebook to another reader as they could with a physical book. Few accommodations have been made to fit the other way Americans read: by borrowing from libraries. What is a buyer to do?
 
 **Tip**
 
