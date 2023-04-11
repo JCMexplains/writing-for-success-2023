@@ -1,4 +1,4 @@
-![Cover graphic reads \"Writing for Success 2023\"](image01.jpeg)
+![Cover graphic reads \"Writing for Success 2023\"](cover-graphic.jpeg)
 
 *Writing for Success 2023* (adapted in 2023 by Jamie Campbell Martin) is
 licensed under a 
@@ -977,7 +977,7 @@ supporting details are indented further.
 Crystal also used
 abbreviations for terms like *development* and *example*.
 
-![](image02.jpeg "Child Development - 20th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
+![](child-dev-informal-outline.jpeg "Child Development - 20th Century Theorists. Jean Piaget was a Swiss psychologist and very influential in education. He first developed theories in the 1920s and 1930s. 4 major stages of cognitive development are sensorimotor (0-2), preoperational (2-7), concrete operations (7-12) and formal operations (12-adulthood)")
 
 #### Idea Mapping
 
@@ -986,7 +986,7 @@ The next example shows how Crystal's lecture notes
 could be set up as an "idea map," a more visual way to
 show the same information as the modified outline did.
 
-![](image03.jpeg "Child Development - 20th Century Theorists - idea map on Jean Piaget")
+![](child-dev-idea-map.jpeg "Child Development - 20th Century Theorists - idea map on Jean Piaget")
 
 #### Charting
 
@@ -1032,7 +1032,7 @@ summarize** each page of notes in a few sentences.
 
 Using the Cornell system, Crystal's notes would look like the following:
 
-![](image04.jpeg "Cornell system version of Crystal's notes on Jean Piaget")
+![](child-dev-cornell.jpeg "Cornell system version of Crystal's notes on Jean Piaget")
 
 #### Writing At Work
 
@@ -7686,7 +7686,7 @@ Review the following basic formula for the present perfect tense:
 |:---|:---|:---|
 |I|have|helped|
 
-![](image07.jpeg "The present perfect tense stands between the past and the present")
+![](present-perfect-tense.jpeg "The present perfect tense stands between the past and the present")
 
 The present perfect tense has a connection with the past and the
 present.
@@ -7710,7 +7710,7 @@ Study the following basic formula for the past perfect tense:
 |:---|:---|:---|
 |I|had|listened|
 
-![](image08.jpeg "The bus had left (past perfect tense). Theo arrived at the station (past tense).")
+![](past-perfect-tense.jpeg "The bus had left (past perfect tense). Theo arrived at the station (past tense).")
 
 > The bus **had left** by the time Theo **arrived** at the station.
 
@@ -7725,7 +7725,7 @@ Look at the following basic formula for the future perfect tense:
 |:---|:---|:---|
 |I|will have|graduated|
 
-![](image09.jpeg "You move to London (future tense). You will have forgotten me (future perfect tense).")
+![](future-perfect-tense.jpeg "You move to London (future tense). You will have forgotten me (future perfect tense).")
 
 The future perfect tense describes an action from the past in the
 future, as if the past event has already occurred. Use the future
@@ -8116,12 +8116,12 @@ because my family should miss me very much.
 In the previous section, we defined present perfect verb tense as
 describing a continuing situation or something that has just happened.
 
-![](image10.jpeg "Subject (I and He), has or have (have and has), past participle (helped and helped)")
+![](present-perfect-tense-again.jpeg "Subject (I and He), has or have (have and has), past participle (helped and helped)")
 
 Remember, when a sentence contains a modal auxiliary before the verb,
 the helping verb is always *have*.
 
-![](image11.jpeg "Subject (I, He, He, He, and He), modal auxiliary (could, could, might, may, and should), have (have, have, have, have, and have), and past participle (helped, helped, helped, helped, and helped).")
+![](modal-auxiliary-with-have.jpeg "Subject (I, He, He, He, and He), modal auxiliary (could, could, might, may, and should), have (have, have, have, have, and have), and past participle (helped, helped, helped, helped, and helped).")
 
 Be aware of the following common errors when using modal auxiliaries in
 the present perfect tense:
