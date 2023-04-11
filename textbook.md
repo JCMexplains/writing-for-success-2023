@@ -8675,7 +8675,7 @@ In school, an evaluation is when you give your opinion about something you read 
 
 Here is the student's evaluation of their own three-paragraph synthesis from above.
 
-![](image16.jpeg "A student's one-paragraph evaluation of the three-paragraph synthesis above")
+> Throughout their report, Brown et al. provide valuable statistics that highlight the frequency of alcohol use among high school and college students. They use several reputable sources to support their points. However, the report focuses solely on the frequency of alcohol use and ho it varies according to certain demographic factors. Other sources, such as Spoth et al. (2009) and the survey I conducted among college students, examine the reasons for alcohol use among young people and offer suggestions as to how to reduce the rates. Nonetheless, I think that Brown et al. offer a useful set of statistics on which to base further research into alcohol use among high school and college students.
 
 Notice how the paragraph includes the student's personal judgment
 within the evaluation. Evaluating a document requires prior knowledge
