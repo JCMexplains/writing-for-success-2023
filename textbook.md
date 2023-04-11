@@ -1668,7 +1668,7 @@ A verb can also link the subject to a describing word. The verb in the sentence 
 
 > John ***is*** energetic.
 
-We can't really say there is an action in the sentence above; John is not doing anything in this sentence, he is just existing in the world as an energetic person. So *is* is not an regular action verb here; it is a linking verb.
+We can't really say there is an action in the sentence above; John is not doing anything in this sentence, he is just existing in the world as an energetic person. So *is* is not an action verb here; it is a linking verb.
 
 Finally, a verb can help another verb, often by putting it in the past or future or making it a possibility instead of an actual thing. In the sentence below, the helping verb is *can*:
 
