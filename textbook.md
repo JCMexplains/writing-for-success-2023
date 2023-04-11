@@ -8608,13 +8608,13 @@ In other words, a summary paragraph should be short and clear.
 
 Here is a sample three-paragraph report on alcohol and drug use among high school students:
 
-![](image12.jpeg "A sample three-paragraph report on alcohol and drug use among high school students.")
+![](three-paragraph-report-alcohol-use.jpeg "A sample three-paragraph report on alcohol and drug use among high school students.")
 
 A summary of the report should present all the main points but in fewer words. 
 Here is a summary of the report
 above written by a student:
 
-![](image13.jpeg "A student's two-paragraph summary of the report: Brown et al. tell us that by tenth grade, nearly two-thirds of students have tried alcohol at least once. By twelfth grade this figure increases to over three-quarters of students. After high school, drinking increases further: college-aged students have the highest levels of drinking and alcohol dependence of any age group. Drinking varies according to gender, race, geographic location, and socioeconomic status. Some of these trends may reverse in early adulthood. For example, youth with lower socioeconomic status are more likely to drink during high school, while youth with higher socioeconomic status are more likely to drink after high school.")
+![](two-paragraph-summary-alcohol-use.jpeg "A student's two-paragraph summary of the report: Brown et al. tell us that by tenth grade, nearly two-thirds of students have tried alcohol at least once. By twelfth grade this figure increases to over three-quarters of students. After high school, drinking increases further: college-aged students have the highest levels of drinking and alcohol dependence of any age group. Drinking varies according to gender, race, geographic location, and socioeconomic status. Some of these trends may reverse in early adulthood. For example, youth with lower socioeconomic status are more likely to drink during high school, while youth with higher socioeconomic status are more likely to drink after high school.")
 
 Notice how the summary keeps the key points from the
 original report but leaves out most of the numbers. 
@@ -11644,7 +11644,7 @@ her thesis She then arranges her main points and supporting
 details in outline form using short phrases in parallel grammatical
 structure.
 
-![](image28.jpeg "Mariah's outline for her essay")
+![](mariah-essay-outline.jpeg "Mariah's outline for her essay")
 
 #### Writing An Effective Topic Outline: Checklist
 
@@ -11699,7 +11699,7 @@ writing process.
 Here is the sentence outline that Mariah constructed for the essay she
 is developing.
 
-![](image29.jpeg "An updated sentence outline")
+![](mariah-updated-sentence-outline.jpeg "An updated sentence outline")
 
 **Tip**
 
@@ -12176,7 +12176,7 @@ she paid attention to the needs of her audience.
         B. Choosing the camera type involves the confusing "megapixel wars"
         C. The zoom lens battle also determines the camera you will buy
 
-![](image35.jpeg "Essay paragraph built from Roman numeral III")
+![](paragraph-from-roman-numeral-iii.jpeg "Essay paragraph built from Roman numeral III")
 
 Mariah then began her third and final body paragraph using roman numeral
 IV from her outline.
@@ -12186,7 +12186,7 @@ IV from her outline.
         B. In the screen-size wars, what do plasma screens and LCD screens offer?
         C. Does every home really need a media center?
 
-![](image37.jpeg "Essay paragraph built from Roman numeral IV")
+![](paragraph-from-roman-numeral-iv.jpeg "Essay paragraph built from Roman numeral IV")
 
 #### Exercise 4
 
