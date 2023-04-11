@@ -1550,30 +1550,40 @@ This sentence has three independent clauses:
 
 ### Subjects
 
-As we just learned, every sentence must have at least one independent clause, and every independent clause must have at least one subject. 
+As we just learned, every sentence must have at least one independent clause, and every independent clause must have at least one subject. So it is useful to know how to find the subject.
 
-So it is useful to know how to find the subject.
+You will often hear people say "the subject is what does the action of the sentence" or "the subject is what the sentence is about."
+But those things are only true some of the time. Linguists (scientists who study language) define the subject differently. (The discussion below follows *The Oxford Dictionary of English Grammar* by Bas Aarts; see the Works Cited at the end of the book for a reference.)
 
-You will often hear people say "the subject is what the sentence is about."
-That is often true. For example, this sentence is about John, and the subject is *John*.
+In English, the subject typically comes first. It is the "grmmatical boss" of the sentence, meaning that it controls what ending goes on the verb. What makes something the subject of a sentence is *where is goes* and *how it affects the other words in the sentence*.
 
-> John walked to the store.
+In the sentence below, the subject is *John*.
 
-I can ask, "Who walked to the store?" and answer "John."
+> John visits the store.
 
-But let's say I ask you what this sentence it about:
+*John* comes first, and is the "grammatical boss" of the sentence because it makes the *-s* go on the end of the verb *visits*.
+
+In this case, *John* is also the thing that does the action. If I ask, "Who visits the store?"" the answer is, "John does.""
+
+Doing the action in a sentence is called being the *agent* in the sentence. (This is part of the layer of linguistics called *semantics*, the study of meaning, which is a different layer from *syntax*, the study of grammar.)
+
+But the subject does not always do the action. Look at this sentence:
+
+> The store was visited by John.
+
+In this sentence, the subject is *the store*, because it comes first and controls the verb. But the agent is still *John*, because John does the action of visiting.
+
+The question of "who or what the sentence is about" is even trickier. It is close to what linguists call a *topic*, "the part of a sentence about which something is said" (Aarts et al. 419). 
+
+What is the topic of this sentence?
 
 > I fled from deadly wildfires that swept through California last spring.
 
-Because they are the important topic and described in detail, you will probably say
-that the subject is wildfires.
+Because the wildfires are the reason for the statement and are described in detail, you will probably say that the topic is wildfires.
 
-But that's wrong. The subject is *I*. 
+But the word *I* is both the subject and the agent here.
 
-A linguist would say that the subject is defined by *syntax*, while "what the sentence is about"
-has to do with other layers of language (semantics or pragmatics). Very often these two things are the same, but **not always**.
-
-The subject *usually* appears at the beginning of a sentence.  
+The takeaway is that finding the subject is tricky unless you already know what it is. Sometimes teachers don't realize this themselves because they are so used to finding the subject quickly. Psychologists have a name for this: the *curse of knowledge* (Brown et al. 115). Because most teachers know how to find the subject without thinking about it, they don't realize how hard it can be to find. 
 
 In the following sentences, the subject is in bold.
 
