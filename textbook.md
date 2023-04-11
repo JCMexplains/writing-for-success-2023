@@ -8685,9 +8685,9 @@ that is often based on additional research.
 
 When reviewing directions for assignments, look for the verbs
 *summarize*, *analyze*, *synthesize*, or *evaluate*. Instructors often
-use these words to clearly indicate the assignment's purpose. These
-words will cue you on how to complete the assignment because you will
-know its exact purpose.
+use these words to indicate the assignment's purpose. These
+words should
+ cue you on how to complete the assignment.
 
 #### Exercise 1
 
@@ -9128,7 +9128,7 @@ what an essay does at full size.
 
 The person most associated with this idea is the 19th-century Scottish
 philosopher Alexander Bain. (Not to be confused with the 19th-century
-Scottish inventor Alexander Bain, a different person.)
+Scottish *inventor* Alexander Bain, who is a different person.)
 
 I (Jamie Martin, the author of the 2023 revision of this book) am skeptical about Bain's
 idea. I think it is too formulaic---it is inventing a structure
@@ -9187,67 +9187,35 @@ Five characteristics define a good topic sentence:
 1. A good topic sentence provides an accurate indication of what will
 follow in the rest of the paragraph.
 
-**Weak example.** People rarely give firefighters the credit they
-deserve for such a physically and emotionally demanding job. (The
-paragraph is about a specific incident that involved firefighters;
-therefore, this topic sentence is too general.)
+    1. **Weak example.** People rarely give firefighters the credit they deserve for such a physically and emotionally demanding job. (The paragraph is about a specific incident that involved firefighters; therefore, this topic sentence is too general.)
 
-**Stronger example.** During the October riots, Unit 3B went beyond the
-call of duty. (This topic sentence is more specific and indicates that
-the paragraph will contain information about a particular incident
-involving Unit 3B.)
+    2. **Stronger example.** During the October riots, Unit 3B went beyond the call of duty. (This topic sentence is more specific and indicates that the paragraph will contain information about a particular incident involving Unit 3B.)
 
 2. A good topic sentence contains both a topic and a controlling idea
 or opinion.
 
-**Weak example.** In this paper, I am going to discuss the rising
-suicide rate among young professionals. (This topic sentence provides a
-main idea, but it does not present a controlling idea, or thesis.)
+    1. **Weak example.** In this paper, I am going to discuss the rising suicide rate among young professionals. (This topic sentence provides a main idea, but it does not present a controlling idea, or thesis.)
 
-**Stronger example.** The rising suicide rate among young professionals
-is a cause for immediate concern. (This topic sentence presents the
-writer's opinion on the subject of rising suicide rates among young
-professionals.)
+    2. **Stronger example.** The rising suicide rate among young professionals is a cause for immediate concern. (This topic sentence presents the writer's opinion on the subject of rising suicide rates among young professionals.)
 
-3. A good topic sentence is clear and easy to follow.
+3. A good topic sentence is clear and easy to follow. The most famous style guide of the 20th century, *The Elements of Style* by William Strunk and E. B. White, told writers to "omit needless words!" This means that you should only use exactly as many words as you need to make your point---neither more nor fewer.
 
-**Weak example.** In general, writing an essay, thesis, or other
-academic or nonacademic document is considerably easier and of much
-higher quality if you first construct an outline, of which there are
-many different types. (This topic sentence includes a main idea and a
-controlling thesis, but both are buried beneath the confusing sentence
-structure and unnecessary vocabulary. These obstacles make it difficult
-for the reader to follow.)
+    1. **Weak example.** In general, writing an essay, thesis, or other academic or nonacademic document is considerably easier and of much higher quality if you first construct an outline, of which there are many different types. (This topic sentence includes a main idea and a controlling idea, but both are buried beneath the confusing sentence structure and unnecessary vocabulary. These obstacles make it difficult for the reader to follow.)
 
-**Stronger example.** Most forms of writing can be improved by first
-creating an outline. (This topic sentence cuts out unnecessary verbiage
-and simplifies the previous statement, making it easier for the reader
-to follow.)
+    2. **Stronger example.** Most forms of writing can be improved by first creating an outline. (This topic sentence omits needless words, making it easier for the reader to follow.)
 
 4. A good topic sentence does not include supporting details.
 
-**Weak example.** Salaries should be capped in baseball for many
-reasons, most importantly so we don't allow the same team to win year
-after year. (This topic sentence includes a supporting detail that
-should be included later in the paragraph to back up the main point.)
+    1. **Weak example.** Salaries should be capped in baseball for many reasons, most importantly so we don't allow the same team to win year after year. (This topic sentence includes a supporting detail that should be included later in the paragraph to back up the main point.)
 
-**Stronger example.** Introducing a salary cap would improve the game of
-baseball for many reasons. (This topic sentence omits the additional
-supporting detail so that it can be expanded upon later in the
-paragraph.)
+    2. **Stronger example.** Introducing a salary cap would improve the game of baseball for many reasons. (This topic sentence omits the additional supporting detail so that it can be expanded upon later in the paragraph.)
 
 5. A good topic sentence engages the reader by using interesting
 vocabulary.
 
-**Weak example.** The military deserves better equipment. (This topic
-sentence includes a main idea and a controlling thesis, but the language
-is bland and unexciting.)
+    1. **Weak example.** The military deserves better equipment. (This topic sentence includes a main idea and a controlling idea, but the language is bland and unexciting.)
 
-**Stronger example.** The appalling lack of resources provided to the
-military is outrageous and requires our immediate attention. (This topic
-sentence has the same main idea and controlling idea, but adjectives
-such as *appalling* and *immediate* better engage the reader. These
-words also indicate the writer's tone.)
+    2. **Stronger example.** The appalling lack of resources provided to the military is outrageous and requires our immediate attention. (This topic sentence has the same main idea and controlling idea, but adjectives such as *appalling* and *immediate* better engage the reader. These words also indicate the writer's tone.)
 
 #### Exercise 2
 
