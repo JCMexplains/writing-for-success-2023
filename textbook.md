@@ -20811,25 +20811,23 @@ your ideas together.) Mark your outline with the following information:
 
 1. Write notes in brackets to any sections where you definitely plan to
 include visual or audio media.
-
-2. If you are presenting a slideshow, add notes in brackets indicating
-which slides go with each section of your outline.
-
+2. If you are presenting a slideshow, add notes in brackets indicating which slides go with each section of your outline.
 3. Identify and set off any text that should be emphasized.
 
-![](image85.jpeg "Sometimes bolding parts in the outline is helpful")
+Here is an example:
+
+    II. Purported Benefits of Low-Carbohydrate Diets
+        A. USDA nutrition guidelines
+        B. Potential flaws in USDA nutrition guidelines [CHART OF GUIDELINES]
+            1. Effects of carbohydrates on blood sugar, insulin
+            2. Relationship to metabolism and obesity [BEFORE-AND-AFTER PIC OF A LOW-CARB DIETER]
 
 #### Takeaways
-- An effective presentation presents ideas more concisely than a written
-document and uses media to explain ideas and hold the audience's
-interest.
+- A good presentation should more concise than an essay. It should use media to explain and capture interest.
 - Like an essay, a presentation should have a clear beginning, middle, and
 end.
-- Good writers structure their presentations on the thesis, or point of
-view; main ideas; and key supporting details and create a presentation
-outline to organize their ideas.
-- Annotating a presentation outline is a useful way to coordinate
-different parts of the presentation and manage time effectively.
+- Like an essay, presentation should be organized around a thesis and support.
+- Annotating your presentation outline is a good way to remind yourself of points to his and keep you on time.
 
 ## 14.2 Adding Visuals To A Presentation
 
