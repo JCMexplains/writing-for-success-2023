@@ -1544,9 +1544,9 @@ But does it make sense to say, "It is the case that *waiting by the train tracks
 
 A group of words capable of being its own sentence can also be called an *independent clause*. A sentence must have at least one independent clause.
 
-This sentence has three independent clauses:
+This sentence has three independent clauses. Each one is in **bold**.
 
-![](image05.jpeg "Sentence containing three independent clauses: We went to the store, we bought the ingredients on our list, and then we went home.")
+> **We went to the store** where **we bought the ingredients on our list** and then **we went home**.
 
 ### Subjects
 
@@ -1605,15 +1605,13 @@ subject.
 In the first sentence, the subject is a thing: *project*. In the second
 sentence, the pronoun *It* stands in for the *project*.
 
-**Tip**
+### Grammar Key
 
-In this chapter, please refer to the following grammar key:
+In the examples below, subjects will in **bold**. Verbs will be in ***bold italics***.
 
-Subjects are in **bold**.
+**LV** will indicate a *linking verb*, **HV** will indicate a *helping verb*, and **V** will indicate an *action verb*. 
 
-Verbs are in ***bold italics***.
-
-*LV* means linking verb, *HV* means helping verb, and *V* means action verb.
+(Most verbs are action verbs, so we will label them with only *V* instead of *AV*.)
 
 ### Compound Subjects
 
