@@ -8656,7 +8656,11 @@ In school, when you write a synthesis, you take the main ideas from different pi
 
 Look at a student's synthesis of several sources about underage drinking.
 
-![](image15.jpeg "A student's three-paragraph synthesis of several sources about underage drinking")
+> In their 2009 report, Brown et al. consider the rates of alcohol consumption among high school and college-aged students and various demographic factors that affect these rates. However, this report is only assesses the rates of underage drinking, rather than considering how to decrease them. Several other studies, as well as original research among college students, provide insight into how to reduce these rates.
+> 
+> One study, by Spoth et al. (2009), considers the impact of different interventions for reducing alcohol consumption among minors. They conclude that although family-focused interventions for adolescents aged ten to fifteen have shown promise, there is a serious lack of interventions available for college-aged youth who do not attend college. These youth are among the highest risk for alcohol abuse.
+> 
+> I did my own research and interviewed eight college students: four men and four women. I asked them when they first tired alcohol and what encouraged them to drink. All four men had tried alcohol by the age of thirteen. Three of the women had also tried alcohol by thirteen and the fourth had tried it by fifteen. All eight students said that peer pressure, boredom, and the thrill of trying something illegal were motivating factors. These results support the research of Brown et al. However, they also raise an interesting point. If boredom is a motivating factor, maybe additional after-school programs could be introduced to dissuade teenagers from underage drinking. Based on my sources, further research is needed to show true preventative measures for teenage alcohol consumption.
 
 Notice how the synthesis paragraphs consider each source and use
 information from each to create a new thesis. A good synthesis does not
