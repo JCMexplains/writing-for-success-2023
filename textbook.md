@@ -19199,9 +19199,9 @@ for you.
 
 Review the following example of a References section. Notice the hanging indents.
 
-![](image55.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
+![](apa-essay-page-8.jpeg "Evaluating low-carb diets page 8 - references page 1 APA")
 
-![](image56.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
+![](apa-essay-page-9.jpeg "Evaluating low-carb diets page 9 - references page 2 APA")
 
 #### Takeaways
 
@@ -19691,7 +19691,7 @@ Move to the next line. Left-align your cursor. Add a "hanging indent." This is t
 
 Your layout should look like this:
 
-![](image55.jpeg "First page of an APA References section")
+![](apa-essay-page-8.jpeg "First page of an APA References section")
 
 #### Formatting Reference Entries
 
@@ -19716,7 +19716,7 @@ This is why page numbers in journal article entries are sometimes very high. Wit
 
 Here is a sample journal article entry for an article called "Fraud in the lunchroom?". It was written by an author named D. N. Bass in 2010. It was from volume 10, issue 1 of a journal called *Education Next*. It appeared on pages 67-71 of that issue.
 
-![](image65.jpeg "Sample Journal Article Entry")
+![](sample-apa-journal-article-entry.jpeg "Sample Journal Article Entry")
 
 Here is a sample entry for a book:
 
@@ -19740,16 +19740,16 @@ Because there are so many different kinds of references, the *Publication Manual
 
 - group: a large category (text, data, audiovisual, or online)
 - category: a smaller category (online contains social media, webpages, and websites)
-- type: a still smaller category (social meida category contains tweets, Instagram posts, etc.)
+- type: a still smaller category (social media category contains tweets, Instagram posts, etc.)
 
 We will follow this organization.
 
 As general notes:
  
 - APA 6 asked for the city of publication for books, but APA 7 no longer does. 
-- APA 6 also asked for the words "Retreived from" before URLs, but APA 7 no longer does.
+- APA 6 also asked for the words "Retrieved from" before URLs, but APA 7 no longer does.
 
-These days, nearly all sources are online. The older way to give a link to an online source uses a "URL." The newer way, which APA 7 prefers, uses a "DOI." A *URL* (uniform resource locater) is the official name for a "link": what you type in your browser to go to a webpage. Because URLs often change, groups like the APA now prefer you to include something called a *DOI*: a "digital object identifier."
+These days, nearly all sources are online. The older way to give a link to an online source uses a "URL." The newer way, which APA 7 prefers, uses a "DOI." A *URL* (uniform resource locator) is the official name for a "link": what you type in your browser to go to a webpage. Because URLs often change, groups like the APA now prefer you to include something called a *DOI*: a "digital object identifier."
 
 A DOI is designed to never change. If you enter it ten years from now, it should take you to the exact same article. Some people think that most of the hard work of creating a References section will be unnecessary if DOIs really take off: the DOI will be all you need. (A DOI is similar to what we used to call a "permalink," but the DOI system has been carefully built from the ground up to be comprehensive in a way that permalinks are not.)
 
@@ -19875,9 +19875,9 @@ chapter title. Then list the names of the book editor(s) and the title
 of the book, followed by the page numbers for the chapter and the usual
 information about the book's publisher.
 
-> Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Associaton.
+> Hughes, J. R., & Pierattini, R. A. (1992). An introduction to pharmacotherapy for mental disorders. In J. Grabowski & G. VandenBos (Eds.), *Psychopharmacology* (pp. 97-125). American Psychological Association.
 
-The difference between an anthology and an edited book of chapters by different authors is subtle. Generally, the chapters in an edited book were written *for that book*. By contrast, the works in an anthology---such as the *Norton Anthology of American Literature*---were collected by an editor after the fact. The contribtors did not write the works for the anthology, and in the case of literature anthologies, most of the authors represented may have died long before the anthology even existed.
+The difference between an anthology and an edited book of chapters by different authors is subtle. Generally, the chapters in an edited book were written *for that book*. By contrast, the works in an anthology---such as the *Norton Anthology of American Literature*---were collected by an editor after the fact. The contributors did not write the works for the anthology, and in the case of literature anthologies, most of the authors represented may have died long before the anthology even existed.
 
 ##### Translated Book
 
