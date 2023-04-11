@@ -20172,21 +20172,21 @@ last name. List them by title if the author is unknown.
 
 Here is Jorge's same paper on low-carb diets reformatted in MLA style.
 
-![](image86.jpeg "Evaluating low-carb diets page 1 MLA")
+![](mla-essay-page-1.jpeg "Evaluating low-carb diets page 1 MLA")
 
-![](image87.jpeg "Evaluating low-carb diets page 2 MLA")
+![](mla-essay-page-2.jpeg "Evaluating low-carb diets page 2 MLA")
 
-![](image88.jpeg "Evaluating low-carb diets page 3 MLA")
+![](mla-essay-page-3.jpeg "Evaluating low-carb diets page 3 MLA")
 
-![](image89.jpeg "Evaluating low-carb diets page 4 MLA")
+![](mla-essay-page-4.jpeg "Evaluating low-carb diets page 4 MLA")
 
-![](image90.jpeg "Evaluating low-carb diets page 5 MLA")
+![](mla-essay-page-5.jpeg "Evaluating low-carb diets page 5 MLA")
 
-![](image91.jpeg "Evaluating low-carb diets page 6 MLA")
+![](mla-essay-page-6.jpeg "Evaluating low-carb diets page 6 MLA")
 
-![](image92.jpeg "Evaluating low-carb diets page 7 - Works Cited page 1 MLA")
+![](mla-essay-page-7.jpeg "Evaluating low-carb diets page 7 - Works Cited page 1 MLA")
 
-![](image93.jpeg "Evaluating low-carb diets page 8 - Works Cited page 2 MLA")
+![](mla-essay-page-8.jpeg "Evaluating low-carb diets page 8 - Works Cited page 2 MLA")
 
 #### Exercise 1
 
