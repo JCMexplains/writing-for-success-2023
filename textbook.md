@@ -147,6 +147,7 @@ a [Creative Commons Attribution-NonCommercial-ShareAlike license](https://creati
 - Simplified language for developmental readers
 - Made style updates to agree with APA 7: "internet" for "Internet", "email" for "e-mail", etc. (see the APA *Publication Manual* p. 162).
 - Updated broken links
+- Added comprehensive alt text to images or replaced images with text to improve accessibility for screen readers
 - Reformatted text in GitHub Flavored Markdown. See https://github.github.com/gfm/
 
 ### 2015 Adaptation
