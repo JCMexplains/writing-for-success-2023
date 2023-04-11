@@ -1775,7 +1775,7 @@ patterns use action verbs and others use linking verbs.
 
 ##### Subject - Verb - Adverb
 
-|S|LV|Adv|
+|S|V|Adv|
 |:---|:---|:---| 
 |Computers| calculate| quickly.|
 
@@ -1819,16 +1819,14 @@ missing a subject or a verb is called a fragment. A fragment may include
 a description or may express part of an idea, but it does not express a
 complete thought.
 
-**Fragment:** Children helping in the kitchen.
+> **Fragment:** Children helping in the kitchen.
 
-**Complete sentence:** Children helping in the kitchen **often make a
+> **Complete sentence:** Children helping in the kitchen **often make a
 mess**.
 
 You can fix a fragment by adding the missing subject or verb. In
 the example, the sentence was missing a verb. Adding *often make a mess*
 creates an S-V-N sentence structure.
-
-Figure 2.1 Editing Fragments That Are Missing a Subject or a Verb
 
 See whether you can identify what is missing in the following fragments.
 
@@ -1845,7 +1843,7 @@ See whether you can identify what is missing in the following fragments.
 Fragments often occur because of some common error, such as starting a
 sentence with a preposition, a dependent word, an infinitive, or a
 gerund. If you use the six basic sentence patterns when you write, you
-should be able to avoid these errors and thus avoid writing fragments.
+should be able to avoid these errors.
 
 When you see a preposition, check to see that it is part of a sentence
 containing a subject and a verb. If it is not connected to a complete
@@ -2339,7 +2337,7 @@ Compound subjects combined with *and* take a plural verb form.
 Compound subjects combined with *or* and *nor* are treated separately.
 The verb must agree with the subject that is nearest to the verb.
 
-#### With *neither . . . Nor*
+#### With *neither . . . nor*
 > **Two singular subjects**: Neither **Alice** nor **Bob** ***wants*** to eat at that restaurant.
 >
 > **Two plural subjects**: Neither **the kids** nor **the adults** ***wants*** to eat at that restaurant.
@@ -2348,7 +2346,7 @@ The verb must agree with the subject that is nearest to the verb.
 >
 > **Plural, then singular**: Neither **the men** nor **Alice** ***wants*** to eat at the restaurant.
 
-#### With *either . . . Or*
+#### With *either . . . or*
 > **Two singular subjects**: Either **you** or **Jason** ***takes*** the furniture out of the garage.
 >
 > **Two plural subjects**: Either **you** or **the twins** ***take*** the furniture out of the garage.
