@@ -1553,9 +1553,9 @@ This sentence has three independent clauses:
 As we just learned, every sentence must have at least one independent clause, and every independent clause must have at least one subject. So it is useful to know how to find the subject.
 
 You will often hear people say "the subject is what does the action of the sentence" or "the subject is what the sentence is about."
-But those things are only true some of the time. Linguists (scientists who study language) define the subject differently. (The discussion below follows *The Oxford Dictionary of English Grammar* by Bas Aarts; see the Works Cited at the end of the book for a reference.)
+But those things are only true some of the time. Linguists (scientists who study language) define the subject differently. (The discussion below follows *The Oxford Dictionary of English Grammar* by Bas Aarts et al.; see the Works Cited at the end of the book for a reference.)
 
-In English, the subject typically comes first. It is the "grmmatical boss" of the sentence, meaning that it controls what ending goes on the verb. What makes something the subject of a sentence is *where is goes* and *how it affects the other words in the sentence*.
+In English, the subject typically comes first. It is the "grmmatical boss" of the sentence: it controls what ending goes on the verb. 
 
 In the sentence below, the subject is *John*.
 
@@ -1563,11 +1563,13 @@ In the sentence below, the subject is *John*.
 
 *John* comes first, and is the "grammatical boss" of the sentence because it makes the *-s* go on the end of the verb *visits*.
 
+What makes something the subject of a sentence is *where is goes* and *how it affects the other words in the sentence*.
+
 In this case, *John* is also the thing that does the action. If I ask, "Who visits the store?"" the answer is, "John does.""
 
 Doing the action in a sentence is called being the *agent* in the sentence. (This is part of the layer of linguistics called *semantics*, the study of meaning, which is a different layer from *syntax*, the study of grammar.)
 
-But the subject does not always do the action. Look at this sentence:
+The subject and the agent are often the same thing, but **not always**. The subject does not always do the action. Look at this sentence:
 
 > The store was visited by John.
 
@@ -1579,13 +1581,13 @@ What is the topic of this sentence?
 
 > I fled from deadly wildfires that swept through California last spring.
 
-Because the wildfires are the reason for the statement and are described in detail, you will probably say that the topic is wildfires.
+Because the wildfires are the reason for making the statement and are described in detail, you might say that the topic is wildfires.
 
-But the word *I* is both the subject and the agent here.
+But the word *I* is the subject here. (The word *I* is also the agent in this sentence. Do you see why?)
 
-The takeaway is that finding the subject is tricky unless you already know what it is. Sometimes teachers don't realize this themselves because they are so used to finding the subject quickly. Psychologists have a name for this: the *curse of knowledge* (Brown et al. 115). Because most teachers know how to find the subject without thinking about it, they don't realize how hard it can be to find. 
+The takeaway is that finding the subject is tricky unless you already know what it is. Sometimes teachers don't realize this because they are so used to finding the subject quickly. Psychologists have a name for this: the *curse of knowledge* (Brown et al. 115). When you are an expert at something, it is hard for you to understand how a beginner will see it and what might confuse them. Because most teachers know how to find the subject without thinking about it, they don't realize how hard it can be to find. 
 
-In the following sentences, the subject is in bold.
+In the following sentences, the subject is in **bold**.
 
 > **Malik** is the project manager for this project. **He** will give us our assignments.
 
@@ -1666,7 +1668,7 @@ a sentence: action verbs, linking verbs, or helping verbs.
 
 A verb that connects the subject to an action is called an action verb.
 An action verb answers the question *what is the subject doing?* In the
-following sentences, the action verbs are in italics.
+following sentences, the action verbs are in ***bold italics***.
 
 > The dog ***barked*** at the jogger.
 
@@ -1683,10 +1685,7 @@ verbs are in ***bold italics***.
 
 > The clock ***is*** broken.
 
-If you have trouble telling the difference between action verbs and
-linking verbs, remember that an action verb shows that the subject is
-doing something, whereas a linking verb simply connects the subject to
-another word that describes or modifies the subject. A few verbs can be
+A few verbs can be
 used as either action verbs or linking verbs.
 
 > The boy ***looked*** for his glove.
@@ -1694,7 +1693,9 @@ used as either action verbs or linking verbs.
 > The boy ***looked*** tired.
 
 In the first sentence, *looked* is an action verb. It describes
-the boy's action. In the second sentence, *looked* is a linking verb. It describes the boy's
+the boy's action. 
+
+In the second sentence, *looked* is a linking verb. It describes the boy's
 appearance.
 
 ### Helping Verbs
@@ -1714,31 +1715,30 @@ word *can* is also used as a helping verb.
 
 **Tip**
 
-Whenever you write or edit sentences, keep the subject and verb in mind.
+Whenever you write, keep the subject and verb in mind.
 As you write, ask yourself these questions to keep yourself on track:
 
-**Subject:** Who or what is the sentence about?
+**Subject:** Look first at the start of the sentence. Ask which word, if you changed it, could change the verb. 
 
-**Verb:** Which word shows an action or links the subject to a
+- **Sometimes** it will work to also ask what is doing the action (the agent) or what the sentence is about (the topic). A subject is often also the agent and the topic, but not always.
+
+**Verb:** Which word(s) show(s) an action or links the subject to a
 description?
 
-Copy each sentence onto your own sheet of paper and underline the
-verb(s) twice. 
+### Exercise 2
 
-Name the type of verb(s) used in the sentence in the
-space provided (LV, HV, or V).
+- Copy each sentence onto your own sheet of paper. 
+- In each sentence, underline the verb(s). 
+- Name each verb as an action verb, linking verb, or helping verb.
 
-1. The cat sounds ready to come back inside. \_\_\_\_\_\_\_\_
-2. We have not eaten dinner yet. \_\_\_\_\_\_\_\_
-3. It took four people to move the broken-down car. \_\_\_\_\_\_\_\_
-4. The book was filled with notes from class. \_\_\_\_\_\_\_\_
-5. We walked from room to room, inspecting for damages. \_\_\_\_\_\_\_\_
-6. Harold was expecting a package in the mail. \_\_\_\_\_\_\_\_
-7. The clothes still felt damp even though they had been through the
-dryer twice. \_\_\_\_\_\_\_\_
-
-8. The teacher who runs the studio is often praised for his restoration
-work on old masterpieces. \_\_\_\_\_\_\_\_
+1. The cat sounds ready to come back inside. 
+2. We have not eaten dinner yet. 
+3. It took four people to move the broken-down car. 
+4. The book was filled with notes from class. 
+5. We walked from room to room, inspecting for damages. 
+6. Harold was expecting a package in the mail. 
+7. The clothes still felt damp even though they had been through the dryer twice.
+8. The teacher who runs the studio is often praised for his restoration work on old masterpieces. 
 
 ### Sentence Structure, Including Fragments And Run-ons
 
