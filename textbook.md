@@ -17762,7 +17762,22 @@ more information about the structures used in writing, see **Chapter
 The purpose of Jorge's paper was primarily to persuade. With that in
 mind, he planned the following outline.
 
-![](image44.jpeg "A formal outline for Jorge's paper")
+    I. Introduction
+        A. Background
+        B. Thesis
+    II. Purported Benefits of Low-Carbohydrate Diets
+        A. United States Department of Agriculture (USDA) nutrition guidelines
+        B. Potential flaws in USDA nutrition guidelines
+            1. Effects of carbohydrates on blood sugar, insulin
+            2. Relationship to metabolism and obesity
+    III. Research on Low-Carbohydrate Diets and Weight Loss
+        A. Short-term effectiveness for weight loss
+        B. Long-term effectiveness not established
+    IV. Other Long-Term Health Outcomes
+        A. Cholesterol and heart disease
+        B. Blood pressure
+        C. Diabetes
+    V. Conclusion
 
 #### Exercise 3
 
@@ -20452,7 +20467,12 @@ points he would use to open his presentation. He also planned to show
 various web links early on to illustrate the popularity of the
 low-carbohydrate diet trend.
 
-![](image82.jpeg "Introduction section with the categories: background, and thesis/point of view")
+    Beyond the Hype: Evaluating Low-Carbohydrate Diets
+    I. Introduction
+        A. Background---popularity of low-carbohydrate dieting (show websites)
+        B. Thesis/point of view---Although following a low-carbohydrate diet can benefit some people, 
+        these diets are not the best option for all dieters, whether they want to lose weight 
+        or improve their health
 
 ### Planning The Body Of Your Presentation
 
