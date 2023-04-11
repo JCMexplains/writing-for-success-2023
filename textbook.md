@@ -2792,7 +2792,7 @@ review your experiences with the Customer Relationship Management
 Program. Please suggest a convenient time next week for us to meet so
 that we can discuss this important matter.
 
-Using different tenses in the email can make it harder for the reader to understand what you mean. Your coworkers might not say anything about it, but it's important to avoid mistakes like this because they can have a small negative effect on how you're seen at work.
+Using different tenses in an email can make it harder to understand. Your coworkers might not say anything about it, but it's important to avoid mistakes like this because they can have a small negative effect on how you're seen at work.
 
 #### Takeaways
 
@@ -8642,7 +8642,9 @@ the main points of the work.
 
 Look at a student's analysis of the journal report.
 
-![](image14.jpeg "A student's one-paragraph analysis of the report")
+> At the beginning of their report, Brown et al. use specific data regarding the use of alcohol by high school students and college-aged students, which is supported by several studies. Later in the report, they consider how various socioeconomic factors influence problem drinking in adolescence. The latter part of the report is far less specific and does not provide statistics or examples.
+> 
+> The lack of specifics in the second part raises important questions. Why are teenagers in rural high schools more likely to drink than teenagers in urban areas? Where do they get alcohol? How do parental attitudes influence this pattern? A follow-up study could compare several high schools in rural and urban areas to consider these issues and perhaps find ways to reduce teenage drinking.
 
 When you analyze something, like a report, you don't just repeat the same information that's already there. Instead, you look at how all the different points in the report fit together. By doing this, a student noticed that some points had statistics to back them up, but other points needed more information. Analyzing a document means looking carefully at each part and how they all fit together.
 
