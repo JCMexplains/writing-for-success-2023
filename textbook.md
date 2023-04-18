@@ -13101,10 +13101,12 @@ as these can become material for future essays.
 
 Now that you have read about what makes a good thesis, look at some examples of a bad thesis:
 
-A thesis is weak when it just declares what you will discuss in your essay. Students usually write a thesis like this when they don't know what their thesis will be yet and hope to figure it out as they go. You can *start* a paper like this, but you can't *finish* it like this. Once you are done, your thesis must contain a precise claim. So you can't write a really good thesis until your paper is complete!
+A thesis is weak when it just declares what you will discuss in your essay. 
 
 > **Weak thesis** My paper will explain why imagination is more
 important than knowledge.
+
+Students usually write a thesis like the one above when they don't know what their thesis will be yet and hope to figure it out as they go. You can *start* a paper like this, but you can't *finish* it like this. Once you are done, your thesis must contain a precise claim. So you can't write a really good thesis until your paper is complete!
 
 A thesis is weak when it makes an unreasonable claim or
 insults the opposing side. This thesis is too opinionated--no one one the other side will be persuaded if you start by insulting them.
@@ -13117,7 +13119,7 @@ one could disagree with.
 > **Weak thesis** Advertising companies use sex to sell their
 products.
 
-A thesis is weak when the statement is too broad.
+A thesis is weak when it is too broad.
 
 > **Weak thesis** The life of Abraham Lincoln was long and
 challenging.
@@ -13161,7 +13163,7 @@ Your thesis will probably change as you write, so you will need to
 modify it to reflect exactly what you have discussed in your essay.
 Remember from **Chapter
 8** that your thesis
-statement begins as a working thesis an indefinite statement
+statement begins as a *working thesis*: an indefinite statement
 that you make about your topic early in the writing process for the
 purpose of planning and guiding your writing.
 
