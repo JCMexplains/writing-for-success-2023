@@ -13020,47 +13020,24 @@ issue but rather dissects it.
 
 ### A Strong Thesis
 
-A strong thesis should the following qualities.
+A strong thesis should have all of these qualities.
 
-**Specificity.** A thesis must concentrate on a specific area
-of a general topic. As you may recall, the creation of a thesis
-statement begins when you choose a broad subject and then narrow down
-its parts until you pinpoint a specific aspect of that topic. For
-example, health care is a broad topic, but a proper thesis
-would focus on a specific area of that topic, such as options for
-individuals without health care coverage.
+**Specific topic.** A thesis must concentrate on a specific area
+of a general topic. In writing a paper, you generally begin by choosing a broad topic and then narrow it until you pinpoint a specific aspect. For
+example, *health care* is a broad topic, but a strong thesis
+would focus a specific aspect of health care such as *options for
+people without health care*.
 
-**Precision.** A strong thesis must be precise enough to allow
-for a coherent argument and to remain focused on the topic. If the
-specific topic is options for individuals without health care coverage,
-then your precise thesis must make an exact claim about it,
-such as that limited options exist for those who are uninsured by their
-employers. You must further pinpoint what you are going to discuss
-regarding these limited effects, such as whom they affect and what the
-cause is.
+**Precise claim.** If your specific focus is *options for individuals without health care*,
+then your thesis must make a precise claim about it,
+such as, *in the United States in the 2020s, there are no good health care options unless you are covered by an employer*. 
 
-**Ability to be argued.** A thesis must present a relevant and
-specific argument. A factual statement often is not considered arguable.
-Be sure your thesis contains a point of view that can be
-supported with evidence.
+**Arguable.** A thesis must be arguable: that is, you must have a strong claim that you can support with evidence and persuasion, but it cannot be something that is simply a true fact, because then you have nothing to argue about. *The moon orbits the earth* is specific and precise, but it is not arguable, because no reasonable person could disagree with you about it.
 
-**Ability to be demonstrated.** For any claim you make in your thesis,
-you must be able to provide reasons and examples for your opinion. You
-can rely on personal observations in order to do this, or you can
-consult outside sources to demonstrate that what you assert is valid. A
-worthy argument is backed by examples and details.
+**Demonstrable.** You need to back your thesis with evidence, reasoning, and/or examples. *The United States should legalize marijuana in all 50 states because that's just how I feel* is specific, precise, and arguable, but you have not demonstrated why a reader should agree with you. If you say "that's just how I feel," someone who feels different will respond, "But that's not how I feel." If you say instead *...because it is useful in the treatment of pain and does far less harm than alcohol or tobacco*, then you have given a demonstration of why someone else should agree.
 
-**Forcefulness.** A thesis that is forceful shows readers that
-you are, in fact, making an argument. The tone is assertive and takes a
-stance that others might oppose.
+**Confident.** A thesis should make a claim. Don't second-guess yourself by saying "maybe" or "I could be wrong." This does **not** mean you should bully or insult your readers. And many professors will ask you to consider (later in your paper) why a smart person might disagree with you (this is sometimes called an *antithesis* or a *counterargument*). But **in your thesis itself**, you should be firm in what you believe.
 
-**Confidence.** In addition to using force in your thesis you
-must also use confidence in your claim. Phrases such as *I feel* or *I
-believe* actually weaken the readers' sense of your confidence because
-these phrases imply that you are the only person who feels the way you
-do. In other words, your stance has insufficient backing. Taking an
-authoritative stance on the matter persuades your readers to have faith
-in your argument and open their minds to what you have to say.
 
 **Tip**
 
@@ -13085,15 +13062,14 @@ Topics
 
 ### Examples Of Appropriate Theses
 
-Each of the following theses meets several of the following
+Each of the following theses meets the following
 requirements:
 
-- Specificity
-- Precision
-- Ability to be argued
-- Ability to be demonstrated
-- Forcefulness
-- Confidence
+- Specific
+- Precise
+- Arguable
+- Demonstrable
+- Confident
 
 1. The societal and personal struggles of Troy Maxon in the play
 *Fences* symbolize the challenge of black males who lived through
@@ -13123,23 +13099,20 @@ paying attention to people's opinions and their reasons for those
 opinions. Pay attention to your own everyday theses as well,
 as these can become material for future essays.
 
-Now that you have read about the contents of a good thesis and
-have seen examples, look at the pitfalls to avoid when composing your
-own thesis:
+Now that you have read about what makes a good thesis, look at some examples of a bad thesis:
 
-A thesis is weak when it is simply a declaration of your subject or a
-description of what you will discuss in your essay.
+A thesis is weak when it just declares what you will discuss in your essay. Students usually write a thesis like this when they don't know what their thesis will be yet and hope to figure it out as they go. You can *start* a paper like this, but you can't *finish* it like this. Once you are done, your thesis must contain a precise claim. So you can't write a really good thesis until your paper is complete!
 
 > **Weak thesis** My paper will explain why imagination is more
 important than knowledge.
 
-A thesis is weak when it makes an unreasonable or outrageous claim or
-insults the opposing side.
+A thesis is weak when it makes an unreasonable claim or
+insults the opposing side. This thesis is too opinionated--no one one the other side will be persuaded if you start by insulting them.
 
 > **Weak thesis** Religious radicals across America are trying to legislate their Puritanical beliefs by banning required high school books.
 
-A thesis is weak when it contains an obvious fact or something that no
-one can disagree with or provides a dead end.
+A thesis is weak when it states a fact that no
+one could disagree with.
 
 > **Weak thesis** Advertising companies use sex to sell their
 products.
