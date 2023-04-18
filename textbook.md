@@ -13064,8 +13064,8 @@ Topics
 Each of the following theses meets the following
 requirements:
 
-- Specific
-- Precise
+- Specific topic
+- Precise claim
 - Arguable
 - Demonstrable
 - Confident
