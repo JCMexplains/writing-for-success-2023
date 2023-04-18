@@ -13031,7 +13031,7 @@ people without health care*.
 then your thesis must make a precise claim about it,
 such as, *in the United States in the 2020s, there are no good health care options unless you are covered by an employer*. 
 
-**Arguable.** A thesis must be arguable: that is, you must have a strong claim that you can support with evidence and persuasion, but it cannot be something that is simply a true fact, because then you have nothing to argue about. *The moon orbits the earth* is specific and precise, but it is not arguable, because no reasonable person could disagree with you about it.
+**Arguable.** A thesis must be arguable: that is, you must have a strong claim that you can support with evidence and persuasion, but it cannot be something that is simply a true fact, because then you have nothing to argue about. *The moon orbits the Earth* has a specific topic (the Earth has only one moon) and makes a precise claim about it ("orbiting" has a precise meaning in astronomy), but it is not arguable, because no reasonable person could disagree with you about it.
 
 **Demonstrable.** You need to back your thesis with evidence, reasoning, and/or examples. *The United States should legalize marijuana in all 50 states because that's just how I feel* is specific, precise, and arguable, but you have not demonstrated why a reader should agree with you. If you say "that's just how I feel," someone who feels different will respond, "But that's not how I feel." If you say instead *...because it is useful in the treatment of pain and does far less harm than alcohol or tobacco*, then you have given a demonstration of why someone else should agree.
 
