@@ -12932,9 +12932,8 @@ how writing is taught at the college level. Your purpose is to
 explain the stages of the writing process so that readers will
 understand its benefits.
 
-3. Pieces of writing in various real-life and work-related situations
-would benefit from revising and editing. Consider the following
-list of real-life and work-related pieces of writing: emails,
+3. Much writing from daily life and from work
+would benefit from revising and editing. Consider these kinds of writing: emails,
 greeting card messages, junk mail, late-night television
 commercials, social networking pages, local newspapers,
 bulletin-board postings, and public notices. Find and submit at
@@ -12968,11 +12967,11 @@ college essay about her topic.
 
 ## Writing Essays: From Start To Finish
 
-## 9.1 Developing A Strong, Clear Thesis
+## 9.1 Developing A Strong Thesis
 
 **Learning Objectives**
 
-1. Develop a strong, clear thesis with the proper elements.
+1. Develop a strong thesis 
 2. Revise your thesis
 
 Have you ever known a person who was not very good at telling stories?
@@ -13005,7 +13004,7 @@ topic or simply answer a question with a yes or no. You have to form a
 specific opinion, and then articulate that into a controlling idea---the
 main idea upon which you build your thesis.
 
-Remember that a thesis is not the topic itself, but rather your
+Remember that a thesis is not the topic, but rather your
 interpretation of the question or subject. For whatever topic your
 professor gives you, you must ask yourself, "What do I want to say about
 it?" Asking and then answering this question is vital to forming a
@@ -13060,7 +13059,7 @@ Topics
 - Abortion
 - Racism
 
-### Examples Of Appropriate Theses
+### Examples Of Strong Theses
 
 Each of the following theses meets the following
 requirements:
