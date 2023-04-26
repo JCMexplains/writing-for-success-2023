@@ -1921,20 +1921,20 @@ with a nearby sentence.
 
 #### Editing Fragments That Begin With Gerunds
 
-**Incorrect:** Taking deep breaths. Saul prepared for his presentation.
-
-**Correct: T**aking deep breaths**,** Saul prepared for his presentation.
-
-**Correct:** Saul prepared for his presentation. He **was taking** deep
+>**Incorrect:** Taking deep breaths. Saul prepared for his presentation.
+>
+>**Correct:** Taking deep breaths, Saul prepared for his presentation.
+>
+>**Correct:** Saul prepared for his presentation. He **was taking** deep
 breaths.
 
-**Incorrect:** Congratulating the entire team. Sarah raised her glass to
+>**Incorrect:** Congratulating the entire team. Sarah raised her glass to
 toast their success.
-
-**Correct: She was c**ongratulating the entire team. Sarah raised her
+>
+>**Correct: She was c**ongratulating the entire team. Sarah raised her
 glass to toast their success.
-
-**Correct:** Congratulating the entire team, Sarah raised her glass
+>
+>**Correct:** Congratulating the entire team, Sarah raised her glass
 to toast their success.
 
 Another error in sentence construction is a fragment that begins with an
