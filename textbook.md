@@ -1833,7 +1833,7 @@ a description or may express part of an idea, but it does not express a
 complete thought.
 
 > **Fragment:** Children helping in the kitchen.
-
+>
 > **Complete sentence:** Children helping in the kitchen **often make a
 mess**.
 
@@ -1869,9 +1869,9 @@ phrase.
 ##### Fragment Example 1
 
 > **Fragment**: After walking over two miles. John remembered his wallet.
-
+>
 > **Fixed**: After walking over two miles, John remembered his wallet.
-
+>
 > **Fixed**: John remembered his wallet ~After~ after walking over two miles.
 
 ##### Fragment Example 2
@@ -1891,16 +1891,16 @@ a sentence. If the fragment is added at the beginning of a sentence, add
 a comma.
 
 > **Fragment**: Because we lost power. The entire family overslept.
-
+>
 > **Fixed**: Because we lost power, the entire family overslept.
-
+>
 > **Fixed**: The entire family overslept ~Because~ because we lost power.
 
 
 > **Fragment**: He has been seeing a physical therapist. Since his accident.
-
+>
 > **Fixed**: Since his accident, he has been seeing a physical therapist.
-
+>
 > **Fixed**: He has been seeing a physical therapist ~Since~ since his accident.
 
 When you encounter a word ending in *-ing* in a sentence, identify
@@ -1944,13 +1944,13 @@ verbs, they can be used as nouns, adjectives, or adverbs. You can
 correct a fragment that begins with an infinitive by either combining it
 with another sentence or adding the parts of speech that are missing.
 
-**Incorrect:** We needed to make three hundred more paper cranes. To
+>**Incorrect:** We needed to make three hundred more paper cranes. To
 reach the one thousand mark.
-
-**Correct:** We needed to make three hundred more paper cranes **to**
+>
+>**Correct:** We needed to make three hundred more paper cranes **to**
 reach the one thousand mark.
-
-**Correct:** We needed to make three hundred more paper cranes. **We
+>
+>**Correct:** We needed to make three hundred more paper cranes. **We
 wanted to** reach the one thousand mark.
 
 #### Exercise 4
@@ -1973,22 +1973,25 @@ day.
 
 ### Run-on Sentences
 
-Just as short, incomplete sentences can be problematic, lengthy
-sentences can be problematic too. Sentences with two or more independent
-clauses that have been incorrectly combined are known as run-on
-sentences. A run-on sentence may be either a fused sentence or a comma
-splice.
+A *run-on sentence* is a sentence with too many parts. It is the opposite of a fragment.
+
+Informally, we think of fragments as sentences that are too short, and run-ons as sentences that are too long. But that's not precise. A fragment is a sentence that is too short **because it is missing a part**. A run-on is a sentence that is too long **because it has too many parts**.
+
+I can write a very short sentence that is a run on: "Bob eats Bob sleeps."
+
+I can write a very long sentence that is not a run-on: "Walking slowly, chewing thoughtfully, the old poet rubbed the worn elbows of his Irish wool sweater as he looked wearily over the same hill he had regarded for each of the last thirty years of mornings, wondering whether this morning would finally be the one to bring his daughter walking over it."
+
+Any sentence with two or more independent
+clauses that have been incorrectly combined is a run-on. 
+
+Each run-on is either a *fused sentence* (independent clauses connected by nothing) or a *comma
+splice* (independent clauses connected by only a comma).
 
 > **Fused sentence:** A family of foxes lived under our shed young foxes
 played all over the yard.
 
 > **Comma splice:** We looked outside, the kids were hopping on the
 trampoline.
-
-When two sentences are combined into one without any
-punctuation, the result is a fused sentence. When two complete sentences
-are joined by a comma, the result is a comma splice. Both errors can
-easily be fixed.
 
 ### Punctuation
 
