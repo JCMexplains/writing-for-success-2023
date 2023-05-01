@@ -1841,9 +1841,7 @@ The sentence above has a main verb, *help*.
 
 The sentence above also has a main verb, *enjoy*.
 
-You can fix a fragment by adding the missing subject or verb. In
-the example, the sentence was missing a verb. Adding *often make a mess*
-creates an S-V-N sentence structure.
+You can fix a fragment by adding the missing subject or verb.
 
 See whether you can identify what is missing in the following fragments.
 
@@ -1857,26 +1855,25 @@ See whether you can identify what is missing in the following fragments.
 
 ### Common Sentence Errors
 
-Fragments often occur because of some common error, such as starting a
+Fragments often occur when you start a
 sentence with a preposition, a dependent word, an infinitive, or a
 gerund. If you use the six basic sentence patterns when you write, you
 should be able to avoid these errors.
 
-When you see a preposition, check to see that it is part of a sentence
-containing a subject and a verb. If it is not connected to a complete
-sentence, it is a fragment, and you will need to fix this type of
-fragment by combining it with another sentence. You can add the
-prepositional phrase to the end of the sentence. If you add it to the
-beginning of the other sentence, insert a comma after the prepositional
-phrase.
+When you see a prepositional phrase, check to see that it is part of a sentence
+with a subject and a main verb. Here, the prepostional phrase *After walking over two miles* is not part of a sentence with a subject and a main verb, so it is a fragment.
 
-##### Fragment Example 1
+> **Prepositional phrase fragment**: After walking over two miles. John remembered his wallet.
 
-> **Fragment**: After walking over two miles. John remembered his wallet.
->
-> **Fixed**: After walking over two miles, John remembered his wallet.
->
-> **Fixed**: John remembered his wallet after walking over two miles.
+
+You can fix it by attaching it to the front of its neighbor complete sentence:
+
+
+> **Fixed by adding to the front**: After walking over two miles, John remembered his wallet.
+
+Or you can fix it by attaching it to the back of its neighbor complete sentence:
+
+> **Fixed by adding to the back**: John remembered his wallet after walking over two miles.
 
 ##### Fragment Example 2
 
@@ -1884,7 +1881,7 @@ phrase.
 >
 > **Fixed**: When the vacuum cleaner was switched on, the dog growled.
 >
-> **Fixed**: The dog growled at the vacuum cleaner ~When~ when it was switched on.
+> **Fixed**: The dog growled at the vacuum cleaner when it was switched on.
 
 Clauses that start with a dependent word---such as *since*, *because*,
 *without*, or *unless*---are similar to prepositional phrases. Like
