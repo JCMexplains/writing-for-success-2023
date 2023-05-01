@@ -1911,8 +1911,8 @@ Or you can fix it by attaching it to the back of its neighbor independent clause
 
 #### Gerund Fragments
 
-When you encounter a word ending in *-ing* in a sentence, identify
-whether or not this word is used as a verb in the sentence. You may also
+When you encounter a word ending in *-ing* in a sentence, check
+whether it is being used as a verb. You may also
 look for a helping verb. If the word is not used as a verb or if no
 helping verb is used with the *-ing* verb form, the verb is being used
 as a noun. An *-ing* verb form used as a noun is called a gerund.
