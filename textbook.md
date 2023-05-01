@@ -1853,12 +1853,9 @@ See whether you can identify what is missing in the following fragments.
 >
 > Complete sentence: The store down on Main Street **sells music**.
 
-### Common Sentence Errors
-
 Fragments often occur when you start a
 sentence with a preposition, a dependent word, an infinitive, or a
-gerund. If you use the six basic sentence patterns when you write, you
-should be able to avoid these errors.
+gerund.
 
 #### Prepositional Phrase Fragments
 
