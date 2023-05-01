@@ -2086,8 +2086,7 @@ room hadn't been used in years.
 
 #### Exercise 5
 
-A reader can get lost in material that is too
-rambling. Use what you have learned about run-on sentences to correct
+A reader can get lost in material that rambles. Use what you have learned about run-on sentences to correct
 these passages:
 
 1. The report is due on Wednesday but we're flying back from Miami that
