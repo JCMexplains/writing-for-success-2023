@@ -1825,17 +1825,21 @@ Adj, Adv, DO, IO). Please share or post your results.
 
 ### Fragments
 
-The sentences you have encountered so far have been independent clauses.
-As you look more closely at your past writing assignments, you may
-notice that some of your sentences are not complete. A sentence that is
-missing a subject or a verb is called a fragment. A fragment may include
-a description or may express part of an idea, but it does not express a
-complete thought.
+In your writing, you may
+notice that some of your "sentences" are not complete. A "sentence" that is
+missing a subject or a main verb is called a *fragment*.
 
-> **Fragment:** Children helping in the kitchen.
->
-> **Complete sentence:** Children helping in the kitchen **often make a
-mess**.
+> **Fragment:** Children **helping** in the kitchen.
+
+This fragment has a subject, *children*. And it has a verb, *helping*, but it is an *-ing* verb. An *-ing* verb cannot be the only verb in a sentence. We say that it is not a *main verb*.
+
+> **Complete sentence:** Children **help** in the kitchen.
+
+The sentence above has a main verb, *help*.
+
+> **Complete sentence:** Children **enjoy helping** in the kitchen.
+
+The sentence above also has a main verb, *enjoy*.
 
 You can fix a fragment by adding the missing subject or verb. In
 the example, the sentence was missing a verb. Adding *often make a mess*
