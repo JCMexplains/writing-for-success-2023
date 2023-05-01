@@ -1872,15 +1872,15 @@ phrase.
 >
 > **Fixed**: After walking over two miles, John remembered his wallet.
 >
-> **Fixed**: John remembered his wallet ~After~ after walking over two miles.
+> **Fixed**: John remembered his wallet after walking over two miles.
 
 ##### Fragment Example 2
 
 > **Fragment**: The dog growled at the vacuum cleaner. When it was switched on.
-
-> **Fragment**: When the vacuum cleaner was switched on, the dog growled.
-
-> **Fragment**: The dog growled at the vacuum cleaner ~When~ when it was switched on.
+>
+> **Fixed**: When the vacuum cleaner was switched on, the dog growled.
+>
+> **Fixed**: The dog growled at the vacuum cleaner ~When~ when it was switched on.
 
 Clauses that start with a dependent word---such as *since*, *because*,
 *without*, or *unless*---are similar to prepositional phrases. Like
@@ -1955,8 +1955,10 @@ wanted to** reach the one thousand mark.
 
 #### Exercise 4
 
-Copy these sentences onto your own sheet of paper and circle the
-fragments. Then combine the fragment with the independent clause to
+Each numbered item below contains one fragment and one independent clause. 
+
+Copy each item onto your own sheet of paper and circle the
+fragment. Then combine the fragment with the independent clause to
 create a complete sentence.
 
 1. Working without taking a break. We try to get as much work done as
