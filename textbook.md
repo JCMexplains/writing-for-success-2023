@@ -1860,49 +1860,59 @@ sentence with a preposition, a dependent word, an infinitive, or a
 gerund. If you use the six basic sentence patterns when you write, you
 should be able to avoid these errors.
 
+#### Prepositional Phrase Fragments
+
 When you see a prepositional phrase, check to see that it is part of a sentence
 with a subject and a main verb. Here, the prepostional phrase *After walking over two miles* is not part of a sentence with a subject and a main verb, so it is a fragment.
 
 > **Prepositional phrase fragment**: After walking over two miles. John remembered his wallet.
 
 
-You can fix it by attaching it to the front of its neighbor complete sentence:
+You can fix it by attaching it to the front of its neighbor independent clause:
 
 
 > **Fixed by adding to the front**: After walking over two miles, John remembered his wallet.
 
-Or you can fix it by attaching it to the back of its neighbor complete sentence:
+Or you can fix it by attaching it to the back of its neighbor independent clause:
 
 > **Fixed by adding to the back**: John remembered his wallet after walking over two miles.
 
-##### Fragment Example 2
+##### Prepositional Phrase Fragment Example 2
 
-> **Fragment**: The dog growled at the vacuum cleaner. When it was switched on.
+> **Prepositional phrase fragment**: The dog growled at the vacuum cleaner. When it was switched on.
 >
 > **Fixed**: When the vacuum cleaner was switched on, the dog growled.
 >
 > **Fixed**: The dog growled at the vacuum cleaner when it was switched on.
 
+#### Dependent Clause Fragments
+
 Clauses that start with a dependent word---such as *since*, *because*,
 *without*, or *unless*---are similar to prepositional phrases. Like
-prepositional phrases, these clauses can be fragments if they are not
-connected to an independent clause containing a subject and a verb. To
-fix the problem, you can add such a fragment to the beginning or end of
-a sentence. If the fragment is added at the beginning of a sentence, add
-a comma.
+prepositional phrases, these *dependent clauses* are fragments if they are not
+connected to an independent clause. 
 
-> **Fragment**: Because we lost power. The entire family overslept.
->
+Here, *Because we lost power* is a dependent clause fragment.
+
+> **Dependent clause fragment**: Because we lost power. The entire family overslept.
+
+You can fix it by attaching it to the front of its neighbor independent clause:
+
 > **Fixed**: Because we lost power, the entire family overslept.
->
-> **Fixed**: The entire family overslept ~Because~ because we lost power.
 
+Or you can fix it by attaching it to the back of its neighbor independent clause:
 
-> **Fragment**: He has been seeing a physical therapist. Since his accident.
+> **Fixed**: The entire family overslept because we lost power.
+
+##### Dependent Clause Fragment Example 2
+
+> **Dependent clause fragment**: He has been seeing a physical therapist. Since his accident.
 >
 > **Fixed**: Since his accident, he has been seeing a physical therapist.
 >
 > **Fixed**: He has been seeing a physical therapist ~Since~ since his accident.
+
+#### Gerund Fragments
 
 When you encounter a word ending in *-ing* in a sentence, identify
 whether or not this word is used as a verb in the sentence. You may also
@@ -1910,9 +1920,9 @@ look for a helping verb. If the word is not used as a verb or if no
 helping verb is used with the *-ing* verb form, the verb is being used
 as a noun. An *-ing* verb form used as a noun is called a gerund.
 
-> Verb: I was working on homework until midnight.
+> Verb: I was *working* on homework until midnight.
 
-> Noun: Working until midnight makes me tired the next morning.
+> Noun (gerund): *Working* until midnight makes me tired the next morning.
 
 Once you know whether the *-ing* word is acting as a noun or a verb,
 look at the rest of the sentence. Does the entire sentence make sense on
@@ -1920,39 +1930,48 @@ its own? If not, what you are looking at is a fragment. You will need to
 either add the parts of speech that are missing or combine the fragment
 with a nearby sentence.
 
-#### Editing Fragments That Begin With Gerunds
+*Taking deep breaths* is a gerund fragment.
 
->**Incorrect:** Taking deep breaths. Saul prepared for his presentation.
->
+>**Fragment:** Taking deep breaths. Saul prepared for his presentation.
+
+You can fix it by attaching it to the front of its neighbor independent clause:
+
 >**Correct:** Taking deep breaths, Saul prepared for his presentation.
->
->**Correct:** Saul prepared for his presentation. He **was taking** deep
-breaths.
 
->**Incorrect:** Congratulating the entire team. Sarah raised her glass to
+Or you can turn it into its own sentence after its neighbor independent clause:
+
+>**Correct:** Saul prepared for his presentation by taking deep breaths.
+
+#### Gerund Fragment Example 2
+
+>**Gerund fragment:** Congratulating the entire team. Sarah raised her glass to
 toast their success.
 >
->**Correct: She was c**ongratulating the entire team. Sarah raised her
-glass to toast their success.
+>**Fixed:** Sarah raised her
+glass to toast their success, congratulating the entire team.
 >
->**Correct:** Congratulating the entire team, Sarah raised her glass
+>**Fixed:** Congratulating the entire team, Sarah raised her glass
 to toast their success.
+
+### Infinitive Fragments
 
 Another error in sentence construction is a fragment that begins with an
 infinitive. An infinitive is a verb paired with the word *to*; for
-example, *to run*, *to write*, or *to reach*. Although infinitives are
+example, *to run*, *to write*, or *to reach*. 
+
+Although infinitives are
 verbs, they can be used as nouns, adjectives, or adverbs. You can
 correct a fragment that begins with an infinitive by either combining it
 with another sentence or adding the parts of speech that are missing.
 
->**Incorrect:** We needed to make three hundred more paper cranes. To
+>**Infinitive fragment:** We needed to make three hundred more paper cranes. To
 reach the one thousand mark.
 >
->**Correct:** We needed to make three hundred more paper cranes **to**
+>**Fixed:** We needed to make three hundred more paper cranes to
 reach the one thousand mark.
 >
->**Correct:** We needed to make three hundred more paper cranes. **We
-wanted to** reach the one thousand mark.
+>**Fixed:** We needed to make three hundred more paper cranes. We
+wanted to reach the one thousand mark.
 
 #### Exercise 4
 
