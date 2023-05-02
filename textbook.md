@@ -1556,7 +1556,7 @@ As we just learned, every sentence must have at least one independent clause, an
 You will often hear people say "the subject is what does the action of the sentence" or "the subject is what the sentence is about."
 But those things are only true some of the time. Linguists (scientists who study language) define the subject differently. (The discussion below follows *The Oxford Dictionary of English Grammar* by Bas Aarts et al.; see the Works Cited at the end of the book for a reference.)
 
-In English, the subject typically comes first. It is the "grmmatical boss" of the sentence: it controls what ending goes on the verb. 
+In English, the subject typically comes first. It is the "grammatical boss" of the sentence: it controls what ending goes on the verb. 
 
 In the sentence below, the subject is *John*.
 
