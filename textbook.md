@@ -13293,13 +13293,13 @@ In the first section of **Chapter 8**, you determined
 your purpose and your audience. You then freewrote about a recent experience and chose a
 general topic to write about. 
 
-Next, you narrowed your general topic by answering the 5WH questions. Then you chose one of the three methods of prewriting and
-gathered possible supporting points for your working thesis
+Next, you narrowed your general topic by answering the 5WH questions. Then you chose a prewriting method and
+gathered supporting points for your working thesis.
 
-Now, on a separate sheet of paper, write down your working thesis
-statement. Identify any weaknesses in this sentence and revise the
-statement to reflect the elements of a strong thesis Make
-sure it is specific, precise, arguable, demonstrable, forceful, and
+Now, on a separate sheet of paper, write down your working thesis. Identify any weaknesses and revise the
+thesis. 
+
+Make sure it is has a specific topic, has a precise claim, and is arguable, demonstrable, and
 confident.
 
 #### Writing At Work
@@ -13311,14 +13311,13 @@ Sometimes in your job, you might need to write a plan to fix a problem in your c
 suggest how the essay will be organized.
 - A thesis is your interpretation of the subject, not the topic
 itself.
-- A strong thesis is specific, precise, forceful, confident, and is able
-to be demonstrated.
+- A strong thesis has a specific topic, makes a precise claim, and is arguable, demonstrable, and confident.
 - A strong thesis challenges readers with a point of view that can be
 debated and can be supported with evidence.
 - A weak thesis is simply a declaration of your topic or contains an
 obvious fact that cannot be argued.
 - Depending on your topic, it may or may not be appropriate to use first
-person point of view.
+person (the word *I*).
 - Revise your thesis by ensuring all words are specific, all ideas are
 exact, and all verbs express action.
 
