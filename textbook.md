@@ -452,11 +452,11 @@ Even when a text does not have built-in comprehension features, you can
 actively monitor your own comprehension. Try these strategies, adapting
 them as needed to suit different kinds of texts:
 
-1. **Summarize.** At the end of each section, pause to summarize the
+1. **Summarize**. At the end of each section, pause to summarize the
 main points in a few sentences. If you have trouble doing so,
 revisit that section.
 
-2. **Ask and answer questions.** When you begin reading a section, try
+2. **Ask and answer questions**. When you begin reading a section, try
 to identify two to three questions you should be able to answer
 after you finish it. Write down your questions and use them to test
 yourself on the reading. If you cannot answer a question, try to
@@ -464,7 +464,7 @@ determine why. Is the answer buried in that section of reading but
 just not coming across to you? Or do you expect to find the answer
 in another part of the reading?
 
-3. **Do not read in a vacuum.** Look for opportunities to discuss the
+3. **Do not read in a vacuum**. Look for opportunities to discuss the
 reading with your classmates. Many instructors set up online
 discussion forums or blogs specifically for that purpose.
 Participating in these discussions can help you determine whether
@@ -566,30 +566,30 @@ making predictions, asking questions, and summarizing.
 
 The following strategies can further deepen your understanding.
 
-**Connect what you read to what you already know.** Look for ways the
+**Connect what you read to what you already know**. Look for ways the
 reading supports, extends, or challenges concepts you have learned
 elsewhere.
 
-**Relate the reading to your own life.** What statements, people, or
+**Relate the reading to your own life**. What statements, people, or
 situations relate to your personal experiences?
 
-**Visualize.** Try to picture what is described. Visualizing is
+**Visualize**. Try to picture what is described. Visualizing is
 especially helpful when you are reading a narrative text, such as a
 novel, or when you read expository text that describes a process, such
 as how to perform cardiopulmonary resuscitation (CPR).
 
-**Pay attention to graphics.** Photographs, diagrams, flow charts,
+**Pay attention to graphics**. Photographs, diagrams, flow charts,
 tables, and other graphics can help make ideas concrete and
 understandable.
 
-**Understand the text in context.** Understanding context means thinking
+**Understand the text in context**. Understanding context means thinking
 about who wrote the text, when and where it was written, the author's
 purpose for writing it, and what assumptions or agendas influenced the
 author's ideas. For instance, two writers might both address the subject
 of health care reform, but if one article is an opinion piece and one is
 a news story, the context is different.
 
-**Plan to talk or write about what you read.** Jot down a few questions
+**Plan to talk or write about what you read**. Jot down a few questions
 or comments in your notebook so you can bring them up in class. (This
 also gives you a source of topic ideas for papers and presentations
 later in the semester.) Discuss the reading on a class discussion board
@@ -1102,26 +1102,26 @@ variation of the following process.
 
 ### The Writing Process
 
-**Prewriting.** In this step, the writer generates ideas to write about
+**Prewriting**. In this step, the writer generates ideas to write about
 and begins developing these ideas.
 
-**Outlining a structure of ideas.** In this step, the writer determines
+**Outlining a structure of ideas**. In this step, the writer determines
 the overall organizational structure of the writing and creates an
 outline to organize ideas. Usually this step involves some additional
 fleshing out of the ideas generated in the first step.
 
-**Writing a rough draft.** In this step, the writer uses the work
+**Writing a rough draft**. In this step, the writer uses the work
 completed in prewriting to develop a first draft. The draft covers the
 ideas the writer brainstormed and follows the organizational plan that
 was laid out in the first step.
 
-**Revising.** In this step, the writer revisits the draft to review and,
+**Revising**. In this step, the writer revisits the draft to review and,
 if necessary, reshape its content. This stage involves moderate and
 sometimes major changes: adding or deleting a paragraph, phrasing the
 main point differently, expanding on an important idea, reorganizing
 content, and so forth.
 
-**Editing.** In this step, the writer reviews the draft to make
+**Editing**. In this step, the writer reviews the draft to make
 additional changes. Editing involves making changes to improve style and
 adherence to standard writing conventions---for instance, replacing a
 vague word with a more precise one or fixing errors in grammar and
@@ -1317,31 +1317,31 @@ center or tutoring, so use these resources if you need them. The
 following are some of the resources you might use if you find you need
 help:
 
-**Your instructor.** If you are making an honest effort but still
+**Your instructor**. If you are making an honest effort but still
 struggling with a particular course, set up a time to meet with your
 instructor and discuss what you can do to improve. He or she may be able
 to shed light on a confusing concept or give you strategies to catch up.
 
-**Your academic counselor.** Many universities assign students an
+**Your academic counselor**. Many universities assign students an
 academic counselor who can help you choose courses and ensure that you
 fulfill degree and major requirements.
 
-**The academic resource center.** These centers offer various services,
+**The academic resource center**. These centers offer various services,
 which may range from general coaching in study skills to tutoring for
 specific courses. Find out what is offered at your school and use the
 services that you need.
 
-**The writing center.** These centers employ tutors to help you manage
+**The writing center**. These centers employ tutors to help you manage
 college writing assignments. They will not write or edit your
 paper for you, but they can help you through the stages of the writing
 process. (In some schools, the writing center is part of the academic
 resource center.)
 
-**The career resource center.** Visit the career resource center for
+**The career resource center**. Visit the career resource center for
 guidance in choosing a career path, developing a résumé, and finding and
 applying for jobs.
 
-**Counseling services.** Many universities offer psychological
+**Counseling services**. Many universities offer psychological
 counseling for free or for a low fee. Use these services if you need
 help coping with a difficult personal situation or managing depression,
 anxiety, or other problems.
@@ -2169,9 +2169,9 @@ so that you can make a good impression and communicate your ideas clearly.
 match between words and phrases. Parts of sentences must **agree** (match with the other parts)
 in number, person, case, and gender.
 
-**Number.** The parts must be all singular or all plural. Don't mix them.
+**Number**. The parts must be all singular or all plural. Don't mix them.
 
-**Person.** The parts must all use the same *person*.
+**Person**. The parts must all use the same *person*.
 
 Grammatical person
 
@@ -2179,7 +2179,7 @@ Grammatical person
 |:---|:---|:---|
 |I|You|He / she / it / they|
 
-**Case.** All parts must match by being subjective, objective, or possessive.
+**Case**. All parts must match by being subjective, objective, or possessive.
 
 |Case|Meaning|Instances|Example|
 |:---|:---|:---|:---|
@@ -2189,7 +2189,7 @@ Grammatical person
 
 For more information on pronoun case agreement, see **Section 2.5**.
 
-**Gender.** All parts must match in male or female forms.
+**Gender**. All parts must match in male or female forms.
 
 Subject-verb agreement describes the proper match between subjects and
 verbs.
@@ -5247,19 +5247,19 @@ changing, and \_\_\_\_\_\_\_\_ (it's, its) getting darker earlier.
 These strategies can help you avoid mixing up commonly confused
 words.
 
-1. **Use a dictionary.** Keep a dictionary at your desk while you
+1. **Use a dictionary**. Keep a dictionary at your desk while you
 write. Look up words when you are uncertain of their meanings or
 spellings. Many dictionaries are also available online, and the
 internet's easy access will not slow you down. Check out your cell
 phone or smartphone to see if a dictionary app is available.
 
-2. **Keep a list of words you confuse.** Be aware of the
+2. **Keep a list of words you confuse**. Be aware of the
 words that often confuse you. When you notice a pattern of
 confusing words, keep a list nearby, and consult the list as you
 write. Check the list again before you submit an assignment to your
 instructor.
 
-3. **Study the list of commonly confused words.** You may not yet know
+3. **Study the list of commonly confused words**. You may not yet know
 which words confuse you, but before you sit down to write, study
 the words on the list. Prepare your mind for working with words by
 reviewing the commonly confused words identified in this chapter.
@@ -5432,12 +5432,12 @@ collection of storys came out in 2009.
 
 #### Eight Tips To Improve Spelling
 
-1. **Read carefully and avoid skimming.** Focusing on your written
+1. **Read carefully and avoid skimming**. Focusing on your written
 assignment word by word will help you pay close attention to each
 word's spelling. Skimming quickly, you may overlook misspelled
 words.
 
-2. **Use mnemonic devices (memory tricks) to remember spellings.**
+2. **Use mnemonic devices (memory tricks) to remember spellings**.
 Mnemonic devices, or memory techniques and learning aids, include
 inventive sayings or practices that help you remember. For example,
 the saying "It is important to be a beautiful person inside and
@@ -5445,33 +5445,33 @@ out" may help you remember that *beautiful* begins with "be a." The
 practice of pronouncing the word *Wednesday* Wed-nes-day may help
 you remember how to spell the word correctly.
 
-3. **Use a dictionary.** Many professional writers rely on the
+3. **Use a dictionary**. Many professional writers rely on the
 dictionary---either in print or online. If you find it difficult to
 use a regular dictionary, ask your instructor to help you find a
 "poor speller's dictionary."
 
-4. **Use your computer's spell checker.** The spell checker will not
+4. **Use your computer's spell checker**. The spell checker will not
 solve all your spelling problems, but it is a useful tool. See the
 introduction to this section for cautions about spell checkers.
 
-5. **Keep a list of misspelled words.** You will often misspell the
+5. **Keep a list of misspelled words**. You will often misspell the
 same words, but do not let this discourage you. All writers
 struggle with the spellings of certain words; they become aware of
 their spelling weaknesses and work to improve. Be aware of which
 words you commonly misspell, and you can add them to a list to
 learn to spell them correctly.
 
-6. **Look over corrected papers for misspelled words.** Add these
+6. **Look over corrected papers for misspelled words**. Add these
 words to your list and practice writing each word four to five
 times each. Writing teachers will especially notice which words you
 frequently misspell, and it will help you excel in your classes if
 they see your spelling improve.
 
-7. **Test yourself with flashcards.** Sometimes the old-fashioned
+7. **Test yourself with flashcards**. Sometimes the old-fashioned
 methods are best, and for spelling, this tried-and-true technique
 has worked for many students. You can work with a peer or alone.
 
-8. **Review the common spelling rules explained in this chapter.**
+8. **Review the common spelling rules explained in this chapter**.
 Take the necessary time to master the material; you may return to
 the rules in this chapter again and again, as needed.
 
@@ -5781,17 +5781,17 @@ from novices to professionals, can benefit from the use of dictionaries.
 
 Most dictionaries provide the following information:
 
-**Spelling.** How the word and its different forms are spelled.
+**Spelling**. How the word and its different forms are spelled.
 
-**Pronunciation.** How to say the word.
+**Pronunciation**. How to say the word.
 
-**Part of speech.** The function of the word.
+**Part of speech**. The function of the word.
 
-**Definition.** The meaning of the word.
+**Definition**. The meaning of the word.
 
-**Synonyms.** Words that have similar meanings.
+**Synonyms**. Words that have similar meanings.
 
-**Etymology.** The history of the word.
+**Etymology**. The history of the word.
 
 Look at the following sample dictionary entry and see which of the
 preceding information you can identify:
@@ -8391,7 +8391,7 @@ and the table below only shows a few of them.
 
 #### Table 5.17 Slang Expressions
 
-| Slang Word or Phrase|Meaning|
+|Slang Word or Phrase|Meaning|
 |:---|:---|
 |check it out, check this out| look at, watch, examine|
 |chocoholic, workaholic, shopaholic| a person who loves, is addicted to, chocolate/work/shopping|
@@ -8438,7 +8438,7 @@ Until then, it might be helpful to memorize some of the more common idioms.
 #### Table 5.18 Idioms
 
 | Idiom| Definition |
-| --- | --- |
+|:--- |:--- |
 | a blessing in disguise | a good thing you do not recognize at first |
 | a piece of cake| easy to do |
 | better late than never | it is better to do something late than not at all |
@@ -8455,19 +8455,19 @@ clues that can help you. They are called context clues. Context clues
 are words or phrases around the unknown word or phrase that may help you
 decipher its meaning.
 
-**Definition or explanation clue.** An idiom may be explained
+**Definition or explanation clue**. An idiom may be explained
 immediately after its use.
 
 > I felt like I was sitting *on pins and needles* **I was so
 nervous**.
 
-**Restatement or synonym clues.** An idiom may be simplified or
+**Restatement or synonym clues**. An idiom may be simplified or
 restated.
 
 > The young girl felt as though she had been *sent to the
 dog house* when her mother **punished her** for fighting in school.
 
-**Contrast or Antonym clues.** An idiom may be clarified by a
+**Contrast or Antonym clues**. An idiom may be clarified by a
 contrasting phrase or antonym that is near it.
 
 > Chynna thought the 5k marathon would be *a piece of cake*,
@@ -8830,7 +8830,7 @@ Thinking about who will read what you write will help you write better.
 It's important to think about who your readers are: 
 their demographics, education, knowledge, and expectations. 
 
-**Demographics.** Demographics include someone's age, their ethnicity, 
+**Demographics**. Demographics include someone's age, their ethnicity, 
 their religious beliefs, and
 their gender.
 
@@ -8844,7 +8844,7 @@ Your goal is the same: don't annoy your readers. But you
 might need to do different things---even opposite things---for different demographics
 to achieve that goal.
 
-**Education.** You may want to write differently depending on your audience's education.
+**Education**. You may want to write differently depending on your audience's education.
 A *doctorate* is a degree that is more advanced than a master's degree; it usually takes
 about five years of study after your four-year bachelor's degree to get one.
 If your
@@ -8852,7 +8852,7 @@ audience members have doctorates, you may
 need to elevate your writing style and use more formal language. But
 if your audience is in high school, you probably want a more relaxed style.
 
-**Prior knowledge.** This refers to what the audience already knows
+**Prior knowledge**. This refers to what the audience already knows
 about your topic. Although you cannot peer inside the brains
 of your readers to discover their knowledge, you can make reasonable
 assumptions. 
@@ -8862,7 +8862,7 @@ you probably don't have to explain what the *scapula* is (it's
 a wing-like bone in your upper back). But if you are writing
 for a group of business majors, you probably do.
 
-**Expectations.** These indicate what readers will look for while
+**Expectations**. These indicate what readers will look for while
 reading your assignment. Readers may expect consistencies in the
 assignment's appearance, such as correct grammar and traditional
 formatting like double-spaced lines and legible font. 
@@ -9209,35 +9209,35 @@ Five characteristics define a good topic sentence:
 1. A good topic sentence provides an accurate indication of what will
 follow in the rest of the paragraph.
 
-    1. **Weak example.** People rarely give firefighters the credit they deserve for such a physically and emotionally demanding job. (The paragraph is about a specific incident that involved firefighters; therefore, this topic sentence is too general.)
+    1. **Weak example**. People rarely give firefighters the credit they deserve for such a physically and emotionally demanding job. (The paragraph is about a specific incident that involved firefighters; therefore, this topic sentence is too general.)
 
-    2. **Stronger example.** During the October riots, Unit 3B went beyond the call of duty. (This topic sentence is more specific and indicates that the paragraph will contain information about a particular incident involving Unit 3B.)
+    2. **Stronger example**. During the October riots, Unit 3B went beyond the call of duty. (This topic sentence is more specific and indicates that the paragraph will contain information about a particular incident involving Unit 3B.)
 
 2. A good topic sentence contains both a topic and a controlling idea
 or opinion.
 
-    1. **Weak example.** In this paper, I am going to discuss the rising suicide rate among young professionals. (This topic sentence provides a main idea, but it does not present a controlling idea, or thesis.)
+    1. **Weak example**. In this paper, I am going to discuss the rising suicide rate among young professionals. (This topic sentence provides a main idea, but it does not present a controlling idea, or thesis.)
 
-    2. **Stronger example.** The rising suicide rate among young professionals is a cause for immediate concern. (This topic sentence presents the writer's opinion on the subject of rising suicide rates among young professionals.)
+    2. **Stronger example**. The rising suicide rate among young professionals is a cause for immediate concern. (This topic sentence presents the writer's opinion on the subject of rising suicide rates among young professionals.)
 
 3. A good topic sentence is clear and easy to follow. The most famous style guide of the 20th century, *The Elements of Style* by William Strunk and E. B. White, told writers to "omit needless words!" This means that you should only use exactly as many words as you need to make your point---neither more nor fewer.
 
-    1. **Weak example.** In general, writing an essay, thesis, or other academic or nonacademic document is considerably easier and of much higher quality if you first construct an outline, of which there are many different types. (This topic sentence includes a main idea and a controlling idea, but both are buried beneath the confusing sentence structure and unnecessary vocabulary. These obstacles make it difficult for the reader to follow.)
+    1. **Weak example**. In general, writing an essay, thesis, or other academic or nonacademic document is considerably easier and of much higher quality if you first construct an outline, of which there are many different types. (This topic sentence includes a main idea and a controlling idea, but both are buried beneath the confusing sentence structure and unnecessary vocabulary. These obstacles make it difficult for the reader to follow.)
 
-    2. **Stronger example.** Most forms of writing can be improved by first creating an outline. (This topic sentence omits needless words, making it easier for the reader to follow.)
+    2. **Stronger example**. Most forms of writing can be improved by first creating an outline. (This topic sentence omits needless words, making it easier for the reader to follow.)
 
 4. A good topic sentence does not include supporting details.
 
-    1. **Weak example.** Salaries should be capped in baseball for many reasons, most importantly so we don't allow the same team to win year after year. (This topic sentence includes a supporting detail that should be included later in the paragraph to back up the main point.)
+    1. **Weak example**. Salaries should be capped in baseball for many reasons, most importantly so we don't allow the same team to win year after year. (This topic sentence includes a supporting detail that should be included later in the paragraph to back up the main point.)
 
-    2. **Stronger example.** Introducing a salary cap would improve the game of baseball for many reasons. (This topic sentence omits the additional supporting detail so that it can be expanded upon later in the paragraph.)
+    2. **Stronger example**. Introducing a salary cap would improve the game of baseball for many reasons. (This topic sentence omits the additional supporting detail so that it can be expanded upon later in the paragraph.)
 
 5. A good topic sentence engages the reader by using interesting
 vocabulary.
 
-    1. **Weak example.** The military deserves better equipment. (This topic sentence includes a main idea and a controlling idea, but the language is bland and unexciting.)
+    1. **Weak example**. The military deserves better equipment. (This topic sentence includes a main idea and a controlling idea, but the language is bland and unexciting.)
 
-    2. **Stronger example.** The appalling lack of resources provided to the military is outrageous and requires our immediate attention. (This topic sentence has the same main idea and controlling idea, but adjectives such as *appalling* and *immediate* better engage the reader. These words also indicate the writer's tone.)
+    2. **Stronger example**. The appalling lack of resources provided to the military is outrageous and requires our immediate attention. (This topic sentence has the same main idea and controlling idea, but adjectives such as *appalling* and *immediate* better engage the reader. These words also indicate the writer's tone.)
 
 #### Exercise 2
 
@@ -9354,7 +9354,7 @@ to another state and had left their pet behind. Even though it had
 never been to their new home, the cat was able to track down its
 former owners. A dog in my neighborhood can predict when its master is
 about to have a seizure. It makes sure that he does not hurt himself
-during an epileptic fit. **Compared to many animals, our own senses are almost dull.**
+during an epileptic fit. **Compared to many animals, our own senses are almost dull**.
 
 The last sentence of this paragraph is the topic sentence. It draws on
 specific examples (a cat that tracked down its owners and a dog that can
@@ -9774,7 +9774,7 @@ them. Focus on the relationship among the topic sentence, supporting
 sentences, and concluding sentence. Use transitions to illustrate the
 connection between each sentence in the paragraph.
 
-5. **Peer activity.** Using the information you have learned in this
+5. **Peer activity**. Using the information you have learned in this
 chapter, write a paragraph about a current event. Underline the topic
 sentence in your paragraph. Now, rewrite the paragraph, placing the
 topic sentence in a different part of the paragraph. Read the two
@@ -10038,7 +10038,7 @@ prepositional phrase is bolded in each:
 
 > My train leaves the station **at 6:45 a.m**.
 >
-> **At 6:45 a.m.**, my train leaves the station.
+> **At 6:45 a.m**., my train leaves the station.
 
 > Teenagers exchange drugs and money **under the railway bridge**.
 >
@@ -10968,7 +10968,7 @@ two samples that lack sentence variety. Highlight areas of each writing
 sample that you would edit for sentence variety and explain why. Replace
 any recognizable name with a pseudonym, or a fictitious name.
 
-#### Exercise 3---**group Activity.**
+#### Exercise 3, **Group Activity**.
 
 Choose a well-known speech, such as Martin Luther
 King's "I Have a Dream" speech, Winston Churchill's "Blood, Toil, Tears,
@@ -10980,7 +10980,7 @@ the effects of using parallelism and consider whether it is always used
 to achieve the same result or whether the writer manipulates parallelism
 to create various responses among his or her audience.
 
-#### Exercise 4---**group Activity.**
+#### Exercise 4, **Group Activity**.
 
 Working in a small group, select a workplace
 document or academic essay. Examine each paragraph and identify examples
@@ -11800,7 +11800,7 @@ develop your best ideas. For instance, the following approaches, done
 alone or in combination with others, may improve your writing and help
 you move forward in the writing process:
 
-**Begin writing with the part you know the most about.** You can start
+**Begin writing with the part you know the most about**. You can start
 with the third paragraph in your outline if ideas come easily to mind.
 You can start with the second paragraph or the first paragraph, too.
 Although paragraphs may vary in length, keep in mind that short
@@ -11810,12 +11810,12 @@ reader's interest. As a guideline, try to write paragraphs longer than
 one sentence but shorter than the length of an entire double-spaced
 page.
 
-**Write one paragraph at a time and then stop.** As long as you complete
+**Write one paragraph at a time and then stop**. As long as you complete
 the assignment on time, you may choose how many paragraphs you complete
 in one sitting. Pace yourself. On the other hand, try not to
 procrastinate. Writers should always meet their deadlines.
 
-**Take short breaks to refresh your mind.** This tip might be most
+**Take short breaks to refresh your mind**. This tip might be most
 useful if you are writing a multi-page report or essay. Still, if you are
 antsy or cannot concentrate, take a break to let your mind rest. But do
 not let breaks extend too long. If you spend too much time away from
@@ -11823,12 +11823,12 @@ your essay, you may have trouble starting again. You may forget key
 points or lose momentum. Try setting an alarm to limit your break, and
 when the time is up, return to your desk to write.
 
-**Be reasonable with your goals.** If you decide to take ten-minute
+**Be reasonable with your goals**. If you decide to take ten-minute
 breaks, try to stick to that goal. If you told yourself that you need
 more facts, then commit to finding them. Holding yourself to your own
 goals will create successful writing assignments.
 
-**Keep your audience and purpose in mind as you write.** These aspects
+**Keep your audience and purpose in mind as you write**. These aspects
 of writing are just as important when you are writing a single paragraph
 for your essay as when you are considering the direction of the entire
 essay.
@@ -12381,20 +12381,20 @@ confuses lots of people who want a new high-definition digital
 television (HDTV) with a large screen to watch sports and DVDs on. **You
 could listen to the guys in the electronics store, but word has it they
 know little more than you do. They want to sell what they have in stock,
-not what best fits your needs.** You face decisions you never had to make
+not what best fits your needs**. You face decisions you never had to make
 with the old, bulky picture-tube televisions. Screen resolution means
 the number of horizontal scan lines the screen can show. This resolution
 is often 1080p, or full HD, or 768p. The trouble is that if you have a
 smaller screen, 32 inches or 37 inches diagonal, you won't be able to
 tell the difference with the naked eye. **The 1080p televisions cost more,
 though, so those are what the salespeople want you to buy. They get
-bigger commissions.** The other important decision you face as you walk
+bigger commissions**. The other important decision you face as you walk
 around the sales floor is whether to get a plasma screen or an LCD
-screen. **Now here the salespeople may finally give you decent info.**
+screen. **Now here the salespeople may finally give you decent info**.
 Plasma flat-panel television screens can be much larger in diameter than
 their LCD rivals. Plasma screens show truer blacks and can be viewed at
 a wider angle than current LCD screens. **But be careful and tell the
-salesperson you have budget constraints.** Large flat-panel plasma screens
+salesperson you have budget constraints**. Large flat-panel plasma screens
 are much more expensive than flat-screen LCD models. Don't **let someone
 make you** buy more television than you need!
 
@@ -12962,7 +12962,7 @@ least two examples of writing that needs revision. Explain what
 changes you would make. Replace any recognizable names with
 pseudonyms.
 
-4. **Group activity.** At work, an employer might someday ask you to
+4. **Group activity**. At work, an employer might someday ask you to
 contribute to the research base for an essay such as the one Mariah
 wrote or the one you wrote while working through this chapter.
 Choosing either her topic or your own, compile a list of at least
@@ -12971,7 +12971,7 @@ printouts or PDF files of internet sources or paper copies of
 non-internet sources for the other group members to examine. In a
 group report, rate the reliability of each other's sources.
 
-5. **Group activity.** Working in a peer-review group of four, go to
+5. **Group activity**. Working in a peer-review group of four, go to
 **Section 8.3** and
 reread the draft of the first two body paragraphs of Mariah's
 essay, "Digital Technology: The Newest and the Best at What Price?"
@@ -13042,21 +13042,21 @@ issue but rather dissects it.
 
 A strong thesis should have all of these qualities.
 
-**Specific topic.** A thesis must concentrate on a specific area
+**Specific topic**. A thesis must concentrate on a specific area
 of a general topic. In writing a paper, you generally begin by choosing a broad topic and then narrow it until you pinpoint a specific aspect. For
 example, *health care* is a broad topic, but a strong thesis
 would focus a specific aspect of health care such as *options for
 people without health care*.
 
-**Precise claim.** If your specific focus is *options for individuals without health care*,
+**Precise claim**. If your specific focus is *options for individuals without health care*,
 then your thesis must make a precise claim about it,
 such as, *in the United States in the 2020s, there are no good health care options unless you are covered by an employer*. 
 
-**Arguable.** A thesis must be arguable: that is, you must have a strong claim that you can support with evidence and persuasion, but it cannot be something that is simply a true fact, because then you have nothing to argue about. *The moon orbits the Earth* has a specific topic (the Earth has only one moon) and makes a precise claim about it ("orbiting" has a precise meaning in astronomy), but it is not arguable, because no reasonable person could disagree with you about it.
+**Arguable**. A thesis must be arguable: that is, you must have a strong claim that you can support with evidence and persuasion, but it cannot be something that is simply a true fact, because then you have nothing to argue about. *The moon orbits the Earth* has a specific topic (the Earth has only one moon) and makes a precise claim about it ("orbiting" has a precise meaning in astronomy), but it is not arguable, because no reasonable person could disagree with you about it.
 
-**Demonstrable.** You need to back your thesis with evidence, reasoning, and/or examples. *The United States should legalize marijuana in all 50 states because that's just how I feel* is specific, precise, and arguable, but you have not demonstrated why a reader should agree with you. If you say "that's just how I feel," someone who feels different will respond, "But that's not how I feel." If you say instead *...because it is useful in the treatment of pain and does far less harm than alcohol or tobacco*, then you have given a demonstration of why someone else should agree.
+**Demonstrable**. You need to back your thesis with evidence, reasoning, and/or examples. *The United States should legalize marijuana in all 50 states because that's just how I feel* is specific, precise, and arguable, but you have not demonstrated why a reader should agree with you. If you say "that's just how I feel," someone who feels different will respond, "But that's not how I feel." If you say instead *...because it is useful in the treatment of pain and does far less harm than alcohol or tobacco*, then you have given a demonstration of why someone else should agree.
 
-**Confident.** A thesis should make a claim. Don't second-guess yourself by saying "maybe" or "I could be wrong." This does **not** mean you should bully or insult your readers. And many professors will ask you to consider (later in your paper) why a smart person might disagree with you (this is sometimes called an *antithesis* or a *counterargument*). But **in your thesis itself**, you should be firm in what you believe.
+**Confident**. A thesis should make a claim. Don't second-guess yourself by saying "maybe" or "I could be wrong." This does **not** mean you should bully or insult your readers. And many professors will ask you to consider (later in your paper) why a smart person might disagree with you (this is sometimes called an *antithesis* or a *counterargument*). But **in your thesis itself**, you should be firm in what you believe.
 
 
 **Tip**
@@ -13361,7 +13361,7 @@ about it.
 To fulfill the requirements of good primary support, the information you
 choose must meet the following standards:
 
-**Be specific.** The main points you make about your thesis and the
+**Be specific**. The main points you make about your thesis and the
 examples you use to expand on those points need to be specific. Use
 specific examples to provide the evidence and to build upon your general
 ideas. These types of examples give your reader something narrow to
@@ -13370,7 +13370,7 @@ claim. General examples, while they convey the necessary information,
 are not nearly as compelling or useful in writing because they are too
 obvious and typical.
 
-**Be relevant to the thesis.** Primary support is considered strong when
+**Be relevant to the thesis**. Primary support is considered strong when
 it relates directly to the thesis. Primary support should show, explain,
 or prove your main argument without delving into irrelevant details.
 When faced with lots of information that could be used to prove your
@@ -13379,7 +13379,7 @@ paragraphs. But effective writers resist the temptation to lose focus.
 Choose your examples wisely by making sure they directly connect to your
 thesis.
 
-**Be detailed.** Remember that your thesis, while specific, should not
+**Be detailed**. Remember that your thesis, while specific, should not
 be very detailed. The body paragraphs are where you develop the
 discussion that a thorough essay requires. Using detailed support shows
 readers that you have considered all the facts and chosen only the most
@@ -13428,17 +13428,17 @@ When you support your thesis, you are revealing evidence. Evidence
 includes anything that can help support your stance. The following are
 the kinds of evidence you will encounter as you conduct your research:
 
-1. **Facts.** Facts are the best kind of evidence to use because they
+1. **Facts**. Facts are the best kind of evidence to use because they
 often cannot be disputed. They can support your stance by providing
 background information on or a solid foundation for your point of
 view. However, some facts may still need explanation. For example,
 the sentence "The most populated state in the United States is
 California" is a pure fact, but it may require some explanation to
 make it relevant to your specific argument.
-2. **Judgments.** Judgments are conclusions drawn from the given
+2. **Judgments**. Judgments are conclusions drawn from the given
 facts. Judgments are more credible than opinions because they are
 founded upon careful reasoning and examination of a topic.
-3. **Testimony.** Testimony consists of direct quotations from either
+3. **Testimony**. Testimony consists of direct quotations from either
 an eyewitness or an expert witness. An eyewitness is someone who
 has direct experience with a subject; he adds authenticity to an
 argument based on facts. An expert witness is a person who has
@@ -13446,7 +13446,7 @@ extensive experience with a topic. This person studies the facts
 and provides commentary based on either facts or judgments, or
 both. An expert witness adds authority and credibility to an
 argument.
-4. **Personal observation.** Personal observation is like testimony, but
+4. **Personal observation**. Personal observation is like testimony, but
 personal observation consists of your testimony. It reflects what you
 know to be true because you have experiences and have formed either
 opinions or judgments about them. For instance, if you are one of five
@@ -13574,7 +13574,7 @@ The following paragraph contains supporting detail sentences for the
 primary support sentence (the topic sentence), which is bolded.
 
 > **Salinger, a World War II veteran, suffered from post-traumatic stress**
-**disorder, which influenced many of his works.**
+**disorder, which influenced many of his works**.
 He did not hide his mental anguish over the horrors of war and once
 told his daughter, "You never really get the smell of burning flesh
 out of your nose, no matter how long you live." His short story "A
@@ -14139,7 +14139,7 @@ your three points, write a topic sentence for each body paragraph.
 Make sure that your topic sentences can be backed up with examples
 and details.
 
-2. **Group activity.** Choose one of the topics from **Exercise 1** in
+2. **Group activity**. Choose one of the topics from **Exercise 1** in
 **Section 9.1** and form
 a yes-or-no question about that topic. Then, take a survey of the
 people in your class to find out how they feel about the subject.
@@ -16919,20 +16919,20 @@ to dozens, hundreds, or even thousands of related websites---what could
 be easier? Unfortunately, despite its apparent convenience, this
 research strategy has the following drawbacks to consider:
 
-**Results do not always appear in order of reliability.** The first few
+**Results do not always appear in order of reliability**. The first few
 hits that appear in search results may include sites whose content is
 not always reliable, such as online encyclopedias that can be edited by
 any user. Because websites are created by third parties, the search
 engine cannot tell you which sites have accurate information.
 
-**Results may be too numerous for you to use.** The amount of
+**Results may be too numerous for you to use**. The amount of
 information available on the web is far greater than the amount of
 information housed within a particular library or database.
 Realistically, if your web search pulls up thousands of hits, you will
 not be able to visit every site---and the most useful sites may be
 buried deep within your search results.
 
-**Search engines are not connected to the results of the search.**
+**Search engines are not connected to the results of the search**.
 Search engines find websites that people visit often and list the
 results in order of popularity. The search engine, then, is not
 connected to any of the results. When you cite a source found through a
@@ -17398,27 +17398,27 @@ format you are comfortable using. Choosing the format that works best
 for you will ensure your notes are organized, complete, and accurate.
 Consider implementing one of these formats when you begin taking notes:
 
-**Use index cards.** This traditional format involves writing each note
+**Use index cards**. This traditional format involves writing each note
 on a separate index card. It takes more time than copying and pasting
 into an electronic document, which encourages you to be selective in
 choosing which ideas to record. Recording notes on separate cards makes
 it easy to later organize your notes according to major topics. Some
 writers color-code their cards to make them still more organized.
 
-**Use note-taking software.** Word-processing and office software
+**Use note-taking software**. Word-processing and office software
 packages often include different types of note-taking software. Although
 you may need to set aside some time to learn the software, this method
 combines the speed of typing with the same degree of organization
 associated with handwritten note cards.
 
-**Maintain a research notebook.** Instead of using index cards or
+**Maintain a research notebook**. Instead of using index cards or
 electronic note cards, you may wish to keep a notebook or electronic
 folder, allotting a few pages (or one file) for each of your sources.
 This method makes it easy to create a separate column or section of the
 document where you add your responses to the information you encounter
 in your research.
 
-**Annotate your sources.** This method involves making handwritten notes
+**Annotate your sources**. This method involves making handwritten notes
 in the margins of sources that you have printed or photocopied. If using
 electronic sources, you can make comments within the source document.
 For example, you might add comment boxes to a PDF version of an article.
@@ -18764,15 +18764,15 @@ after you have completed the other revisions so that you are not
 distracted by any larger content issues. Revising strategies you can use
 include the following:
 
-- **Read your paper aloud.** Sometimes your ears catch inconsistencies
+- **Read your paper aloud**. Sometimes your ears catch inconsistencies
 that your eyes miss.
 - **Share your paper with another reader whom you trust to give you honest
-feedback.** It is often difficult to evaluate one's own style
+feedback**. It is often difficult to evaluate one's own style
 objectively---especially in the final phase of a challenging writing
 project. Another reader may be more likely to notice instances of
 wordiness, confusing language, or other issues that affect style and
 tone.
-- **Line-edit your paper slowly, sentence by sentence.** You may even wish
+- **Line-edit your paper slowly, sentence by sentence**. You may even wish
 to use a sheet of paper to cover everything on the page except the
 paragraph you are editing---that forces you to read slowly and
 carefully. Mark any areas where you notice problems in style or tone,
@@ -19119,8 +19119,8 @@ Manual of the American Psychological Association*, published in 2020.
 |1|**Centered, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |2|**Flush Left, Bold, Title Case Heading**|Text begins as a new paragraph.|
 |3| ***Flush Left, Bold Italic, Title Case Heading*** |Text begins as a new paragraph.|
-|4|**Indented, Bold, Title Case Heading, Ending With a Period.** |Text begins on the same line and continues as a regular paragraph.|
-|5| ***Indented, Bold Italic, Title Case Heading, Ending With a Period.*** |Text begins on the same line and continues as a regular paragraph.|
+|4|**Indented, Bold, Title Case Heading, Ending With a Period**. |Text begins on the same line and continues as a regular paragraph.|
+|5| ***Indented, Bold Italic, Title Case Heading, Ending With a Period**.* |Text begins on the same line and continues as a regular paragraph.|
 
 ### Citation Guidelines
 
@@ -20322,14 +20322,14 @@ key ideas and organize them carefully. Read the following
 considerations, which will help you first identify and then organize key
 ideas:
 
-**Be concise.** You will include the most important ideas and leave out
+**Be concise**. You will include the most important ideas and leave out
 others. Some concepts may need to be simplified.
 
-**Employ more than one medium of expression.** You should include
+**Employ more than one medium of expression**. You should include
 other media, such as charts, graphs, photographs, video or audio
 recordings, or websites.
 
-**Prepare for a face-to-face presentation.** If you must deliver a
+**Prepare for a face-to-face presentation**. If you must deliver a
 face-to-face presentation, it is important to project yourself as a
 serious and well-informed speaker. You will often speak
 extemporaneously, or in a rehearsed but not memorized manner, which
@@ -21063,11 +21063,11 @@ You can print them out or put them in your presentation on the computer.
 
 Keep the following guidelines in mind:
 
-**Create visuals with purpose.** Think carefully about how they will
+**Create visuals with purpose**. Think carefully about how they will
 enhance your message and choose a form that is appropriate for your
 content.
 
-**Strive for quality.** You do not need the skills of a professional
+**Strive for quality**. You do not need the skills of a professional
 photographer or designer but do take time to make sure your visuals are
 neat, attractive, and legible. Proofread for errors, too.
 
@@ -21243,24 +21243,24 @@ might use photographs from a reputable news source or informational
 graphics created by a government agency. If you plan to use visuals
 created by others, keep the following guidelines in mind:
 
-**Set a purpose before you begin your search.** You will search more
+**Set a purpose before you begin your search**. You will search more
 efficiently if you start with a general idea of what you are looking
 for---a line graph of unemployment rates for the past twelve months, for
 example, or a video clip of the most recent State of the Union address.
 
-**Filter out visuals that are not relevant.** You may come across
+**Filter out visuals that are not relevant**. You may come across
 eye-catching graphics and be tempted to use them even if they are only
 loosely related to your topic, simply because they are attention
 getting. Resist the temptation. If the graphic is not clearly connected
 to your point, it does not belong in your presentation.
 
-**Read carefully.** In addition to reading labels, headings, and
+**Read carefully**. In addition to reading labels, headings, and
 captions, read any text that accompanies the visual. Make sure you
 understand the visual in its original context. For informational
 graphics, make sure you understand exactly what information is being
 represented.
 
-**Evaluate sources carefully and record source information.** When you
+**Evaluate sources carefully and record source information**. When you
 look for visuals to complement your presentation, you are
 conducting research. Apply the same standards you used for your research
 paper. Choose reliable sources, such as reputable news organizations,
@@ -22015,7 +22015,7 @@ While you read, pay attention to the following:
 **Thesis** What is the author's main point? Identify the
 thesis and see how well it is supported throughout the essay.
 
-**Topic sentence.** How well does each topic sentence support the
+**Topic sentence**. How well does each topic sentence support the
 thesis? How well does it describe the main idea of its paragraph?
 
 **Supporting evidence**. Identify the evidence that the author uses to
