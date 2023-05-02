@@ -1,3 +1,3 @@
-# writing-for-success-2023
+I'm Jamie Martin.
 
 This is a textbook for developmental writing.
