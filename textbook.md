@@ -1731,11 +1731,11 @@ word *can* is also used as a helping verb.
 Whenever you write, keep the subject and verb in mind.
 As you write, ask yourself these questions to keep yourself on track:
 
-**Subject:** Look first at the start of the sentence. Ask which word, if you changed it, could change the verb. 
+**Subject**: Look first at the start of the sentence. Ask which word, if you changed it, could change the verb. 
 
 - **Sometimes** it will work to also ask what is doing the action (the agent) or what the sentence is about (the topic). A subject is often also the agent and the topic, but not always.
 
-**Verb:** Which word(s) show(s) an action or links the subject to a
+**Verb**: Which word(s) show(s) an action or links the subject to a
 description?
 
 ### Exercise 2
@@ -1829,15 +1829,15 @@ In your writing, you may
 notice that some of your "sentences" are not complete. A "sentence" that is
 missing a subject or a main verb is called a *fragment*.
 
-> **Fragment:** Children **helping** in the kitchen.
+> **Fragment**: Children **helping** in the kitchen.
 
 This fragment has a subject, *children*. And it has a verb, *helping*, but it is an *-ing* verb. An *-ing* verb cannot be the only verb in a sentence. We say that it is not a *main verb*.
 
-> **Complete sentence:** Children **help** in the kitchen.
+> **Complete sentence**: Children **help** in the kitchen.
 
 The sentence above has a main verb, *help*.
 
-> **Complete sentence:** Children **enjoy helping** in the kitchen.
+> **Complete sentence**: Children **enjoy helping** in the kitchen.
 
 The sentence above also has a main verb, *enjoy*.
 
@@ -1929,25 +1929,25 @@ with a nearby sentence.
 
 *Taking deep breaths* is a gerund fragment.
 
->**Fragment:** Taking deep breaths. Saul prepared for his presentation.
+>**Gerund fragment**: Taking deep breaths. Saul prepared for his presentation.
 
 You can fix it by attaching it to the front of its neighbor independent clause:
 
->**Correct:** Taking deep breaths, Saul prepared for his presentation.
+>**Correct**: Taking deep breaths, Saul prepared for his presentation.
 
 Or you can turn it into its own sentence after its neighbor independent clause:
 
->**Correct:** Saul prepared for his presentation by taking deep breaths.
+>**Correct**: Saul prepared for his presentation by taking deep breaths.
 
 #### Gerund Fragment Example 2
 
->**Gerund fragment:** Congratulating the entire team. Sarah raised her glass to
+>**Gerund fragment**: Congratulating the entire team. Sarah raised her glass to
 toast their success.
 >
->**Fixed:** Sarah raised her
+>**Fixed**: Sarah raised her
 glass to toast their success, congratulating the entire team.
 >
->**Fixed:** Congratulating the entire team, Sarah raised her glass
+>**Fixed**: Congratulating the entire team, Sarah raised her glass
 to toast their success.
 
 ### Infinitive Fragments
@@ -1961,13 +1961,13 @@ verbs, they can be used as nouns, adjectives, or adverbs. You can
 correct a fragment that begins with an infinitive by either combining it
 with another sentence or adding the parts of speech that are missing.
 
->**Infinitive fragment:** We needed to make three hundred more paper cranes. To
+>**Infinitive fragment**: We needed to make three hundred more paper cranes. To
 reach the one thousand mark.
 >
->**Fixed:** We needed to make three hundred more paper cranes to
+>**Fixed**: We needed to make three hundred more paper cranes to
 reach the one thousand mark.
 >
->**Fixed:** We needed to make three hundred more paper cranes. We
+>**Fixed**: We needed to make three hundred more paper cranes. We
 wanted to reach the one thousand mark.
 
 #### Exercise 4
@@ -2000,26 +2000,26 @@ I can write a very short sentence that is a run on: "Bob eats Bob sleeps."
 
 I can write a very long sentence that is not a run-on: "Walking slowly, chewing thoughtfully, the old poet rubbed the worn elbows of his Irish wool sweater as he looked wearily over the same hill he had regarded for each of the last thirty years of mornings, wondering whether this morning would finally be the one to bring his daughter walking over it."
 
-Any sentence with two or more independent
-clauses that have been incorrectly combined is a run-on. 
+Any sentence with two incorrectly joined independent clauses is a run-on. 
 
-Each run-on is either a *fused sentence* (independent clauses connected by nothing) or a *comma
-splice* (independent clauses connected by only a comma).
+Each run-on is either a *fused sentence* (independent clauses joined by nothing) or a *comma
+splice* (independent clauses joined by only a comma).
 
-> **Fused sentence:** A family of foxes lived under our shed young foxes
+> **Fused sentence**: A family of foxes lived under our shed young foxes
 played all over the yard.
 
-> **Comma splice:** We looked outside, the kids were hopping on the
+> **Comma splice**: We looked outside, the kids were hopping on the
 trampoline.
 
 ### Punctuation
 
-One way to run-on sentences is to correct the punctuation. For
+One way to fix a run-on sentence is to correct the punctuation. For
 example, adding a period will correct the run-on by creating two
 separate sentences.
 
-> There were no seats left, we had to stand in the back.
-> There were no seats left. **W**e had to stand in the back.
+> **Comma splice run-on**: There were no seats left, we had to stand in the back.
+> 
+> **Fixed**: There were no seats left. **W**e had to stand in the back.
 
 Using a semicolon between the two complete sentences will also correct
 the error. A semicolon allows you to keep the two closely related ideas
@@ -2027,10 +2027,10 @@ together in one sentence. When you punctuate with a semicolon, make sure
 that both parts of the sentence are independent clauses. For more
 information on semicolons, see **Section 2.4**.
 
-> **Run-on:** The accident closed both lanes of traffic we waited an hour
+> **Run-on**: The accident closed both lanes of traffic we waited an hour
 for the wreckage to be cleared.
 >
-> **Complete sentence:** The accident closed both lanes of traffic **;** we
+> **Complete sentence**: The accident closed both lanes of traffic **;** we
 waited an hour for the wreckage to be cleared.
 
 When you use a *semicolon* to separate two independent clauses, you may
@@ -2038,10 +2038,10 @@ wish to add a transition word to show the connection between the two
 thoughts. After the semicolon, add the transition word and follow it
 with a comma. For more information on transition words, see **Chapter 8**.
 
-> **Run-on:** The project was put on hold we didn't have time to slow
+> **Run-on**: The project was put on hold we didn't have time to slow
 down, so we kept working.
 >
-> **Complete sentence:** The project was put on hold; **however,** we
+> **Complete sentence**: The project was put on hold; **however,** we
 didn't have time to slow down, so we kept working.
 
 ### Coordinating Conjunctions
@@ -2062,9 +2062,9 @@ These are the seven coordinating conjunctions. The acronym **FANBOYS** will help
 - **Y**et
 - **S**o
 
-> **Run-on:** The new printer was installed, no one knew how to use it.
+> **Run-on**: The new printer was installed, no one knew how to use it.
 >
-> **Complete sentence:** The new printer was installed **but** no one
+> **Complete sentence**: The new printer was installed **but** no one
 knew how to use it.
 
 ### Dependent Words
@@ -2073,15 +2073,15 @@ Adding dependent words is another way to link independent clauses. Like
 the coordinating conjunctions, dependent words show a relationship
 between two independent clauses.
 
-> **Run-on:** We took the elevator, the others still got there before us.
+> **Run-on**: We took the elevator, the others still got there before us.
 >
 >**Complete sentence: Although** we took the elevator, the others got
 there before us.
 
-> **Run-on:** Cobwebs covered the furniture, the room hadn't been used in
+> **Run-on**: Cobwebs covered the furniture, the room hadn't been used in
 years.
 >
-> **Complete sentence:** Cobwebs covered the furniture **because** the
+> **Complete sentence**: Cobwebs covered the furniture **because** the
 room hadn't been used in years.
 
 #### Exercise 5
@@ -3197,11 +3197,11 @@ sentence.
 
 These sentences show pronouns with compound subjects:
 
-**Incorrect:** *Me and Harriet* visited the Grand Canyon last summer.
+**Incorrect**: *Me and Harriet* visited the Grand Canyon last summer.
 
-**Correct:** *Harriet and I* visited the Grand Canyon last summer.
+**Correct**: *Harriet and I* visited the Grand Canyon last summer.
 
-**Correct:** Jenna accompanied *Harriet and me* on our trip.
+**Correct**: Jenna accompanied *Harriet and me* on our trip.
 
 **Tip**
 
@@ -3215,9 +3215,9 @@ Compound object pronouns are two or more pronouns joined by a
 conjunction or a preposition that function as the object of the
 sentence.
 
-**Incorrect:** I have a good feeling about *Janice and I*.
+**Incorrect**: I have a good feeling about *Janice and I*.
 
-**Correct:** I have a good feeling about *Janice and me*.
+**Correct**: I have a good feeling about *Janice and me*.
 
 **Tip**
 
@@ -3493,33 +3493,33 @@ comparative and superlative forms.
 a pronoun. The second sentence is correct because *well* is an adverb
 that tells how something is done.
 
-**Incorrect:** Cecilia felt that she had never done so *good* on a test.
+**Incorrect**: Cecilia felt that she had never done so *good* on a test.
 
-**Correct:** Cecilia felt that she had never done so *well* on a test.
+**Correct**: Cecilia felt that she had never done so *well* on a test.
 
 *Well* is always an adverb that describes a verb, adverb, or adjective.
 The second sentence is correct because *good* is an adjective that
 describes the noun *score*.
 
-**Incorrect:** Cecilia's team received a *well* score.
+**Incorrect**: Cecilia's team received a *well* score.
 
-**Correct:** Cecilia's team received a *good* score.
+**Correct**: Cecilia's team received a *good* score.
 
 *Bad* versus *Badly*
 
 *Bad* is always an adjective. The second sentence is correct because
 *badly* is an adverb that tells how the speaker did on the test.
 
-**Incorrect:** I did *bad* on my accounting test because I didn't study.
+**Incorrect**: I did *bad* on my accounting test because I didn't study.
 
-**Correct:** I did *badly* on my accounting test because I didn't study.
+**Correct**: I did *badly* on my accounting test because I didn't study.
 
 *Badly* is always an adverb. The second sentence is correct because
 *bad* is an adjective that describes the noun *thunderstorm*.
 
-**Incorrect:** The coming thunderstorm looked *badly*.
+**Incorrect**: The coming thunderstorm looked *badly*.
 
-**Correct:** The coming thunderstorm looked *bad*.
+**Correct**: The coming thunderstorm looked *bad*.
 
 *Better* and *Worse*
 
@@ -3641,10 +3641,10 @@ A misplaced modifier is a modifier that is placed too far from the word
 or words it modifies. Misplaced modifiers make the sentence awkward and
 sometimes funny.
 
-**Incorrect:** She wore a bicycle helmet on her head *that was too
+**Incorrect**: She wore a bicycle helmet on her head *that was too
 large*.
 
-**Correct:** She wore a bicycle helmet *that was too large* on her head.
+**Correct**: She wore a bicycle helmet *that was too large* on her head.
 
 Notice in the incorrect sentence it sounds as if her head was too large!
 Of course, the writer is referring to the helmet, not to the person's
@@ -3653,18 +3653,18 @@ meaning.
 
 Look at these two examples:
 
-**Incorrect:** They bought a kitten for my brother *they call Shadow*.
+**Incorrect**: They bought a kitten for my brother *they call Shadow*.
 
-**Correct:** They bought a kitten *they call Shadow* for my brother.
+**Correct**: They bought a kitten *they call Shadow* for my brother.
 
 In the incorrect sentence, it seems that the brother's name is *Shadow*.
 That's because the modifier is too far from the word it modifies, which
 is *kitten*.
 
-**Incorrect:** The patient was referred to the physician *with stomach
+**Incorrect**: The patient was referred to the physician *with stomach
 pains*.
 
-**Correct:** The patient *with stomach pains* was referred to the
+**Correct**: The patient *with stomach pains* was referred to the
 physician.
 
 The incorrect sentence reads as if it is the physician who has stomach
@@ -3676,9 +3676,9 @@ Modifiers like *only*, *almost*, *just*, *nearly*, and *barely*
 often get used incorrectly because writers put them in the wrong
 place.
 
-**Confusing:** Tyler *almost* found fifty cents under the sofa cushions.
+**Confusing**: Tyler *almost* found fifty cents under the sofa cushions.
 
-**Repaired:** Tyler found *almost* fifty cents under the sofa cushions.
+**Repaired**: Tyler found *almost* fifty cents under the sofa cushions.
 
 How do you *almost* find something? Either you find it or you do not.
 The repaired sentence is much clearer.
@@ -3719,32 +3719,32 @@ in 2023, more and more professional journalists are using dangling modifiers.
 I believe this is a low-priority error. Fewer and fewer polished writers notice it.
 Still, below is some traditional coverage of dangling modifiers, to help you recognize them.
 
-**Incorrect:** *Riding in the sports car*, the world whizzed by rapidly.
-
-**Correct:** As Jane was *riding in the sports car*, the world whizzed
+>**Incorrect**: *Riding in the sports car*, the world whizzed by rapidly.
+>
+>**Correct**: As Jane was *riding in the sports car*, the world whizzed
 by rapidly.
 
 In the incorrect sentence, *riding in the sports car* is dangling. The
 reader is left wondering who is riding in the sports car. The writer
 must tell the reader!
 
-**Incorrect:** *Walking home at night*, the trees looked like spooky
+>**Incorrect**: *Walking home at night*, the trees looked like spooky
 aliens.
-
-**Correct:** As Jonas was *walking home at night*, the trees looked like
+>
+>**Correct**: As Jonas was *walking home at night*, the trees looked like
 spooky aliens.
-
-**Correct:** The trees looked like spooky aliens as Jonas was *walking
+>
+>**Correct**: The trees looked like spooky aliens as Jonas was *walking
 home at night*.
 
 In the incorrect sentence *walking home at night* is dangling. Who is
 walking home at night? Jonas. Note that there are two different ways the
 dangling modifier can be corrected.
 
-**Incorrect:** To win the spelling bee, Luis and Gerard should join our
+**Incorrect**: To win the spelling bee, Luis and Gerard should join our
 team.
 
-**Correct:** If we want to win the spelling bee this year, Luis and
+**Correct**: If we want to win the spelling bee this year, Luis and
 Gerard should join our team.
 
 In the incorrect sentence, *to win the spelling bee* is dangling. Who
@@ -3906,20 +3906,20 @@ A comma a pause in a sentence or
 a separation between things in a list. Commas are used in many ways.
 Here are some ways you might use a comma when writing a sentence.
 
-**Introductory word:** Personally, I think the practice is helpful.
+**Introductory word**: Personally, I think the practice is helpful.
 
-**Lists:** The barn, the tool shed, and the back porch were destroyed by
+**Lists**: The barn, the tool shed, and the back porch were destroyed by
 the wind.
 
-**Coordinating adjectives:** He was tired, hungry, and late.
+**Coordinating adjectives**: He was tired, hungry, and late.
 
-**Conjunctions in compound sentences:** The bedroom door was closed, so
+**Conjunctions in compound sentences**: The bedroom door was closed, so
 the children knew their mother was asleep.
 
-**Interrupting words:** I knew where it was hidden, of course, but I
+**Interrupting words**: I knew where it was hidden, of course, but I
 wanted them to find it themselves.
 
-**Dates, addresses, greetings, and letters:** The letter was postmarked
+**Dates, addresses, greetings, and letters**: The letter was postmarked
 December 8, 1945.
 
 ### Commas After An Introductory Word Or Phrase
@@ -4253,10 +4253,10 @@ sentence must always be an independent clause; that is, it must stand
 alone as a complete thought with a subject and verb. Do not use a colon
 after phrases like *such as* or *for example*.
 
-> **Correct:** Our company offers many publishing services: writing,
+> **Correct**: Our company offers many publishing services: writing,
 editing, and reviewing.
 
-> **Incorrect:** Our company offers many publishing services, such as:
+> **Incorrect**: Our company offers many publishing services, such as:
 writing, editing, and reviewing.
 
 **Tip**
@@ -4266,17 +4266,17 @@ beginning of a quote, or the first letter of another independent clause.
 Do NOT capitalize if the information following the colon is not a
 complete sentence.
 
-> **Proper noun:** We visited three countries: Belize, Honduras, and
+> **Proper noun**: We visited three countries: Belize, Honduras, and
 El Salvador.
 
-> **Beginning of a quote:** My mother loved this line from *Hamlet*:
+> **Beginning of a quote**: My mother loved this line from *Hamlet*:
 "To thine own self be true."
 
-> **Two independent clauses:** There are drawbacks to modern
+> **Two independent clauses**: There are drawbacks to modern
 technology: My brother's cell phone died and he lost a lot of phone
 numbers.
 
-> **Incorrect:** The recipe is simple: Tomato, basil, and avocado.
+> **Incorrect**: The recipe is simple: Tomato, basil, and avocado.
 
 ### In A Formal Greeting
 
@@ -4358,10 +4358,10 @@ You can also use a semicolon to join items in a list when the items in
 the list already require commas. Semicolons help the reader distinguish
 between items in the list.
 
-> **Correct:** The color combinations we can choose from are black, white,
+> **Correct**: The color combinations we can choose from are black, white,
 and grey; green, brown, and black; or red, green, and brown.
 
-> **Incorrect:** The color combinations we can choose from are black,
+> **Incorrect**: The color combinations we can choose from are black,
 white, and grey, green, brown, and black, or red, green, and brown.
 
 By using semicolons in this sentence, the reader can easily distinguish
@@ -4419,9 +4419,9 @@ quotation marks. An indirect quotation is a restatement of what someone
 said or wrote. An indirect quotation does not use the person's exact
 words. You do not need to use quotation marks for indirect quotations.
 
-> **Direct quotation:** Carly said, "I'm not ever going back there again."
+> **Direct quotation**: Carly said, "I'm not ever going back there again."
 
-> **Indirect quotation:** Carly said that she would never go back there.
+> **Indirect quotation**: Carly said that she would never go back there.
 
 #### Writing At Work
 
@@ -4455,16 +4455,16 @@ will want to identify who is speaking. You can do this at the beginning,
 middle, or end of the quote. Notice the use of commas and capitalized
 words.
 
-> **Beginning:** Madison said, "Let's stop at the farmers market to
+> **Beginning**: Madison said, "Let's stop at the farmers market to
 buy some fresh vegetables for dinner."
 
-> **Middle:** "Let's stop at the farmers market," Madison said,
+> **Middle**: "Let's stop at the farmers market," Madison said,
 "to buy some fresh vegetables for dinner."
 
-> **End:** "Let's stop at the farmers market to buy some fresh vegetables
+> **End**: "Let's stop at the farmers market to buy some fresh vegetables
 for dinner," Madison said.
 
-> **Speaker not identified:** "Let's stop at the farmers market to buy
+> **Speaker not identified**: "Let's stop at the farmers market to buy
 some fresh vegetables for dinner."
 
 Always capitalize the first letter of a quote even if it is not the
@@ -4477,16 +4477,16 @@ placed *after* commas and periods. Place quotation marks after question
 marks and exclamation points only if the question or exclamation is part
 of the quoted text.
 
-> **Question is part of quoted text:** The new employee asked, "When
+> **Question is part of quoted text**: The new employee asked, "When
 is lunch?"
 
-> **Question is not part of quoted text:** Did you hear her say you were
+> **Question is not part of quoted text**: Did you hear her say you were
 "the next Picasso"?
 
-> **Exclamation is part of quoted text:** My supervisor beamed,
+> **Exclamation is part of quoted text**: My supervisor beamed,
 "Thanks for all of your hard work!"
 
-> **Exclamation is not part of quoted text:** He said I
+> **Exclamation is not part of quoted text**: He said I
 "single-handedly saved the company thousands of dollars"!
 
 ### Quotations Within Quotations
@@ -5831,36 +5831,36 @@ mind the connotative meaning when choosing a word.
 
 Scrawny
 
-**Denotation:** Exceptionally thin and slight or meager in body or size.
+**Denotation**: Exceptionally thin and slight or meager in body or size.
 
-**Word used in a sentence:** Although he was a premature baby and a
+**Word used in a sentence**: Although he was a premature baby and a
 **scrawny** child, Martin has developed into a strong man.
 
-**Connotation:** (Negative) In this sentence the word *scrawny* may have
+**Connotation**: (Negative) In this sentence the word *scrawny* may have
 a negative connotation in the readers' minds. They might find it to mean
 a weakness or a personal flaw; however, the word fits into the sentence
 appropriately.
 
 Skinny
 
-**Denotation:** Lacking sufficient flesh, very thin.
+**Denotation**: Lacking sufficient flesh, very thin.
 
 **Word used in a sentence: Skinny** jeans have become very fashionable
 in the past couple of years.
 
-**Connotation:** (Positive) Based on cultural and personal impressions
+**Connotation**: (Positive) Based on cultural and personal impressions
 of what it means to be skinny, the reader may have positive connotations
 of the word *skinny*.
 
 Lean
 
-**Denotation:** Lacking or deficient in flesh; containing little or no
+**Denotation**: Lacking or deficient in flesh; containing little or no
 fat.
 
-**Word used in a sentence:** My brother has a **lean** figure, whereas I
+**Word used in a sentence**: My brother has a **lean** figure, whereas I
 have a more muscular build.
 
-**Connotation:** (Neutral) In this sentence, *lean* has a neutral
+**Connotation**: (Neutral) In this sentence, *lean* has a neutral
 connotation. It does not call to mind an overly skinny person like the
 word *scrawny*, nor does imply the positive cultural impressions of the
 word *skinny*. It is merely a neutral descriptive word.
@@ -5942,13 +5942,13 @@ because they are overused. Writing that uses clichés often suffers from
 a lack of originality and insight. Avoiding clichés in formal writing
 will help you write in original and fresh ways.
 
-**Clichéd:** Whenever my brother and I get into an argument, he always
+**Clichéd**: Whenever my brother and I get into an argument, he always
 says something that makes my **blood boil**.
 
-**Plain:** Whenever my brother and I get into an argument, he always
+**Plain**: Whenever my brother and I get into an argument, he always
 says something that makes me really angry.
 
-**Original:** Whenever my brother and I get into an argument, he always
+**Original**: Whenever my brother and I get into an argument, he always
 says something that makes me want to go to the gym and punch the bag for
 a few hours.
 
@@ -5990,14 +5990,14 @@ modifiers that convey details and that bring your words to life. Add
 words that provide color, texture, sound, and even smell to your
 writing.
 
-**General:** My new puppy is cute.
+**General**: My new puppy is cute.
 
-**Specific:** My new puppy is a ball of white fuzz with the biggest
+**Specific**: My new puppy is a ball of white fuzz with the biggest
 black eyes I have ever seen.
 
-**General:** My teacher told us that plagiarism is bad.
+**General**: My teacher told us that plagiarism is bad.
 
-**Specific:** My teacher, Ms. Atwater, created a presentation detailing
+**Specific**: My teacher, Ms. Atwater, created a presentation detailing
 exactly how plagiarism is illegal and unethical.
 
 #### Exercise 4
@@ -6793,13 +6793,13 @@ teaching English to non-native speakers.
 If you are using more than one adjective to describe a noun, place the
 adjectives in the following order before the noun:
 
-1. **Opinion:** an interesting book, a boring movie, a fun ride
-2. **Size:** a large box, a tiny turtle, a tall woman
-3. **Shape:** a round ball, a long hose, a square field
-4. **Age:** a new day, an old horse, a modern building
-5. **Color:** an orange sunset, a green jacket, a red bug
-6. **Ethnicity:** Italian cheese, French wine, Chinese tea
-7. **Material:** silk shirt, wool socks, a cotton dress
+1. **Opinion**: an interesting book, a boring movie, a fun ride
+2. **Size**: a large box, a tiny turtle, a tall woman
+3. **Shape**: a round ball, a long hose, a square field
+4. **Age**: a new day, an old horse, a modern building
+5. **Color**: an orange sunset, a green jacket, a red bug
+6. **Ethnicity**: Italian cheese, French wine, Chinese tea
+7. **Material**: silk shirt, wool socks, a cotton dress
 
 To a native speaker, this phrase sounds fine:
 
@@ -6891,25 +6891,25 @@ the present tense.
 
 > My guests are arriving now.
 >
-> **Negative:** My guests **are not** arriving now.
+> **Negative**: My guests **are not** arriving now.
 
 2. The negative word *no.*
 
 > Jennie has money.
 >
-> **Negative:** Jennie **has no** money.
+> **Negative**: Jennie **has no** money.
 
 3. The contraction *n't.*
 
 > Janetta does miss her mom.
 >
-> **Negative:** Janetta **doesn't** miss her mom.
+> **Negative**: Janetta **doesn't** miss her mom.
 
 4. The negative adverb *rarely.*
 
 > I always go to the gym after work.
 >
-> **Negative:** I **rarely** go to the gym after work.
+> **Negative**: I **rarely** go to the gym after work.
 
 5. The negative subject *nobody.*
 
@@ -6933,15 +6933,15 @@ the past tense.
 
 > Paul called me yesterday
 > 
-> **Negative:** Paul **did not** call me yesterday.
+> **Negative**: Paul **did not** call me yesterday.
 
 > Jamilee went to the grocery store.
 > 
-> **Negative:** Jamilee **never went** to the grocery store.
+> **Negative**: Jamilee **never went** to the grocery store.
 
 > Gina laughed when she saw the huge pile of laundry.
 > 
-> **Negative:** Gina **did not laugh** when she saw the huge pile of
+> **Negative**: Gina **did not laugh** when she saw the huge pile of
 laundry.
 
 Notice that when forming a negative in the past tense, the helping verb
@@ -7088,9 +7088,9 @@ money, you cannot add a number in front of *money* or *furniture* and
 simply add --*s* to the end of the noun. Instead, you must use other
 words and phrases to indicate the quantity of money and furniture.
 
-**Incorrect:** five moneys, two furnitures
+**Incorrect**: five moneys, two furnitures
 
-**Correct:** some money, two pieces of furniture
+**Correct**: some money, two pieces of furniture
 
 By the end of this section, you will grasp the difference between the
 two types of nouns and be able to use them confidently in speaking and
@@ -7333,13 +7333,13 @@ pronouns. The following examples illustrate common errors.
 This sentence is incorrect because an object pronoun (*me*) is used
 instead of a subject pronoun.
 
-**Correct:** Daniela and **I** went to the restaurant for lunch.
+**Correct**: Daniela and **I** went to the restaurant for lunch.
 
 This sentence is now correct because a subject pronoun (*I*) is used.
 
 #### Error: Pronoun Takes The Gender Of The Object Instead Of The Subject
 
-> **Incorrect:** Mark put her (Mark's) grocery bag on the counter.
+> **Incorrect**: Mark put her (Mark's) grocery bag on the counter.
 
 This sentence is incorrect because the pronoun *her* refers to a female,
 and Mark is a male. 
@@ -7350,14 +7350,14 @@ may itself have a gender, and the pronoun takes the gender of the grocery bag.
 In English, objects don't have genders, except for a very few unusual
 traditions like referring to a ship as *she* instead of *it*.
 
-> **Correct:** Mark put **his** grocery bag on the counter.
+> **Correct**: Mark put **his** grocery bag on the counter.
 
 This sentence is now correct because the male pronoun *his* refers to
 the male person, *Mark*.
 
 #### Error: Repeated Subject
 
-> **Incorrect:** The woman, she went to work earlier than usual.
+> **Incorrect**: The woman, she went to work earlier than usual.
 
 This sentence is incorrect because the subject *the woman* is repeated
 by the pronoun *she*. Repeating the subject like this is very common
@@ -7395,7 +7395,7 @@ type of pronoun* gives some information about the subject.
 The relative pronoun *that* may be added to give more details to the
 subject.
 
-**Sentence using a relative pronoun:** A relative pronoun is a type of
+**Sentence using a relative pronoun**: A relative pronoun is a type of
 pronoun **that** helps connect details to the subject of the sentence.
 
 **Tip**
@@ -7409,11 +7409,11 @@ Remember the following uses of relative pronouns:
 The following examples show how a relative pronoun may be used to
 connect two sentences and to connect details to the subject.
 
-**Sentence 1:** Gossip is a form of communication.
+**Sentence 1**: Gossip is a form of communication.
 
-**Sentence 2:** It is a waste of time and energy.
+**Sentence 2**: It is a waste of time and energy.
 
-**Combination of 1 and 2:** Gossip is a form of communication **that**
+**Combination of 1 and 2**: Gossip is a form of communication **that**
 is a waste of time and energy.
 
 Notice how the relative pronoun *that* replaces the subject *it* in
@@ -7422,11 +7422,11 @@ sentence 2.
 *That* is called a relative pronoun because it connects the details (*is
 a waste of time and energy*) to the subject (*Gossip*).
 
-**Sentence 1:** My grandmother is eighty years old.
+**Sentence 1**: My grandmother is eighty years old.
 
-**Sentence 2:** She collects seashells.
+**Sentence 2**: She collects seashells.
 
-**Combination of 1 and 2:** My grandmother, **who** is eighty years old,
+**Combination of 1 and 2**: My grandmother, **who** is eighty years old,
 collects seashells.
 
 Notice how the relative pronoun *who* replaces the subject *she* in
@@ -8097,30 +8097,30 @@ Be aware of these four common errors when using modal auxiliaries:
 
 1. Using an infinitive instead of a base verb after a modal
 
-**Incorrect:** I can to move this heavy table.
+**Incorrect**: I can to move this heavy table.
 
-**Correct:** I **can move** this heavy table.
+**Correct**: I **can move** this heavy table.
 
 2. Using a gerund instead of an infinitive or a base verb after a
 modal
 
-**Incorrect:** I could moving to the United States.
+**Incorrect**: I could moving to the United States.
 
-**Correct:** I **could move** to the United States.
+**Correct**: I **could move** to the United States.
 
 3. Using two modals in a row
 
-**Incorrect:** I should must *renew* my passport.
+**Incorrect**: I should must *renew* my passport.
 
-**Correct:** I **must renew** my passport.
+**Correct**: I **must renew** my passport.
 
 **Correct**: I **should renew** my passport.
 
 4. Leaving out a modal
 
-**Incorrect:** I renew my passport.
+**Incorrect**: I renew my passport.
 
-**Correct:** I **must renew** my passport.
+**Correct**: I **must renew** my passport.
 
 #### Exercise 1
 
@@ -8149,15 +8149,15 @@ the present perfect tense:
 
 1. Using *had* instead of *have*
 
-**Incorrect:** Jamie would had attended the party, but he was sick.
+**Incorrect**: Jamie would had attended the party, but he was sick.
 
-**Correct:** Jamie **would have attended** the party, but he was sick.
+**Correct**: Jamie **would have attended** the party, but he was sick.
 
 2. Leaving out *have*
 
-**Incorrect:** Jamie would attended the party, but he was sick.
+**Incorrect**: Jamie would attended the party, but he was sick.
 
-**Correct:** Jamie **would have attended** the party, but he was sick.
+**Correct**: Jamie **would have attended** the party, but he was sick.
 
 #### Exercise 2
 
@@ -9542,10 +9542,10 @@ bun (the concluding sentence) are similar. They frame the "meat" or body
 of the paragraph. Compare the topic sentence and concluding sentence
 from the previous example:
 
-**Topic sentence:** There are numerous advantages to owning a hybrid
+**Topic sentence**: There are numerous advantages to owning a hybrid
 car.
 
-**Concluding sentence:** Given the low running costs and environmental
+**Concluding sentence**: Given the low running costs and environmental
 benefits of owning a hybrid car, it is likely that many more people will
 follow Alex's example in the near future.
 
@@ -10194,10 +10194,10 @@ them into a modifier using the --*ing* verb form---*singing*, *dancing*,
 *swimming*. A modifier is a word or phrase that qualifies the meaning of
 another element in the sentence. Read the following example:
 
-**Original sentences:** Steve checked the computer system. He discovered
+**Original sentences**: Steve checked the computer system. He discovered
 a virus.
 
-**Revised sentence:** Checking the computer system, Steve discovered a
+**Revised sentence**: Checking the computer system, Steve discovered a
 virus.
 
 To connect two sentences using an --*ing* modifier, add --*ing* to one
@@ -10226,7 +10226,7 @@ sentence, depending on which fits best.
 **Beginning: Conducting a survey among her friends**, Amanda found that
 few were happy in their jobs.
 
-**End:** Maria filed the final report, **meeting her deadline**.
+**End**: Maria filed the final report, **meeting her deadline**.
 
 ### Dangling Modifiers
 
@@ -10255,10 +10255,10 @@ Some sentences can be combined using an --*ed* verb form---*stopped*,
 contain a form of *be* as a helping verb in addition to the --*ed* verb
 form. Look at the following example:
 
-**Original sentences:** The Jones family was delayed by a traffic jam.
+**Original sentences**: The Jones family was delayed by a traffic jam.
 They arrived several hours after the party started.
 
-**Revised sentence:** Delayed by a traffic jam, the Jones family arrived
+**Revised sentence**: Delayed by a traffic jam, the Jones family arrived
 several hours after the party started.
 
 In the original version, *was* acts as a helping verb---it has no
@@ -10299,10 +10299,10 @@ function as adjectives by answering questions such as *which one?* or
 *what kind?* Relative clauses begin with a relative pronoun, such as
 *who*, *which*, *where*, *why*, or *when*. Read the following examples:
 
-> **Original sentences:** The managing director is visiting the company
+> **Original sentences**: The managing director is visiting the company
 next week. He lives in Seattle.
 
-> **Revised sentence:** The managing director, who lives in Seattle, is
+> **Revised sentence**: The managing director, who lives in Seattle, is
 visiting the company next week.
 
 To connect two sentences using a relative clause, substitute the subject
@@ -10314,7 +10314,7 @@ reversing the main clause and subordinate clause in the preceding
 sentence emphasizes where the managing director lives, not the fact that
 he is visiting the company.
 
-> **Revised sentence:** The managing director, who is visiting the company
+> **Revised sentence**: The managing director, who is visiting the company
 next week, lives in Seattle.
 
 Relative clauses are a useful way of providing additional 
@@ -10342,10 +10342,10 @@ noun or pronoun. Incorporating appositives into your writing is a useful
 way of combining sentences that are too short and choppy. Look at
 the following example:
 
-**Original sentences:** Harland Sanders began serving food for hungry
+**Original sentences**: Harland Sanders began serving food for hungry
 travelers in 1930. He is Colonel Sanders or "the Colonel."
 
-**Revised sentence:** Harland Sanders, "the Colonel," began serving food
+**Revised sentence**: Harland Sanders, "the Colonel," began serving food
 for hungry travelers in 1930.
 
 In the revised sentence, *"the Colonel"* is an appositive because it
@@ -10356,10 +10356,10 @@ is positioned immediately after the noun it describes. An appositive may
 be placed anywhere in a sentence, but it must come directly before or
 after the noun to which it refers:
 
-**Appositive after noun:** Scott, a poorly trained athlete, was not
+**Appositive after noun**: Scott, a poorly trained athlete, was not
 expected to win the race.
 
-**Appositive before noun:** A poorly trained athlete, Scott was not
+**Appositive before noun**: A poorly trained athlete, Scott was not
 expected to win the race.
 
 Unlike relative clauses, appositives are always punctuated by a comma or
@@ -10438,7 +10438,7 @@ coordination and subordination, using Joshua's essay as an example.
 Coordination joins two independent clauses that contain related ideas of
 equal importance.
 
-**Original sentences:** I spent my entire paycheck last week. I am
+**Original sentences**: I spent my entire paycheck last week. I am
 staying home this weekend.
 
 In their current form, these sentences contain two separate ideas that
@@ -10447,7 +10447,7 @@ my paycheck, or is there another reason for my lack of enthusiasm to
 leave the house? To indicate a relationship between the two ideas, we
 can use the coordinating conjunction *so*:
 
-**Revised sentence:** I spent my entire paycheck last week, **so** I am
+**Revised sentence**: I spent my entire paycheck last week, **so** I am
 staying home this weekend.
 
 The revised sentence illustrates that the two ideas are connected.
@@ -10488,13 +10488,13 @@ semicolon usage). A conjunctive adverb is a linking word that
 demonstrates a relationship between two clauses. Read the following
 sentences:
 
-> **Original sentences:** Bridget wants to take part in the next Olympics.
+> **Original sentences**: Bridget wants to take part in the next Olympics.
 She trains every day.
 
 Since these sentences contain two equal and related ideas, they may be
 joined using a conjunctive adverb. Now, read the revised sentence:
 
-> **Revised sentence:** Bridget wants to take part in the next Olympics;
+> **Revised sentence**: Bridget wants to take part in the next Olympics;
 therefore, she trains every day.
 
 The revised sentence explains the relationship between Bridget's desire
@@ -10579,13 +10579,13 @@ Coordination allows a writer to give equal weight to the two ideas that
 are being combined, and subordination enables a writer to emphasize one
 idea over the other. Look at the following sentences:
 
-**Original sentences:** Tracy stopped to help the injured man. She would
+**Original sentences**: Tracy stopped to help the injured man. She would
 be late for work.
 
 To illustrate that these two ideas are related, we can rewrite them as a
 single sentence using the subordinating conjunction *even though*.
 
-**Revised sentence:** Even though Tracy would be late for work, she
+**Revised sentence**: Even though Tracy would be late for work, she
 stopped to help the injured man.
 
 In the revised version, we now have an independent clause (*she stopped
@@ -10596,7 +10596,7 @@ emphasizes the fact that Tracy stopped to help the injured man, rather
 than the fact she would be late for work. We could also write the
 sentence this way:
 
-**Revised sentence:** Tracy stopped to help the injured man even though
+**Revised sentence**: Tracy stopped to help the injured man even though
 she would be late for work.
 
 The meaning remains the same in both sentences, with the subordinating
@@ -10703,10 +10703,10 @@ parallel without even knowing the grammar rules.
 Read the following sentences aloud. Do they sound wrong to you? The more
 you read, the more you will hear that something is off with them.
 
-> **Faulty parallelism:** Kelly had to iron, wash, and shopping
+> **Faulty parallelism**: Kelly had to iron, wash, and shopping
 before her parents arrived.
 
-> **Faulty parallelism:** Driving a car requires coordination, patience,
+> **Faulty parallelism**: Driving a car requires coordination, patience,
 and to have good eyesight.
 
 All of these sentences contain faulty parallelism.
@@ -10721,10 +10721,10 @@ eyesight*).
 
 Now read the same three sentences fixed so that they have correct parallelism.
 
-> **Correct parallelism:** Kelly had to do the ironing, washing, and
+> **Correct parallelism**: Kelly had to do the ironing, washing, and
 shopping before her parents arrived.
 
-> **Correct parallelism:** Driving a car requires coordination, patience,
+> **Correct parallelism**: Driving a car requires coordination, patience,
 and good eyesight.
 
 If you make all the items in a list have the same structure, 
@@ -10748,10 +10748,10 @@ When you connect two clauses using a coordinating conjunction (*for*,
 grammatical structure is used on each side of the conjunction. Take a
 look at the following example:
 
-> **Faulty parallelism:** When I walk the dog, I like **to listen to
+> **Faulty parallelism**: When I walk the dog, I like **to listen to
 music** and **talking to friends** on the phone.
 
-> **Correct parallelism:** When I walk the dog, I like **listening to
+> **Correct parallelism**: When I walk the dog, I like **listening to
 music** and **talking to friends** on the phone.
 
 The first sentence uses two different verb forms (*to listen*,
@@ -10762,11 +10762,11 @@ parallel sentence.
 The same technique should be used for joining items or lists in a
 series:
 
-> **Faulty parallelism:** This committee needs to decide whether the
+> **Faulty parallelism**: This committee needs to decide whether the
 company should **reduce its workforce, cut its benefits,** or **lowering
 workers' wages**.
 
-> **Correct parallelism:** This committee needs to decide whether the
+> **Correct parallelism**: This committee needs to decide whether the
 company should **reduce its workforce, cut its benefits,** or **lower
 workers' wages**.
 
@@ -10859,10 +10859,10 @@ Common correlative conjunctions include the following:
 Correlative conjunctions should follow the same grammatical structure to
 create a parallel sentence. Look at the following example:
 
-> **Faulty parallelism:** We can neither **wait** for something to happen
+> **Faulty parallelism**: We can neither **wait** for something to happen
 nor **can we take** evasive action.
 
-> **Correct parallelism:** We can neither **wait** for something to happen
+> **Correct parallelism**: We can neither **wait** for something to happen
 nor **take** evasive action.
 
 When using a correlative conjunction, the words, phrases, or clauses
@@ -10873,9 +10873,9 @@ needless words and matching verb constructions create a parallel
 structure. Sometimes, rearranging a sentence corrects faulty
 parallelism.
 
-> **Faulty parallelism:** It was both a long movie and poorly written.
+> **Faulty parallelism**: It was both a long movie and poorly written.
 
-> **Correct parallelism:** The movie was both long and poorly written.
+> **Correct parallelism**: The movie was both long and poorly written.
 
 **Tip**
 
@@ -12541,16 +12541,16 @@ helps readers because it makes your ideas easier to grasp.
 
 #### Sentences That Begin With *there Is* Or *there Are*.
 
-> **Wordy:** There are two major experiments that are sponsored by the Biology Department.
+> **Wordy**: There are two major experiments that are sponsored by the Biology Department.
 >
-> **Revised:** The Biology Department sponsors two major experiments.
+> **Revised**: The Biology Department sponsors two major experiments.
 
 #### Sentences With Unnecessary Modifiers.
 
-> **Wordy:** Two extremely famous and well-known consumer advocates spoke
+> **Wordy**: Two extremely famous and well-known consumer advocates spoke
 eloquently in favor of the proposed important legislation.
 >
-> **Revised:** Two well-known consumer advocates spoke in favor of the
+> **Revised**: Two well-known consumer advocates spoke in favor of the
 proposed legislation.
 
 #### Sentences With Deadwood Phrases That Add Little To The Meaning.
@@ -12560,10 +12560,10 @@ Avoid phrases such as *in terms of*, *with a mind to*,
 as. . .is concerned*, and similar expressions. You can usually find a more
 straightforward way to state your point.
 
-> **Wordy:** As a world leader in the field of green technology, the
+> **Wordy**: As a world leader in the field of green technology, the
 company plans to focus its efforts in the area of geothermal energy.
 >
-> **Revised:** As a world leader in green technology, the company plans to
+> **Revised**: As a world leader in green technology, the company plans to
 focus on geothermal energy.
 
 #### Sentences In The Passive Voice
@@ -12571,19 +12571,19 @@ focus on geothermal energy.
 Sentences in the passive voice are harder to understand, most of the time,
 even do not always have more words than the active-voice versions.
 
->**Less good:** People are helped by doctors.
+>**Less good**: People are helped by doctors.
 >
->**Revised:** Doctors help people.
+>**Revised**: Doctors help people.
 
->**Less good:** Mistakes were made.
+>**Less good**: Mistakes were made.
 >
 >**Revised**: I made mistakes.
 
 #### Sentences With Constructions That Can Be Shortened.
 
-> **Wordy:** My over-sixty uncle bought a Kindle, and his wife bought a Kindle too.
+> **Wordy**: My over-sixty uncle bought a Kindle, and his wife bought a Kindle too.
 >
-> **Revised:** My over-sixty uncle and his wife both bought Kindles.
+> **Revised**: My over-sixty uncle and his wife both bought Kindles.
 
 #### Exercise 3
 
@@ -13123,7 +13123,7 @@ Now that you have read about what makes a good thesis, look at some examples of 
 
 A thesis is weak when it just declares what you will discuss in your essay. 
 
-> **Weak thesis: declares topic:** My paper will explain why imagination is more
+> **Weak thesis: declares topic**: My paper will explain why imagination is more
 important than knowledge.
 
 Students usually write a thesis like the one above when they don't know what their thesis will be yet and hope to figure it out as they go. You can *start* a paper like this, but you can't *finish* it like this. Once you are done, your thesis must contain a precise claim. So you can't write a really good thesis until your paper is complete!
@@ -13131,17 +13131,17 @@ Students usually write a thesis like the one above when they don't know what the
 A thesis is weak when it makes an unreasonable claim or
 insults the opposing side. This thesis is too opinionated--no one one the other side will be persuaded if you start by insulting them.
 
-> **Weak thesis: insulting:** Religious radicals across America are trying to legislate their Puritanical beliefs by banning required high school books.
+> **Weak thesis: insulting**: Religious radicals across America are trying to legislate their Puritanical beliefs by banning required high school books.
 
 A thesis is weak when it states a fact that no
 one could disagree with.
 
-> **Weak thesis: no one could disagree:** Advertising companies use sex to sell their
+> **Weak thesis: no one could disagree**: Advertising companies use sex to sell their
 products.
 
 A thesis is weak when it is too broad.
 
-> **Weak thesis: too broad:** The life of Abraham Lincoln was long and
+> **Weak thesis: too broad**: The life of Abraham Lincoln was long and
 challenging.
 
 #### Exercise 2
@@ -13209,9 +13209,9 @@ the following steps:
 *everything*, *society*, or *life*, with more precise words in order to
 reduce any vagueness.
 
-> **Working thesis:** Young people have to work hard to succeed in life.
+> **Working thesis**: Young people have to work hard to succeed in life.
 
-> **Revised thesis:** Recent college graduates must have discipline and
+> **Revised thesis**: Recent college graduates must have discipline and
 persistence in order to find and maintain a stable job in which they can
 use and be appreciated for their talents.
 
@@ -13224,9 +13224,9 @@ focus his or her research and gain more direction in his or her writing.
 2. Clarify ideas that need explanation by asking yourself questions
 that narrow your thesis.
 
-> **Working thesis:** The welfare system is a joke.
+> **Working thesis**: The welfare system is a joke.
 
-> **Revised thesis:** The welfare system keeps a socioeconomic class from
+> **Revised thesis**: The welfare system keeps a socioeconomic class from
 gaining employment by alluring members of that class with unearned
 income, instead of programs to improve their education and skill sets.
 
@@ -13245,9 +13245,9 @@ essay.
 3. Replace any linking verbs with action verbs. Linking verbs are forms
 of the verb *to be*, a verb that simply states that a situation exists.
 
-> **Working thesis:** Kansas City schoolteachers are not paid enough.
+> **Working thesis**: Kansas City schoolteachers are not paid enough.
 
-> **Revised thesis:** The Kansas City legislature cannot afford to pay its
+> **Revised thesis**: The Kansas City legislature cannot afford to pay its
 educators, resulting in job cuts and resignations in a district that
 sorely needs highly qualified and dedicated teachers.
 
@@ -13267,9 +13267,9 @@ thesis one that takes a more definitive stance on the issue:
 
 4. Omit any general claims that are hard to support.
 
-> **Working thesis:** Today's teenage girls are too sexualized.
+> **Working thesis**: Today's teenage girls are too sexualized.
 
-> **Revised thesis:** Teenage girls who are captivated by the sexual
+> **Revised thesis**: Teenage girls who are captivated by the sexual
 images on MTV are conditioned to believe that a woman's worth depends on
 her sensuality, a feeling that harms their self-esteem and behavior.
 
@@ -21169,7 +21169,7 @@ to be creative. Working with visuals can be a pleasant way to take a
 break from the demands of writing.
 
 1. Revisit the ideas you developed in **Exercise 1**. Choose at least two
-ideas that you can create. (**Note:** If you are using software to
+ideas that you can create. (**Note**: If you are using software to
 develop a slideshow presentation, count this as one of your
 self-created visuals. Include at least one other self-created visual
 aid, such as an original photograph, within your slideshow.)
