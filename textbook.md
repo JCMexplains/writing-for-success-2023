@@ -1519,9 +1519,9 @@ structures and how to avoid some common writing errors.
 
 ### What Makes A Sentence?
 
-Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I *feel* like somthing is missing from this sentence?" That is a *semantic* question---a question about meaning.
+Many students have heard the saying that "a complete sentence must have a complete idea." In my opinion, this is a bad way to define a sentence, because it leaves students asking the wrong question: they ask "Do I *feel* like something is missing from this sentence?" That is a *semantic* question---a question about meaning.
 
-But whether something is a senetence is a *syntactic* question: a question about parts. A sentence needs two parts: a subject and a particular kind of verb.
+But whether something is a sentence is a *syntactic* question: a question about parts. A sentence needs two parts: a subject and a particular kind of verb.
 
 If it has those two parts, it is a complete sentence. This is a complete sentence:
 
@@ -1860,7 +1860,7 @@ gerund.
 #### Prepositional Phrase Fragments
 
 When you see a prepositional phrase, check to see that it is part of a sentence
-with a subject and a main verb. Here, the prepostional phrase *After walking over two miles* is not part of a sentence with a subject and a main verb, so it is a fragment.
+with a subject and a main verb. Here, the prepositional phrase *After walking over two miles* is not part of a sentence with a subject and a main verb, so it is a fragment.
 
 > **Prepositional phrase fragment**: After walking over two miles. John remembered his wallet.
 
@@ -11238,7 +11238,7 @@ on your topic. Later in the chapter, you will read about additional ways
 (like searching the internet) to answer your questions and explore your
 guesses.
 
-#### 5wh Questions
+#### 5WH Questions
 
 1. Who?
 2. What?
@@ -11646,7 +11646,7 @@ If there is a roman numeral I for your first main, there must be a roman numeral
 
 Similarly, for every letter A, there must be a letter B. If a main point has only one part, you don't need the letters in the first place.
 
-For every Arabic numeral 1, there must be an Arabic numberal 2. If a larger part doesn't have separate smaller parts, you don't need the Arabic numerals in the first place.
+For every Arabic numeral 1, there must be an Arabic numeral 2. If a larger part doesn't have separate smaller parts, you don't need the Arabic numerals in the first place.
 
 In other words, only add a layer to your outline if you need it to keep two or more things separate.
 
@@ -13270,29 +13270,30 @@ thesis one that takes a more definitive stance on the issue:
 > **Working thesis**: Today's teenage girls are too sexualized.
 
 > **Revised thesis**: Teenage girls who are captivated by the sexual
-images on MTV are conditioned to believe that a woman's worth depends on
-her sensuality, a feeling that harms their self-esteem and behavior.
+posts on Instagram or TikTox are conditioned to believe that their worth depends on
+their sexuality, a belief that damages their self-esteem.
 
-It is true that some young women in today's society are more sexualized
-than in the past, but that is not true for all girls. Many girls have
-strict parents, dress appropriately, and do not engage in sexual
-activity while in middle school and high school. The writer of this
-thesis should ask the following questions:
+It is true that *some* teenage girls today are more sexualized
+than in the past, but this is not true for *all* girls. 
 
-- Which teenage girls?
-- What constitutes "too" sexualized?
-- Why are they behaving that way?
-- Where does this behavior show up?
-- What are the repercussions?
+Also, when does being *more* sexualized become being *too* sexualized? Saying that many girls today are *more* sexualized states a fact; saying that they are *too* sexualized adds a judgement of that fact: it is a bad thing.
+
+The writer of this
+thesis should ask themself questions like these:
+
+- *Which* teenage girls are becoming more sexualized?
+- What is the line where they become *too* sexualized?
+- *Why* are they changing in this way?
+- *Where* does this change show up?
+- *What* are the repercussions?
 
 #### Exercise 3
 
 In the first section of **Chapter 8**, you determined
-your purpose for writing and your audience. You then completed a
-freewriting exercise about an event you recently experienced and chose a
-general topic to write about. Using that general topic, you then
-narrowed it down by answering the 5WH questions. After you answered
-these questions, you chose one of the three methods of prewriting and
+your purpose and your audience. You then freewrote about a recent experience and chose a
+general topic to write about. 
+
+Next, you narrowed your general topic by answering the 5WH questions. Then you chose one of the three methods of prewriting and
 gathered possible supporting points for your working thesis
 
 Now, on a separate sheet of paper, write down your working thesis
@@ -19717,7 +19718,7 @@ Here is a sample entry for a book:
 
 > Atkins, R. C. (2002). *Dr. Atkins' diet revolution*. M. Evans and Company.
 
-Here is how to organize and captialize your reference entries:
+Here is how to organize and capitalize your reference entries:
 
 #### The References Page(s)
 
@@ -19726,7 +19727,7 @@ Here is how to organize and captialize your reference entries:
 3. For a work with no known human author(s), use the name of the group that produced the work. If there is no known group author either, use the title of the work instead of an author name. 
 4. For works with up to 20 authors, give the surname and initials for each author. Put an ampersand before the final author. (This is a change from APA 6.)
 5. Put titles in "sentence case," capitalizing only the first word of the title (or the first word after a colon). 
-6. Italicize titles of works that stand alond (like books); use no special format for titles of works that are part of a larger whole (like an article from a journal).
+6. Italicize titles of works that stand alone (like books); use no special format for titles of works that are part of a larger whole (like an article from a journal).
 
 
 ### Example References
@@ -22783,7 +22784,7 @@ how can we allow it if it is likely to lead to hard drugs?
 >This argument seems reasonable, but it doesn't really hold up. 
 It is true that many people who use hard drugs tried marijuana first, but that doesn't mean that trying marijuana made them use those drugs. 
 A researcher for the RAND Corporation, Andrew Morral, explains 
-that "[t]he people who are predisposed to use drugs… are more likely than others to use both marijuana and harder drugs" (qtd. in ProCon.org, "Top 10 Pro & Con"). 
+that "\[t\]he people who are predisposed to use drugs… are more likely than others to use both marijuana and harder drugs" (qtd. in ProCon.org, "Top 10 Pro & Con"). 
 Morral is saying that just because hard drug use often comes after marijuana use, that doesn't mean marijuana use leads people to hard drugs. 
 Instead, some people are just more interested in using drugs—all kinds of drugs—than others. 
 They probably start with marijuana only because it is easier to get or less intimidating. 
