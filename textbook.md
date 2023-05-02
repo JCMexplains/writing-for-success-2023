@@ -13779,8 +13779,7 @@ debatable. When writing a persuasive essay, it is best to begin with the
 most important point because it immediately captivates your readers and
 compels them to continue reading.
 
-For example, if you were supporting your thesis that homework is
-detrimental to the education of high school students, you would want to
+For example, if you were supporting your thesis that homework damages the education of high school students, you would want to
 present your most convincing argument first, and then move on to the
 less important points for your case.
 
