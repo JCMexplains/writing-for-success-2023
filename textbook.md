@@ -19083,7 +19083,7 @@ The title page of a student APA paper should include (*Publication Manual* p. 30
 
 Your title page should look like the following example.
 
-![](image48.jpeg "Evaluating low-carb diets page 1 APA")
+![](apa-essay-page-1.jpeg "Evaluating low-carb diets page 1 APA")
 
 #### Margins, Page Numbering, And Headings
 
