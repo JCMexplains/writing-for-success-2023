@@ -13590,25 +13590,25 @@ breakdown following the death of his younger brother.
 Using the three topic sentences you composed for the thesis in
 **Exercise 1**, draft at least three supporting details for each point.
 
-Thesis
-
-
-Primary supporting point 1:
-
-
-Supporting details:
-
-
-Primary supporting point 2:
-
-
-Supporting details:
-
-
-Primary supporting point 3:
-
-
-Supporting details:
+> Thesis
+> 
+> 
+> Primary supporting point 1:
+> 
+> 
+> Supporting details:
+> 
+> 
+> Primary supporting point 2:
+> 
+> 
+> Supporting details:
+> 
+> 
+> Primary supporting point 3:
+> 
+> 
+> Supporting details:
 
 
 **Tip**
