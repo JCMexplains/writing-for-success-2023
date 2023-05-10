@@ -13544,31 +13544,30 @@ that support the topic sentence.
 The writer drafts possible supporting detail sentences for each primary
 support sentence based on the thesis
 
-### Thesis:  Dogs On City Streets Without Leashes Are Dangerous.
-
-#### Supporting Point 1: Loose Dogs Can Scare Cyclists Or Pedestrians.
-
-##### Supporting Details
-
-1. Cyclists are forced to zigzag on the road.
-2. School children panic and turn wildly on their bikes.
-3. People who are walking at night freeze in fear.
-
-#### Supporting Point 2: Loose Dogs Are Traffic Hazards.
-
-##### Supporting Details
-
-1. Dogs in the street make people swerve their cars.
-2. To avoid dogs, drivers run into other cars or pedestrians.
-3. Children coaxing dogs across busy streets create danger.
-
-#### Supporting Point 3: Loose Dogs Damage Gardens.
-
-##### Supporting Details
-
-1. They step on flowers and vegetables.
-2. They destroy hedges by urinating on them.
-3. They mess up lawns by digging holes.
+> ### Thesis:  Dogs On City Streets Without Leashes Are Dangerous.
+> #### Supporting Point 1: Loose Dogs Can Scare Cyclists Or Pedestrians.
+>
+> ##### Supporting Details
+>
+> 1. Cyclists are forced to zigzag on the road.
+> 2. School children panic and turn wildly on their bikes.
+> 3. People who are walking at night freeze in fear.
+>
+> #### Supporting Point 2: Loose Dogs Are Traffic Hazards.
+>
+> ##### Supporting Details
+>
+> 1. Dogs in the street make people swerve their cars.
+> 2. To avoid dogs, drivers run into other cars or pedestrians.
+> 3. Children coaxing dogs across busy streets create danger.
+>
+> #### Supporting Point 3: Loose Dogs Damage Gardens.
+>
+> ##### Supporting Details
+>
+> 1. They step on flowers and vegetables.
+> 2. They destroy hedges by urinating on them.
+> 3. They mess up lawns by digging holes.
 
 The following paragraph contains supporting detail sentences for the
 primary support sentence (the topic sentence), which is bolded.
