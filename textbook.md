@@ -13515,23 +13515,18 @@ disorder, a disorder that influenced themes in many of his works.
 In Exercise 2, you chose three of your most convincing points to support
 the thesis you selected from the list. Take each point and
 include it into a topic sentence for each body paragraph.
-
-Supporting point 1:
-
-
-Topic sentence:
-
-
-Supporting point 2:
-
-
-Topic sentence:
-
-
-Supporting point 3:
-
-
-Topic sentence:
+>
+>Supporting point 1:
+>
+>Topic sentence:
+>
+>Supporting point 2:
+>
+>Topic sentence:
+>
+>Supporting point 3:
+>
+>Topic sentence:
 
 
 ### Draft Supporting Detail Sentences For Each Primary Support Sentence
