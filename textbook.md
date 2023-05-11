@@ -17854,7 +17854,7 @@ provide. Then answer these questions:
 some way?
 - Where did the information in the secondary source come from? 
 - Was the author citing an initial study, piece of literature, or work of art?
-- If so, Where could you find the primary source?
+- If so, where could you find the primary source?
 
 # Chapter 12
 
