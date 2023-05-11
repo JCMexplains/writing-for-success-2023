@@ -14094,10 +14094,9 @@ each. Parallelism strengthens the message of your essay.
 #### Writing At Work
 
 On the job you will sometimes give oral presentations based on research
-you have conducted. A concluding statement to an oral report contains
-the same elements as a written conclusion. You should wrap up your
+you have conducted. The conclusion of an oral report should be similar to a written conclusion. You should wrap up your
 presentation by restating the purpose of the presentation, reviewing its
-main points, and emphasizing the importance of the material you
+main points, and emphasizing the importance of what you
 presented. A strong conclusion will leave a lasting impression on your
 audience.
 
