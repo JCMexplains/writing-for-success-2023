@@ -22121,8 +22121,8 @@ https://www.cengage.com/custom/static_content/OLC/s76656_76218lf/alexie.pdf
 >From: A Concerned Citizen
 >
 >The intersection of Central Avenue and Lake Street is dangerous and
-demands immediate consideration for the installation of a controlling
-mechanism. I have lived in Lakeview my entire life, and during that time
+demands immediate consideration for a stoplight or stop sign. 
+I have lived in Lakeview my entire life, and during that time
 I have witnessed too many accidents and close calls at that
 intersection. I would like the Department of Transportation to answer
 this question: how many lives have to be lost on the corner of Central
