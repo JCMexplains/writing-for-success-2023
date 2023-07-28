@@ -22521,72 +22521,48 @@ https://www.poetryfoundation.org/poems/52173/what-work-is
 
 1. Read an example of the compare-and-contrast mode.
 
-### Comparing And Contrasting London And Washington, Dc
+### Comparing And Contrasting London And Washington, DC
 
 >Both Washington, DC, and London are capital cities of English-speaking
-countries, and yet they offer vastly different experiences to their
-residents and visitors. Comparing and contrasting the two cities based
-on their history, their culture, and their residents show how different
-and similar the two are.
+countries, yet they are very different cities for both
+residents and visitors. Although DC has its own rich history and culture, London's longer history and richer culture make it a more rewarding city to experience, though some may prefer the demographic diversity of DC to the homogenity of London.
 >
->Both cities are rich in world and national history, though they
-developed on very different timelines. London, for example, has a
-history that dates back over two thousand years. It was part of the
-Roman Empire and known by the similar name, Londinium. It was not only
-one of the northernmost points of the Roman Empire but also the
+>The two cities
+developed on very different timelines. London has a
+history that dates back over two thousand years. It was first established around the year 50 CE (Common Era) as one of the northernmost outposts of
+Roman Empire, when it was known by the name *Londinium*. Later it became the
 epicenter of the British Empire where it held significant global
-influence from the early sixteenth century on through the early
+influence from the early sixteenth century through the early
 twentieth century. Washington, DC, on the other hand, has only formally
 existed since the late eighteenth century. Though Native Americans
 inhabited the land several thousand years earlier, and settlers
-inhabited the land as early as the sixteenth century, the city did not
-become the capital of the United States until the 1790s. From that point
-onward to today, however, Washington, DC, has increasingly maintained
-significant global influence. Even though both cities have different
-histories, they have both held, and continue to hold, significant social
-influence in the economic and cultural global spheres.
+lived there as early as the sixteenth century, the city did not
+become the capital of the United States until the 1790s. From then until today, however, Washington, DC, has had increasing global influence. Although both cities have been world political capitals in the last two hundred years, London's history of influence is much longer than Washington DC's.
 >
->Both Washington, DC, and London offer a wide array of museums that
-harbor many of the world's most prized treasures. While Washington, DC,
+>Both Washington, DC, and London offer museums that
+contain some of the world's most prized treasures. While Washington, DC,
 has the National Gallery of Art and several other Smithsonian galleries,
-London's art scene and galleries have a definite edge in this category.
+London has a definite edge in this category.
 From the Tate Modern to the British National Gallery, London's art ranks
-among the world's best. This difference and advantage has much to do
-with London and Britain's historical depth compared to that of the
+among the world's best. This has much to do
+with Britain's long history compared to that of the
 United States. London has a much richer past than Washington, DC, and
 consequently has a lot more material to pull from when arranging its
 collections. Both cities have thriving theater districts, but again,
-London wins this comparison, too, both in quantity and quality of
-theater choices. With regard to other cultural places like restaurants,
-pubs, and bars, both cities are very comparable. Both have a wide
-selection of expensive, elegant restaurants as well as a similar amount
-of global and national chains. While London may be better known for its
-pubs and taste in beer, DC offers a different bar-going experience. With
-clubs and pubs that tend to stay open later than their British
-counterparts, the DC night life tend to be less reserved overall.
+London wins this comparison; as the country that gave the world Shakespeare, Britain has what many regard as the best live theater scene in the world.
 >
->Both cities also share and differ in cultural diversity and cost of
-living. Both cities share a very expensive cost of living---both in
-terms of housing and shopping. A downtown one-bedroom apartment in DC
-can easily cost \$1,800 per month, and a similar "flat" in London may
-double that amount. These high costs create socioeconomic disparity
-among the residents. Although both cities' residents are predominantly
-wealthy, both have a significantly large population of poor and
-homeless. Perhaps the most significant difference between the resident
-demographics is the racial makeup. Washington, DC, is a "minority
-majority" city, which means the majority of its citizens are races other
-than white. In 2009, according to the US Census, 55 percent of DC
-residents were classified as "Black or African American" and 35 percent
+>A final important difference between the two cities is their racial makeup. Washington, DC, is a "minority
+majority" city, which means most of its citizens are 
+non-white. In 2009, according to the US Census, 55 percent of DC
+residents were classified as "Black or African American" while only 35 percent
 of its residents were classified as "white." London, by contrast, has
 very few minorities---in 2006, 70 percent of its population was "white,"
-while only 10 percent was "black." The racial demographic differences
-between the cities is drastic.
+while only 10 percent was "black." (Britain uses the term "black" in its offical records while the United States uses "Black or African American" in its records.) The racial differences
+between the cities are substantial.
 >
->Even though Washington, DC, and London are major capital cities of
-English-speaking countries in the Western world, they have many
-differences along with their similarities. They have vastly different
-histories, art cultures, and racial demographics, but they remain
-similar in their cost of living and socioeconomic disparity.
+>Even though Washington, DC, and London are both capital cities of politically influential
+English-speaking countries, they have many
+differences. London offers a longer history and consequently a richer artistic culture that some may prefer when choosing where to live or particularly where to visit.
 
 ### Additional Compare-and-contrast Essays
 
