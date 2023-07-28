@@ -22117,64 +22117,47 @@ https://www.cengage.com/custom/static_content/OLC/s76656_76218lf/alexie.pdf
 ### Letter To The City
 
 >To: Lakeview Department of Transportation
->
->From: A Concerned Citizen
->
->The intersection of Central Avenue and Lake Street is dangerous and
-demands immediate consideration for a stoplight or stop sign. 
-I have lived in Lakeview my entire life, and during that time
-I have witnessed too many accidents and close calls at that
-intersection. I would like the Department of Transportation to answer
-this question: how many lives have to be lost on the corner of Central
-Avenue and Lake Street before a streetlight or stop sign is placed
-there?
->
->Over the past twenty years, the population of Lakeview has increased
-dramatically. This population growth has put tremendous pressure on the
-city's roadways, especially Central Avenue and its intersecting streets.
-At the intersection of Central Avenue and Lake Street it is easy to see
-how serious this problem is. For example, when I try to cross Central
-Avenue as a pedestrian, I frequently wait over ten minutes for the cars
-to clear, and even then I must rush to the median. I will then have to
-continue to wait until I can finally run to the other side of the
-street. On one hand, even as a physically fit adult, I can run only with
-significant effort and care. Expecting a senior citizen or a child to
-cross this street, on the other hand, is extremely dangerous and
-irresponsible. Does the city have any plans to do anything about this?
->
->Recent data show that the intersection of Central Avenue and Lake Street
-has been especially dangerous. According to the city's own statistics,
-three fatalities occurred at that intersection in the past year alone.
-Over the past five years, the intersection witnessed fourteen car
-accidents, five of which were fatal. These numbers officially qualify
-the intersection as the most fatal and dangerous in the entire state. It
-should go without saying that fatalities and accidents are not the
-clearest way of measuring the severity of this situation because for
-each accident that happens, countless other close calls never contribute
-to city data. I hope you will agree that these numbers alone are
-sufficient evidence that the intersection at Central Avenue and Lake
-Street is hazardous and demands immediate attention.
->
->Nearly all accidents mentioned are caused by vehicles trying to cross
-Central Avenue while driving on Lake Street. I think the City of
-Lakeview should consider placing a traffic light there to control the
-traffic going both ways. While I do not have access to any resources or
-data that can show precisely how much a traffic light can improve the
-intersection, I think you will agree that a controlled busy intersection
-is much safer than an uncontrolled one. Therefore, at a minimum, the
-city must consider making the intersection a four-way stop.
->
->Each day that goes by without attention to this issue is a lost
-opportunity to save lives and make the community a safer, more enjoyable
-place to live. Because the safety of citizens is the priority of every
-government, I can only expect that the Department of Transportation and
-the City of Lakeview will act on this matter immediately. For the safety
-and well-being of Lakeview citizens, please do not let bureaucracy or
-money impede this urgent project.
->
->Sincerely,
->
->A Concerned Citizen
+
+From: A Concerned Citizen
+
+Subject: Urgent Safety Concern at Central Avenue and Lake Street Intersection
+
+Dear \[Recipient's name\],
+
+I am writing to bring to your attention a serious safety concern that has persisted at the intersection of Central Avenue and Lake Street. 
+This intersection, which I pass regularly, has proven to be quite dangerous due to its lack of proper traffic control measures. 
+As a lifelong resident of Lakeview, I have unfortunately witnessed numerous accidents and near-misses here. 
+The frequency and severity of these incidents compel me to ask: how many more accidents must occur before the intersection is equipped with proper traffic controls?
+
+Lakeview's population has significantly increased over the past two decades, resulting in an intensified strain on our city's transportation infrastructure. 
+Nowhere is this pressure more evident than at the bustling intersection of Central Avenue and Lake Street. The situation becomes especially precarious for pedestrians. 
+On many occasions, I've found myself waiting upwards of ten minutes to cross Central Avenue, and even then, it is a dash to the median before a subsequent sprint to reach the other side. 
+This is a difficult, if not dangerous, task for a physically fit adult. 
+Expecting seniors or children to do the same is not just irresponsible; it's a life-threatening risk. 
+I urge the city to take note and implement suitable remedial measures.
+
+A study of recent statistics paints an alarming picture of the Central Avenue and Lake Street intersection. 
+According to city data, this intersection has witnessed three fatalities and fourteen accidents over the past year, five of which were fatal. 
+These grim figures have earned it the dubious distinction of being the most dangerous intersection in the entire state. 
+Furthermore, the countless near-misses that do not make it to the official data only underscore the gravity of this situation. 
+Surely, these numbers alone warrant immediate action and remediation.
+
+A considerable number of accidents at this intersection involve vehicles attempting to cross Central Avenue from Lake Street. 
+In light of this, it seems reasonable to consider installing a traffic light at the intersection. 
+Although I lack the specific data to quantify the potential improvement, it is widely accepted that a controlled intersection is generally safer than an uncontrolled one. 
+At the very least, the city could consider implementing a four-way stop as an interim solution.
+
+I believe that every day without intervention increases the risk to the safety of our community. 
+The government's paramount duty is to ensure the safety and wellbeing of its citizens. 
+As such, I sincerely hope the Lakeview Department of Transportation will treat this matter with the urgency it deserves. 
+Please do not let bureaucratic red tape or budgetary constraints impede progress on this critical issue.
+
+Thank you for your immediate attention to this matter. 
+I trust that with your leadership and commitment, we can make the intersection of Central Avenue and Lake Street safer for everyone in our community.
+
+Sincerely,
+
+\[Your Name\]
 
 ### Additional Illustration Essays
 
