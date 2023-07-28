@@ -22117,13 +22117,13 @@ https://www.cengage.com/custom/static_content/OLC/s76656_76218lf/alexie.pdf
 ### Letter To The City
 
 >To: Lakeview Department of Transportation
-
-From: \[Name\]
-
-Subject: Urgent Safety Concern at Central Avenue and Lake Street Intersection
-
-Dear \[Recipient's name\],
-
+>
+>From: \[Name\]
+>
+>Subject: Urgent Safety Concern at Central Avenue and Lake Street Intersection
+>
+>Dear \[Recipient's name\],
+>
 > I am writing to bring to your attention a serious safety concern that has persisted at the intersection of Central Avenue and Lake Street.  This intersection, which I pass regularly, has proven to be quite dangerous due to its lack of proper traffic control measures. As a lifelong resident of Lakeview, I have unfortunately witnessed numerous accidents and near-misses here. The frequency and severity of these incidents compel me to ask: how many more accidents must occur before the intersection is equipped with proper traffic controls?
 >
 >Lakeview's population has significantly increased over the past two decades, resulting in an intensified strain on our city's transportation infrastructure.  Nowhere is this pressure more evident than at the bustling intersection of Central Avenue and Lake Street. The situation becomes especially precarious for pedestrians. On many occasions, I've found myself waiting upwards of ten minutes to cross Central Avenue, and even then, it is a dash to the median before a subsequent sprint to reach the other side. This is a difficult, if not dangerous, task for a physically fit adult. Expecting seniors or children to do the same is not just irresponsible; it's a life-threatening risk. I urge the city to take note and implement suitable remedial measures.
