@@ -22232,7 +22232,7 @@ https://www.nytimes.com/2002/04/21/travel/where-nothing-says-everything.html
 
 1. Read an example of the classification mode.
 
-### Types Of Higher Education Programs
+### Types Of Higher Education Institutions
 
 >Today's students have many choices when it comes to pursuing a degree:
 four-year programs, two-year programs, large or small classroom
