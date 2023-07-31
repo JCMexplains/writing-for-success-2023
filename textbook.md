@@ -22234,15 +22234,12 @@ https://www.nytimes.com/2002/04/21/travel/where-nothing-says-everything.html
 
 ### Types Of Higher Education Institutions
 
->Today's students have many choices when it comes to pursuing a degree:
-four-year programs, two-year programs, large or small classroom
-settings, and even daytime or evening classes. With all the different
-options to consider, potential students should learn about the different
-types of colleges so they can find a school that best fits their
-personality, budget, and educational goals.
+>Today's students have many choices of college. They aren't even all called "colleges":
+>we need a bigger umbrella term to cover all of them. We call any institution where a student goes for education beyond high school a "higher education institution."
+>These institutions have different kinds of degrees: two-year degrees (associates degrees), four-year degrees (bachelors degrees), and graduate degrees (degrees that come after a bachelors degree, like a medical degree, a law degree, or a masters degree). In 2023, United States institutions range in size from 30 students total (at Deep Springs College in California) to more than 70,000 students total (at the University of Central Florida in Orlando and a few other enormous schools).
 >
->One type of higher education program for students to consider is a
-liberal arts college. These schools tend to be small in size and offer a
+>One type of institution is a
+liberal arts college. These schools tend to be small and offer a
 range of undergraduate degrees in subjects like English, history,
 psychology, and education. Students may choose a liberal arts college if
 they want a more intimate classroom setting rather than large
