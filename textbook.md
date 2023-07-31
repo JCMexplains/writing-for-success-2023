@@ -22236,75 +22236,42 @@ https://www.nytimes.com/2002/04/21/travel/where-nothing-says-everything.html
 
 >Today's students have many choices of college. They aren't even all called "colleges":
 >we need a bigger umbrella term to cover all of them. We call any institution where a student goes for education beyond high school a "higher education institution."
->These institutions have different kinds of degrees: two-year degrees (associates degrees), four-year degrees (bachelors degrees), and graduate degrees (degrees that come after a bachelors degree, like a medical degree, a law degree, or a masters degree). In 2023, United States institutions range in size from 30 students total (at Deep Springs College in California) to more than 70,000 students total (at the University of Central Florida in Orlando and a few other enormous schools).
+>These institutions have different kinds of degrees: two-year degrees (associate degrees), four-year degrees (bachelor's degrees), and graduate degrees (degrees that come after a bachelor's degree, like a medical degree, a law degree, or a master's degree). In 2023, United States institutions range in size from 30 students total (at Deep Springs College in California) to more than 70,000 students total (at the University of Central Florida in Orlando and a few other enormous schools). Some colleges are all online, while most mix online and in-person classes. Some colleges operate in traditional semesters of about 16 weeks where students take about 4 to 5 courses at a time, while others have students take only one course intensively for one month at a time. Some colleges require students to live on campus while others have no dorms or even no physical campus at all. Some require full-time attendance while others allow part-time students. With all this diversity, it can be useful to look at the traditional classification of colleges. Some colleges today blur these lines, but many still fit into a traditional classification that breaks colleges into liberal arts colleges, universities, community colleges, and online colleges. 
 >
->One type of institution is a
-liberal arts college. These schools tend to be small and offer a
-range of undergraduate degrees in subjects like English, history,
-psychology, and education. Students may choose a liberal arts college if
-they want a more intimate classroom setting rather than large
-lecture-style classes. Students may also consider a liberal arts college
-if they want to gain knowledge from a variety of disciplines, rather
-than focus on a single area of study. Many liberal arts schools are
-privately owned, and some have religious affiliations. Liberal arts
-schools can come with a hefty price tag, and their high cost presents an
-obstacle for students on a tight budget; moreover, while some students
-might appreciate a liberal arts school's intimate atmosphere, others
-might encounter a lack of diversity in the student body. Still, students
-seeking a well-rounded education in the humanities will find liberal
-arts colleges to be one option.
+>Liberal arts colleges were very popular in the twentieth century, but they are becoming harder to operate in the economy of the twenty-first century. A liberal arts college is typically small. Its students live on campus while pursuing bachelor's degrees. The "liberal arts" are not connected to being politically liberal; the term is an old-fashioned name for disciplines that teach you to think but do not train you for a specific job. Liberal arts students might major in a subject like physics, psychology, English, history, mathematics, or music. For example, Vassar College in upstate New York is one famous liberal arts college with a student body of about 2,500. Students at a liberal arts college can expect small classes, professors who care a lot about teaching, and a lot of attention to their learning--the author of the 2023 revision of this textbook went to a liberal arts college and never took a class with more than 20 students. On the other hand, liberal arts colleges are usually expensive. Most liberal arts colleges are private (paid for with tuition and donations) rather than public (paid for by a combination of tuition, donations, and tax money from the government). Some students might appreciate a liberal arts school's intimate atmosphere, others
+might encounter a lack of diversity in the student body. Still, students seeking a well-rounded education will find liberal arts colleges to be one option.
 >
->Universities, another type of higher education program, offer both
-undergraduate and graduate degrees. Usually universities are larger than
-colleges and can accommodate tens of thousands of students in many
-different majors and areas of study. A large student body means that
-class sizes are often larger, and some classes may be taught by graduate
-students rather than professors. Students will feel at home at a
-university if they want a focused academic program and state-of-the-art
-research facilities. While some universities are private, many are
-public, which means they receive funding from the government, so tuition
-is more affordable and some even offer discounted in-state tuition for
+>Unlike colleges, universities offer both bachelor's degrees and graduate degrees. Usually universities are larger than
+colleges and can accommodate tens of thousands of students in many majors. Classes may have hundreds of students in them, especially in a student's first few years, and some classes may be taught by graduate
+students rather than professors. Students may feel at home at a
+university if they want to pursue a less-common major or get access to state-of-the-art
+research facilities. While some universities like Harvard are private, many are
+public and are named after the state that funds them--for example, the University of Florida in Gainesville, Florida, or the University of Texas in Austin, Texas. Because part of public universities' funding comes from taxes, they are often
+more affordable and often offer discounted tuition for
 state residents. Also, universities attract many international students,
-so those looking for a variety of campus cultural groups and clubs will
-appreciate a greater sense of diversity among the student body.
-Universities can be overwhelming for some, but they are the right fit
-for students who seek research opportunities and academic studies,
-especially in the fields of mathematics and science.
+so those looking for a variety of cultural groups and clubs will
+appreciate a large and diverse student body.
+Universities can be overwhelming for some, but they can be the right fit
+for students who want to participate in research, especially in areas like engineering or science.
 >
->Community college is a type of higher education program popular with
-students on a limited budget who want to take college courses but may
-not know what they want to major in. Most schools offer degrees after
-two years of study, usually an associate's degree that prepares students
-to enter the work force; many students choose to study at a community
-college for two years and then transfer to a four-year college to
-complete their undergraduate degree. Like liberal arts schools, classes
+>Community colleges are less-expensive colleges that mainly offer associate degrees. They are largely designed to serve students who live near them, which is why they have "community" in their names. In contrast, students will frequently move across the country to attend a university or a liberal arts college. Some associate degrees prepare students to enter a profession right after graduation, while others prepare them to transfer to a four-year school to complete a bachelo'r's degree. Like liberal arts schools, community college classes
 are small and allow instructors to pay more attention to their students.
-Community college allows students to live at home rather than in a
-dormitory, which also keeps costs down. While some young people might
-not like the idea of living at home for school, many adults choose to
-attend community college so they can advance their education while
-working and living with their families.
+Very few community colleges have dorms; most allow students to live at home, which also keeps costs down. While some young people might
+not like living at home for school, many adults choose to
+attend community college so they can learn while
+continuing to work and live with their families.
 >
->Online universities are another type of higher education program that
-are gaining popularity as technology improves. These schools offer many
-of the same degree programs as traditional liberal arts colleges and
-universities. Unlike traditional programs, which require students to
-attend classes and lectures, online universities offer greater academic
-flexibility and are a great option for students wishing to pursue a
-degree while still working full time. At online universities, students
-access course materials, such as video lectures and assessments,
-remotely using a personal computer and are able to speed up or slow down
-their progress to complete their degree at their own pace. Students may
-attend classes in the comfort of their own home or a local library, but
-students hoping for the social community of higher education might not
-enjoy this aspect of higher education.
+>Online-only institutions are getting more popular as technology improves. These schools offer many
+of the same degree programs as other institutions. Unlike traditional institutions, which require students to
+attend at specific times, online universities usually offer classes where students can do their work at any time of day as long as they meet their deadlines. This can be a
+great option for students who work full time. At online institutions, students
+do their coursework using the Internet and their own device. At some online institutions (sometimes called "competency-based" schools), students are able to speed up or slow down
+their progress through courses--instead of taking the standard three months to complete a course, a student in a competency-based course may complete it in two weeks or in six months, for example. The convenience of online institutions is exceptional, but the sense of community and of learning from other students who are learning alongside you can be missing.
 >
->With so many colleges and universities to choose from, it may be
-difficult for a student to narrow down his or her selection, but once a
-student knows what he or she is looking for, the process may become much
-easier. It is very important for students to learn about the different
-types of higher education programs available before making their
-selections.
+>With so many kinds of institutions, it may be
+difficult for a student to narrow their selection, but once a
+student knows what they are looking for, the process will become much
+easier. Each student should understand their options before making the best choice for them.
 
 ### Additional Classification Essays
 
