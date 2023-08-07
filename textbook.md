@@ -22548,12 +22548,12 @@ https://www.nytimes.com/2007/12/02/weekinreview/02wright.html
 
 ### Effects Of Video Game Addiction
 
->Video game addition is a serious problem in many parts of the world
+>Video game addiction is a serious problem in many parts of the world
 today and deserves more attention. It is no secret that children and
 adults in many countries throughout the world, including Japan, China,
 and the United States, play video games every day. Most players are able
-to limit their usage in ways that do not interfere with their daily
-lives, but many others have developed an addiction to playing video
+to limit their gaming so that it does not interfere with their daily
+lives, but many others have become addicted to playing video
 games and suffer detrimental effects.
 >
 >An addiction can be described in several ways, but generally speaking,
