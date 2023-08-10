@@ -22546,62 +22546,41 @@ https://www.nytimes.com/2007/12/02/weekinreview/02wright.html
 
 1. Read an example of the cause-and-effect mode.
 
-### Effects Of Video Game Addiction
+### Effects Of Excessive Online Gaming
 
->Video game addiction is a serious problem in many parts of the world
-today and deserves more attention. It is no secret that children and
+>Excessive online gaming is a serious problem that deserves more attention. It is no secret that children and
 adults in many countries throughout the world, including Japan, China,
-and the United States, play video games every day. Most players are able
-to limit their gaming so that it does not interfere with their daily
-lives, but many others have become addicted to playing video
-games and suffer detrimental effects.
+and the United States, play games online every day. Most players enjoy their gaming, but some game so much that it disrupts the rest of their lives.
 >
->An addiction can be described in several ways, but generally speaking,
-addictions involve unhealthy attractions to substances or activities
-that ultimately disrupt the ability of a person to keep up with regular
-daily responsibilities. Video game addiction typically involves playing
-games uncontrollably for many hours at a time---some people will play
-only four hours at a time while others cannot stop for over twenty-four
-hours. Regardless of the severity of the addiction, many of the same
-effects will be experienced by all.
+>Experts disagree over whether gaming can become an "addiction," technically speaking. The American Psychiatric Association wrote in 2012 that the only behavior they knew enough about to consider it a true addiction was gambling. They included gambling in the same chapter with overuse of substances like tobacco and alcohol because there was "evidence that gambling behaviors activate reward systems similar to those activated by" those physical substances (American Psychiatric Association). But speaking informally, 
+someone games too much when gaming interferes with their daily life or their health. The situation is especially clear-cut if the gamer themself agrees that they game too much but feels unable to cut down.
 >
->One common effect of video game addiction is isolation and withdrawal
-from social experiences. Video game players often hide in their homes or
-in internet cafés for days at a time---only reemerging for the most
-pressing tasks and necessities. The effect of this isolation can lead to
-a breakdown of communication skills and often a loss in socialization.
-While it is true that many games, especially massive multiplayer online
-games, involve a very real form of e-based communication and
-coordination with others, and these virtual interactions often result in
-real communities that can be healthy for the players, these communities
-and forms of communication rarely translate to the types of valuable
-social interaction that humans need to maintain typical social
-functioning. As a result, the social networking in these online games
-often gives the users the impression that they are interacting socially,
-while their true social lives and personal relations may suffer.
+>One reported effect of video game addiction is withdrawal
+from the real-life social world. Video game players often spend days at a time online, only emerging for the most
+pressing tasks. Many believe that this can damage players' abilities to socialize in real life.
+While it is true that many games involve communicating and
+coordinating with others, this online communication may not translate to skill in out-of-game
+social
+functioning. Like many social networks, these online games
+may give users the impression that they are socializing
+while they push aside the more rewarding out-of-game social lives they could have had instead. We could compare this to eating an all junk food diet: it will keep you alive, but it is much worse for you than a healthier diet.
 >
->Another unfortunate product of the isolation that often accompanies
-video game addiction is the disruption of the user's career. While many
-players manage to enjoy video games and still hold their jobs without
+>Another unfortunate product excessive gaming can be disruption of one's career. While many
+players enjoy games and still hold their jobs without
 problems, others experience challenges at their workplace. Some may only
-experience warnings or demerits as a result of poorer performance, or
-others may end up losing their jobs altogether. Playing video games for
+get warnings or demerits, but
+others may end up losing their jobs altogether. Playing games for
 extended periods of time often involves sleep deprivation, and this
 tends to carry over to the workplace, reducing production and causing
 habitual tardiness.
 >
->Video game addiction may result in a decline in overall health and
-hygiene. Players who interact with video games for such significant
-amounts of time can go an entire day without eating and even longer
-without basic hygiene tasks, such as using the restroom or bathing. The
-effects of this behavior pose significant danger to their overall
-health.
+>Excessive gaming may also result in worsening health and
+hygiene. Players can go an entire day without eating, using the restroom, or bathing. There are even reports of players gaming continuously until they die, though one must investigate these reports carefully to be sure they are not sensationalized.
 >
->The causes of video game addiction are complex and can vary greatly, but
-the effects have the potential to be severe. Playing video games can and
-should be a fun activity for all to enjoy. But just like everything
-else, the amount of time one spends playing video games needs to be
-balanced with personal and social responsibilities.
+>The causes of excessive gaming are complex, but
+the effects have the potential to be severe. Online gaming can evoke many good feelings: it can be exciting, challenging, or relaxing. But like everything
+else we enjoy, gaming needs to be
+balanced with our social lives, work responsibilities, and health.
 
 ### Additional Cause-and-effect Essays
 
@@ -22726,6 +22705,8 @@ Aarts, Bas, et al. *The Oxford Dictionary of English Grammar*. 2nd ed., Oxford U
 
 Abrams, M. H., and Geoffrey Galt Harpham. “Literature.” *A Glossary of Literary Terms*, 8th ed., Wadsworth, Cengage Learning, 2005, pp. 152-3.
 
+American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders: DSM-5*. 5th ed, American Psychiatric Association, 2013.
+
 Booth, Wayne C., et al. *The Craft of Research*. 4th ed., U of Chicago P, 2016.
 
 Brown, Peter C., et al. *Make It Stick: The Science of Successful Learning*. Belknap P of Harvard UP, 2014.
@@ -22744,3 +22725,6 @@ Pashler, Harold, et al. “Learning Styles: Concepts and Evidence.” *Psycholog
 Swan, Michael, and Bernard Smith, editors. *Learner English: A Teacher's Guide to Interference and Other Problems*. 2nd ed., Cambridge UP, 2001.
 
 Weinstein, Yana, et al. *Understanding How We Learn: A Visual Guide*. Routledge, 2019.
+
+
+
