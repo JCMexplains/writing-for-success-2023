@@ -20272,9 +20272,8 @@ presentation.
 2. Identify the steps involved in planning a comprehensive
 presentation.
 
-Until now, you have interacted with your audience of readers indirectly,
-on the page. You have tried to anticipate their reactions and questions
-as all good writers do. Anticipating the audience's needs can be tough,
+Until now, you have interacted with your audience
+on the page. You have tried to anticipate their reactions and questions. Anticipating the audience's needs can be tough,
 especially when you are sitting alone in front of your computer.
 
 When you give a presentation, you connect directly with your audience.
@@ -20555,7 +20554,7 @@ in your presentation. If not, review your outline and begin
 thinking about where to include media. Presenting information in a
 variety of formats will help you keep your audience's interest.
 
-Use Presentation Software
+#### Use Presentation Software
 
 Delivering your presentation as a slideshow is one way to use media to
 your advantage. As you speak, you use a computer and an attached
@@ -20571,7 +20570,7 @@ your outline to develop individual slides. Each slide should focus on
 just a few bullet points (or a similar amount of content presented in a
 graphic). Remember that your audience must be able to read the slides
 easily, whether the members sit in the front or the back of the room.
-Avoid overcrowding the slides with too much text.
+Do not crowd the slides with too much text.
 
 Using presentation software, such as PowerPoint, allows you to
 include graphics, sounds, and even web links directly into your
@@ -20581,7 +20580,7 @@ Different slide templates make it easy to organize information to suit
 your purpose. Be sure your font is visible to you audience. Avoid using
 small font or colored font that is not visible against your background.
 
-Use PowerPoint as a Visual Aid
+#### Use PowerPoint as a Visual Aid
 
 PowerPoint and similar visual representation programs can be effective
 tools to help audiences remember your message, but they can also be an
@@ -20677,8 +20676,6 @@ Abu Ghraib prison abuses from 2004 to 2006, and the 2010 earthquake in
 Haiti, have powerfully affected viewers' emotions and drawn their
 attention to these news stories.
 
-Figure 14.1
-
 Even if your presentation addresses a less dramatic subject, you can
 still use images to draw in your audience. Consider how photographs, an
 illustration, or a video might help your audience connect with a
@@ -20693,6 +20690,9 @@ usually include some text and often work well to present numerical
 information. Consider using them if you are presenting statistics,
 comparing facts or data about several different groups, describing
 changes over time, or presenting a process.
+
+If you would like to learn more about how to design visuals that inform rather than confusing, you might want to check out one of the many books on this topic. One good recent book is *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic (Wiley, 2015).
+
 
 ### Include Audio Media
 
