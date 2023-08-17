@@ -22715,6 +22715,8 @@ Curzan, Anne. “‘They’ Has Been a Singular Pronoun for Centuries. Don't Let
 
 Garner, Bryan A. *Garner's Modern English Usage*. 5th ed., Oxford UP, 2022.
 
+Knaflic, Cole Nussbaumer. *Storytelling with Data: A Data Visualization Guide for Business Professionals*. Wiley, 2015.
+
 *MLA Handbook*. 9th ed., The Modern Language Association of America, 2021.
 
 Pashler, Harold, et al. “Learning Styles: Concepts and Evidence.” *Psychological Science in the Public Interest*, vol. 9, no. 3, Dec. 2008, pp. 105–19. DOI.org (Crossref), https://doi.org/10.1111/j.1539-6053.2009.01038.x.
